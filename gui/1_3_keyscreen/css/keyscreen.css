@@ -1,0 +1,233 @@
+/* screen - keyscreen */
+
+.keyscreen {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.keyscreen .group-2-B6xbu6 {
+  background-color: transparent;
+  height: 150px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 365px;
+}
+
+.keyscreen .lnb-favorite-card-B6xbu6 {
+  background-color: transparent;
+  height: 845px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.keyscreen .rectangle-AGA7Uk {
+  background-color: var(--concrete);
+  height: 845px;
+  width: 320px;
+}
+
+.keyscreen .background-AGA7Uk {
+  background-color: var(--concrete);
+  height: 585px;
+  width: 320px;
+}
+
+.keyscreen .stacked-group-AGA7Uk {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.keyscreen .web-index-title-common-gU4bSg {
+  margin: 0;
+}
+
+.keyscreen .web-index-contents1dpeth_close-copy-4-gU4bSg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .web-index-contents1dpeth_open_selected-gU4bSg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .group-gU4bSg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .empty-ZxGCSX {
+  top: 21px;
+}
+
+.keyscreen .empty-DUl2fQ {
+  top: 0px;
+}
+
+.keyscreen .web-index-title-common-copy-gU4bSg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .group-copy-gU4bSg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .empty-HmjsuC {
+  top: 21px;
+}
+
+.keyscreen .empty-WM1XTJ {
+  top: 0px;
+}
+
+.keyscreen .web-index-title-common-zGovYE {
+  margin: 0px 0 0 0;
+}
+
+.keyscreen .group-copy-2-gU4bSg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .empty-ixKJbl {
+  top: 21px;
+}
+
+.keyscreen .empty-0cZdLn {
+  top: 0px;
+}
+
+.keyscreen .web-index-title-common-copy-2-gU4bSg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.keyscreen .line-AGA7Uk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.keyscreen .home-net-gui-guidelin-AGA7Uk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.keyscreen .webgnb-B6xbu6 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.keyscreen .rectangle-GqMHf3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.keyscreen .background-GqMHf3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.keyscreen .index-GqMHf3 {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.keyscreen .web-index-select-cIPEdn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.keyscreen .web-index-unselect-cIPEdn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.keyscreen .web-index-unelect_main-GqMHf3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.keyscreen .logo-QK7JE8 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}

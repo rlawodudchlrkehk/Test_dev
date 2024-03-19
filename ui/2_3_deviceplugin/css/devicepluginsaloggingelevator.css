@@ -1,0 +1,682 @@
+/* screen - devicepluginsaloggingelevator */
+
+.devicepluginsaloggingelevator {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2158px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginsaloggingelevator .group-4-k7lNzi {
+  background-color: transparent;
+  height: 728px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginsaloggingelevator .group-7-k7lNzi {
+  background-color: transparent;
+  height: 738px;
+  left: 420px;
+  position: absolute;
+  top: 1220px;
+  width: 680px;
+}
+
+.devicepluginsaloggingelevator .group-5-k7lNzi {
+  background-color: transparent;
+  height: 305px;
+  left: 1139px;
+  position: absolute;
+  top: 342px;
+  width: 682px;
+}
+
+.devicepluginsaloggingelevator .group-6-k7lNzi {
+  background-color: transparent;
+  height: 358px;
+  left: 1149px;
+  position: absolute;
+  top: 1220px;
+  width: 672px;
+}
+
+.devicepluginsaloggingelevator .web-sub_-title-k7lNzi {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingelevator .web-title-area-k7lNzi {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingelevator .web-tab-device-plug-in_-smart-lock-k7lNzi {
+  background-color: transparent;
+  height: 17px;
+  left: 420px;
+  position: fixed;
+  top: 187px;
+  width: 1202px;
+}
+
+.devicepluginsaloggingelevator .x3rd-depth-54uW99 {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1202px;
+}
+
+.devicepluginsaloggingelevator .tab-POSpYu {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginsaloggingelevator .sa-logging-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.devicepluginsaloggingelevator .gas-valve-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 63px;
+}
+
+.devicepluginsaloggingelevator .elevator-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 55px;
+}
+
+.devicepluginsaloggingelevator .light-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.devicepluginsaloggingelevator .thermostat-copy-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 72px;
+}
+
+.devicepluginsaloggingelevator .air-conditioner-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.devicepluginsaloggingelevator .vent-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 29px;
+}
+
+.devicepluginsaloggingelevator .curtain-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 46px;
+}
+
+.devicepluginsaloggingelevator .integrated-switch-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.devicepluginsaloggingelevator .smart-plug-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.devicepluginsaloggingelevator .smart-lock-nCc79O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 67px;
+}
+
+.devicepluginsaloggingelevator .lnb-device-plug-in-k7lNzi {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .rectangle-m3THPt {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .stacked-group-m3THPt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-title-common-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-hxGlml {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-EJ9F81 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-XF1Olu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-mdKhFO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-7Xcv8M {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .group-KHpu7F {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .empty-qvPrYi {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .line-copy-qvPrYi {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsaloggingelevator .empty-WJeEgm {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-title-reference-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-7RunYx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-PeToVr {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_open_selected-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-hxGlml {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-EJ9F81 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-XF1Olu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-mdKhFO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-7Xcv8M {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-7RunYx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-PeToVr {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-lNuVNU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-soO0rM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-aVQ23s {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-mjQyNw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-copy-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents2dpeth-pJLF8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-contents1dpeth_close-lNuVNU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .group-hxGlml {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .empty-46WLPV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .line-copy-46WLPV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsaloggingelevator .empty-xfZfCZ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-title-reference-hxGlml {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginsaloggingelevator .group-copy-KHpu7F {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .empty-copy-JpJKgi {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .line-copy-2-JpJKgi {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsaloggingelevator .empty-copy-2-JpJKgi {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsaloggingelevator .web-index-title-reference-copy-KHpu7F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginsaloggingelevator .line-m3THPt {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsaloggingelevator .home-net-ui-guideline-m3THPt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsaloggingelevator .webgnb-k7lNzi {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsaloggingelevator .rectangle-kpPSN8 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsaloggingelevator .background-kpPSN8 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsaloggingelevator .index-kpPSN8 {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginsaloggingelevator .web-index-select-vS9wkV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginsaloggingelevator .web-index-unselect-vS9wkV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginsaloggingelevator .web-index-unelect_main-kpPSN8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginsaloggingelevator .logo-Bun8sP {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

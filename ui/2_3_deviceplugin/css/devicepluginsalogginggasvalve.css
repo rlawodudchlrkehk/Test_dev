@@ -1,0 +1,664 @@
+/* screen - devicepluginsalogginggasvalve */
+
+.devicepluginsalogginggasvalve {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1342px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginsalogginggasvalve .group-4-F1hUIf {
+  background-color: transparent;
+  height: 800px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginsalogginggasvalve .group-6-F1hUIf {
+  background-color: transparent;
+  height: 673px;
+  left: 1139px;
+  position: absolute;
+  top: 342px;
+  width: 682px;
+}
+
+.devicepluginsalogginggasvalve .web-sub_-title-F1hUIf {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginsalogginggasvalve .web-title-area-F1hUIf {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsalogginggasvalve .web-tab-device-plug-in_-smart-lock-F1hUIf {
+  background-color: transparent;
+  height: 17px;
+  left: 420px;
+  position: fixed;
+  top: 187px;
+  width: 1202px;
+}
+
+.devicepluginsalogginggasvalve .x3rd-depth-dIO0xx {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1202px;
+}
+
+.devicepluginsalogginggasvalve .tab-NgLcb4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginsalogginggasvalve .sa-logging-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.devicepluginsalogginggasvalve .gas-valve-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 63px;
+}
+
+.devicepluginsalogginggasvalve .elevator-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.devicepluginsalogginggasvalve .light-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.devicepluginsalogginggasvalve .thermostat-copy-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 72px;
+}
+
+.devicepluginsalogginggasvalve .air-conditioner-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.devicepluginsalogginggasvalve .vent-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 29px;
+}
+
+.devicepluginsalogginggasvalve .curtain-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 46px;
+}
+
+.devicepluginsalogginggasvalve .integrated-switch-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.devicepluginsalogginggasvalve .smart-plug-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.devicepluginsalogginggasvalve .smart-lock-JX4KnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 67px;
+}
+
+.devicepluginsalogginggasvalve .lnb-device-plug-in-F1hUIf {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .rectangle-bmBw7f {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .stacked-group-bmBw7f {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-title-common-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-6ygv3k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-LQq772 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-THFgsW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-kGKJtG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-x66aIk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .group-LxsABC {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .empty-ysMGlS {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .line-copy-ysMGlS {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsalogginggasvalve .empty-F2DpmW {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-title-reference-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-IDKzDF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-xxeEMo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_open_selected-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-6ygv3k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-LQq772 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-THFgsW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-kGKJtG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-x66aIk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-IDKzDF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-xxeEMo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-eGhkPN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-nbxUra {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-86Uo7e {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-2Tjr2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-copy-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents2dpeth-B7yBw0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-contents1dpeth_close-eGhkPN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .group-6ygv3k {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .empty-Zo1HR0 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .line-copy-Zo1HR0 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsalogginggasvalve .empty-1sXkGD {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-title-reference-6ygv3k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginsalogginggasvalve .group-copy-LxsABC {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .empty-copy-PmHKef {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .line-copy-2-PmHKef {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsalogginggasvalve .empty-copy-2-PmHKef {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsalogginggasvalve .web-index-title-reference-copy-LxsABC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginsalogginggasvalve .line-bmBw7f {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsalogginggasvalve .home-net-ui-guideline-bmBw7f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsalogginggasvalve .webgnb-F1hUIf {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsalogginggasvalve .rectangle-EVb9nR {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsalogginggasvalve .background-EVb9nR {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsalogginggasvalve .index-EVb9nR {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginsalogginggasvalve .web-index-select-SWUtGv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginsalogginggasvalve .web-index-unselect-SWUtGv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginsalogginggasvalve .web-index-unelect_main-EVb9nR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginsalogginggasvalve .logo-LuutEL {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

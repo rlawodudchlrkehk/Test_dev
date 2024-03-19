@@ -1,0 +1,1044 @@
+/* screen - servicepluginmaintenancefeecard */
+
+.servicepluginmaintenancefeecard {
+  background-color: var(--white);
+  height: 1123px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .group-2-ZRCfWJ {
+  background-color: transparent;
+  height: 383px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.servicepluginmaintenancefeecard .group-14-ZRCfWJ {
+  background-color: transparent;
+  height: 120px;
+  left: 1140px;
+  position: absolute;
+  top: 803px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .group-15-2qWzFv {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-kCHIfz {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-FTM8cd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-FTM8cd {
+  width: 116px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-grV7nM {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-j9P4gp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-j9P4gp {
+  width: 154px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-copy-kCHIfz {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-73z4xA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-73z4xA {
+  width: 94px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-copy-2-kCHIfz {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-g44xax {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-g44xax {
+  width: 178px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-mxQGYl {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-xykx0U {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-xykx0U {
+  width: 38px;
+}
+
+.servicepluginmaintenancefeecard .group-4-rxCH2w {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .descriptiontable2line-g7UQLF {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-9xYhqc {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-CUPSmL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginmaintenancefeecard .contents-CUPSmL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-9xYhqc {
+  height: 31px;
+  width: 166px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-xhFXkZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginmaintenancefeecard .contents-xhFXkZ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-copy-9xYhqc {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-EsHvxU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginmaintenancefeecard .contents-EsHvxU {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-copy-2-9xYhqc {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-rvw0cK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginmaintenancefeecard .contents-rvw0cK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginmaintenancefeecard .contents-copy-rvw0cK {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-Fo098b {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-GMXxzu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .contents-GMXxzu {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginmaintenancefeecard .group-11-ZRCfWJ {
+  background-color: transparent;
+  height: 361px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .group-3-tAxkz6 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-huNd0H {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-De71dQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .contents-De71dQ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-huNd0H {
+  cursor: pointer;
+  height: 51px;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-4mISXy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .contents-4mISXy {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-bwQoRZ {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-VZ5naE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .contents-VZ5naE {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginmaintenancefeecard .group-10-tAxkz6 {
+  background-color: transparent;
+  height: 191px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .group-5-U7rhTl {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-cbCCT7 {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-svEQMv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .contents-svEQMv {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-cbCCT7 {
+  cursor: pointer;
+  height: 51px;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-sRegcS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .contents-sRegcS {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-UwyIuK {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-o3tifS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .contents-o3tifS {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginmaintenancefeecard .group-8-U7rhTl {
+  background-color: transparent;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 67px;
+  width: 620px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-copy-2-x7tOw1 {
+  background-color: transparent;
+  height: 31px;
+  left: 350px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-c6sxyS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .contents-c6sxyS {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-copy-x7tOw1 {
+  cursor: pointer;
+  height: 51px;
+  left: 0px;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-APm5Wd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .contents-APm5Wd {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginmaintenancefeecard .group-9-U7rhTl {
+  background-color: transparent;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 134px;
+  width: 620px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-copy-4-daNVgx {
+  background-color: transparent;
+  height: 31px;
+  left: 350px;
+  position: absolute;
+  top: 1px;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-utF4RH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .contents-utF4RH {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-copy-5-daNVgx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-UX8MlA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .contents-UX8MlA {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-KoAsXA {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-zR74q2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-zR74q2 {
+  width: 258px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-96vH9g {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-lv0Km3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-lv0Km3 {
+  width: 328px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-XOV42P {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-LPb4c1 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .table-title-text-LPb4c1 {
+  width: 38px;
+}
+
+.servicepluginmaintenancefeecard .group-7-tAxkz6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-copy-AObl5X {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-rk3jP6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginmaintenancefeecard .contents-rk3jP6 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-copy-4-AObl5X {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-hUIxSw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginmaintenancefeecard .contents-hUIxSw {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line-copy-3-AObl5X {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-g7WzgE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .contents-g7WzgE {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginmaintenancefeecard .web-sub_-title-ZRCfWJ {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.servicepluginmaintenancefeecard .sub-title-3N4QyK {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginmaintenancefeecard .web-title-area-ZRCfWJ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .web-tab-service-plug-in_-maintenance-fee-ZRCfWJ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .x3rd-depth-e2UyOS {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .tab-yTDL7q {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginmaintenancefeecard .card-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginmaintenancefeecard .feature-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginmaintenancefeecard .lnb-service-plug-in-ZRCfWJ {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-5nPaA8 {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .lnb-5nPaA8 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .stacked-group-Bx6m4t {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-title-common-copy-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .group-copy-A80ZAp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .empty-copy-6w5jQp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .line-copy-2-6w5jQp {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginmaintenancefeecard .empty-copy-2-6w5jQp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents1dpeth_open_selected-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-2-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-3-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .group-A80ZAp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .empty-JpboxN {
+  top: 21px;
+}
+
+.servicepluginmaintenancefeecard .empty-2yx6de {
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .group-copy-2-A80ZAp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .empty-xmzivZ {
+  top: 21px;
+}
+
+.servicepluginmaintenancefeecard .empty-xuzBMo {
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .web-index-title-common-copy-2-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .line-Bx6m4t {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginmaintenancefeecard .home-net-gui-guidelin-Bx6m4t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginmaintenancefeecard .webgnb-ZRCfWJ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-kJmnlx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .background-kJmnlx {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .index-kJmnlx {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginmaintenancefeecard .web-index-select-lGPMoS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginmaintenancefeecard .web-index-unselect-lGPMoS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginmaintenancefeecard .web-index-unelect_main-kJmnlx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginmaintenancefeecard .logo-oAIDnZ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginmaintenancefeecard .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.servicepluginmaintenancefeecard .descriptiontabletop {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line-copy {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

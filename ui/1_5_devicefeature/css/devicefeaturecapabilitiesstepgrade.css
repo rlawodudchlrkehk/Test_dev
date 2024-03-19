@@ -1,0 +1,590 @@
+/* screen - devicefeaturecapabilitiesstepgrade */
+
+.devicefeaturecapabilitiesstepgrade {
+  background-color: var(--white);
+  height: 1123px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-6-ajPk9U {
+  background-color: transparent;
+  height: 639px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-copy-ajPk9U {
+  background-color: transparent;
+  height: 204px;
+  left: 1140px;
+  position: absolute;
+  top: 709px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-7-copy-8f497k {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesstepgrade .table-guide-text1line-TNmjql {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicefeaturecapabilitiesstepgrade .table-guide-text1line-CKnS0T {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesstepgrade .table-guide-text1line_-bold-TNmjql {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-7-8f497k {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-4-8f497k {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-title-area-ajPk9U {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-tab-feature-card_-capabilities-ajPk9U {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesstepgrade .tab-ey4z5Y {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturecapabilitiesstepgrade .types-A1sxtW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiesstepgrade .graph-A1sxtW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiesstepgrade .value-slider-_-lin-A1sxtW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.devicefeaturecapabilitiesstepgrade .value-slider-_-ste-A1sxtW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 167px;
+}
+
+.devicefeaturecapabilitiesstepgrade .value-switch-sli-A1sxtW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.devicefeaturecapabilitiesstepgrade .grouping-card-A1sxtW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturecapabilitiesstepgrade .lnb-feature-card-ajPk9U {
+  background-color: transparent;
+  height: 1213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .rectangle-iSmbEt {
+  background-color: var(--concrete);
+  height: 1213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .background-iSmbEt {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .stacked-group-iSmbEt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-title-common-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-gJ70Fy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-LomFgn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-oSYqdC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_open_selected-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents2dpeth-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents2dpeth-gJ70Fy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents2dpeth-LomFgn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents2dpeth-oSYqdC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents2dpeth-copy-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents2dpeth-oh6F97 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-oh6F97 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-EOBOgI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .empty-VItfh5 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .line-copy-VItfh5 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiesstepgrade .empty-EXPVbE {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-title-reference-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-QbBsU1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-Sm7xXO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-LfNpSM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-contents1dpeth_close-ViUlFb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-gJ70Fy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .empty-h8Ds1D {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .line-copy-h8Ds1D {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiesstepgrade .empty-PYwA2z {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-title-reference-copy-EOBOgI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturecapabilitiesstepgrade .group-copy-EOBOgI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .empty-93058G {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .line-copy-93058G {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiesstepgrade .empty-Kl8Ffk {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-title-reference-gJ70Fy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturecapabilitiesstepgrade .line-iSmbEt {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiesstepgrade .home-net-ui-guideline-iSmbEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicefeaturecapabilitiesstepgrade .webgnb-ajPk9U {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesstepgrade .rectangle-LN6DJm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesstepgrade .background-LN6DJm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesstepgrade .index-LN6DJm {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-select-p27nEB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-unselect-p27nEB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicefeaturecapabilitiesstepgrade .web-index-select_main-LN6DJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicefeaturecapabilitiesstepgrade .logo-P7kOUR {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

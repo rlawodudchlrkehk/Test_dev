@@ -1,0 +1,233 @@
+/* screen - devicepluginmain */
+
+.devicepluginmain {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1260px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginmain .group-3-x8si9G {
+  background-color: transparent;
+  height: 770px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 514px;
+}
+
+.devicepluginmain .lnb-device-plug-in-x8si9G {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginmain .rectangle-2H7QaI {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginmain .background-2H7QaI {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginmain .stacked-group-2H7QaI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginmain .web-index-title-common-jugiwo {
+  margin: 0;
+}
+
+.devicepluginmain .group-copy-jugiwo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .empty-2AcM7O {
+  top: 21px;
+}
+
+.devicepluginmain .empty-4RUxeD {
+  top: 0px;
+}
+
+.devicepluginmain .web-index-title-common-copy-jugiwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .web-index-contents1dpeth_open_selected-jugiwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .group-jugiwo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .empty-U2AElq {
+  top: 21px;
+}
+
+.devicepluginmain .empty-cCQTFL {
+  top: 0px;
+}
+
+.devicepluginmain .web-index-title-common-11EQ8a {
+  margin: 0px 0 0 0;
+}
+
+.devicepluginmain .group-copy-2-jugiwo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .empty-gT7xJk {
+  top: 21px;
+}
+
+.devicepluginmain .empty-GrEUH6 {
+  top: 0px;
+}
+
+.devicepluginmain .web-index-title-common-copy-2-jugiwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .line-2H7QaI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginmain .home-net-gui-guidelin-2H7QaI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginmain .webgnb-x8si9G {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginmain .rectangle-qlQSyJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginmain .background-qlQSyJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginmain .index-qlQSyJ {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginmain .web-index-select-5D9Dxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginmain .web-index-unselect-5D9Dxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginmain .web-index-unelect_main-qlQSyJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicepluginmain .logo-x8phx9 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicepluginmain .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

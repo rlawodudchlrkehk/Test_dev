@@ -1,0 +1,89 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500");
+@font-face {
+  font-family: "SamsungOneKorean-300";
+  font-weight: 300;
+  src: url("fonts/SamsungOneKorean-300_v1.2_hinted_20180830.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOne-400";
+  font-weight: 400;
+  src: url("fonts/SamsungOne-400_v1.1.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOneKorean-200";
+  font-weight: 300;
+  src: url("fonts/SamsungOneKorean-200_v1.2_hinted_20180830.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOneKorean-700";
+  font-weight: 700;
+  src: url("fonts/SamsungOneKorean-700_v1.2_hinted_20180830.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOneKorean-600";
+  font-weight: 600;
+  src: url("fonts/SamsungOneKorean 600_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOneKorean-500";
+  font-weight: 500;
+  src: url("fonts/SamsungOneKorean 500_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOneKorean-400";
+  font-weight: 400;
+  src: url("fonts/SamsungOneKorean-400_v1.2_hinted_20180830.ttf") format("truetype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/60c840a463a50bdccc1d66cc.60c840a68d84bafa7cafa070.EysmxPe.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  /*justify-content: center;*/
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}

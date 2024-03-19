@@ -1,0 +1,1866 @@
+/* screen - basiccomponentlistexpandablelistbasic */
+
+.basiccomponentlistexpandablelistbasic {
+  background-color: var(--white);
+  height: 2712px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-13-Lnf2bN {
+  background-color: transparent;
+  height: 693px;
+  left: 381px;
+  position: absolute;
+  top: 1133px;
+  width: 709px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-10-Lnf2bN {
+  background-color: transparent;
+  height: 556px;
+  left: 420px;
+  position: absolute;
+  top: 1976px;
+  width: 670px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-copy-Lnf2bN {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 1976px;
+  width: 680px;
+}
+
+.tableguidetext1line54 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line54 .background-HvqFys {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line54 .rectangle-HvqFys {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line54 .contents-HvqFys {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line128 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line128 .background-AliVVs {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line128 .rectangle-AliVVs {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line128 .contents-AliVVs {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem34 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem34 .background-fqWYYm {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem34 .rectangle-fqWYYm {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem34 .contents-fqWYYm {
+  background-color: transparent;
+  color: #00b0a6;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-1PXWM9 {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-st5gNM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-st5gNM {
+  width: 258px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-y4D0uW {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-2cuQ5H {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-2cuQ5H {
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-txfxi8 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-BofxfE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-BofxfE {
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-sub_-title-Lnf2bN {
+  top: 1075px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-sub_-title-6tG7IE {
+  top: 284px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-4-Lnf2bN {
+  background-color: transparent;
+  height: 534px;
+  left: 377px;
+  position: absolute;
+  top: 342px;
+  width: 713px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-3-copy-Lnf2bN {
+  background-color: transparent;
+  height: 236px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-Kxc8uE {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-IsFEqt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-IsFEqt {
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-xdd7Ua {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-dsqxn8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-dsqxn8 {
+  width: 154px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-A64Zqx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-A64Zqx {
+  width: 94px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-z36sjH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-z36sjH {
+  width: 178px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-YX7wJ8 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-ZQx4U5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-ZQx4U5 {
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .styletable1line_-color-DdB347 {
+  height: 73px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-wKx5NH {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-jKDynU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-jKDynU {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-Fm6kTo {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-UPJagj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-UPJagj {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-a2j4ns {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-PFeM0c {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-PFeM0c {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line-wKx5NH {
+  height: 73px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-Hx5txO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-Hx5txO {
+  color: var(--black);
+  height: 40px;
+  left: 6px;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-copy-Hx5txO {
+  height: 20px;
+  top: 53px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-2YsTTs {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-fxLIW2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-fxLIW2 {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line-copy-2-DdB347 {
+  background-color: transparent;
+  height: 84px;
+  left: 346px;
+  position: absolute;
+  top: 140px;
+  width: 206px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-332CNA {
+  color: var(--black);
+  height: auto;
+  left: 6px;
+  top: 11px;
+  width: auto;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-copy-332CNA {
+  height: auto;
+  top: 53px;
+  width: auto;
+}
+
+.basiccomponentlistexpandablelistbasic .brand-color-DdB347 {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 352px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentlistexpandablelistbasic .group-3-copy-2-Lnf2bN {
+  background-color: transparent;
+  height: 332px;
+  left: 1140px;
+  position: absolute;
+  top: 1482px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-k0jRXZ {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-II0QnF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-II0QnF {
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-4LySBr {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-1YBmfx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-1YBmfx {
+  width: 154px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-PwpIlj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-PwpIlj {
+  width: 94px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-jpNBt4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-jpNBt4 {
+  width: 178px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-8GFpNH {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-Ppk6Tt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-Ppk6Tt {
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .styletable1line_-color-rfW9xI {
+  height: 115px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-etEO1M {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-RgIdb9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-RgIdb9 {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-N4d4ur {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-Wo3Cgg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-Wo3Cgg {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-PejhUy {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-mu0p4h {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-mu0p4h {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line-etEO1M {
+  height: 115px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-MWBs4D {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-MWBs4D {
+  background-color: transparent;
+  height: 104px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .content-gPKkkD {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 42px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .content-neIvAs {
+  color: var(--black);
+  height: 40px;
+  top: 64px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .title-gPKkkD {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-hUq0CK {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-cDLEuu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-cDLEuu {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-rfW9xI {
+  color: var(--rose);
+  height: 20px;
+  left: 350px;
+  top: 172px;
+  white-space: nowrap;
+  width: 194px;
+}
+
+.basiccomponentlistexpandablelistbasic .styletable1line_-color-copy-rfW9xI {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 202px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-IUU3xx {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-vTTPje {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-vTTPje {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-jzv7Ie {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-Dx61Jx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-Dx61Jx {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-nZwexH {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-mT378y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-mT378y {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line-IUU3xx {
+  height: 53px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-J7doTv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-J7doTv {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-copy-J7doTv {
+  height: 20px;
+  top: 33px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-8YpQpb {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-f0Ht7q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-f0Ht7q {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .styletable1line_-color-copy-2-rfW9xI {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 272px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-L0C6oc {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-xTxZYx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-xTxZYx {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-J5BP4S {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-xLhmAH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-xLhmAH {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-FwiKNb {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-l3qJpS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-l3qJpS {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line-L0C6oc {
+  height: 53px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-Luamw3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-Luamw3 {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-copy-Luamw3 {
+  height: 20px;
+  top: 33px;
+  width: 184px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-D7D5Ja {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-erqEKi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-erqEKi {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-Lnf2bN {
+  background-color: transparent;
+  height: 249px;
+  left: 1140px;
+  position: absolute;
+  top: 1133px;
+  width: 680px;
+}
+
+.tableguidetext1line55 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line55 .background-ZKYVbI {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line55 .rectangle-ZKYVbI {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line55 .contents-ZKYVbI {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line129 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line129 .background-yFRBRv {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line129 .rectangle-yFRBRv {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line129 .contents-yFRBRv {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem35 .background-9t03Ak {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem35 .rectangle-9t03Ak {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem35 .contents-9t03Ak {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-2-copy-3-DcUSpc {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.tableguidetext1line56 {
+  background-color: transparent;
+  height: 25.34%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line56 .background-Mh8ZtU {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line56 .rectangle-Mh8ZtU {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line56 .contents-Mh8ZtU {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-ae5dR8 {
+  height: 135px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-VB0rzj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-VB0rzj {
+  background-color: transparent;
+  height: 124px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentlistexpandablelistbasic .content-rWnHxb {
+  color: var(--black);
+  height: 80px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentlistexpandablelistbasic .content-xHn0Sx {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 104px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentlistexpandablelistbasic .title-rWnHxb {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line_m-ae5dR8 {
+  background-color: transparent;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-H6mFKa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-H6mFKa {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .content-NHMIOf {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .title-NHMIOf {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-xxCErd {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-9N2tMO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-9N2tMO {
+  width: 258px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-PbTMBG {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-gOyy7v {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-gOyy7v {
+  width: 328px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-ZMM3dz {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-0cu2SJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-title-text-0cu2SJ {
+  width: 38px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-title-area-Lnf2bN {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-tab-service-feature_-basic-layout-Lnf2bN {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentlistexpandablelistbasic .x3rd-depth-VQHq3U {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentlistexpandablelistbasic .tab-VQHq3U {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentlistexpandablelistbasic .basic-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 56px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-2-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 52px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-3-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 137px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-5-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 124px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-4-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.basiccomponentlistexpandablelistbasic .lnb-favorite-card-Lnf2bN {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-x1aRpV {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .background-x1aRpV {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .stacked-group-x1aRpV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-926GA1 {
+  margin: 0;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-2-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-14-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-10-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-6-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-11-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-7-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-4-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-8-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-9-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-5-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-3-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-12-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-13-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-15-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_open_selected-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-copy-926GA1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-EZsJ25 {
+  top: 21px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-0xscvp {
+  top: 0px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-copy-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-926GA1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-LMkPOh {
+  top: 21px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-NGHqmF {
+  top: 0px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-ukSj93 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentlistexpandablelistbasic .group-copy-2-926GA1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-gmr1OT {
+  top: 21px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-kXDwvr {
+  top: 0px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-copy-2-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .line-x1aRpV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentlistexpandablelistbasic .home-net-gui-guidelin-x1aRpV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentlistexpandablelistbasic .webgnb-Lnf2bN {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-IoDwfA {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .background-IoDwfA {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .index-IoDwfA {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-select-aXFJpv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-unselect-aXFJpv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-unelect_main-IoDwfA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentlistexpandablelistbasic .logo-qxa1S9 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentlistexpandablelistbasic .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentlistexpandablelistbasic .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentlistexpandablelistbasic .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.basiccomponentlistexpandablelistbasic .group-2-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistexpandablelistbasic .styletable1line_-color {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistexpandablelistbasic .title {
+  background-color: transparent;
+  font-style: normal;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-sub_-title {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  width: 360px;
+}

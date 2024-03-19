@@ -1,0 +1,86 @@
+/* screen - basiccomponenttextfieldsstate */
+
+.basiccomponenttextfieldsstate {
+  background-color: var(--white);
+  height: 1185px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstate .group-11 {
+  height: 643px;
+  left: 420px;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponenttextfieldsstate .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstate .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstate .text-fields {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.basiccomponenttextfieldsstate .auto-complete-text-f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 151px;
+}
+
+.basiccomponenttextfieldsstate .states-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.basiccomponenttextfieldsstate .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstate .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

@@ -1,0 +1,961 @@
+/* screen - servicepluginreservevisitorvehiclefeaturedeletelist */
+
+.servicepluginreservevisitorvehiclefeaturedeletelist {
+  background-color: var(--white);
+  height: 1448px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-sub_-title-xdpVWu {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .sub-title-YVLsuo {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-5-xdpVWu {
+  background-color: transparent;
+  height: 906px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-3-xdpVWu {
+  background-color: transparent;
+  height: 457px;
+  left: 1140px;
+  position: absolute;
+  top: 341px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-1IJv7p {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  position: absolute;
+  top: 286px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-NX0ybM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-NX0ybM {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-sIviG9 {
+  height: 31px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-EDT5MS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-EDT5MS {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-7-sIviG9 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-6oMP3T {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-6oMP3T {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-4-sIviG9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-4d3ai3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-4d3ai3 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-8-sIviG9 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 47px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-9STZQV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-9STZQV {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-3-sIviG9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 114px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-mafRLN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-mafRLN {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-11-sIviG9 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 114px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-8DrIwa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-8DrIwa {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-8-1IJv7p {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text1line-copy-EniYxl {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-PCtidS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-PCtidS {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-5-EniYxl {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-hXBooS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-hXBooS {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .content-qKfTtm {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .title-qKfTtm {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-6-EniYxl {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-P26x9H {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-P26x9H {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-2-1IJv7p {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-Lt61ww {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-Lt61ww {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-LXc2ME {
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-WX6AEJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-WX6AEJ {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-copy-WX6AEJ {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 33px;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-xtLkBi {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-UDSZOz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-UDSZOz {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-6-1IJv7p {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 219px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text1line-copy-2-H3fVz4 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-Lg2Xx4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-Lg2Xx4 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-H3fVz4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-rxJkvg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-rxJkvg {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-2-H3fVz4 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-ZqUb8j {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-ZqUb8j {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .descriptiontabletop-1IJv7p {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-title-IWKiBA {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-EpZxmg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-title-text-EpZxmg {
+  width: 258px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-title-oDoUoc {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-BtBDOj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-title-text-BtBDOj {
+  width: 328px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-title-L3SPkx {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-YXe3Uc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-title-text-YXe3Uc {
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m-copy-9-xdpVWu {
+  background-color: transparent;
+  height: 31px;
+  left: 1200px;
+  position: absolute;
+  top: 294px;
+  width: 295px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents-9XrWia {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-title-area-xdpVWu {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-tab-service-plug-in_cctv-xdpVWu {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .x3rd-depth-Whcar9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .tab-19kXqc {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .card-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .feature-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .feature-register-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .feature-informatio-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 131px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .pop-up-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .pop-up-detail-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .feature-_-delete-lis-Frxn0g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 129px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .lnb-service-plug-in-xdpVWu {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-EL1yQS {
+  background-color: var(--concrete);
+  height: 1396px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .lnb-EL1yQS {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .stacked-group-LvD9wm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-title-common-copy-itenp7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-copy-itenp7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .empty-copy-E8JY5j {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .line-copy-2-E8JY5j {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .empty-copy-2-E8JY5j {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-contents1dpeth_open_selected-itenp7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-contents2dpeth-copy-2-itenp7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-contents2dpeth-copy-itenp7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-contents2dpeth-copy-3-itenp7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-itenp7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .empty-OeDfyx {
+  top: 21px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .empty-vmE67l {
+  top: 0px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .group-copy-2-itenp7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .empty-wz5M1E {
+  top: 21px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .empty-Wh1Ub7 {
+  top: 0px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-title-common-copy-2-itenp7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .line-LvD9wm {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .home-net-gui-guidelin-LvD9wm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .webgnb-xdpVWu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .rectangle-WH6JPb {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .background-WH6JPb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .index-WH6JPb {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-select-j2LVo3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-unselect-j2LVo3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .web-index-unelect_main-WH6JPb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .logo-AOlbRW {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-text2line_m {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginreservevisitorvehiclefeaturedeletelist .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

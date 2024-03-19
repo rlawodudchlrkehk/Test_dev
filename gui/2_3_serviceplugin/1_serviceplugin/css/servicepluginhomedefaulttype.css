@@ -1,0 +1,662 @@
+/* screen - servicepluginhomedefaulttype */
+
+.servicepluginhomedefaulttype {
+  background-color: var(--white);
+  height: 2196px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomedefaulttype .group-7-Z15AlA {
+  background-color: transparent;
+  height: 1733px;
+  left: 400px;
+  position: absolute;
+  top: 396px;
+  width: 690px;
+}
+
+.servicepluginhomedefaulttype .group-5-Z15AlA {
+  background-color: transparent;
+  height: 162px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginhomedefaulttype .group-6-mP7SgL {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomedefaulttype .table-guide-text2line-Ck3N4J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 95px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomedefaulttype .rectangle-exmRjK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomedefaulttype .group-exmRjK {
+  background-color: transparent;
+  height: 84px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginhomedefaulttype .content-nxOroR {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  top: 22px;
+}
+
+.servicepluginhomedefaulttype .content-eKGjif {
+  color: var(--rose);
+  height: 20px;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.servicepluginhomedefaulttype .title-nxOroR {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomedefaulttype .table-guide-text1line-Ck3N4J {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomedefaulttype .rectangle-nef4Qd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomedefaulttype .contents-nef4Qd {
+  width: 258px;
+}
+
+.servicepluginhomedefaulttype .table-guide-text1line-NgyHgq {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomedefaulttype .rectangle-jcnaKc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomedefaulttype .contents-jcnaKc {
+  width: 38px;
+}
+
+.servicepluginhomedefaulttype .descriptiontabletop-mP7SgL {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomedefaulttype .table-guide-title-32W750 {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomedefaulttype .rectangle-arF9NC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginhomedefaulttype .table-title-text-arF9NC {
+  width: 258px;
+}
+
+.servicepluginhomedefaulttype .table-guide-title-GqtsHg {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginhomedefaulttype .rectangle-L0SuDx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginhomedefaulttype .table-title-text-L0SuDx {
+  width: 328px;
+}
+
+.servicepluginhomedefaulttype .table-guide-title-0q2Snx {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomedefaulttype .rectangle-88KWgM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginhomedefaulttype .table-title-text-88KWgM {
+  width: 38px;
+}
+
+.servicepluginhomedefaulttype .web-sub_-title-Z15AlA {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 360px;
+}
+
+.servicepluginhomedefaulttype .sub-title-wsOoBI {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginhomedefaulttype .web-title-area-Z15AlA {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomedefaulttype .web-tab-service-plug-in_-home-screen-Z15AlA {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomedefaulttype .x3rd-depth-S7lGx8 {
+  top: 0px;
+}
+
+.servicepluginhomedefaulttype .default-type-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 78px;
+}
+
+.servicepluginhomedefaulttype .shortcut-default-t-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 142px;
+}
+
+.servicepluginhomedefaulttype .brand-type-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomedefaulttype .shortcut-brand-typ-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhomedefaulttype .banner-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomedefaulttype .app-link-copy-2-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomedefaulttype .banner-_-dThFAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginhomedefaulttype .x3rd-depth-wPypLD {
+  top: 53px;
+}
+
+.servicepluginhomedefaulttype .more-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginhomedefaulttype .edit-_-feature-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.servicepluginhomedefaulttype .notifications-_-feat-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhomedefaulttype .help-guide-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginhomedefaulttype .help-guide-_-expanda-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomedefaulttype .help-guide-_-image-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.servicepluginhomedefaulttype .service-feature-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhomedefaulttype .service-feature-_-no-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhomedefaulttype .touch-area-Rq2xCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomedefaulttype .lnb-service-plug-in-Z15AlA {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .rectangle-C44PyW {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .lnb-C44PyW {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .stacked-group-IUAPvc {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .web-index-title-common-copy-ccMu9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .group-copy-ccMu9E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .empty-copy-Dza6D3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .line-copy-2-Dza6D3 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomedefaulttype .empty-copy-2-Dza6D3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .web-index-contents1dpeth_open_selected-ccMu9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .web-index-contents2dpeth-copy-2-ccMu9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .web-index-contents2dpeth-copy-ccMu9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .web-index-contents2dpeth-copy-3-ccMu9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .group-ccMu9E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .empty-mEN3fo {
+  top: 21px;
+}
+
+.servicepluginhomedefaulttype .empty-4Uj0e0 {
+  top: 0px;
+}
+
+.servicepluginhomedefaulttype .group-copy-2-ccMu9E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .empty-lafpwu {
+  top: 21px;
+}
+
+.servicepluginhomedefaulttype .empty-7Q5c2x {
+  top: 0px;
+}
+
+.servicepluginhomedefaulttype .web-index-title-common-copy-2-ccMu9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomedefaulttype .line-IUAPvc {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomedefaulttype .home-net-gui-guidelin-IUAPvc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhomedefaulttype .webgnb-Z15AlA {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomedefaulttype .rectangle-czJMpj {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomedefaulttype .background-czJMpj {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomedefaulttype .index-czJMpj {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhomedefaulttype .web-index-select-GXSkmf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomedefaulttype .web-index-unselect-GXSkmf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomedefaulttype .web-index-unelect_main-czJMpj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginhomedefaulttype .logo-Lk00nq {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginhomedefaulttype .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  width: 328px;
+}
+
+.servicepluginhomedefaulttype .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.servicepluginhomedefaulttype .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}

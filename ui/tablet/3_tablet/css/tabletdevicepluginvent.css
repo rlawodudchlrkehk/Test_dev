@@ -1,0 +1,477 @@
+/* screen - tabletdevicepluginvent */
+
+.tabletdevicepluginvent {
+  background-color: var(--white);
+  height: 2295px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletdevicepluginvent .group-4-4mZ6DD {
+  background-color: transparent;
+  height: 641px;
+  left: 420px;
+  position: absolute;
+  top: 1454px;
+  width: 1400px;
+}
+
+.tabletdevicepluginvent .group-3-4mZ6DD {
+  background-color: transparent;
+  height: 962px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.tabletdevicepluginvent .web-sub_-title-4mZ6DD {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletdevicepluginvent .web-title-area-4mZ6DD {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletdevicepluginvent .lnbtablet_device-plugin-4mZ6DD {
+  background-color: transparent;
+  height: 1357px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .rectangle-7IC6aI {
+  background-color: var(--concrete);
+  height: 1357px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .stacked-group-7IC6aI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-title-common-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .group-5IzVgJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .empty-96HtYD {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .line-copy-96HtYD {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginvent .empty-f7yMcj {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-title-reference-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginvent .group-1WlXZY {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .empty-rFoymx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .line-copy-rFoymx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginvent .empty-l4UeCO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-title-reference-1WlXZY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginvent .group-copy-5IzVgJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .empty-copy-RrpFJE {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .line-copy-2-RrpFJE {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginvent .empty-copy-2-RrpFJE {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-title-reference-copy-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginvent .web-index-contents1d-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents1d-1WlXZY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents1dpeth_open_selected-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-2-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-3-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-4-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-5-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-6-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-7-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-8-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-9-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-10-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-11-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-12-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents2dpeth-copy-13-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents1dpeth_close-copy-5-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .web-index-contents1dpeth_close-copy-3-5IzVgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginvent .line-7IC6aI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletdevicepluginvent .home-net-ui-guideline-7IC6aI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.tabletdevicepluginvent .webgnb-4mZ6DD {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginvent .rectangle-2v5MOM {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginvent .background-2v5MOM {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginvent .index-2v5MOM {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.tabletdevicepluginvent .web-index-select-uOGs9k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletdevicepluginvent .web-index-unselect-uOGs9k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.tabletdevicepluginvent .web-index-unelect_main-2v5MOM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

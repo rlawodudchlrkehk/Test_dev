@@ -1,0 +1,1170 @@
+/* screen - devicefeaturemaindevicefeaturedropdown */
+
+.devicefeaturemaindevicefeaturedropdown {
+  background-color: var(--white);
+  height: 1746px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-19-PEzTfx {
+  background-color: transparent;
+  height: 273px;
+  left: 420px;
+  position: absolute;
+  top: 797px;
+  width: 620px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-12-PEzTfx {
+  background-color: transparent;
+  height: 326px;
+  left: 420px;
+  position: absolute;
+  top: 1220px;
+  width: 670px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-PEzTfx {
+  background-color: transparent;
+  height: 272px;
+  left: 380px;
+  position: absolute;
+  top: 375px;
+  width: 710px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-3-copy-PEzTfx {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 853px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .styletabletop-uptC2J {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-PwqTQa {
+  left: 552px;
+  width: 128px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-jJzwlp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-jJzwlp {
+  width: 116px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-RnYM4o {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-kHBnkN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-kHBnkN {
+  width: 154px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-MoAiXY {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-Oilzye {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-Oilzye {
+  width: 88px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-CBBIKu {
+  left: 346px;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-PgqMuC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-PgqMuC {
+  width: 184px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-KVJFjf {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-uzTaGE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-uzTaGE {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .styletable1line_-color-uptC2J {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 681px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-l5vkCt {
+  height: 31px;
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-kgmlk8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-kgmlk8 {
+  color: var(--black);
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-Q0roJ4 {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-UnxTuf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-UnxTuf {
+  color: var(--black);
+  width: 154px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-rC4Q2e {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-IEeuey {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-IEeuey {
+  color: var(--black);
+  width: 88px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line-l5vkCt {
+  background-color: transparent;
+  height: 31px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-gyLnPo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-gyLnPo {
+  color: var(--black);
+  width: 184px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-xocQfV {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-3bAb5I {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-3bAb5I {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-copy-PEzTfx {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 1220px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-2-Fes8yt {
+  top: 56px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-Dx7vgo {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-LxDqcE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-LxDqcE {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-F4Bk3i {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-zESnxd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-zESnxd {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line_m-Dx7vgo {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-5DgOAf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-5DgOAf {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-lprbdH {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-kxvQ30 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-kxvQ30 {
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-uaSPfw {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-G2bkH3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-G2bkH3 {
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-v43Zwe {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-dJOq2q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-dJOq2q {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-PEzTfx {
+  background-color: transparent;
+  height: 378px;
+  left: 1140px;
+  position: absolute;
+  top: 375px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-3-cc7WQu {
+  height: 159px;
+  top: 150px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-nk6jq3 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-gh6olM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-gh6olM {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-qZ7dtt {
+  height: 153px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-8h4aLB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-8h4aLB {
+  background-color: transparent;
+  height: 142px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .content-kH5CdX {
+  color: var(--black);
+  font-style: normal;
+  height: 120px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 22px;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .title-kH5CdX {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line_m-nk6jq3 {
+  height: 53px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-4zutRg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-4zutRg {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .content-54ofe5 {
+  color: var(--black);
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .title-54ofe5 {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-3-0e0cRH {
+  height: 59px;
+  top: 319px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-6oazLp {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-AxukTG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-AxukTG {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-UONLX1 {
+  height: 53px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-br8DMq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-br8DMq {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .content-emZUg0 {
+  color: var(--black);
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .title-emZUg0 {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line_m-6oazLp {
+  height: 53px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-GOIkXv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-GOIkXv {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .content-bA1Rce {
+  color: var(--black);
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .title-bA1Rce {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-2-cc7WQu {
+  top: 103px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-c2rZqI {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-XSgUyn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-XSgUyn {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-RgczNB {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-eLbLST {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-eLbLST {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line_m-c2rZqI {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-ls8cfl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-ls8cfl {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-4-cc7WQu {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-vPxXNI {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-xL76Yi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-xL76Yi {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line-ObaekZ {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-rwNctz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-rwNctz {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line_m-vPxXNI {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-mifHyO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents-mifHyO {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-Qm5U6M {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-SxjaS7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-SxjaS7 {
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-E6Kz0d {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-eAJoXd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-eAJoXd {
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-title-oxmlCq {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-cdiOCd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-title-text-cdiOCd {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-sub_-title_w-description-PEzTfx {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1500px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .content-RNzoek {
+  height: 23px;
+  left: 100px;
+  line-height: 23px;
+  top: 38px;
+  white-space: nowrap;
+  width: 1400px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .sub-title-RNzoek {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-title-area-PEzTfx {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-tab-device-featu-PEzTfx {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .x3rd-depth-muSfdx {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .tab-muSfdx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturedropdown .types-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .service-feature-type-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .toggle-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .buttons-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 49px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .buttons-2-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .dropdown-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .toggle-adjust-_-st-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 177px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .toggle-adjust-_-li-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .value-slider-c5kB6C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .lnb-favorite-card-PEzTfx {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-nVysls {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .background-nVysls {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .stacked-group-nVysls {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-title-common-rY4MEy {
+  margin: 0;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-contents2dpeth-copy-2-rY4MEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-contents2dpeth-copy-3-rY4MEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-contents1dpeth_open_selected-rY4MEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-copy-rY4MEy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .empty-Vb6WQS {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .empty-RLxxBy {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-title-common-copy-rY4MEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-rY4MEy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .empty-zvJ8dy {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .empty-A95j4N {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-title-common-6Y0ExF {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-copy-2-rY4MEy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .empty-xka4La {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .empty-w4gl0Q {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-title-common-copy-2-rY4MEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .line-nVysls {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .home-net-gui-guidelin-nVysls {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .webgnb-PEzTfx {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .rectangle-JGBpFT {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .background-JGBpFT {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .index-JGBpFT {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-select-OvPQCL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-unselect-OvPQCL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .web-index-unelect_main-JGBpFT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .logo-3iXufX {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .content {
+  background-color: transparent;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+}
+
+.devicefeaturemaindevicefeaturedropdown .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .group-2-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturedropdown .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

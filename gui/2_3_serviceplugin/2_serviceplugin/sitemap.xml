@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvcard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvfeaturedetail</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvfeaturelist</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvfeaturelistdetail</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriescard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriescase</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriesfeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriesfeaturenoinformation</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginenergyusagecard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginenergyusagefeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginevchargingcard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewbasiclayout</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewcard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturebackkey</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturebutton</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturecallend</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturedialog</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeatureexceptionalcase</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturefrontdoor</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturemainentrancedoor</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturestatus</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewflowbackkey</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfrontdoor</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewhomescreen</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewmainentrancedoor</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewpopup</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewpushnotification</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginmaintenancefeecard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginmaintenancefeefeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginnoticecard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginnoticefeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclecard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeaturedeletelist</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeatureinformation</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeatureregister</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclepopup</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclepopupdetail</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginservicescreenfeaturetitle</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginservicescreennoinformation</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginservicescreenservicefeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationfeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationicon</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationnoinformation</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationparkinglocationcard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationvehicleentryandexitcard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorscard</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorsfeature</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorsfeaturelist</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorspopup</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewbasiclayout.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeaturedeletelist.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationfeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeatureregister.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginmaintenancefeefeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclecard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewpopup.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvfeaturelistdetail.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewcard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfrontdoor.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturebackkey.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclepopupdetail.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginservicescreennoinformation.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationnoinformation.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginnoticecard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginservicescreenfeaturetitle.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriescase.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturedialog.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeatureinformation.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewpushnotification.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewflowbackkey.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvcard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturecallend.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclepopup.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorscard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationvehicleentryandexitcard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturemainentrancedoor.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriesfeaturenoinformation.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginenergyusagecard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginmaintenancefeecard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewhomescreen.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturefrontdoor.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturestatus.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeatureexceptionalcase.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginenergyusagefeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriesfeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorspopup.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorsfeaturelist.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginservicescreenservicefeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugindeliveriescard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewfeaturebutton.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvisitorsfeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginliveviewmainentrancedoor.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvfeaturelist.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationicon.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginreservevisitorvehiclefeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginevchargingcard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginvehicleinformationparkinglocationcard.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/serviceplugincctvfeaturedetail.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/servicepluginnoticefeature.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/styleguide.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+<url>
+  <loc>http://broad-resonance-1751.animaapp.io/globals.css</loc>
+  <lastmod>2023-02-08</lastmod>
+
+</url>
+
+</urlset>

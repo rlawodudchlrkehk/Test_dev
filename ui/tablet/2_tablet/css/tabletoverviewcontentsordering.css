@@ -1,0 +1,52 @@
+/* screen - tabletoverviewcontentsordering */
+
+.tabletoverviewcontentsordering {
+  background-color: var(--white);
+  height: 2363px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletoverviewcontentsordering .group-3 {
+  background-color: transparent;
+  height: 649px;
+  left: 420px;
+  position: absolute;
+  top: 444px;
+  width: 1400px;
+}
+
+.tabletoverviewcontentsordering .group-4 {
+  background-color: transparent;
+  height: 970px;
+  left: 420px;
+  position: absolute;
+  top: 1243px;
+  width: 1400px;
+}
+
+.tabletoverviewcontentsordering .web-sub_-title_w-description {
+  background-color: transparent;
+  height: 160px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletoverviewcontentsordering .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletoverviewcontentsordering .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

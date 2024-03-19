@@ -1,0 +1,321 @@
+/* screen - a0commonmain */
+
+.a0commonmain {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.a0commonmain .lnb-favorite-card-wES7kG {
+  background-color: transparent;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a0commonmain .rectangle-km58S0 {
+  background-color: #f2f2f2;
+  height: 799px;
+  width: 320px;
+}
+
+.a0commonmain .background-km58S0 {
+  background-color: #f2f2f2;
+  height: 799px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1dpeth_open_selected-km58S0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 400px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-km58S0 {
+  top: 354px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-oDumso {
+  top: 308px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-HtIPAw {
+  top: 262px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-Vsdw7V {
+  top: 216px;
+}
+
+.a0commonmain .web-index-title-common-km58S0 {
+  top: 170px;
+}
+
+.a0commonmain .group-km58S0 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 625px;
+  width: 320px;
+}
+
+.a0commonmain .empty-97lUf1 {
+  top: 21px;
+}
+
+.a0commonmain .empty-JmAVTh {
+  top: 0px;
+}
+
+.a0commonmain .group-copy-2-km58S0 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 712px;
+  width: 320px;
+}
+
+.a0commonmain .empty-gSoRx6 {
+  top: 21px;
+}
+
+.a0commonmain .empty-FaJ73J {
+  top: 0px;
+}
+
+.a0commonmain .line-km58S0 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.a0commonmain .home-net-gui-guidelin-km58S0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.a0commonmain .web-index-title-common-oDumso {
+  top: 666px;
+}
+
+.a0commonmain .web-index-title-common-copy-2-km58S0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 753px;
+  width: 320px;
+}
+
+.a0commonmain .group-copy-km58S0 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 446px;
+  width: 320px;
+}
+
+.a0commonmain .empty-copy-cTnZZ4 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.a0commonmain .line-copy-2-cTnZZ4 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.a0commonmain .empty-copy-2-cTnZZ4 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-title-common-copy-km58S0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 487px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1d-km58S0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 579px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-copy-km58S0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 533px;
+  width: 320px;
+}
+
+.a0commonmain .bodytest-wES7kG {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 863px;
+}
+
+.a0commonmain .webgnb-wES7kG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.a0commonmain .rectangle-o0M8TO {
+  background-color: #252525;
+  height: 64px;
+  width: 1920px;
+}
+
+.a0commonmain .background-o0M8TO {
+  background-color: #252525;
+  height: 64px;
+  width: 1920px;
+}
+
+.a0commonmain .index-o0M8TO {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.a0commonmain .web-index-select-DfFI1s {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.a0commonmain .web-index-unselect-DfFI1s {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.a0commonmain .web-index-unelect_main-o0M8TO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.a0commonmain .logo-SbSVPM {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.a0commonmain .background {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.a0commonmain .empty {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.a0commonmain .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.a0commonmain .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.a0commonmain .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}

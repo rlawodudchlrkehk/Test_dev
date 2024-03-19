@@ -1,0 +1,896 @@
+/* screen - devicepluginvent */
+
+.devicepluginvent {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1448px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginvent .group-Iqjl0l {
+  background-color: transparent;
+  height: 906px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.devicepluginvent .group-copy-Iqjl0l {
+  background-color: transparent;
+  height: 430px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginvent .group-2-T4TjKY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-text1line-jEqFsB {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-0gx9r5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginvent .contents-0gx9r5 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginvent .table-guide-text1line-FFiWTo {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-AwPO9F {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginvent .contents-AwPO9F {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-text2line_m-jEqFsB {
+  height: 31px;
+}
+
+.devicepluginvent .rectangle-1QQf5j {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .contents-1QQf5j {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginvent .descriptiontabletop-T4TjKY {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-title-1XFxG1 {
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-tx0cPz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicepluginvent .table-title-text-tx0cPz {
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-title-dPsCoO {
+  left: 60px;
+  width: 340px;
+}
+
+.devicepluginvent .rectangle-foJnHU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicepluginvent .table-title-text-foJnHU {
+  width: 328px;
+}
+
+.devicepluginvent .table-guide-title-A9UoSa {
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-AG2qzi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicepluginvent .table-title-text-AG2qzi {
+  width: 38px;
+}
+
+.devicepluginvent .group-2-copy-T4TjKY {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-text1line-oIsGhf {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-n5PJQL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginvent .contents-n5PJQL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginvent .table-guide-text1line-oHbwhZ {
+  height: 93px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-ffVhDh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginvent .group-ffVhDh {
+  background-color: transparent;
+  height: 82px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicepluginvent .content-YHJtyo {
+  height: 60px;
+  width: 258px;
+}
+
+.devicepluginvent .title-YHJtyo {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-text2line_m-oIsGhf {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginvent .rectangle-L3txZK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .contents-L3txZK {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginvent .table-guide-text2line_m-copy-oIsGhf {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 37px;
+  width: 340px;
+}
+
+.devicepluginvent .rectangle-MerIbc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .group-MerIbc {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicepluginvent .content-pAuZx4 {
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginvent .title-pAuZx4 {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicepluginvent .group-2-copy-3-T4TjKY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 212px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-text1line-vfED9x {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-Pi0lFO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginvent .contents-Pi0lFO {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginvent .table-guide-text1line-NYxJoW {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-E1V2vH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginvent .contents-E1V2vH {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-text2line_m-vfED9x {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginvent .rectangle-iMkypx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .contents-iMkypx {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginvent .group-2-copy-4-T4TjKY {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 259px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-text1line-KXHr5X {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-mpq8dL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginvent .contents-mpq8dL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginvent .table-guide-text1line-iLHi4g {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-Si0dgY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginvent .contents-Si0dgY {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-text2line_m-KXHr5X {
+  cursor: pointer;
+  height: 51px;
+}
+
+.devicepluginvent .rectangle-xx1sFx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .contents-xx1sFx {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicepluginvent .group-2-copy-5-T4TjKY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 326px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-text1line-ygVftD {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-QoxWyM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginvent .contents-QoxWyM {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginvent .table-guide-text1line-LE87tI {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-OFMgKV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginvent .contents-OFMgKV {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-text2line_m-ygVftD {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginvent .rectangle-koh2e5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .contents-koh2e5 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginvent .group-2-copy-7-T4TjKY {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 373px;
+  width: 680px;
+}
+
+.devicepluginvent .table-guide-text1line-YfVc42 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .rectangle-eFeZOK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginvent .contents-eFeZOK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginvent .table-guide-text1line-6Y6FyL {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginvent .rectangle-7HjxxX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginvent .contents-7HjxxX {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginvent .table-guide-text2line_m-YfVc42 {
+  cursor: pointer;
+  height: 51px;
+}
+
+.devicepluginvent .rectangle-7btCs8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginvent .contents-7btCs8 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicepluginvent .web-sub_-title-Iqjl0l {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.devicepluginvent .sub-title-csWB7J {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginvent .web-title-area-Iqjl0l {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginvent .web-tab-device-plug-Iqjl0l {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginvent .x3rd-depth-nkJOzA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginvent .tab-zZShva {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginvent .vent-jlGx4X {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.devicepluginvent .lnb-device-plug-in-Iqjl0l {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginvent .rectangle-oRT2ZC {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginvent .background-oRT2ZC {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginvent .stacked-group-oRT2ZC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginvent .web-index-title-common-xn39dm {
+  margin: 0;
+}
+
+.devicepluginvent .group-copy-xn39dm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginvent .empty-wApXis {
+  top: 21px;
+}
+
+.devicepluginvent .empty-ldDfFo {
+  top: 0px;
+}
+
+.devicepluginvent .web-index-title-common-copy-xn39dm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginvent .web-index-contents1dpeth_open_selected-xn39dm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginvent .group-xn39dm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginvent .empty-oprVv7 {
+  top: 21px;
+}
+
+.devicepluginvent .empty-qOXGfr {
+  top: 0px;
+}
+
+.devicepluginvent .web-index-title-common-Hb5Zxr {
+  margin: 0px 0 0 0;
+}
+
+.devicepluginvent .group-copy-2-xn39dm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginvent .empty-9khoHo {
+  top: 21px;
+}
+
+.devicepluginvent .empty-08qxdV {
+  top: 0px;
+}
+
+.devicepluginvent .web-index-title-common-copy-2-xn39dm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginvent .line-oRT2ZC {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginvent .home-net-gui-guidelin-oRT2ZC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginvent .webgnb-Iqjl0l {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginvent .rectangle-hZ0rkx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginvent .background-hZ0rkx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginvent .index-hZ0rkx {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginvent .web-index-select-VusEOF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginvent .web-index-unselect-VusEOF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginvent .web-index-unelect_main-hZ0rkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicepluginvent .logo-h0xfUG {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicepluginvent .content {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+}
+
+.devicepluginvent .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.devicepluginvent .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginvent .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginvent .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginvent .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

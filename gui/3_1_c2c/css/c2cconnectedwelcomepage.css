@@ -1,0 +1,716 @@
+/* screen - c2cconnectedwelcomepage */
+
+.c2cconnectedwelcomepage {
+  background-color: var(--white);
+  height: 2504px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .group-6-x4QcKc {
+  background-color: transparent;
+  height: 906px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.c2cconnectedwelcomepage .group-8-x4QcKc {
+  background-color: transparent;
+  height: 906px;
+  left: 420px;
+  position: absolute;
+  top: 1398px;
+  width: 360px;
+}
+
+.c2cconnectedwelcomepage .group-x4QcKc {
+  height: 126px;
+  left: 1140px;
+  top: 616px;
+  width: 560px;
+}
+
+.c2cconnectedwelcomepage .group-7-x4QcKc {
+  background-color: transparent;
+  height: 224px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2cconnectedwelcomepage .group-4-EDxhXc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-gBGfQ7 {
+  left: 0px;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .rectangle-xP3uIW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .contents-xP3uIW {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text2line_-strongman-gBGfQ7 {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .rectangle-ugRAeW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .contents-ugRAeW {
+  color: var(--persian-green);
+  font-weight: 600;
+  width: 328px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-uD65iM {
+  left: 410px;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .rectangle-SED0QC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .contents-SED0QC {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.c2cconnectedwelcomepage .group-9-EDxhXc {
+  background-color: transparent;
+  height: 121px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-1XMFqx {
+  left: 0px;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .rectangle-bxbRrY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .contents-bxbRrY {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text2line_m-1XMFqx {
+  background-color: transparent;
+  height: 115px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .rectangle-XuYhWf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .group-XuYhWf {
+  height: 104px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.c2cconnectedwelcomepage .content-Kuioqc {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2cconnectedwelcomepage .content-copy-Kuioqc {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 328px;
+}
+
+.c2cconnectedwelcomepage .title-Kuioqc {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-yUjelA {
+  left: 410px;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .rectangle-6BK0tq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .contents-6BK0tq {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.c2cconnectedwelcomepage .table-guide-title-EDxhXc {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2cconnectedwelcomepage .web-sub_-title-x4QcKc {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 395px;
+}
+
+.c2cconnectedwelcomepage .sub-title-y7Ys0v {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .web-title-area-x4QcKc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .web-tabc2-c_apart-servide-connected-x4QcKc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .x3rd-depth-0tdiIA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .tab-0tdiIA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .overview-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 58px;
+}
+
+.c2cconnectedwelcomepage .onboarding_start-pag-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2cconnectedwelcomepage .onboarding_-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 188px;
+}
+
+.c2cconnectedwelcomepage .onboarding_-welcome-p-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 172px;
+}
+
+.c2cconnectedwelcomepage .onboarding_-strongman-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.c2cconnectedwelcomepage .lnb-service-feature-copy-x4QcKc {
+  background-color: transparent;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .rectangle-GZ4piz {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .background-GZ4piz {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .line-GZ4piz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cconnectedwelcomepage .home-net-gui-guidelin-GZ4piz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup16 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup16 .web-index-title-reference-copy-2-vtTndc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .group-vtTndc {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup16 .empty-41YURe {
+  bottom: 0px;
+}
+
+.stackedgroup16 .empty-oeQCHU {
+  top: 0px;
+}
+
+.stackedgroup16 .web-index-title-reference-copy-vtTndc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .group-copy-vtTndc {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .empty-oE9HG8 {
+  bottom: 0px;
+}
+
+.stackedgroup16 .empty-3rETLa {
+  top: 0px;
+}
+
+.stackedgroup16 .web-index-title-reference-vtTndc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-copy-vtTndc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .group-xZAKwS {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup16 .web-expanded-kHaxJk {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup16 .button-m6gxQF {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup16 .x1-depth-title-kHaxJk {
+  color: #3695dd;
+  width: 91px;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-vtTndc {
+  height: auto;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-lmnwbE {
+  height: auto;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-qsOzsD {
+  height: auto;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-copy-2-vtTndc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-0r9qxW {
+  height: auto;
+}
+
+.stackedgroup16 .web-index-contents1dpeth_close-1b2ZBa {
+  height: 46px;
+}
+
+.stackedgroup16 .group-ujaoKc {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup16 .x1-depth-title-NUl2Ew {
+  color: #252525;
+  width: 56px;
+}
+
+.stackedgroup16 .web-fold-ujaoKc {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup16 .background-5hgw9Q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup16 .button-5hgw9Q {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup16 .group-copy-2-vtTndc {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup16 .empty-ynoVy8 {
+  bottom: 0px;
+}
+
+.stackedgroup16 .empty-TBOlhS {
+  top: 0px;
+}
+
+.stackedgroup16 .web-index-title-reference-copy-3-vtTndc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2cconnectedwelcomepage .webgnb-x4QcKc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .rectangle-n3xREL {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .background-n3xREL {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .index-n3xREL {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2cconnectedwelcomepage .web-index-select-wYf7mP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2cconnectedwelcomepage .web-index-unselect-wYf7mP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2cconnectedwelcomepage .web-index-unelect_main-n3xREL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.c2cconnectedwelcomepage .logo-DoYxQ5 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.c2cconnectedwelcomepage .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.c2cconnectedwelcomepage .group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup16 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup16 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

@@ -1,0 +1,896 @@
+/* screen - basiccomponenttextfieldsbasic */
+
+.basiccomponenttextfieldsbasic {
+  background-color: var(--white);
+  height: 1981px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsbasic .group-16-N6eWle {
+  background-color: transparent;
+  height: 164px;
+  left: 420px;
+  position: absolute;
+  top: 1617px;
+  width: 360px;
+}
+
+.basiccomponenttextfieldsbasic .group-15-N6eWle {
+  background-color: transparent;
+  height: 148px;
+  left: 420px;
+  position: absolute;
+  top: 1021px;
+  width: 360px;
+}
+
+.basiccomponenttextfieldsbasic .group-11-N6eWle {
+  background-color: transparent;
+  height: 148px;
+  left: 420px;
+  position: absolute;
+  top: 1319px;
+  width: 360px;
+}
+
+.basiccomponenttextfieldsbasic .group-2-N6eWle {
+  background-color: transparent;
+  height: 195px;
+  left: 420px;
+  position: absolute;
+  top: 676px;
+  width: 360px;
+}
+
+.basiccomponenttextfieldsbasic .group-3-N6eWle {
+  height: 184px;
+  left: 380px;
+  top: 342px;
+  width: 710px;
+}
+
+.basiccomponenttextfieldsbasic .web-sub_-title-N6eWle {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponenttextfieldsbasic .sub-title-2cLp8b {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsbasic .group-copy-N6eWle {
+  background-color: transparent;
+  height: 212px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsbasic .group-2-copy-2-KfKepn {
+  background-color: transparent;
+  height: 109px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line95 {
+  background-color: transparent;
+  height: 33.94%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line95 .background-ZhwWKx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line95 .rectangle-ZhwWKx {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line95 .contents-ZhwWKx {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line156 {
+  background-color: transparent;
+  height: 33.94%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line156 .background-L8AiLE {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line156 .rectangle-L8AiLE {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line156 .contents-L8AiLE {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsbasic .table-guide-text2line_m-Xdlz08 {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsbasic .rectangle-J0omwm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsbasic .group-J0omwm {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsbasic .content-KbSDfW {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsbasic .title-KbSDfW {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsbasic .text-cursor-colo-Xdlz08 {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 69px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsbasic .group-2-copy-3-KfKepn {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 175px;
+  width: 680px;
+}
+
+.tableguidetext1line96 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line96 .background-FbjwKs {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line96 .rectangle-FbjwKs {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line96 .contents-FbjwKs {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line157 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line157 .background-mlW039 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line157 .rectangle-mlW039 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line157 .contents-mlW039 {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem59 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem59 .background-MMIYWN {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem59 .rectangle-MMIYWN {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem59 .contents-MMIYWN {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsbasic .group-3-KfKepn {
+  height: 56px;
+  left: 0px;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsbasic .table-guide-title-xe1P52 {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsbasic .rectangle-IcITnS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsbasic .table-title-text-IcITnS {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsbasic .table-guide-title-bJXxX7 {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsbasic .rectangle-rWIj2k {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsbasic .table-title-text-rWIj2k {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsbasic .table-guide-title-cDah6i {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsbasic .rectangle-briqRW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsbasic .table-title-text-briqRW {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsbasic .web-title-area-N6eWle {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsbasic .web-tab-service-feature_-basic-layout-N6eWle {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsbasic .x3rd-depth-TJtg5m {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsbasic .tab-TJtg5m {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsbasic .basic-qYDQUm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponenttextfieldsbasic .auto_complete-text-f-qYDQUm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.basiccomponenttextfieldsbasic .states-qYDQUm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 37px;
+}
+
+.basiccomponenttextfieldsbasic .lnb-favorite-card-N6eWle {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .rectangle-gMglaQ {
+  background-color: var(--concrete);
+  height: 1494px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .background-gMglaQ {
+  background-color: var(--concrete);
+  height: 952px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .stacked-group-gMglaQ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-title-common-2pFqZp {
+  margin: 0;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-2-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-14-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-10-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-6-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-11-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-7-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-4-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-8-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-9-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-5-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-3-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-12-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-13-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents2dpeth-copy-15-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-contents1dpeth_open_selected-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .group-copy-2pFqZp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .empty-5JBevf {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsbasic .empty-kxiwqI {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-title-common-copy-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .group-2pFqZp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .empty-SLEVxT {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsbasic .empty-GcLcsz {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-title-common-wq1IXC {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponenttextfieldsbasic .group-copy-2-2pFqZp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .empty-lzqz5b {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsbasic .empty-rPzpNC {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-title-common-copy-2-2pFqZp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsbasic .line-gMglaQ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsbasic .home-net-gui-guidelin-gMglaQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponenttextfieldsbasic .webgnb-N6eWle {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsbasic .rectangle-973ApV {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsbasic .background-973ApV {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsbasic .index-973ApV {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-select-wknIMY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-unselect-wknIMY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsbasic .web-index-unelect_main-973ApV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponenttextfieldsbasic .logo-mfeAeR {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponenttextfieldsbasic .group-3 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponenttextfieldsbasic .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

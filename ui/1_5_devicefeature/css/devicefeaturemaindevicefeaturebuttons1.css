@@ -1,0 +1,617 @@
+/* screen - devicefeaturemaindevicefeaturebuttons1 */
+
+.devicefeaturemaindevicefeaturebuttons1 {
+  background-color: var(--white);
+  height: 1845px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-5-p5itvg {
+  background-color: transparent;
+  height: 1361px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-copy-p5itvg {
+  background-color: transparent;
+  height: 264px;
+  left: 1140px;
+  position: absolute;
+  top: 689px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-7-hAOx92 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-7-copy-hAOx92 {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .table-guide-text1line-q6p4xZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .table-guide-text1line-zqvpWS {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .table-guide-text1line_-bold-q6p4xZ {
+  background-color: transparent;
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-4-hAOx92 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-title-area-p5itvg {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-tab-feature-card_-main-feature-card-p5itvg {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .tab-axFSmZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .main-device-feature-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 121px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .state-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .types-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .status-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .toggle-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .buttons-1-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 58px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .buttons-2-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .dropdown-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .toggle-adjust-ZpjWfN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .lnb-feature-card-p5itvg {
+  background-color: transparent;
+  height: 1213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .rectangle-Bicek7 {
+  background-color: var(--concrete);
+  height: 1213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .background-Bicek7 {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .stacked-group-Bicek7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-title-common-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-Q0RRsX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-BwhHj6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-7MbLnU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_open_selected-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents2dpeth-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents2dpeth-Q0RRsX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents2dpeth-BwhHj6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents2dpeth-7MbLnU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents2dpeth-copy-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents2dpeth-TMwMxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-TMwMxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-R3xEmQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .empty-WtYfYT {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .line-copy-WtYfYT {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .empty-XJQKpw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-title-reference-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-DuSxSt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-VXiO9k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-iwVqOL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-contents1dpeth_close-NoH8w1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-Q0RRsX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .empty-EbXmLb {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .line-copy-EbXmLb {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .empty-C51tpw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-title-reference-copy-R3xEmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .group-copy-R3xEmQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .empty-dxjfxw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .line-copy-dxjfxw {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .empty-1uyezR {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-title-reference-Q0RRsX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .line-Bicek7 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .home-net-ui-guideline-Bicek7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .webgnb-p5itvg {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .rectangle-HfSiNj {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .background-HfSiNj {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .index-HfSiNj {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-select-XVWCP4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-unselect-XVWCP4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .web-index-select_main-HfSiNj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicefeaturemaindevicefeaturebuttons1 .logo-WUyxVr {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

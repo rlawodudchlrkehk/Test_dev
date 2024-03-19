@@ -1,0 +1,548 @@
+/* screen - servicepluginnoticecard */
+
+.servicepluginnoticecard {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginnoticecard .group-4-xGi07f {
+  background-color: transparent;
+  height: 303px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.servicepluginnoticecard .group-2-xGi07f {
+  background-color: transparent;
+  height: 115px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginnoticecard .descriptiontabletop-8j0gy3 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginnoticecard .table-guide-title-HxPFzS {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginnoticecard .rectangle-9zhCYJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginnoticecard .table-title-text-9zhCYJ {
+  width: 258px;
+}
+
+.servicepluginnoticecard .table-guide-title-d8wFjw {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginnoticecard .rectangle-IeaJ2W {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginnoticecard .table-title-text-IeaJ2W {
+  width: 328px;
+}
+
+.servicepluginnoticecard .table-guide-title-gtT9va {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginnoticecard .rectangle-ZZNJnp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginnoticecard .table-title-text-ZZNJnp {
+  width: 38px;
+}
+
+.servicepluginnoticecard .descriptiontable2line-8j0gy3 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginnoticecard .table-guide-text1line-vGeMMu {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginnoticecard .rectangle-Y52NWH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginnoticecard .contents-Y52NWH {
+  width: 258px;
+}
+
+.servicepluginnoticecard .table-guide-text2line-vGeMMu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginnoticecard .rectangle-4ch1vA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginnoticecard .group-4ch1vA {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginnoticecard .content-AAVk6t {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginnoticecard .title-AAVk6t {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginnoticecard .table-guide-text1line-W64L8e {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginnoticecard .rectangle-ceLbSx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginnoticecard .contents-ceLbSx {
+  width: 38px;
+}
+
+.servicepluginnoticecard .web-sub_-title-xGi07f {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.servicepluginnoticecard .sub-title-a4MHjo {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginnoticecard .web-title-area-xGi07f {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginnoticecard .web-tab-service-plug-in_-notice-xGi07f {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginnoticecard .x3rd-depth-dE2Ane {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginnoticecard .tab-wwZuJc {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginnoticecard .card-KMb5ja {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginnoticecard .feature-KMb5ja {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginnoticecard .lnb-service-plug-in-xGi07f {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginnoticecard .rectangle-9p5tp5 {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginnoticecard .lnb-9p5tp5 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginnoticecard .stacked-group-OyszU5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginnoticecard .web-index-title-common-copy-H5zCYT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .group-copy-H5zCYT {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .empty-copy-RGJx0P {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginnoticecard .line-copy-2-RGJx0P {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginnoticecard .empty-copy-2-RGJx0P {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginnoticecard .web-index-contents1dpeth_open_selected-H5zCYT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .web-index-contents2dpeth-copy-2-H5zCYT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .web-index-contents2dpeth-copy-H5zCYT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .web-index-contents2dpeth-copy-3-H5zCYT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .group-H5zCYT {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .empty-pM4hua {
+  top: 21px;
+}
+
+.servicepluginnoticecard .empty-71MBxp {
+  top: 0px;
+}
+
+.servicepluginnoticecard .group-copy-2-H5zCYT {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .empty-ltYwDk {
+  top: 21px;
+}
+
+.servicepluginnoticecard .empty-vC2Lfz {
+  top: 0px;
+}
+
+.servicepluginnoticecard .web-index-title-common-copy-2-H5zCYT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginnoticecard .line-OyszU5 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginnoticecard .home-net-gui-guidelin-OyszU5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginnoticecard .webgnb-xGi07f {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginnoticecard .rectangle-SxGBkw {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginnoticecard .background-SxGBkw {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginnoticecard .index-SxGBkw {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginnoticecard .web-index-select-cZlA5I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginnoticecard .web-index-unselect-cZlA5I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginnoticecard .web-index-unelect_main-SxGBkw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginnoticecard .logo-NLjxCQ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginnoticecard .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.servicepluginnoticecard .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginnoticecard .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

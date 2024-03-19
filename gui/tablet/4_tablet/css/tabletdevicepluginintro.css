@@ -1,0 +1,709 @@
+/* screen - tabletdevicepluginintro */
+
+.tabletdevicepluginintro {
+  background-color: var(--white);
+  height: 1238px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletdevicepluginintro .group-4JOG2p {
+  background-color: transparent;
+  height: 413px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 514px;
+}
+
+.tabletdevicepluginintro .lnb-service-feature-4JOG2p {
+  background-color: transparent;
+  height: 1259px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginintro .rectangle-pQBykh {
+  background-color: var(--concrete);
+  height: 1259px;
+  width: 320px;
+}
+
+.tabletdevicepluginintro .line-pQBykh {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletdevicepluginintro .home-net-gui-guidelin-pQBykh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup22 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup22 .web-index-title-reference-copy-2-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-RT6i25 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup22 .title-vwezFn {
+  width: 72px;
+}
+
+.stackedgroup22 .group-MSm7nV {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .empty-cuAAUT {
+  bottom: 0px;
+}
+
+.stackedgroup22 .empty-h2bLti {
+  top: 0px;
+}
+
+.stackedgroup22 .web-index-title-reference-copy-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-AF0tF2 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup22 .title-e05UOu {
+  width: 81px;
+}
+
+.stackedgroup22 .group-copy-MSm7nV {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .empty-Ss487G {
+  bottom: 0px;
+}
+
+.stackedgroup22 .empty-BNIP8t {
+  top: 0px;
+}
+
+.stackedgroup22 .web-index-title-reference-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-oAViF3 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup22 .title-UG0KEl {
+  width: 136px;
+}
+
+.stackedgroup22 .group-copy-2-MSm7nV {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .empty-copy-xViNmL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup22 .line-copy-2-xViNmL {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup22 .empty-copy-2-xViNmL {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-title-reference-copy-3-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-kpx8sP {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup22 .title-x3EaPg {
+  width: 50px;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-3-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-qdJ2LJ {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .x1-depth-title-Xiuo3x {
+  color: #252525;
+  width: 67px;
+}
+
+.stackedgroup22 .button-llg3ZS {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-2-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-1CbIIP {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .x1-depth-title-0LUDlZ {
+  color: #252525;
+  width: 123px;
+}
+
+.stackedgroup22 .button-h3eZLg {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-EQFNEo {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .x1-depth-title-YWz3OF {
+  color: #252525;
+  width: 106px;
+}
+
+.stackedgroup22 .button-Y8zxOx {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-4-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-NldTsf {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-expanded-yuBohL {
+  background-color: transparent;
+  height: 15.22%;
+  left: 8.44%;
+  opacity: 1;
+  position: absolute;
+  top: 42.39%;
+  width: 3.44%;
+}
+
+.stackedgroup22 .button-VWCIuV {
+  height: 157.14%;
+  left: 18.18%;
+  top: -28.57%;
+  transform: rotate(90deg);
+  width: 63.64%;
+}
+
+.stackedgroup22 .x1-depth-title-yuBohL {
+  color: #3695dd;
+  width: 100px;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-16-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-j6evyw {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-15-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-Kcpt6O {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-14-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-ZUZqxx {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-13-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-20CkNg {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-12-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-7GLIcg {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-11-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-kvfGwD {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-10-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-gMeLHM {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-18-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-TQQcUl {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-17-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-xms3Gb {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-19-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-9oxW21 {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-9-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-7r43eV {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-5-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-30SqS1 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .x1-depth-title-aIqQ3g {
+  color: #252525;
+  width: 112px;
+}
+
+.stackedgroup22 .button-Y0bD6Y {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-6-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-VRbynO {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .x1-depth-title-c5ixfx {
+  color: #252525;
+  width: 106px;
+}
+
+.stackedgroup22 .button-twYtWx {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.tabletdevicepluginintro .webgnb-4JOG2p {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginintro .rectangle-ZMT5xB {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletdevicepluginintro .background-ZMT5xB {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginintro .index-ZMT5xB {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletdevicepluginintro .web-index-select-Y1vn8G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletdevicepluginintro .web-index-unselect-Y1vn8G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletdevicepluginintro .web-index-unelect_main-ZMT5xB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletdevicepluginintro .logo-yzkzwG {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup22 .x2-death-title {
+  background-color: transparent;
+  color: #717171;
+  font-family: 'SamsungOne-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  text-align: left;
+  top: calc(50.00% - 23px);
+  width: 78.12%;
+}

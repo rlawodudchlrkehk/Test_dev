@@ -1,0 +1,1277 @@
+/* screen - servicepluginliveviewfeaturestatus */
+
+.servicepluginliveviewfeaturestatus {
+  background-color: var(--white);
+  height: 1522px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveviewfeaturestatus .group-14-H1LfWT {
+  background-color: transparent;
+  height: 389px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .group-10-Zs8mwn {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: 350px;
+  width: 187px;
+}
+
+.servicepluginliveviewfeaturestatus .group-13-Zs8mwn {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .group-20-zxajVM {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line_m-copy-rGl3xR {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-ujweGF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-ujweGF {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-rGl3xR {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-Cd6RBs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-Cd6RBs {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line_m-rGl3xR {
+  background-color: transparent;
+  height: 95px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-j9jycy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .group-j9jycy {
+  background-color: transparent;
+  height: 84px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginliveviewfeaturestatus .content-BIopQV {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 40px;
+  top: 22px;
+}
+
+.servicepluginliveviewfeaturestatus .content-XBhbMk {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.servicepluginliveviewfeaturestatus .group-20-copy-zxajVM {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 172px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line_m-copy-6-NlTmGj {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-ZSObKj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-ZSObKj {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-copy-2-NlTmGj {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-ZPCRIP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-ZPCRIP {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line_m-copy-7-NlTmGj {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-L8avBP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .group-L8avBP {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginliveviewfeaturestatus .content-Bjw1FD {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.servicepluginliveviewfeaturestatus .group-20-copy-2-zxajVM {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 241px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line_m-copy-8-bKHNe6 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-pCkdv9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-pCkdv9 {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-copy-3-bKHNe6 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-YB0aWP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-YB0aWP {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line_m-copy-9-bKHNe6 {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-4LL2qi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .group-4LL2qi {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginliveviewfeaturestatus .content-1CsFdq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-qMo2ST {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-Drbfxn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-Drbfxn {
+  width: 258px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-xUGxLi {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-xPsHxj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-xPsHxj {
+  width: 328px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-uHh8HD {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-g2eB2n {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-g2eB2n {
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .group-12-H1LfWT {
+  background-color: transparent;
+  height: 209px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 670px;
+}
+
+.servicepluginliveviewfeaturestatus .group-6-H1LfWT {
+  background-color: transparent;
+  height: 209px;
+  left: 420px;
+  position: absolute;
+  top: 754px;
+  width: 670px;
+}
+
+.servicepluginliveviewfeaturestatus .group-4-H1LfWT {
+  background-color: transparent;
+  height: 209px;
+  left: 420px;
+  position: absolute;
+  top: 1113px;
+  width: 670px;
+}
+
+.servicepluginliveviewfeaturestatus .group-3-H1LfWT {
+  background-color: transparent;
+  height: 187px;
+  left: 1140px;
+  position: absolute;
+  top: 885px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .group-2-xcOHdx {
+  background-color: transparent;
+  height: 187px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-M6Iw4Y {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-JbaZuT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-JbaZuT {
+  width: 116px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-01Xgqp {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-LHw0Mq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-LHw0Mq {
+  width: 154px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-copy-M6Iw4Y {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-cNxJS7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-cNxJS7 {
+  width: 94px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-copy-2-M6Iw4Y {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-q7fsNh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-q7fsNh {
+  width: 178px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title-faiNGX {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-iIRENc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .table-title-text-iIRENc {
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .descriptiontable2line-copy-tldOvA {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-7Ru6Wy {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-5Dx4uI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-5Dx4uI {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-xxmdvy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-xxmdvy {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-sjX20Q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-sjX20Q {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-poWgJf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-poWgJf {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-cNEW8S {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-lpHpQ2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-lpHpQ2 {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .descriptiontable2line-copy-2-tldOvA {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-0pxZER {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-uhxwOv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-uhxwOv {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-ZC13xr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-ZC13xr {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-Z4oeji {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-Z4oeji {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-9LAa4b {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-9LAa4b {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-JCk5lm {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-jPRruQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-jPRruQ {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .descriptiontable2line-copy-3-tldOvA {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-wwGXxg {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-2POwth {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-2POwth {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-8zNgxl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-8zNgxl {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-M6qyRR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-M6qyRR {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-BIY8N3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-BIY8N3 {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line-0xB9Ve {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-Xf9PJV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewfeaturestatus .contents-Xf9PJV {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginliveviewfeaturestatus .web-sub_-title-H1LfWT {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 426px;
+}
+
+.servicepluginliveviewfeaturestatus .sub-title-vF8Suj {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginliveviewfeaturestatus .web-title-area-H1LfWT {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeaturestatus .web-tab-service-plug-in_cctv-H1LfWT {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeaturestatus .x3rd-depth-I2Fh2e {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeaturestatus .card-copy-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginliveviewfeaturestatus .popup-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.servicepluginliveviewfeaturestatus .incoming-call_-push-n-copy-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 199px;
+}
+
+.servicepluginliveviewfeaturestatus .incoming-call_-flow_m-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 250px;
+}
+
+.servicepluginliveviewfeaturestatus .flow_-front-door-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.servicepluginliveviewfeaturestatus .flow_-home-screen-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.servicepluginliveviewfeaturestatus .flow_-back-key-copy-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-basic_-layout-copy-DTDQuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginliveviewfeaturestatus .x3rd-depth-copy-I2Fh2e {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-status-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-button-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-dialog-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-main-entranc-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-front-door-copy-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-call-end-copy-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-back-key-copy-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginliveviewfeaturestatus .feature_-exceptional-ep8E8E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}
+
+.servicepluginliveviewfeaturestatus .lnb-service-plug-in-H1LfWT {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-YNFerQ {
+  background-color: var(--concrete);
+  height: 1396px;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .lnb-YNFerQ {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .stacked-group-BiryNb {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-title-common-copy-whS5ui {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .group-copy-whS5ui {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .empty-copy-LmCoo9 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .line-copy-2-LmCoo9 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginliveviewfeaturestatus .empty-copy-2-LmCoo9 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-contents1dpeth_open_selected-whS5ui {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-contents2dpeth-copy-2-whS5ui {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-contents2dpeth-copy-whS5ui {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-contents2dpeth-copy-3-whS5ui {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .group-whS5ui {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .empty-keLcdA {
+  top: 21px;
+}
+
+.servicepluginliveviewfeaturestatus .empty-9ELFxx {
+  top: 0px;
+}
+
+.servicepluginliveviewfeaturestatus .group-copy-2-whS5ui {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .empty-COOGx8 {
+  top: 21px;
+}
+
+.servicepluginliveviewfeaturestatus .empty-4WxtKA {
+  top: 0px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-title-common-copy-2-whS5ui {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeaturestatus .line-BiryNb {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginliveviewfeaturestatus .home-net-gui-guidelin-BiryNb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginliveviewfeaturestatus .webgnb-H1LfWT {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewfeaturestatus .rectangle-mq8fBb {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginliveviewfeaturestatus .background-mq8fBb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewfeaturestatus .index-mq8fBb {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-select-rIHYsM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-unselect-rIHYsM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginliveviewfeaturestatus .web-index-unelect_main-mq8fBb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginliveviewfeaturestatus .logo-jxWbUm {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginliveviewfeaturestatus .content {
+  background-color: transparent;
+  font-style: normal;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  width: 328px;
+}
+
+.servicepluginliveviewfeaturestatus .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.servicepluginliveviewfeaturestatus .descriptiontabletop {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line-copy {
+  background-color: transparent;
+  height: 31px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-text2line-copy-2 {
+  background-color: transparent;
+  height: 31px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginliveviewfeaturestatus .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewfeaturestatus .title {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}

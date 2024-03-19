@@ -1,0 +1,553 @@
+/* screen - devicefeaturemaindevicefeaturetoggle */
+
+.devicefeaturemaindevicefeaturetoggle {
+  background-color: var(--white);
+  height: 3141px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-8-eX6T2d {
+  background-color: transparent;
+  height: 2657px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-title-area-eX6T2d {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-tab-feature-card_-main-feature-card-eX6T2d {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .tab-HfQmcd {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturetoggle .main-device-feature-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 121px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .state-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .types-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .status-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .toggle-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 42px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .buttons-1-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 57px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .buttons-2-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .dropdown-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .toggle-adjust-2ypYdH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .lnb-feature-card-eX6T2d {
+  background-color: transparent;
+  height: 1213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-O5efxt {
+  background-color: var(--concrete);
+  height: 1213px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .background-O5efxt {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .stacked-group-O5efxt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-common-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-rGMy2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-zxNnWM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-x0JnEK {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_open_selected-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-rGMy2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-zxNnWM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-x0JnEK {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-copy-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-QOVsQn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-QOVsQn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-DsIJdN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-xTxWzF {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .line-copy-xTxWzF {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-hu7vYp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-reference-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-KPM2KH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-xB3upB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-D6xmpv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_close-Xx1fiN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-rGMy2x {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-LoTB5y {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .line-copy-LoTB5y {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-OCV35I {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-reference-copy-DsIJdN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-copy-DsIJdN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-O6Eptv {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .line-copy-O6Eptv {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-MxJzSC {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-reference-rGMy2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .line-O5efxt {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .home-net-ui-guideline-O5efxt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .webgnb-eX6T2d {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-PHo2VS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .background-PHo2VS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .index-PHo2VS {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-select-k1v78L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-unselect-k1v78L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-select_main-PHo2VS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .logo-Aso0gv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

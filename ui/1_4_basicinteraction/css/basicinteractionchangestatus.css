@@ -1,0 +1,34 @@
+/* screen - basicinteractionchangestatus */
+
+.basicinteractionchangestatus {
+  background-color: var(--white);
+  height: 1316px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionchangestatus .group-1 {
+  background-color: transparent;
+  height: 824px;
+  left: 420px;
+  position: absolute;
+  top: 292px;
+  width: 1400px;
+}
+
+.basicinteractionchangestatus .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionchangestatus .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

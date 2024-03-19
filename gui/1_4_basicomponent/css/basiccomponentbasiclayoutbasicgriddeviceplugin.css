@@ -1,0 +1,889 @@
+/* screen - basiccomponentbasiclayoutbasicgriddeviceplugin */
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin {
+  background-color: var(--white);
+  height: 2456px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-6-BEivSl {
+  background-color: transparent;
+  height: 866px;
+  left: 420px;
+  position: absolute;
+  top: 1390px;
+  width: 670px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-4-BEivSl {
+  background-color: transparent;
+  height: 898px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-BEivSl {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-2-copy-2-wu2xDN {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line61 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line61 .background-4y1St0 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line61 .rectangle-4y1St0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line61 .contents-4y1St0 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line132 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line132 .background-jZJH2t {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line132 .rectangle-jZJH2t {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line132 .contents-jZJH2t {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem40 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem40 .background-i6eow0 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem40 .rectangle-i6eow0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem40 .contents-i6eow0 {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-2-copy-3-wu2xDN {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.tableguidetext1line62 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line62 .background-hGucm5 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line62 .rectangle-hGucm5 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line62 .contents-hGucm5 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line133 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line133 .background-UT9m42 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line133 .rectangle-UT9m42 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line133 .contents-UT9m42 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem41 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem41 .background-Oz6quG {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem41 .rectangle-Oz6quG {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem41 .contents-Oz6quG {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-3-wu2xDN {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-guide-title-ARIeEt {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-h4eWc8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-title-text-h4eWc8 {
+  width: 258px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-guide-title-UzwQsd {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-mpt3fN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-title-text-mpt3fN {
+  width: 328px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-guide-title-TzdUdG {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-dxzYQH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-title-text-dxzYQH {
+  width: 38px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-sub_-title-BEivSl {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 453px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .sub-title-xZgJNa {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-title-area-BEivSl {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-tab-service-feature_-basic-layout-BEivSl {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .x3rd-depth-8Xqaaq {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .tab-8Xqaaq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .header_-app-bar-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 102px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .service-feature-type-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 71px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layout_-basic-grid_-de-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 204px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layout_-basic-grid_-se-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 206px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layout_bg-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layout_bg_-dynamic-br-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 251px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .progress-circle-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 91px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .refresh-UATJTO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .lnb-favorite-card-BEivSl {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-SsVbLM {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .background-SsVbLM {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .stacked-group-SsVbLM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-title-common-OKa7d1 {
+  margin: 0;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-2-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-14-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-10-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-6-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-11-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-7-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-4-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-8-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-9-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-5-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-3-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-12-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-13-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents2dpeth-copy-15-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents1dpeth_open_selected-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-copy-OKa7d1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-BAxVx9 {
+  top: 21px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-Sxyqem {
+  top: 0px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-title-common-copy-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-OKa7d1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-dYEoHq {
+  top: 21px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-BuTlSq {
+  top: 0px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-title-common-P28TGV {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-copy-2-OKa7d1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-b89ckI {
+  top: 21px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-tzbjZg {
+  top: 0px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-title-common-copy-2-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .line-SsVbLM {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .home-net-gui-guidelin-SsVbLM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .webgnb-BEivSl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-sJDmXF {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .background-sJDmXF {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .index-sJDmXF {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-select-6AApxj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-unselect-6AApxj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-unelect_main-sJDmXF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .logo-EAWjYk {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

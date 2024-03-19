@@ -1,0 +1,27 @@
+/* screen - commontouchinteraction */
+
+.commontouchinteraction {
+  background-color: #ffffff;
+  height: 1233px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.commontouchinteraction .bodytest-1 {
+  background-color: transparent;
+  height: 899px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.commontouchinteraction .bodytest-2 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}

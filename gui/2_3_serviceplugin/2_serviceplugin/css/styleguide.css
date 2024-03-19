@@ -1,0 +1,75 @@
+:root { 
+  --black: #000000;
+  --concrete: #f2f2f2;
+  --cyan--aqua: #35f3f5;
+  --fuscous-gray: #545454cc;
+  --gallery: #efefef;
+  --gallery-2: #eceeee;
+  --lochmara: #0070c0;
+  --mine-shaft: #333333;
+  --persian-green: #00b0a6;
+  --rose: #ff5656;
+  --rose-2: #ff5555;
+  --science-blue: #0074d4;
+  --shark: #252525;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 11.2px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+ 
+  --font-family-applesdgothicneo-regular: "AppleSDGothicNeo-Regular", Helvetica;
+  --font-family-samsungone-700: "SamsungOne-700", Helvetica;
+  --font-family-samsungonekorean-400: "SamsungOneKorean-400", Helvetica;
+  --font-family-samsungonekorean-500: "SamsungOneKorean-500", Helvetica;
+  --font-family-samsungonekorean-600: "SamsungOneKorean-600", Helvetica;
+  --font-family-samsungonekorean-700: "SamsungOneKorean-700", Helvetica;
+  --font-family-samsungoneui-400: "SamsungOneUI-400", Helvetica;
+}
+.tableguidetextdark-mode {
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tableguidetitle {
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.extext-2 {
+  font-family: var(--font-family-samsungoneui-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tableguidetextblue {
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.guidelinerightnormal {
+  font-family: var(--font-family-samsungonekorean-500);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.samsungone-700-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-samsungone-700);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+:root {
+}

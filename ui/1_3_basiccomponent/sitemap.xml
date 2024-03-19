@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponent</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbottomnavigation</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbutton2buttons</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttonbottombuttons</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttonbutton</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttongroupbutton</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttontogglebutton</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentcard</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdialogsdetailinputpopup</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdialogsdialogs</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdialogstabletdialogs</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdropdownlist</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentgraphgraph</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentgraphgraphwithunit</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistbasic</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistexpandablelist</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistgridlist</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistlistwithbutton</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentpageindicator</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentsectiondivider</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentsliderlinearslider</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentsliderstepslider</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentstatecomponent</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentstatedialogs</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentstepgrade</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttab</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldsautocompletetextfield</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldsinteractionflow</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldsstate</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldstextfields</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttoasts</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentsliderlinearslider.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttontogglebutton.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentsliderstepslider.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentstepgrade.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentgraphgraph.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldstextfields.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdropdownlist.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentpageindicator.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdialogstabletdialogs.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentstatedialogs.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentstatecomponent.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdialogsdialogs.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttongroupbutton.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttoasts.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbutton2buttons.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponent.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentdialogsdetailinputpopup.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistexpandablelist.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentsectiondivider.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbottomnavigation.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldsstate.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistgridlist.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistbasic.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentlistlistwithbutton.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttonbutton.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttab.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentcard.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldsautocompletetextfield.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentbuttonbottombuttons.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponenttextfieldsinteractionflow.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/basiccomponentgraphgraphwithunit.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/styleguide.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-brook-2868.animaapp.io/globals.css</loc>
+  <lastmod>2023-01-12</lastmod>
+
+</url>
+
+</urlset>

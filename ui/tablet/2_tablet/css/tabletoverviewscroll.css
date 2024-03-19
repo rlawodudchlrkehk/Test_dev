@@ -1,0 +1,61 @@
+/* screen - tabletoverviewscroll */
+
+.tabletoverviewscroll {
+  background-color: var(--white);
+  height: 2781px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletoverviewscroll .group-9 {
+  background-color: transparent;
+  height: 791px;
+  left: 420px;
+  position: absolute;
+  top: 421px;
+  width: 1400px;
+}
+
+.tabletoverviewscroll .group-8 {
+  background-color: transparent;
+  height: 534px;
+  left: 420px;
+  position: absolute;
+  top: 1362px;
+  width: 1400px;
+}
+
+.tabletoverviewscroll .group-7 {
+  background-color: transparent;
+  height: 535px;
+  left: 420px;
+  position: absolute;
+  top: 2046px;
+  width: 1400px;
+}
+
+.tabletoverviewscroll .web-sub_-title_w-description {
+  background-color: transparent;
+  height: 137px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletoverviewscroll .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletoverviewscroll .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

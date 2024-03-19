@@ -1,0 +1,562 @@
+/* screen - tabletdevicepluginroutinespoweroff */
+
+.tabletdevicepluginroutinespoweroff {
+  background-color: var(--white);
+  height: 2245px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletdevicepluginroutinespoweroff .group-3-PxPVeO {
+  background-color: transparent;
+  height: 962px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.tabletdevicepluginroutinespoweroff .group-4-PxPVeO {
+  background-color: transparent;
+  height: 591px;
+  left: 420px;
+  position: absolute;
+  top: 1454px;
+  width: 1400px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-sub_-title-PxPVeO {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-title-area-PxPVeO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletdevicepluginroutinespoweroff .webtabtablet_device-plugin-PxPVeO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletdevicepluginroutinespoweroff .x3rd-depth-LCT2qv {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletdevicepluginroutinespoweroff .tab-DekqsP {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.tabletdevicepluginroutinespoweroff .time-1-aTgFmC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 38px;
+}
+
+.tabletdevicepluginroutinespoweroff .time-2-aTgFmC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.tabletdevicepluginroutinespoweroff .routines-aTgFmC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 52px;
+}
+
+.tabletdevicepluginroutinespoweroff .routines-_-power-on-aTgFmC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 231px;
+}
+
+.tabletdevicepluginroutinespoweroff .routines-_-power-on-nrn8C3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 296px;
+}
+
+.tabletdevicepluginroutinespoweroff .routine-_-power-off-aTgFmC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.tabletdevicepluginroutinespoweroff .lnbtablet_device-plugin-PxPVeO {
+  background-color: transparent;
+  height: 1357px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .rectangle-lmMIsH {
+  background-color: var(--concrete);
+  height: 1357px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .stacked-group-lmMIsH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-title-common-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .group-miO48U {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .empty-Gex767 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .line-copy-Gex767 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginroutinespoweroff .empty-YYod95 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-title-reference-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginroutinespoweroff .group-dlBVDP {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .empty-1mgQHj {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .line-copy-1mgQHj {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginroutinespoweroff .empty-DISnSP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-title-reference-dlBVDP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginroutinespoweroff .group-copy-miO48U {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .empty-copy-D91QWx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .line-copy-2-D91QWx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginroutinespoweroff .empty-copy-2-D91QWx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-title-reference-copy-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents1d-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents1d-dlBVDP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents1dpeth_open_selected-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-2-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-3-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-4-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-5-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-6-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-7-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-8-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-9-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-10-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-11-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-12-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents2dpeth-copy-13-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents1dpeth_close-copy-5-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-contents1dpeth_close-copy-3-miO48U {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginroutinespoweroff .line-lmMIsH {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletdevicepluginroutinespoweroff .home-net-ui-guideline-lmMIsH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.tabletdevicepluginroutinespoweroff .webgnb-PxPVeO {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginroutinespoweroff .rectangle-t30XVs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginroutinespoweroff .background-t30XVs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginroutinespoweroff .index-t30XVs {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-select-tYwCtT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-unselect-tYwCtT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.tabletdevicepluginroutinespoweroff .web-index-unelect_main-t30XVs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

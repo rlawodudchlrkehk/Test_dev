@@ -1,0 +1,930 @@
+/* screen - devicefeaturecapabilitiesvaluesliderlinearslider */
+
+.devicefeaturecapabilitiesvaluesliderlinearslider {
+  background-color: var(--white);
+  height: 1206px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-4-l33wxx {
+  background-color: transparent;
+  height: 664px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-l33wxx {
+  background-color: transparent;
+  height: 200px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-2-copy-2-sdT12e {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-U4zzKi {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-GSwhQG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-GSwhQG {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-tDVTrn {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-ftX1UX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-ftX1UX {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text2line_m-U4zzKi {
+  height: 51px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-QoKY4D {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-QoKY4D {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-2-copy-3-sdT12e {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 123px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-bBY3JZ {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-AVEH3I {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-AVEH3I {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-gd6cVh {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-Lq8PAD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-Lq8PAD {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text2line_m-bBY3JZ {
+  height: 71px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-GMbRNT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-GMbRNT {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 60px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .descriptiontabletop-sdT12e {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-yEKsqI {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-WDH3tN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-WDH3tN {
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-taxtSs {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-Jtrqpn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-Jtrqpn {
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-rL9bcP {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-W7ecaL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-W7ecaL {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-3-copy-l33wxx {
+  background-color: transparent;
+  height: 190px;
+  left: 1140px;
+  position: absolute;
+  top: 642px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .styletabletop-92jW8z {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-RxQNOp {
+  left: 552px;
+  width: 128px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-o0eVxi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-o0eVxi {
+  width: 116px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-VtEQin {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-wuxebX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-wuxebX {
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-QHmZtN {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-Xu28Ko {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-Xu28Ko {
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-ygxYB2 {
+  left: 346px;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-Ukml7H {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-Ukml7H {
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-title-1BqqZ2 {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-OLt3qw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-title-text-OLt3qw {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .styletable1line_-color-92jW8z {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 681px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-xw3YEn {
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-IwU59v {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-IwU59v {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-ZuxO7X {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-GicWzt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-GicWzt {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-OG7rOb {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-oLZxmo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-oLZxmo {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-5mxgUl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-5mxgUl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-le4sQU {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-9IKPQK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-9IKPQK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .styletable1line_-color-copy-92jW8z {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 130px;
+  width: 681px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-rApif4 {
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-rlatkC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-rlatkC {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-HW3Zzy {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-Vuo5uG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-Vuo5uG {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-IOazih {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-nXnwNt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-nXnwNt {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-DNFxaq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-DNFxaq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line-95j1Nh {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-v1c1sx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-v1c1sx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-sub_-title_w-description-l33wxx {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 405px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .sub-title-EUjV5u {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-title-area-l33wxx {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-tab-device-feature_-capabilities-l33wxx {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .x3rd-depth-HjaRcj {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .tab-HjaRcj {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .types-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .service-feature-type-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 106px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .value-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .value-slider-_-lin-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 177px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .value-slider-_-ste-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 167px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .value-switch-sli-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .grouping-card-7jYt3Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .lnb-favorite-card-l33wxx {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-Xcg5Of {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .background-Xcg5Of {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .stacked-group-Xcg5Of {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-title-common-UDq9Iw {
+  margin: 0;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-contents2dpeth-copy-2-UDq9Iw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-contents2dpeth-copy-3-UDq9Iw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-contents1dpeth_open_selected-UDq9Iw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-copy-UDq9Iw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .empty-xumepv {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .empty-pfNMj4 {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-title-common-copy-UDq9Iw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-UDq9Iw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .empty-n9VAn9 {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .empty-6WXD25 {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-title-common-g7x1gB {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .group-copy-2-UDq9Iw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .empty-TFtSzM {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .empty-JmKig0 {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-title-common-copy-2-UDq9Iw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .line-Xcg5Of {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .home-net-gui-guidelin-Xcg5Of {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .webgnb-l33wxx {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .rectangle-4N40AZ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .background-4N40AZ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .index-4N40AZ {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-select-9YYeXd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-unselect-9YYeXd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .web-index-unelect_main-4N40AZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .logo-GkfCyl {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesvaluesliderlinearslider .table-guide-text2line_m {
+  background-color: transparent;
+  cursor: pointer;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

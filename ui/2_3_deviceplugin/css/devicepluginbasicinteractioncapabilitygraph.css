@@ -1,0 +1,643 @@
+/* screen - devicepluginbasicinteractioncapabilitygraph */
+
+.devicepluginbasicinteractioncapabilitygraph {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1350px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .group-TXYeAS {
+  background-color: transparent;
+  height: 808px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-sub_-title_w-description-TXYeAS {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-title-area-TXYeAS {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-tab-device-plug-TXYeAS {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .x3rd-depth-OGridP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .information-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 800px;
+  position: absolute;
+  top: 0px;
+  width: 74px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .refresh-rule-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 924px;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .time-routine-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1050px;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .capability-_-graph-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1194px;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .activity-history-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1361px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .save-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 720px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .change-icon-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 594px;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .change-device-name-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 417px;
+  position: absolute;
+  top: 0px;
+  width: 127px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .add-to-home-screen-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 243px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .remove-device-cmpcAA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .lnb-device-plug-in-TXYeAS {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .rectangle-8GVxxX {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .stacked-group-8GVxxX {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-title-common-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-senJrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-HSeCCf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-Jx5Mp1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-0kfxw1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-eofXHO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .group-fuPnVm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .empty-qZJu5a {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .line-copy-qZJu5a {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .empty-o100Gz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-title-reference-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-xqIxwc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-dwerd2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_open_selected-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-senJrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-HSeCCf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-Jx5Mp1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-0kfxw1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-eofXHO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-xqIxwc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-dwerd2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-vtrm6M {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-lzkoGq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-NZeMaW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-EKwhCu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-copy-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents2dpeth-9o7kHI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-contents1dpeth_close-vtrm6M {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .group-senJrW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .empty-P9GElj {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .line-copy-P9GElj {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .empty-WFsVdA {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-title-reference-senJrW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .group-copy-fuPnVm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .empty-copy-NOcKGL {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .line-copy-2-NOcKGL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .empty-copy-2-NOcKGL {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-title-reference-copy-fuPnVm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .line-8GVxxX {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .home-net-ui-guideline-8GVxxX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .webgnb-TXYeAS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .rectangle-KrQqdk {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .background-KrQqdk {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .index-KrQqdk {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-select-EEe31T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-unselect-EEe31T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .web-index-unelect_main-KrQqdk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginbasicinteractioncapabilitygraph .logo-vuor4P {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

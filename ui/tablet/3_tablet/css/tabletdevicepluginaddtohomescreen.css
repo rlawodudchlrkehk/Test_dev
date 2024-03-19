@@ -1,0 +1,601 @@
+/* screen - tabletdevicepluginaddtohomescreen */
+
+.tabletdevicepluginaddtohomescreen {
+  background-color: var(--white);
+  height: 3085px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-2-US3YC6 {
+  background-color: transparent;
+  height: 170px;
+  left: 420px;
+  position: absolute;
+  top: 2715px;
+  width: 1400px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-US3YC6 {
+  background-color: transparent;
+  height: 856px;
+  left: 420px;
+  position: absolute;
+  top: 589px;
+  width: 535px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-4-US3YC6 {
+  background-color: transparent;
+  height: 100px;
+  left: 955px;
+  position: absolute;
+  top: 1345px;
+  transform: rotate(90deg);
+  width: 100px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-4-rhdPOC {
+  background-color: transparent;
+  height: 100px;
+  left: 955px;
+  position: absolute;
+  top: 2454px;
+  transform: rotate(90deg);
+  width: 100px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-rhdPOC {
+  background-color: transparent;
+  height: 914px;
+  left: 420px;
+  position: absolute;
+  top: 1651px;
+  width: 535px;
+}
+
+.tabletdevicepluginaddtohomescreen .table-guide-title-US3YC6 {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 483px;
+  width: 1400px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-sub_-title-US3YC6 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 425px;
+  width: 1600px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-10-US3YC6 {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-sub_-title_w-description-qtQl2z {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.tabletdevicepluginaddtohomescreen .content-qtQl2z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 168px;
+  position: absolute;
+  top: 38px;
+  width: 1432px;
+}
+
+.tabletdevicepluginaddtohomescreen .table-guide-title-copy-US3YC6 {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 1595px;
+  width: 1400px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-title-area-US3YC6 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletdevicepluginaddtohomescreen .webtabtablet_device-plugin_edit-US3YC6 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletdevicepluginaddtohomescreen .x3rd-depth-dD7s8G {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletdevicepluginaddtohomescreen .tab-D875CR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.tabletdevicepluginaddtohomescreen .edit-4gQ4Hn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 24px;
+}
+
+.tabletdevicepluginaddtohomescreen .add-to-homescreen-4gQ4Hn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.tabletdevicepluginaddtohomescreen .lnbtablet_device-plugin-US3YC6 {
+  background-color: transparent;
+  height: 1357px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .rectangle-xuFiVC {
+  background-color: var(--concrete);
+  height: 1357px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .stacked-group-xuFiVC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-title-common-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-ETUhxN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .empty-X2uHI2 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .line-copy-X2uHI2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginaddtohomescreen .empty-g2zCNm {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-title-reference-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-2XcipX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .empty-EMjBoz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .line-copy-EMjBoz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginaddtohomescreen .empty-PlFWWp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-title-reference-2XcipX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginaddtohomescreen .group-copy-ETUhxN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .empty-copy-gnOgfz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .line-copy-2-gnOgfz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletdevicepluginaddtohomescreen .empty-copy-2-gnOgfz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-title-reference-copy-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents1d-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents1d-2XcipX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents1dpeth_open_selected-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-2-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-3-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-4-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-5-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-6-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-7-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-8-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-9-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-10-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-11-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-12-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents2dpeth-copy-13-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents1dpeth_close-copy-5-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-contents1dpeth_close-copy-3-ETUhxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletdevicepluginaddtohomescreen .line-xuFiVC {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletdevicepluginaddtohomescreen .home-net-ui-guideline-xuFiVC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.tabletdevicepluginaddtohomescreen .webgnb-US3YC6 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginaddtohomescreen .rectangle-p8GmiQ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginaddtohomescreen .background-p8GmiQ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletdevicepluginaddtohomescreen .index-p8GmiQ {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-select-4HUpl1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-unselect-4HUpl1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.tabletdevicepluginaddtohomescreen .web-index-unelect_main-p8GmiQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

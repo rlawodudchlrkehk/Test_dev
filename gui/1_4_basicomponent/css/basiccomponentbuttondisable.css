@@ -1,0 +1,437 @@
+/* screen - basiccomponentbuttondisable */
+
+.basiccomponentbuttondisable {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbuttondisable .group-3-uIq3De {
+  background-color: transparent;
+  height: 227px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 556px;
+}
+
+.basiccomponentbuttondisable .web-sub_-title-uIq3De {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentbuttondisable .sub-title-eIfPjZ {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbuttondisable .web-title-area-uIq3De {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbuttondisable .web-tab-service-feature_-basic-layout-uIq3De {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentbuttondisable .x3rd-depth-lgAtPG {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbuttondisable .tab-lgAtPG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbuttondisable .disable-cgClWa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 50px;
+}
+
+.basiccomponentbuttondisable .lnb-favorite-card-uIq3De {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .rectangle-Ix8WXl {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .background-Ix8WXl {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .stacked-group-Ix8WXl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-title-common-jftyyi {
+  margin: 0;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-2-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-14-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-10-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-6-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-11-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-7-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-4-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-8-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-9-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-5-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-3-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-12-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-13-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents2dpeth-copy-15-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .web-index-contents1dpeth_open_selected-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .group-copy-jftyyi {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .empty-xxgmtm {
+  top: 21px;
+}
+
+.basiccomponentbuttondisable .empty-cxixQj {
+  top: 0px;
+}
+
+.basiccomponentbuttondisable .web-index-title-common-copy-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .group-jftyyi {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .empty-swJC51 {
+  top: 21px;
+}
+
+.basiccomponentbuttondisable .empty-ZgyguH {
+  top: 0px;
+}
+
+.basiccomponentbuttondisable .web-index-title-common-McAEzo {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbuttondisable .group-copy-2-jftyyi {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .empty-DkkGD2 {
+  top: 21px;
+}
+
+.basiccomponentbuttondisable .empty-APcWLi {
+  top: 0px;
+}
+
+.basiccomponentbuttondisable .web-index-title-common-copy-2-jftyyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbuttondisable .line-Ix8WXl {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbuttondisable .home-net-gui-guidelin-Ix8WXl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentbuttondisable .webgnb-uIq3De {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbuttondisable .rectangle-or9Fc5 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbuttondisable .background-or9Fc5 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbuttondisable .index-or9Fc5 {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbuttondisable .web-index-select-9CEx8P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbuttondisable .web-index-unselect-9CEx8P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbuttondisable .web-index-unelect_main-or9Fc5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentbuttondisable .logo-rbCBjZ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentbuttondisable .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

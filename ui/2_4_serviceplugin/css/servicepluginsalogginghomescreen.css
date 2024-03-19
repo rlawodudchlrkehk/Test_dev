@@ -1,0 +1,418 @@
+/* screen - servicepluginsalogginghomescreen */
+
+.servicepluginsalogginghomescreen {
+  background-color: var(--white);
+  height: 9545px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginsalogginghomescreen .group-75-LZk8zk {
+  background-color: transparent;
+  height: 9014px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginsalogginghomescreen .web-title-area-LZk8zk {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginsalogginghomescreen .web-tab-service-plug-in_cctv-LZk8zk {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginsalogginghomescreen .rectangle-7Pllbd {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginsalogginghomescreen .x3rd-depth-7Pllbd {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginsalogginghomescreen .sa-logging-eNSxG8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginsalogginghomescreen .home-screen-eNSxG8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 81px;
+}
+
+.servicepluginsalogginghomescreen .more-option-copy-eNSxG8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 77px;
+}
+
+.servicepluginsalogginghomescreen .notices-copy-eNSxG8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginsalogginghomescreen .deliveries-eNSxG8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 62px;
+}
+
+.servicepluginsalogginghomescreen .vehicle-information-eNSxG8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginsalogginghomescreen .x3rd-depth-copy-7Pllbd {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginsalogginghomescreen .visitors-copy-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginsalogginghomescreen .ems-copy-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 28px;
+}
+
+.servicepluginsalogginghomescreen .maintenance-fee-copy-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.servicepluginsalogginghomescreen .cctv-copy-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginsalogginghomescreen .ev-charging-copy-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.servicepluginsalogginghomescreen .reserve-visitor-vehi-copy-2-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 137px;
+}
+
+.servicepluginsalogginghomescreen .live-view-copy-vrjQ0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 56px;
+}
+
+.servicepluginsalogginghomescreen .lnb-service-plug-in-LZk8zk {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .rectangle-XWS26N {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .lnb-XWS26N {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .stacked-group-n3xDwg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .web-index-title-common-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .empty-PzAAxm {
+  top: 21px;
+}
+
+.servicepluginsalogginghomescreen .empty-SyLODM {
+  top: 0px;
+}
+
+.servicepluginsalogginghomescreen .web-index-contents1d-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .web-index-contents1dpeth_open_selected-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .web-index-contents2dpeth-copy-3-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .web-index-contents2dpeth-copy-2-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .web-index-contents2dpeth-copy-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .web-index-contents2dpeth-copy-4-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .empty-o7nZAo {
+  top: 21px;
+}
+
+.servicepluginsalogginghomescreen .empty-Z2z1vl {
+  top: 0px;
+}
+
+.servicepluginsalogginghomescreen .group-copy-pW3OUM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .empty-EKWxNR {
+  top: 21px;
+}
+
+.servicepluginsalogginghomescreen .empty-wn1wXV {
+  top: 0px;
+}
+
+.servicepluginsalogginghomescreen .web-index-title-reference-copy-pW3OUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsalogginghomescreen .line-n3xDwg {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginsalogginghomescreen .home-net-ui-guideline-n3xDwg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginsalogginghomescreen .webgnb-LZk8zk {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginsalogginghomescreen .rectangle-OLn2Vm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginsalogginghomescreen .background-OLn2Vm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginsalogginghomescreen .index-OLn2Vm {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginsalogginghomescreen .web-index-select-kVAz3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginsalogginghomescreen .web-index-unselect-kVAz3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginsalogginghomescreen .web-index-unelect_main-OLn2Vm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginsalogginghomescreen .logo-PFP0CB {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginsalogginghomescreen .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

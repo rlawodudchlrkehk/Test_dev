@@ -1,0 +1,138 @@
+/**contents area center horizontal**/
+/* body {
+    width: 100% !important;
+    position: relative !important;
+    margin: auto !important;
+} */
+/**GNB**/
+div[class*="gnb"] {
+    width: 100% !important;
+    position: fixed !important;
+    z-index: 999 !important;
+    left: 0 !important;
+    background-color: #252525 !important; /*기존에 color 태그 기입 안되어서 표기안됐음*/
+  }
+
+/**LNB Scroll**/
+div[class*="lnb"] {
+    height: 100% !important;
+    display: inline-block;
+    overflow-y: overlay !important;
+    position: fixed !important;
+    overflow-x: hidden !important;
+    background-color: #F2F2F2 !important;
+}
+div[class*="lnb"]:hover::-webkit-scrollbar {
+    display: initial;
+}
+div[class*="lnb"]::-webkit-scrollbar {
+    display: none;
+}
+
+div[class*="lnb"]::-webkit-scrollbar {
+    width: 6px;
+}
+div[class*="lnb"]::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-width: 0;
+}
+div[class*="lnb"]::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background-color: rgba(0,0,0,0.25);
+    border-style: solid;
+    border-color: transparent;
+    border-width: 0px;
+    background-clip: padding-box;
+}
+div[class*="lnb"]::-webkit-scrollbar-button,
+div[class*="lnb"]::-webkit-scrollbar-track-piece,
+div[class*="lnb"]::-webkit-scrollbar-corner,
+div[class*="lnb"]::-webkit-resizer { display: none;}
+
+
+
+/*좌측 정렬을 위해 여기에 넣어봄*/
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@font-face {
+  font-family: "SamsungOneKorean-600";
+  font-weight: 600;
+  src: url("../fonts/SamsungOneKorean 600_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOneKorean-700";
+  font-weight: 700;
+  src: url("../fonts/SamsungOneKorean-700_v1.2_hinted_20180830.ttf") format("truetype");
+}
+
+
+
+.component-wrapper a {
+  display: contents;
+  pointer-events: auto;
+  text-decoration: none;
+}
+
+.component-wrapper * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+.component-wrapper a *,
+.component-wrapper input,
+.component-wrapper video,
+.component-wrapper iframe {
+  pointer-events: auto;
+}
+
+.component-wrapper.not-ready,
+.component-wrapper.not-ready * {
+  visibility: hidden !important;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+
+    /*밑 태그를 살리면 센터정렬이 됩니다*/
+  /*justify-content: center;*/
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,476 @@
+/* screen - coreappdesignprinciple */
+
+.coreappdesignprinciple {
+  background-color: var(--white);
+  height: 1378px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappdesignprinciple .group-4-D310Oo {
+  background-color: transparent;
+  height: 836px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.coreappdesignprinciple .web-sub_-title-D310Oo {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.coreappdesignprinciple .sub-title-g5AnJn {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreappdesignprinciple .web-title-area-D310Oo {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreappdesignprinciple .web-tabc2-c_re_popup-D310Oo {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.coreappdesignprinciple .x3rd-depth-WTGasC {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreappdesignprinciple .tab-WTGasC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.coreappdesignprinciple .design-principle-4uIg9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 101px;
+}
+
+.coreappdesignprinciple .title-copy-4uIg9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 26px;
+}
+
+.coreappdesignprinciple .contents-4uIg9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.coreappdesignprinciple .logo-4uIg9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.coreappdesignprinciple .background-image-4uIg9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 109px;
+}
+
+.coreappdesignprinciple .pattern-4uIg9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 44px;
+}
+
+.coreappdesignprinciple .lnbc2-c_coreapp-D310Oo {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappdesignprinciple .rectangle-qs80MY {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappdesignprinciple .background-qs80MY {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappdesignprinciple .line-qs80MY {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappdesignprinciple .home-net-gui-guidelin-qs80MY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup27 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup27 .web-index-title-reference-copy-2-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-xFDYuX {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup27 .empty-AFDIuK {
+  bottom: 0px;
+}
+
+.stackedgroup27 .empty-RNvp36 {
+  top: 0px;
+}
+
+.stackedgroup27 .web-index-title-reference-copy-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-copy-xFDYuX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .empty-yk3guN {
+  bottom: 0px;
+}
+
+.stackedgroup27 .empty-A8VgRK {
+  top: 0px;
+}
+
+.stackedgroup27 .web-index-title-reference-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents1dpeth_close-copy-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-qbWuCo {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup27 .x1-depth-title-btT1SH {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup27 .web-fold-qbWuCo {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup27 .background-SVNh4l {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup27 .button-SVNh4l {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup27 .web-index-contents1dpeth_close-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-xLrd3j {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup27 .web-expanded-MK9AdK {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup27 .button-CLzxCE {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup27 .x1-depth-title-MK9AdK {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup27 .web-index-contents1dpeth_open_selected-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-copy-2-xFDYuX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .empty-CFOS1e {
+  bottom: 0px;
+}
+
+.stackedgroup27 .empty-eJxzZt {
+  top: 0px;
+}
+
+.stackedgroup27 .web-index-title-reference-copy-3-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreappdesignprinciple .webgnb-D310Oo {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappdesignprinciple .rectangle-XCHQKo {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappdesignprinciple .background-XCHQKo {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappdesignprinciple .index-XCHQKo {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappdesignprinciple .web-index-select-LJStAB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappdesignprinciple .web-index-unselect-LJStAB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappdesignprinciple .web-index-unelect_main-XCHQKo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreappdesignprinciple .logo-PYdOM4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup27 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup27 .group {
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+}
+
+.stackedgroup27 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

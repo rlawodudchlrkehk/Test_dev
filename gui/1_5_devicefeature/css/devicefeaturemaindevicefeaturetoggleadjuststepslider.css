@@ -1,0 +1,701 @@
+/* screen - devicefeaturemaindevicefeaturetoggleadjuststepslider */
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider {
+  background-color: var(--white);
+  height: 1269px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-3-aj7gLy {
+  background-color: transparent;
+  height: 288px;
+  left: 380px;
+  position: absolute;
+  top: 375px;
+  width: 710px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-4-aj7gLy {
+  background-color: transparent;
+  height: 256px;
+  left: 400px;
+  position: absolute;
+  top: 813px;
+  width: 356px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-aj7gLy {
+  background-color: transparent;
+  height: 207px;
+  left: 1140px;
+  position: absolute;
+  top: 375px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-2-copy-3-gzO44M {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line-8p3xw0 {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-DuiLAm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-DuiLAm {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line-SbvhX9 {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-iDRYVo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-iDRYVo {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text2line_m-8p3xw0 {
+  height: 51px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-C7l7m9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-C7l7m9 {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-2-copy-2-gzO44M {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line-W6WGn4 {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-P7x2NT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-P7x2NT {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line-cofiMl {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-GeAHo6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-GeAHo6 {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text2line_m-W6WGn4 {
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-8jA5Vm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-8jA5Vm {
+  color: var(--lochmara);
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-6-gzO44M {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line-eiuDYP {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-uKlIzA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-uKlIzA {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line-gx48Zq {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-i0CpbB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-i0CpbB {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text2line_m-eiuDYP {
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-sNsma4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents-sNsma4 {
+  color: var(--lochmara);
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .descriptiontabletop-gzO44M {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-title-xBCGFq {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-3CW1LC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-title-text-3CW1LC {
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-title-JkVsH9 {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-1xQM9M {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-title-text-1xQM9M {
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-title-GrPjWr {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-V7dOTt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-title-text-V7dOTt {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-sub_-title_w-description-aj7gLy {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1500px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .content-HP2ouA {
+  background-color: transparent;
+  font-weight: 400;
+  height: 23px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 1400px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .sub-title-HP2ouA {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-title-area-aj7gLy {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-tab-device-featu-aj7gLy {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .x3rd-depth-4UpWQE {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .tab-4UpWQE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .types-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .service-feature-type-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .toggle-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .buttons-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 49px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .buttons-2-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .dropdown-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .toggle-adjust-_-st-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 177px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .toggle-adjust-_-li-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .value-slider-qIryfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .lnb-favorite-card-aj7gLy {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-soJiDK {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .background-soJiDK {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .stacked-group-soJiDK {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-title-common-BPzVfJ {
+  margin: 0;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-contents2dpeth-copy-2-BPzVfJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-contents2dpeth-copy-3-BPzVfJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-contents1dpeth_open_selected-BPzVfJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-copy-BPzVfJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .empty-wBcN9D {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .empty-yXrGw4 {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-title-common-copy-BPzVfJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-BPzVfJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .empty-IAYpA6 {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .empty-yhIxhf {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-title-common-gVwYJh {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .group-copy-2-BPzVfJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .empty-YUol0J {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .empty-dtmZ5F {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-title-common-copy-2-BPzVfJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .line-soJiDK {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .home-net-gui-guidelin-soJiDK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .webgnb-aj7gLy {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .rectangle-S6j74O {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .background-S6j74O {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .index-S6j74O {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-select-PdqwDi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-unselect-PdqwDi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .web-index-unelect_main-S6j74O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .logo-HkTDp2 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggleadjuststepslider .table-guide-text2line_m {
+  background-color: transparent;
+  cursor: pointer;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

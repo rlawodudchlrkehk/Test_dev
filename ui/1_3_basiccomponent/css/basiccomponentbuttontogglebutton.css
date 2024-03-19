@@ -1,0 +1,85 @@
+/* screen - basiccomponentbuttontogglebutton */
+
+.basiccomponentbuttontogglebutton {
+  background-color: var(--white);
+  height: 1417px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbuttontogglebutton .group-8 {
+  background-color: transparent;
+  height: 875px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponentbuttontogglebutton .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbuttontogglebutton .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbuttontogglebutton .toggle-button {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.basiccomponentbuttontogglebutton .bottom-buttons {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentbuttontogglebutton .group-1 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .group-copy {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentbuttontogglebutton .group-2 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1166px;
+  width: 320px;
+}

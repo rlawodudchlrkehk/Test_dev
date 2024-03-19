@@ -1,0 +1,38 @@
+:root { 
+  --black: #000000;
+  --fuscous-gray: #545454cc;
+  --shark: #252525;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+ 
+  --font-family-samsungone-700: "SamsungOne-700", Helvetica;
+  --font-family-samsungonekorean-400: "SamsungOneKorean-400", Helvetica;
+  --font-family-samsungonekorean-600: "SamsungOneKorean-600", Helvetica;
+  --font-family-samsungonekorean-700: "SamsungOneKorean-700", Helvetica;
+}
+.tableguidetextmint {
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.tableguidetextblack {
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tableguidetitle {
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+:root {
+}

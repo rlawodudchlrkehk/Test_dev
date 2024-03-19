@@ -1,0 +1,418 @@
+/* screen - servicepluginsaloggingreservevisitorvehicle */
+
+.servicepluginsaloggingreservevisitorvehicle {
+  background-color: var(--white);
+  height: 5681px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .group-42-Sgj7Ly {
+  background-color: transparent;
+  height: 5150px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-title-area-Sgj7Ly {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-tab-service-plug-in_cctv-Sgj7Ly {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .rectangle-WLUZYv {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .x3rd-depth-WLUZYv {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .sa-logging-GD3SPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .home-screen-GD3SPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 81px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .more-option-copy-GD3SPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 77px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .notices-copy-GD3SPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .deliveries-GD3SPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 62px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .vehicle-information-GD3SPo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .x3rd-depth-copy-WLUZYv {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .visitors-copy-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .ems-copy-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 28px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .maintenance-fee-copy-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .cctv-copy-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .ev-charging-copy-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .reserve-visitor-vehi-copy-2-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .live-view-copy-3j45RL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 56px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .lnb-service-plug-in-Sgj7Ly {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .rectangle-u8tzr4 {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .lnb-u8tzr4 {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .stacked-group-nTVzmB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-title-common-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .empty-dZOJeK {
+  top: 21px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .empty-AD73Db {
+  top: 0px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-contents1d-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-contents1dpeth_open_selected-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-contents2dpeth-copy-3-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-contents2dpeth-copy-2-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-contents2dpeth-copy-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-contents2dpeth-copy-4-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .empty-xxcjpg {
+  top: 21px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .empty-rqax8q {
+  top: 0px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .group-copy-j8gOuR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .empty-obZ7sD {
+  top: 21px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .empty-3H8R2s {
+  top: 0px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-title-reference-copy-j8gOuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .line-nTVzmB {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .home-net-ui-guideline-nTVzmB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .webgnb-Sgj7Ly {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .rectangle-ARz6rS {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .background-ARz6rS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .index-ARz6rS {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-select-g14EVp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-unselect-g14EVp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .web-index-unelect_main-ARz6rS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .logo-OiYv0M {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginsaloggingreservevisitorvehicle .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

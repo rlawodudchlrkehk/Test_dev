@@ -1,0 +1,58 @@
+/* screen - basiccomponenttoasts */
+
+.basiccomponenttoasts {
+  background-color: var(--white);
+  height: 1517px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttoasts .group-5 {
+  height: 255px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponenttoasts .group-4 {
+  height: 135px;
+  left: 1140px;
+  top: 747px;
+  width: 680px;
+}
+
+.basiccomponenttoasts .group-7 {
+  height: 570px;
+  left: 420px;
+  top: 747px;
+  width: 670px;
+}
+
+.basiccomponenttoasts .group-6 {
+  height: 110px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponenttoasts .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponenttoasts .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponenttoasts .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

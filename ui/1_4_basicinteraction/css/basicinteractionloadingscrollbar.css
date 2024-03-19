@@ -1,0 +1,43 @@
+/* screen - basicinteractionloadingscrollbar */
+
+.basicinteractionloadingscrollbar {
+  background-color: var(--white);
+  height: 2108px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionloadingscrollbar .group-4 {
+  background-color: transparent;
+  height: 1624px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basicinteractionloadingscrollbar .scroll-bar {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.basicinteractionloadingscrollbar .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionloadingscrollbar .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

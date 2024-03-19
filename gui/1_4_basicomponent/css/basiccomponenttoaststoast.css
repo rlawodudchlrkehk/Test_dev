@@ -1,0 +1,944 @@
+/* screen - basiccomponenttoaststoast */
+
+.basiccomponenttoaststoast {
+  background-color: var(--white);
+  height: 2096px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttoaststoast .group-qHgLSI {
+  background-color: transparent;
+  height: 222px;
+  left: 1138px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponenttoaststoast .group-2-copy-2-bIYUTz {
+  background-color: transparent;
+  height: 166px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line57 {
+  background-color: transparent;
+  height: 22.29%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line57 .background-9Jai6u {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line57 .rectangle-9Jai6u {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line57 .contents-9Jai6u {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttoaststoast .table-guide-text1line-rhJCMW {
+  height: 155px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttoaststoast .rectangle-YQp6LU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponenttoaststoast .group-YQp6LU {
+  background-color: transparent;
+  height: 144px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponenttoaststoast .content-5GEbg1 {
+  color: var(--black);
+  height: 100px;
+  top: 22px;
+}
+
+.basiccomponenttoaststoast .content-szm7ne {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 124px;
+  white-space: nowrap;
+}
+
+.basiccomponenttoaststoast .title-5GEbg1 {
+  background-color: transparent;
+  color: var(--science-blue);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem36 {
+  background-color: transparent;
+  height: 22.29%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem36 .background-D3Vx5I {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem36 .rectangle-D3Vx5I {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem36 .contents-D3Vx5I {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttoaststoast .group-3-bIYUTz {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-855S5p {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttoaststoast .rectangle-TjPon4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttoaststoast .table-title-text-TjPon4 {
+  width: 258px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-KCvsNx {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttoaststoast .rectangle-52cJK5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttoaststoast .table-title-text-52cJK5 {
+  width: 328px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-oZGs8Q {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttoaststoast .rectangle-D6GGvh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttoaststoast .table-title-text-D6GGvh {
+  width: 38px;
+}
+
+.basiccomponenttoaststoast .group-3-copy-4-qHgLSI {
+  background-color: transparent;
+  height: 120px;
+  left: 1138px;
+  position: absolute;
+  top: 1388px;
+  width: 680px;
+}
+
+.basiccomponenttoaststoast .styletabletop-k5P4cx {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-2h8CxK {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttoaststoast .rectangle-36lFsm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttoaststoast .table-title-text-36lFsm {
+  width: 116px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-SeBYqD {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttoaststoast .rectangle-Y5OBeF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttoaststoast .table-title-text-Y5OBeF {
+  width: 154px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-copy-2h8CxK {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponenttoaststoast .rectangle-XXCCcv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttoaststoast .table-title-text-XXCCcv {
+  width: 94px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-copy-2-2h8CxK {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponenttoaststoast .rectangle-s4rHGt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttoaststoast .table-title-text-s4rHGt {
+  width: 178px;
+}
+
+.basiccomponenttoaststoast .table-guide-title-ZIz1xH {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttoaststoast .rectangle-PanEHg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttoaststoast .table-title-text-PanEHg {
+  width: 38px;
+}
+
+.basiccomponenttoaststoast .group-5-k5P4cx {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttoaststoast .styletable1line_-color-copy-1RlxuE {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttoaststoast .table-guide-text1line-OUGkoX {
+  height: 64px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttoaststoast .rectangle-pOIklD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttoaststoast .contents-pOIklD {
+  width: 116px;
+}
+
+.basiccomponenttoaststoast .table-guide-text1line-d0yS7x {
+  height: 64px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttoaststoast .rectangle-DTpr7Z {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttoaststoast .contents-DTpr7Z {
+  width: 154px;
+}
+
+.basiccomponenttoaststoast .table-guide-text1line-0W9hFx {
+  height: 64px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttoaststoast .rectangle-DZAyWt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttoaststoast .contents-DZAyWt {
+  width: 88px;
+}
+
+.basiccomponenttoaststoast .table-guide-text2line-OUGkoX {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttoaststoast .rectangle-KQxjFb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttoaststoast .contents-KQxjFb {
+  width: 184px;
+}
+
+.basiccomponenttoaststoast .contents-copy-KQxjFb {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttoaststoast .table-guide-text1line-O1k5BJ {
+  height: 37px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttoaststoast .rectangle-9dxxKA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttoaststoast .contents-9dxxKA {
+  width: 38px;
+}
+
+.basiccomponenttoaststoast .group-8-qHgLSI {
+  background-color: transparent;
+  height: 868px;
+  left: 417px;
+  position: absolute;
+  top: 342px;
+  width: 671px;
+}
+
+.basiccomponenttoaststoast .group-2-qHgLSI {
+  background-color: transparent;
+  height: 509px;
+  left: 377px;
+  position: absolute;
+  top: 1388px;
+  width: 711px;
+}
+
+.basiccomponenttoaststoast .web-sub_-title-qHgLSI {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponenttoaststoast .sub-title-SoHpBx {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttoaststoast .web-title-area-qHgLSI {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttoaststoast .web-tab-service-feature_-basic-layout-qHgLSI {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponenttoaststoast .x3rd-depth-8oc6eU {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponenttoaststoast .tab-8oc6eU {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttoaststoast .toast-Oi6qGJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponenttoaststoast .snackbar-Oi6qGJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 58px;
+}
+
+.basiccomponenttoaststoast .lnb-favorite-card-qHgLSI {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .rectangle-ddvxcz {
+  background-color: var(--concrete);
+  height: 1494px;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .background-ddvxcz {
+  background-color: var(--concrete);
+  height: 952px;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .stacked-group-ddvxcz {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-title-common-mWwaP7 {
+  margin: 0;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-2-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-14-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-10-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-6-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-11-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-7-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-4-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-8-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-9-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-5-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-3-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-12-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-13-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents2dpeth-copy-15-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .web-index-contents1dpeth_open_selected-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .group-copy-mWwaP7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .empty-JEw965 {
+  top: 21px;
+}
+
+.basiccomponenttoaststoast .empty-c6vfgt {
+  top: 0px;
+}
+
+.basiccomponenttoaststoast .web-index-title-common-copy-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .group-mWwaP7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .empty-xdl21k {
+  top: 21px;
+}
+
+.basiccomponenttoaststoast .empty-qsaJ8I {
+  top: 0px;
+}
+
+.basiccomponenttoaststoast .web-index-title-common-xts47X {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponenttoaststoast .group-copy-2-mWwaP7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .empty-yJ2q0r {
+  top: 21px;
+}
+
+.basiccomponenttoaststoast .empty-4XlJx6 {
+  top: 0px;
+}
+
+.basiccomponenttoaststoast .web-index-title-common-copy-2-mWwaP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttoaststoast .line-ddvxcz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttoaststoast .home-net-gui-guidelin-ddvxcz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponenttoaststoast .webgnb-qHgLSI {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttoaststoast .rectangle-Pj5tPp {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttoaststoast .background-Pj5tPp {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttoaststoast .index-Pj5tPp {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponenttoaststoast .web-index-select-XQTQuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponenttoaststoast .web-index-unselect-XQTQuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponenttoaststoast .web-index-unelect_main-Pj5tPp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponenttoaststoast .logo-eW61M3 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponenttoaststoast .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  width: 258px;
+}
+
+.basiccomponenttoaststoast .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponenttoaststoast .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttoaststoast .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}

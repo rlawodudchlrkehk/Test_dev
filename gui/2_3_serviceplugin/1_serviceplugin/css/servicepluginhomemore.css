@@ -1,0 +1,642 @@
+/* screen - servicepluginhomemore */
+
+.servicepluginhomemore {
+  background-color: var(--white);
+  height: 1463px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomemore .group-5-Q50wU7 {
+  background-color: transparent;
+  height: 867px;
+  left: 400px;
+  position: absolute;
+  top: 396px;
+  width: 690px;
+}
+
+.servicepluginhomemore .group-2-Q50wU7 {
+  background-color: transparent;
+  height: 115px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginhomemore .group-3-xxl7T2 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomemore .table-guide-text1line-copy-mXh37I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomemore .rectangle-Zx0Vd9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomemore .group-Zx0Vd9 {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginhomemore .content-kmFe5V {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomemore .title-kmFe5V {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomemore .table-guide-text2line_b-copy-2-mXh37I {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginhomemore .rectangle-U21afV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomemore .contents-U21afV {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginhomemore .table-guide-text1line-mXh37I {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginhomemore .rectangle-Ozf8J9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomemore .contents-Ozf8J9 {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.servicepluginhomemore .descriptiontabletop-xxl7T2 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomemore .table-guide-title-42R8ns {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomemore .rectangle-aLzpza {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginhomemore .table-title-text-aLzpza {
+  width: 258px;
+}
+
+.servicepluginhomemore .table-guide-title-qUr25L {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginhomemore .rectangle-tiKGhF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginhomemore .table-title-text-tiKGhF {
+  width: 328px;
+}
+
+.servicepluginhomemore .table-guide-title-QevmjS {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomemore .rectangle-JrDwCi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginhomemore .table-title-text-JrDwCi {
+  width: 38px;
+}
+
+.servicepluginhomemore .web-sub_-title-Q50wU7 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.servicepluginhomemore .web-title-area-Q50wU7 {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomemore .web-tab-service-plug-in_-home-screen-Q50wU7 {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomemore .x3rd-depth-uEgp8D {
+  top: 0px;
+}
+
+.servicepluginhomemore .default-type-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 78px;
+}
+
+.servicepluginhomemore .shortcut-default-t-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 142px;
+}
+
+.servicepluginhomemore .brand-type-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomemore .shortcut-brand-typ-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhomemore .banner-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomemore .app-link-copy-2-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomemore .banner-_-z23oIc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginhomemore .x3rd-depth-geOB1j {
+  top: 53px;
+}
+
+.servicepluginhomemore .more-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginhomemore .edit-_-feature-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.servicepluginhomemore .notifications-_-feat-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhomemore .help-guide-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginhomemore .help-guide-_-expanda-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomemore .help-guide-_-image-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.servicepluginhomemore .service-feature-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhomemore .service-feature-_-no-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhomemore .touch-area-sRQash {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomemore .lnb-service-plug-in-Q50wU7 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemore .rectangle-pkB5SC {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginhomemore .lnb-pkB5SC {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemore .stacked-group-WODf2z {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomemore .web-index-title-common-copy-Rjqfuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .group-copy-Rjqfuj {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .empty-copy-T02MaJ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomemore .line-copy-2-T02MaJ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomemore .empty-copy-2-T02MaJ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemore .web-index-contents1dpeth_open_selected-Rjqfuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .web-index-contents2dpeth-copy-2-Rjqfuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .web-index-contents2dpeth-copy-Rjqfuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .web-index-contents2dpeth-copy-3-Rjqfuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .group-Rjqfuj {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .empty-bWIdRV {
+  top: 21px;
+}
+
+.servicepluginhomemore .empty-VFnL3s {
+  top: 0px;
+}
+
+.servicepluginhomemore .group-copy-2-Rjqfuj {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .empty-glQHjC {
+  top: 21px;
+}
+
+.servicepluginhomemore .empty-q2tlWR {
+  top: 0px;
+}
+
+.servicepluginhomemore .web-index-title-common-copy-2-Rjqfuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemore .line-WODf2z {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomemore .home-net-gui-guidelin-WODf2z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhomemore .webgnb-Q50wU7 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomemore .rectangle-hmchC4 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomemore .background-hmchC4 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomemore .index-hmchC4 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhomemore .web-index-select-A0qyGn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomemore .web-index-unselect-A0qyGn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomemore .web-index-unelect_main-hmchC4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginhomemore .logo-imS36R {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginhomemore .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}

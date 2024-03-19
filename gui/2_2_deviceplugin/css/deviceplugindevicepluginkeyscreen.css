@@ -1,0 +1,318 @@
+/* screen - deviceplugindevicepluginkeyscreen */
+
+.deviceplugindevicepluginkeyscreen {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1566px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugindevicepluginkeyscreen .group-3-oVnjvm {
+  background-color: transparent;
+  height: 1067px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-sub_-title-oVnjvm {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.deviceplugindevicepluginkeyscreen .sub-title-bUnkOR {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-title-area-oVnjvm {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-tab-device-plug-oVnjvm {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugindevicepluginkeyscreen .x3rd-depth-8cUZJ3 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugindevicepluginkeyscreen .tab-0kHsxx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugindevicepluginkeyscreen .keyscreen-c3RZEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 64px;
+}
+
+.deviceplugindevicepluginkeyscreen .time-routine-c3RZEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.deviceplugindevicepluginkeyscreen .activity-history-c3RZEt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.deviceplugindevicepluginkeyscreen .lnb-device-plug-in-oVnjvm {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .rectangle-DvK2q5 {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .background-DvK2q5 {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .stacked-group-DvK2q5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-title-common-ipTMwE {
+  margin: 0;
+}
+
+.deviceplugindevicepluginkeyscreen .group-copy-ipTMwE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .empty-a2oUTA {
+  top: 21px;
+}
+
+.deviceplugindevicepluginkeyscreen .empty-FtCbwp {
+  top: 0px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-title-common-copy-ipTMwE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-contents1dpeth_open_selected-ipTMwE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .group-ipTMwE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .empty-xjKLJW {
+  top: 21px;
+}
+
+.deviceplugindevicepluginkeyscreen .empty-Y2Uk4j {
+  top: 0px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-title-common-9oOtqr {
+  margin: 0px 0 0 0;
+}
+
+.deviceplugindevicepluginkeyscreen .group-copy-2-ipTMwE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .empty-exJcgH {
+  top: 21px;
+}
+
+.deviceplugindevicepluginkeyscreen .empty-46uCPb {
+  top: 0px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-title-common-copy-2-ipTMwE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginkeyscreen .line-DvK2q5 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugindevicepluginkeyscreen .home-net-gui-guidelin-DvK2q5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.deviceplugindevicepluginkeyscreen .webgnb-oVnjvm {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindevicepluginkeyscreen .rectangle-kQxR89 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.deviceplugindevicepluginkeyscreen .background-kQxR89 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.deviceplugindevicepluginkeyscreen .index-kQxR89 {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-select-QL8L8B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-unselect-QL8L8B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugindevicepluginkeyscreen .web-index-unelect_main-kQxR89 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.deviceplugindevicepluginkeyscreen .logo-lOWZxV {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.deviceplugindevicepluginkeyscreen .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

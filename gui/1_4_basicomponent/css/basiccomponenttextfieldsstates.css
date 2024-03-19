@@ -1,0 +1,3564 @@
+/* screen - basiccomponenttextfieldsstates */
+
+.basiccomponenttextfieldsstates {
+  background-color: var(--white);
+  height: 4586px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .group-20-W58mWk {
+  background-color: transparent;
+  height: 184px;
+  left: 367px;
+  position: absolute;
+  top: 2843px;
+  width: 723px;
+}
+
+.basiccomponenttextfieldsstates .group-18-W58mWk {
+  background-color: transparent;
+  height: 978px;
+  left: 367px;
+  position: absolute;
+  top: 1685px;
+  width: 723px;
+}
+
+.basiccomponenttextfieldsstates .group-16-W58mWk {
+  background-color: transparent;
+  height: 184px;
+  left: 367px;
+  position: absolute;
+  top: 860px;
+  width: 723px;
+}
+
+.basiccomponenttextfieldsstates .group-copy-4-W58mWk {
+  background-color: transparent;
+  height: 133px;
+  left: 1140px;
+  position: absolute;
+  top: 3528px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-3-m0CKKl {
+  height: 77px;
+  top: 56px;
+}
+
+.tableguidetext1line64 {
+  background-color: transparent;
+  height: 48.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line64 .background-yzzssG {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line64 .rectangle-yzzssG {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line64 .contents-yzzssG {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line135 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line135 .background-VSiper {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line135 .rectangle-VSiper {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line135 .contents-VSiper {
+  background-color: transparent;
+  color: #ff5656;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-BBeksR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .contents-BBeksR {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-BBeksR {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-3-m0CKKl {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-CdUC2z {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-yc8rQh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-yc8rQh {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-Dml2zy {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-aUK2qB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-aUK2qB {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-pH9zIu {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-vmduvs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-vmduvs {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-43-W58mWk {
+  background-color: transparent;
+  height: 858px;
+  left: 349px;
+  position: absolute;
+  top: 3528px;
+  width: 741px;
+}
+
+.basiccomponenttextfieldsstates .group-3-copy-10-W58mWk {
+  background-color: transparent;
+  height: 378px;
+  left: 1140px;
+  position: absolute;
+  top: 1127px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-YF12dN {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-tE0xmg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-tE0xmg {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-t0Jhxv {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-7V9QVW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-7V9QVW {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-Vx3X4G {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-Vx3X4G {
+  width: 94px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-hoh8ux {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-hoh8ux {
+  width: 178px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-qGqFDM {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-eL1cQO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-eL1cQO {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-5-QJ9cZW {
+  height: 252px;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-jD9OxY {
+  height: 252px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-UimaYF {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-3SkUb5 {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-LWfWS8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-LWfWS8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-YrF3yX {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-3fruuf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-3fruuf {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-uVFXMb {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-3A3Sg4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-3A3Sg4 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-3SkUb5 {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-rfhdEn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-rfhdEn {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-rfhdEn {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-pvjCx4 {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-b4glAO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-b4glAO {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .brand-color-UimaYF {
+  left: 351px;
+  top: 54px;
+}
+
+.basiccomponenttextfieldsstates .group-13-UimaYF {
+  height: 168px;
+  top: 84px;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-2-XslKGm {
+  height: 80px;
+  position: absolute;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-okuEKx {
+  height: 80px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-IAAxrS {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-iEcD9I {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-YvjMyq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-YvjMyq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-bBsQAj {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-h6Bzy4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-h6Bzy4 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-8Fh8zN {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-nliOmG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-nliOmG {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-iEcD9I {
+  background-color: transparent;
+  height: 73px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-Zts3vG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-Zts3vG {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-Zts3vG {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-z4xYRi {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-7oKvxr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-7oKvxr {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-XslKGm {
+  background-color: transparent;
+  height: 84px;
+  left: 346px;
+  position: absolute;
+  top: 84px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-VEJqxN {
+  color: var(--black);
+  font-weight: 400;
+  height: auto;
+  left: 6px;
+  top: 11px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-VEJqxN {
+  color: var(--fuscous-gray);
+  height: auto;
+  top: 53px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-3-QJ9cZW {
+  height: 60px;
+  top: 318px;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-TjBIqo {
+  height: 60px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-VbyVlz {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-w2QSt6 {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-M0GJxd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-M0GJxd {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-ax8oFy {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-OUIrq9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-OUIrq9 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-2FhDHy {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-jHBhlo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-jHBhlo {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-w2QSt6 {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-kXElFp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-kXElFp {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-kXElFp {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-zxJxO6 {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-CaNAbZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-CaNAbZ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-3-copy-11-W58mWk {
+  background-color: transparent;
+  height: 456px;
+  left: 1140px;
+  position: absolute;
+  top: 2066px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-AVsxxK {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-bzYHwi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-bzYHwi {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-0dtfeA {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-quku4W {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-quku4W {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-xbVDBM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-xbVDBM {
+  width: 94px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-zuRygE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-zuRygE {
+  width: 178px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-Z80c0x {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-w0xleP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-w0xleP {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-4-ORNMQ6 {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-VQuKlk {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-GoTgvL {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-S9n7dS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-S9n7dS {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-KRZ9CV {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-xoT2Z8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-xoT2Z8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-PSOPQA {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-sxawnp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-sxawnp {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-GoTgvL {
+  background-color: transparent;
+  height: 57px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-LcafhB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-LcafhB {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-7ae70e {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-sXne37 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-sXne37 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .brand-color-VQuKlk {
+  left: 352px;
+  top: 58px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-skP6Lj {
+  background-color: transparent;
+  height: 60px;
+  left: 352px;
+  position: absolute;
+  top: 88px;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-DGJWdR {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-GO2iT8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .group-ORNMQ6 {
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  position: absolute;
+  top: 288px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-LxCcg3 {
+  background-color: transparent;
+  height: 84px;
+  left: 346px;
+  position: absolute;
+  top: 84px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-yfhxBs {
+  color: var(--black);
+  font-weight: 400;
+  height: auto;
+  left: 6px;
+  top: 11px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-yfhxBs {
+  color: var(--fuscous-gray);
+  height: auto;
+  top: 53px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-3-LxCcg3 {
+  height: 84px;
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-ssbrju {
+  height: 84px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-gc53R3 {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-LKr3xU {
+  height: 64px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-Ytgig8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-Ytgig8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-OxTRld {
+  height: 64px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-wSTVDo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-wSTVDo {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-swmRzZ {
+  height: 64px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-zZzIQl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-zZzIQl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-LKr3xU {
+  background-color: transparent;
+  height: 73px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-F7VeQ2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-F7VeQ2 {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-F7VeQ2 {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-oZwxVk {
+  height: 37px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-kuxorv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-kuxorv {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-13-ORNMQ6 {
+  height: 60px;
+  top: 214px;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-2-jOmxWC {
+  height: 60px;
+  position: relative;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-vAbTs5 {
+  height: 60px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-VnybAc {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-Lj4moq {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-ZrPixL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-ZrPixL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-3qbDut {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-jwUrPx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-jwUrPx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-Ob1r2P {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-KEzMH8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-KEzMH8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-Lj4moq {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-JNzZxz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-JNzZxz {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-JNzZxz {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-8uzfmv {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-b0FMba {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-b0FMba {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-3-copy-12-W58mWk {
+  background-color: transparent;
+  height: 268px;
+  left: 1140px;
+  position: absolute;
+  top: 3110px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-G4BjTS {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-mCZsql {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-mCZsql {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-SvBAMx {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-Hlt257 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-Hlt257 {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-5wbbMG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-5wbbMG {
+  width: 94px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-mVBndP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-mVBndP {
+  width: 178px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-hdXXXc {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-HGZhUr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-HGZhUr {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-5-vbaSwR {
+  height: 64px;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-w0DgQs {
+  height: 64px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-sE9gp5 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-fWxxRl {
+  height: 64px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-3eA2KL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-3eA2KL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-W3FHcI {
+  height: 64px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-1FB2kC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-1FB2kC {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-Qyh0h7 {
+  height: 64px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-ZW1Lwm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-ZW1Lwm {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-fWxxRl {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-pnhQsg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-pnhQsg {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-pnhQsg {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-QPitVt {
+  height: 37px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-fnlnBF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-fnlnBF {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-13-vbaSwR {
+  height: 60px;
+  top: 130px;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-2-OJ5klV {
+  height: 60px;
+  position: relative;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-3MMNqB {
+  height: 60px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-DmLh8T {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-ekNkwX {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-geyBLc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-geyBLc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-68orxB {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-cf5zbG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-cf5zbG {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-tUX1HC {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-LAn9rY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-LAn9rY {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-ekNkwX {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-yx7zqd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-yx7zqd {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-yx7zqd {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-m372LI {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-j84bw9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-j84bw9 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-3-vbaSwR {
+  height: 64px;
+  top: 204px;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy-oEpkii {
+  height: 64px;
+}
+
+.basiccomponenttextfieldsstates .styletable1line_-color-copy-2-gAFxxY {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-x492RE {
+  height: 64px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-lCnfEP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsstates .contents-lCnfEP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-1fmPsx {
+  height: 64px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-2hbKOa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsstates .contents-2hbKOa {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-HYXgJb {
+  height: 64px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-vYY5Gw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsstates .contents-vYY5Gw {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line-x492RE {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-rt0nYX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsstates .contents-rt0nYX {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-rt0nYX {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-v47Ng9 {
+  height: 37px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-a99pwq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .contents-a99pwq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .group-15-W58mWk {
+  background-color: transparent;
+  height: 338px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponenttextfieldsstates .group-copy-W58mWk {
+  background-color: transparent;
+  height: 197px;
+  left: 1140px;
+  position: absolute;
+  top: 830px;
+  width: 680px;
+}
+
+.tableguidetext1line65 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line65 .background-bmcZ8x {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line65 .rectangle-bmcZ8x {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line65 .contents-bmcZ8x {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line136 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line136 .background-BYEwbI {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line136 .rectangle-BYEwbI {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line136 .contents-BYEwbI {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem42 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem42 .background-Nr7xq0 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem42 .rectangle-Nr7xq0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem42 .contents-Nr7xq0 {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-3-IczpLR {
+  height: 64px;
+  top: 133px;
+}
+
+.tableguidetext1line66 {
+  background-color: transparent;
+  height: 57.81%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line66 .background-wFGcXm {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line66 .rectangle-wFGcXm {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line66 .contents-wFGcXm {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-t2z0yE {
+  height: 53px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-OhXINt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .contents-OhXINt {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-OhXINt {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-IQP3nn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .contents-IQP3nn {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-IQP3nn {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-3-IczpLR {
+  top: 30px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-cnPjQI {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-V6xxTs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-V6xxTs {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-7AuZ9p {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-mgK5xJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-mgK5xJ {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-je0tRz {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-k9Jklt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-k9Jklt {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .title-IczpLR {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.basiccomponenttextfieldsstates .group-copy-2-W58mWk {
+  background-color: transparent;
+  height: 311px;
+  left: 1140px;
+  position: absolute;
+  top: 1655px;
+  width: 680px;
+}
+
+.tableguidetext1line67 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line67 .background-83tVlW {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line67 .rectangle-83tVlW {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line67 .contents-83tVlW {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line137 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line137 .background-m28MEY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line137 .rectangle-m28MEY {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line137 .contents-m28MEY {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem43 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem43 .background-TvAsoW {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem43 .rectangle-TvAsoW {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem43 .contents-TvAsoW {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-3-Sh2SnT {
+  height: 64px;
+  top: 133px;
+}
+
+.tableguidetext1line68 {
+  background-color: transparent;
+  height: 57.81%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line68 .background-3MFVAY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line68 .rectangle-3MFVAY {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line68 .contents-3MFVAY {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line138 {
+  background-color: transparent;
+  height: 89.06%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line138 .background-iVP7iE {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line138 .rectangle-iVP7iE {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line138 .contents-iVP7iE {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-rt0Eh6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .contents-rt0Eh6 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-rt0Eh6 {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-4-Sh2SnT {
+  height: 104px;
+  top: 207px;
+}
+
+.tableguidetext1line69 {
+  background-color: transparent;
+  height: 35.58%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line69 .background-Lxr4sc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line69 .rectangle-Lxr4sc {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line69 .contents-Lxr4sc {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-tD4LGB {
+  height: 93px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-FsE2qs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .contents-FsE2qs {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-FsE2qs {
+  color: var(--black);
+  height: 60px;
+  top: 33px;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-HIsJ97 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .contents-HIsJ97 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-HIsJ97 {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-3-Sh2SnT {
+  top: 30px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-ZfrxrV {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-1Ar2eD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-1Ar2eD {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-PyBl0I {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-hGD5Uj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-hGD5Uj {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-9ldSnG {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-V7C0rS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-V7C0rS {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .title-copy-Sh2SnT {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.basiccomponenttextfieldsstates .group-copy-3-W58mWk {
+  background-color: transparent;
+  height: 197px;
+  left: 1140px;
+  position: absolute;
+  top: 2813px;
+  width: 680px;
+}
+
+.tableguidetext1line70 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line70 .background-xQlRyc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line70 .rectangle-xQlRyc {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line70 .contents-xQlRyc {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line139 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line139 .background-Qedj5i {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line139 .rectangle-Qedj5i {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line139 .contents-Qedj5i {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem44 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem44 .background-4WvgQN {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem44 .rectangle-4WvgQN {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem44 .contents-4WvgQN {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-4-DrTLVx {
+  height: 64px;
+  top: 133px;
+}
+
+.tableguidetext1line71 {
+  background-color: transparent;
+  height: 57.81%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line71 .background-4Gvgm5 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line71 .rectangle-4Gvgm5 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line71 .contents-4Gvgm5 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-f7kJxb {
+  height: 53px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-qJvwio {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .contents-qJvwio {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-qJvwio {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-sueGbz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .contents-sueGbz {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .contents-copy-sueGbz {
+  color: var(--black);
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .group-3-DrTLVx {
+  top: 30px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-YhyPDt {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-TbDHkq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-TbDHkq {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-p8xPUZ {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-oHK6ux {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-oHK6ux {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-OqvxyL {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-4xmymt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-title-text-4xmymt {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsstates .title-copy-2-DrTLVx {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.basiccomponenttextfieldsstates .web-sub_-title-W58mWk {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponenttextfieldsstates .sub-title-bsaqbT {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .web-title-area-W58mWk {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .web-tab-service-feature_-basic-layout-W58mWk {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .x3rd-depth-MBIk5b {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .tab-MBIk5b {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .basic-PEIYFj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 31px;
+}
+
+.basiccomponenttextfieldsstates .auto_complete-text-f-PEIYFj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.basiccomponenttextfieldsstates .states-PEIYFj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.basiccomponenttextfieldsstates .lnb-favorite-card-W58mWk {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-JPPJAf {
+  background-color: var(--concrete);
+  height: 1494px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .background-JPPJAf {
+  background-color: var(--concrete);
+  height: 952px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .stacked-group-JPPJAf {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-title-common-aqn8XM {
+  margin: 0;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-2-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-14-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-10-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-6-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-11-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-7-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-4-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-8-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-9-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-5-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-3-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-12-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-13-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents2dpeth-copy-15-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents1dpeth_open_selected-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .group-copy-aqn8XM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .empty-8PxDNN {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsstates .empty-se6SWf {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .web-index-title-common-copy-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .group-aqn8XM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .empty-yoNnWx {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsstates .empty-skAOSF {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .web-index-title-common-mFD1xd {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponenttextfieldsstates .group-copy-2-aqn8XM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .empty-bd7GTb {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsstates .empty-xZOFQg {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .web-index-title-common-copy-2-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .line-JPPJAf {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsstates .home-net-gui-guidelin-JPPJAf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponenttextfieldsstates .webgnb-W58mWk {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-XJQj4I {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .background-XJQj4I {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .index-XJQj4I {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsstates .web-index-select-LXjZa4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponenttextfieldsstates .web-index-unselect-LXjZa4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsstates .web-index-unelect_main-XJQj4I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponenttextfieldsstates .logo-A0OgyJ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponenttextfieldsstates .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponenttextfieldsstates .contents-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponenttextfieldsstates .group-12-copy {
+  background-color: transparent;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-13 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 86px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-2-copy-4 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-2 {
+  background-color: transparent;
+  left: 0px;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .group-5-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsstates .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}

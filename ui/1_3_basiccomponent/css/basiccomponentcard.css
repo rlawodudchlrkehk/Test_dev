@@ -1,0 +1,44 @@
+/* screen - basiccomponentcard */
+
+.basiccomponentcard {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentcard .group-4 {
+  height: 442px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentcard .group-6 {
+  height: 297px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentcard .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentcard .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentcard .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

@@ -1,0 +1,579 @@
+/* screen - overviewcoreapp */
+
+.overviewcoreapp {
+  background-color: var(--white);
+  height: 1288px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewcoreapp .group-BGoObI {
+  background-color: transparent;
+  height: 746px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.overviewcoreapp .group-3-BGoObI {
+  background-color: transparent;
+  height: 115px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.overviewcoreapp .group-2-Wc6fvk {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line7 {
+  background-color: transparent;
+  height: 52.54%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line7 .rectangle-UaBHVq {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line7 .contents-UaBHVq {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.overviewcoreapp .table-guide-text2line_m-PatoJ6 {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.overviewcoreapp .rectangle-yHIfVw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.overviewcoreapp .group-yHIfVw {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.overviewcoreapp .content-WM5WzW {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.overviewcoreapp .title-WM5WzW {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.tableguidetext2linemcopy6 {
+  background-color: transparent;
+  height: 52.54%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext2linemcopy6 .rectangle-P6atqo {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext2linemcopy6 .contents-P6atqo {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.overviewcoreapp .descriptiontabletop-Wc6fvk {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.overviewcoreapp .table-guide-title-Xtumu8 {
+  left: 410px;
+  width: 270px;
+}
+
+.overviewcoreapp .rectangle-fbZtva {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.overviewcoreapp .table-title-text-fbZtva {
+  width: 258px;
+}
+
+.overviewcoreapp .table-guide-title-lSMhhl {
+  left: 60px;
+  width: 340px;
+}
+
+.overviewcoreapp .rectangle-U8JWUZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.overviewcoreapp .table-title-text-U8JWUZ {
+  width: 328px;
+}
+
+.overviewcoreapp .table-guide-title-YWeuxQ {
+  left: 0px;
+  width: 50px;
+}
+
+.overviewcoreapp .rectangle-fBIHSr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.overviewcoreapp .table-title-text-fBIHSr {
+  width: 38px;
+}
+
+.overviewcoreapp .web-sub_-title-BGoObI {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.overviewcoreapp .sub-title-FSVWBL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewcoreapp .web-title-area-BGoObI {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewcoreapp .web-tab-overview_touch-area-BGoObI {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewcoreapp .x3rd-depth-JcYmBn {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewcoreapp .tab-JcYmBn {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewcoreapp .core-app-BuWtJL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 53px;
+}
+
+.overviewcoreapp .lnb-favorite-card-BGoObI {
+  background-color: transparent;
+  height: 1168px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewcoreapp .rectangle-VvluVL {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewcoreapp .background-VvluVL {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewcoreapp .stacked-group-VvluVL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-title-common-yvQq1E {
+  margin: 0;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_close-copy-2-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_close-copy-3-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_close-copy-4-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_close-copy-5-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_close-copy-6-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_close-copy-7-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .web-index-contents1dpeth_open_selected-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .group-copy-yvQq1E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .empty-hIhFb0 {
+  top: 21px;
+}
+
+.overviewcoreapp .empty-reKrg2 {
+  top: 0px;
+}
+
+.overviewcoreapp .web-index-title-common-copy-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .group-yvQq1E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .empty-scL8EJ {
+  top: 21px;
+}
+
+.overviewcoreapp .empty-KkZFDV {
+  top: 0px;
+}
+
+.overviewcoreapp .web-index-title-common-oE4fg3 {
+  margin: 0px 0 0 0;
+}
+
+.overviewcoreapp .group-copy-2-yvQq1E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .empty-Z6gVHO {
+  top: 21px;
+}
+
+.overviewcoreapp .empty-DHlqbI {
+  top: 0px;
+}
+
+.overviewcoreapp .web-index-title-common-copy-2-yvQq1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewcoreapp .line-VvluVL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewcoreapp .home-net-gui-guidelin-VvluVL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewcoreapp .webgnb-BGoObI {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewcoreapp .rectangle-NJUOuU {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewcoreapp .background-NJUOuU {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewcoreapp .index-NJUOuU {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewcoreapp .web-index-select-mmblRR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewcoreapp .web-index-unselect-mmblRR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewcoreapp .web-index-unelect_main-NJUOuU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.overviewcoreapp .logo-kbak3V {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.overviewcoreapp .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.overviewcoreapp .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

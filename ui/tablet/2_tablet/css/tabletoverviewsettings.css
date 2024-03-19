@@ -1,0 +1,52 @@
+/* screen - tabletoverviewsettings */
+
+.tabletoverviewsettings {
+  background-color: var(--white);
+  height: 2328px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletoverviewsettings .group-1 {
+  background-color: transparent;
+  height: 962px;
+  left: 420px;
+  position: absolute;
+  top: 375px;
+  width: 1400px;
+}
+
+.tabletoverviewsettings .group-2 {
+  background-color: transparent;
+  height: 641px;
+  left: 420px;
+  position: absolute;
+  top: 1487px;
+  width: 1400px;
+}
+
+.tabletoverviewsettings .web-sub_-title_w-description {
+  background-color: transparent;
+  height: 91px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletoverviewsettings .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletoverviewsettings .group-4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

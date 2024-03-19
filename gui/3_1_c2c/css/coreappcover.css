@@ -1,0 +1,359 @@
+/* screen - coreappcover */
+
+.coreappcover {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappcover .group-2-hUtAbj {
+  background-color: transparent;
+  height: 150px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 319px;
+}
+
+.coreappcover .lnbc2-c_coreapp-hUtAbj {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappcover .rectangle-bKKevN {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappcover .background-bKKevN {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappcover .line-bKKevN {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappcover .home-net-gui-guidelin-bKKevN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup .web-index-title-reference-copy-2-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .group-cmWrxo {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup .empty-I12gSr {
+  bottom: 0px;
+}
+
+.stackedgroup .empty-CMGcNK {
+  top: 0px;
+}
+
+.stackedgroup .web-index-title-reference-copy-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .group-copy-cmWrxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .empty-cxKBVJ {
+  bottom: 0px;
+}
+
+.stackedgroup .empty-WNTzCv {
+  top: 0px;
+}
+
+.stackedgroup .web-index-title-reference-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .web-index-contents1dpeth_close-copy-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .group-QbxBNA {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup .x1-depth-title-urHdlL {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup .web-fold-QbxBNA {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup .background-jxm55B {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup .button-jxm55B {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup .web-index-contents1dpeth_close-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .group-Lk0eUi {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup .web-expanded-NvYeVT {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup .button-zS8EVx {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup .x1-depth-title-NvYeVT {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup .web-index-contents1dpeth_open_selected-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .group-copy-2-cmWrxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .empty-GDxtmm {
+  bottom: 0px;
+}
+
+.stackedgroup .empty-v5psZv {
+  top: 0px;
+}
+
+.stackedgroup .web-index-title-reference-copy-3-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreappcover .webgnb-hUtAbj {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappcover .rectangle-olydy1 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappcover .background-olydy1 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappcover .index-olydy1 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappcover .web-index-select-rigWvB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappcover .web-index-unselect-rigWvB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappcover .web-index-unelect_main-olydy1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreappcover .logo-XNY6Hz {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup .group {
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+}
+
+.stackedgroup .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

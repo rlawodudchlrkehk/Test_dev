@@ -1,0 +1,300 @@
+/* screen - devicepluginsmartplugbasickeyscreen */
+
+.devicepluginsmartplugbasickeyscreen {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1358px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginsmartplugbasickeyscreen .group-jBffeP {
+  background-color: transparent;
+  height: 816px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 821px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-sub_-title-jBffeP {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-title-area-jBffeP {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-tab-device-plug-in_-smart-plug-jBffeP {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugbasickeyscreen .x3rd-depth-YXET1F {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugbasickeyscreen .tab-oO6io3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginsmartplugbasickeyscreen .smart-plug-yXxngR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 69px;
+}
+
+.devicepluginsmartplugbasickeyscreen .basic-key-screen-yXxngR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.devicepluginsmartplugbasickeyscreen .lnb-device-plug-in-jBffeP {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .rectangle-d7uxdt {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .background-d7uxdt {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .stacked-group-d7uxdt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-title-common-vxDxh5 {
+  margin: 0;
+}
+
+.devicepluginsmartplugbasickeyscreen .group-copy-vxDxh5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .empty-RlkWqV {
+  top: 21px;
+}
+
+.devicepluginsmartplugbasickeyscreen .empty-xJObVu {
+  top: 0px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-title-common-copy-vxDxh5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-contents1dpeth_open_selected-vxDxh5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .group-vxDxh5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .empty-ExNh6v {
+  top: 21px;
+}
+
+.devicepluginsmartplugbasickeyscreen .empty-KMYosc {
+  top: 0px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-title-common-kOg4UT {
+  margin: 0px 0 0 0;
+}
+
+.devicepluginsmartplugbasickeyscreen .group-copy-2-vxDxh5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .empty-oUzI3J {
+  top: 21px;
+}
+
+.devicepluginsmartplugbasickeyscreen .empty-PnRvnh {
+  top: 0px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-title-common-copy-2-vxDxh5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugbasickeyscreen .line-d7uxdt {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsmartplugbasickeyscreen .home-net-gui-guidelin-d7uxdt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginsmartplugbasickeyscreen .webgnb-jBffeP {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsmartplugbasickeyscreen .rectangle-5xLdHx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginsmartplugbasickeyscreen .background-5xLdHx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginsmartplugbasickeyscreen .index-5xLdHx {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-select-SyTM1t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-unselect-SyTM1t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginsmartplugbasickeyscreen .web-index-unelect_main-5xLdHx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicepluginsmartplugbasickeyscreen .logo-f9SES5 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicepluginsmartplugbasickeyscreen .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

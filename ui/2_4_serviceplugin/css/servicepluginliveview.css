@@ -1,0 +1,385 @@
+/* screen - servicepluginliveview */
+
+.servicepluginliveview {
+  background-color: var(--white);
+  height: 1363px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveview .group-11-xb52Mc {
+  background-color: transparent;
+  height: 832px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginliveview .web-title-area-xb52Mc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveview .web-tab-service-plug-in_cctv-xb52Mc {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginliveview .rectangle-tLPhgY {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginliveview .x3rd-depth-tLPhgY {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveview .live-view-_-basic-st-TudPrg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 165px;
+}
+
+.servicepluginliveview .live-view-TudPrg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 57px;
+}
+
+.servicepluginliveview .live-view-_-feature-TudPrg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.servicepluginliveview .live-view-_-interact-TudPrg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.servicepluginliveview .incoming-call-_-stru-copy-TudPrg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 156px;
+}
+
+.servicepluginliveview .incoming-call-_-scre-TudPrg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.servicepluginliveview .x3rd-depth-copy-tLPhgY {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginliveview .incoming-call-CWQXiW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 85px;
+}
+
+.servicepluginliveview .incoming-call-_-feat-CWQXiW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 146px;
+}
+
+.servicepluginliveview .incoming-call-_-inte-CWQXiW {
+  width: 197px;
+}
+
+.servicepluginliveview .incoming-call-_-inte-2yksV7 {
+  width: 262px;
+}
+
+.servicepluginliveview .incoming-call-_-inte-rRXJyh {
+  width: 315px;
+}
+
+.servicepluginliveview .lnb-service-plug-in-xb52Mc {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveview .rectangle-tcMdCI {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginliveview .lnb-tcMdCI {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveview .stacked-group-ulSB12 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginliveview .web-index-title-common-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .empty-I6pGxM {
+  top: 21px;
+}
+
+.servicepluginliveview .empty-g66Y5T {
+  top: 0px;
+}
+
+.servicepluginliveview .web-index-contents1d-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .web-index-contents1dpeth_open_selected-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .web-index-contents2dpeth-copy-3-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .web-index-contents2dpeth-copy-2-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .web-index-contents2dpeth-copy-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .web-index-contents2dpeth-copy-4-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .empty-xOGqZz {
+  top: 21px;
+}
+
+.servicepluginliveview .empty-A415xk {
+  top: 0px;
+}
+
+.servicepluginliveview .group-copy-MJfzI9 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .empty-R149zv {
+  top: 21px;
+}
+
+.servicepluginliveview .empty-KfH4XD {
+  top: 0px;
+}
+
+.servicepluginliveview .web-index-title-reference-copy-MJfzI9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveview .line-ulSB12 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginliveview .home-net-ui-guideline-ulSB12 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginliveview .webgnb-xb52Mc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveview .rectangle-AXTvdS {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginliveview .background-AXTvdS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveview .index-AXTvdS {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginliveview .web-index-select-gCVUWN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginliveview .web-index-unselect-gCVUWN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginliveview .web-index-unelect_main-AXTvdS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginliveview .logo-slPZKK {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginliveview .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

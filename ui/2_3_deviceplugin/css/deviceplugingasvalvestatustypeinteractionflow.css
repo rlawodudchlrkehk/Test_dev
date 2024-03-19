@@ -1,0 +1,583 @@
+/* screen - deviceplugingasvalvestatustypeinteractionflow */
+
+.deviceplugingasvalvestatustypeinteractionflow {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2261px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .group-6-xAmnz7 {
+  background-color: transparent;
+  height: 800px;
+  left: 420px;
+  position: absolute;
+  top: 1261px;
+  width: 1400px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .group-5-xAmnz7 {
+  background-color: transparent;
+  height: 769px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-sub_-title-xAmnz7 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-title-area-xAmnz7 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-tab-device-plug-in_-gas-valve-xAmnz7 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .x3rd-depth-CJTTTZ {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .tab-CXyVCg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .status-type-rrVW9x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 70px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .status-type-_-intera-rrVW9x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 183px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .lnb-device-plug-in-xAmnz7 {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .rectangle-tkqUek {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .stacked-group-tkqUek {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-title-common-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-1EMbq9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-fNc3lY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-co0Ga1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-NtXQQl {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-9csZRw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .group-PnmEKN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .empty-8M3hKk {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .line-copy-8M3hKk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .empty-fZD0dg {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-title-reference-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-PWukaR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-LrhUVW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_open_selected-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-1EMbq9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-fNc3lY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-co0Ga1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-NtXQQl {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-9csZRw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-PWukaR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-LrhUVW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-vLX6n6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-F7nl6f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-TKl53A {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-f2WKr0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-copy-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents2dpeth-MyHG79 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-contents1dpeth_close-vLX6n6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .group-1EMbq9 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .empty-lbrxvS {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .line-copy-lbrxvS {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .empty-AtlopG {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-title-reference-1EMbq9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .group-copy-PnmEKN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .empty-copy-pZnEyK {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .line-copy-2-pZnEyK {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .empty-copy-2-pZnEyK {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-title-reference-copy-PnmEKN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .line-tkqUek {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .home-net-ui-guideline-tkqUek {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .webgnb-xAmnz7 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .rectangle-7iwP75 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .background-7iwP75 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .index-7iwP75 {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-select-osUhnm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-unselect-osUhnm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .web-index-unelect_main-7iwP75 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.deviceplugingasvalvestatustypeinteractionflow .logo-2Kh8DY {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

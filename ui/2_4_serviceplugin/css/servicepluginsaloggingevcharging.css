@@ -1,0 +1,418 @@
+/* screen - servicepluginsaloggingevcharging */
+
+.servicepluginsaloggingevcharging {
+  background-color: var(--white);
+  height: 1383px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginsaloggingevcharging .group-7-7DJ53h {
+  background-color: transparent;
+  height: 852px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingevcharging .web-title-area-7DJ53h {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingevcharging .web-tab-service-plug-in_cctv-7DJ53h {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingevcharging .rectangle-I6bGId {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingevcharging .x3rd-depth-I6bGId {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingevcharging .sa-logging-hvUCkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginsaloggingevcharging .home-screen-hvUCkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 81px;
+}
+
+.servicepluginsaloggingevcharging .more-option-copy-hvUCkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 77px;
+}
+
+.servicepluginsaloggingevcharging .notices-copy-hvUCkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginsaloggingevcharging .deliveries-hvUCkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 62px;
+}
+
+.servicepluginsaloggingevcharging .vehicle-information-hvUCkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginsaloggingevcharging .x3rd-depth-copy-I6bGId {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginsaloggingevcharging .visitors-copy-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginsaloggingevcharging .ems-copy-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 28px;
+}
+
+.servicepluginsaloggingevcharging .maintenance-fee-copy-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.servicepluginsaloggingevcharging .cctv-copy-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginsaloggingevcharging .ev-charging-copy-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.servicepluginsaloggingevcharging .reserve-visitor-vehi-copy-2-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 137px;
+}
+
+.servicepluginsaloggingevcharging .live-view-copy-t38ViY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 56px;
+}
+
+.servicepluginsaloggingevcharging .lnb-service-plug-in-7DJ53h {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .rectangle-hPTpZs {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .lnb-hPTpZs {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .stacked-group-gGPgUw {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .web-index-title-common-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .empty-xdZMQK {
+  top: 21px;
+}
+
+.servicepluginsaloggingevcharging .empty-fdZQiB {
+  top: 0px;
+}
+
+.servicepluginsaloggingevcharging .web-index-contents1d-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .web-index-contents1dpeth_open_selected-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .web-index-contents2dpeth-copy-3-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .web-index-contents2dpeth-copy-2-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .web-index-contents2dpeth-copy-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .web-index-contents2dpeth-copy-4-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .empty-f4Z7Hz {
+  top: 21px;
+}
+
+.servicepluginsaloggingevcharging .empty-4V9RcL {
+  top: 0px;
+}
+
+.servicepluginsaloggingevcharging .group-copy-KwcwFv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .empty-ewUPoZ {
+  top: 21px;
+}
+
+.servicepluginsaloggingevcharging .empty-ITufWx {
+  top: 0px;
+}
+
+.servicepluginsaloggingevcharging .web-index-title-reference-copy-KwcwFv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginsaloggingevcharging .line-gGPgUw {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginsaloggingevcharging .home-net-ui-guideline-gGPgUw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginsaloggingevcharging .webgnb-7DJ53h {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginsaloggingevcharging .rectangle-PHkGxd {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginsaloggingevcharging .background-PHkGxd {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginsaloggingevcharging .index-PHkGxd {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginsaloggingevcharging .web-index-select-IbMcCg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginsaloggingevcharging .web-index-unselect-IbMcCg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginsaloggingevcharging .web-index-unelect_main-PHkGxd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginsaloggingevcharging .logo-dIDWtR {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginsaloggingevcharging .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

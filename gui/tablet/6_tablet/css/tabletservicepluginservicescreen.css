@@ -1,0 +1,668 @@
+/* screen - tabletservicepluginservicescreen */
+
+.tabletservicepluginservicescreen {
+  background-color: var(--white);
+  height: 1357px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginservicescreen .group-m6hdlp {
+  background-color: transparent;
+  height: 815px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.tabletservicepluginservicescreen .web-sub_-title-m6hdlp {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.tabletservicepluginservicescreen .sub-title-PFxEs9 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginservicescreen .web-title-area-m6hdlp {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluginservicescreen .web-tab-service-plug-in_-home-screen-m6hdlp {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluginservicescreen .x3rd-depth-GIGxzR {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluginservicescreen .tab-iUy0ut {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluginservicescreen .feature-gTpYXC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluginservicescreen .lnb-service-plug-in-m6hdlp {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .rectangle-WXAmA0 {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .lnb-WXAmA0 {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .stacked-group-BAJ4Ii {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .web-index-title-common-copy-jpaWRS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .group-fsdNb7 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .group-copy-jpaWRS {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .empty-copy-hHPfWV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .line-copy-2-hHPfWV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletservicepluginservicescreen .empty-copy-2-hHPfWV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .group-L6VXQ0 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .group-jpaWRS {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .empty-QBUpxJ {
+  top: 21px;
+}
+
+.tabletservicepluginservicescreen .empty-Ha3wx9 {
+  top: 0px;
+}
+
+.tabletservicepluginservicescreen .group-SfqKXH {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .group-51pLFJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .empty-EE0aJI {
+  top: 21px;
+}
+
+.tabletservicepluginservicescreen .empty-H15IZx {
+  top: 0px;
+}
+
+.tabletservicepluginservicescreen .group-x33lU4 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .group-dFjDxb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x1-depth-title-jgrfbG {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginservicescreen .button-V2PJiK {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginservicescreen .group-RZlGdZ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x1-depth-title-I6YEfp {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginservicescreen .button-EGtch7 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginservicescreen .group-5TTKT4 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x1-depth-title-wGmzRS {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginservicescreen .button-QDiXdX {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginservicescreen .group-fXveNK {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x1-depth-title-JyOgD4 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginservicescreen .button-7RBP27 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginservicescreen .group-JUxzYs {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x1-depth-title-7UrPFl {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginservicescreen .button-x6oZX2 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginservicescreen .group-jhunNU {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x1-depth-title-q9DRLG {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.tabletservicepluginservicescreen .web-expanded-jhunNU {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.tabletservicepluginservicescreen .button-TBeYJ8 {
+  left: 1px;
+  top: -4px;
+  transform: rotate(90deg);
+}
+
+.tabletservicepluginservicescreen .group-xV95VT {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-C4vw0Z {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-YMEt1j {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-578Koh {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-nSPHRb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-xYxxIN {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.tabletservicepluginservicescreen .group-Rpq6Yu {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-dDNqlo {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-iTyMVh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-nxfnmi {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-bKf6o5 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-PSkqOl {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-imUfyU {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-vWIIr1 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-55ZMGG {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-corZFt {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-c54L1Y {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-wMMgFW {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-gAFAa7 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-LRuCSV {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-kGnOj6 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-sUzdil {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-qolqLw {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-vXkX3K {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .group-xiaiyW {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginservicescreen .x2-death-title-KmxrPp {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginservicescreen .line-BAJ4Ii {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluginservicescreen .home-net-gui-guidelin-BAJ4Ii {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.tabletservicepluginservicescreen .webgnb-m6hdlp {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginservicescreen .rectangle-8AfYn1 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluginservicescreen .background-8AfYn1 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginservicescreen .index-8AfYn1 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tabletservicepluginservicescreen .web-index-select-n6OEe7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluginservicescreen .web-index-unselect-n6OEe7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluginservicescreen .web-index-unelect_main-8AfYn1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletservicepluginservicescreen .logo-tebUEo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.tabletservicepluginservicescreen .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginservicescreen .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

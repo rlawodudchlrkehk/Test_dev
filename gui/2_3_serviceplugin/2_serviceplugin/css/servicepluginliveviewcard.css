@@ -1,0 +1,1754 @@
+/* screen - servicepluginliveviewcard */
+
+.servicepluginliveviewcard {
+  background-color: var(--white);
+  height: 1881px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveviewcard .group-5-oZNw8b {
+  background-color: transparent;
+  height: 449px;
+  left: 380px;
+  position: absolute;
+  top: 396px;
+  width: 710px;
+}
+
+.servicepluginliveviewcard .group-22-oZNw8b {
+  background-color: transparent;
+  height: 558px;
+  left: 380px;
+  position: absolute;
+  top: 1123px;
+  width: 710px;
+}
+
+.servicepluginliveviewcard .group-23-oZNw8b {
+  background-color: transparent;
+  height: 448px;
+  left: 1140px;
+  position: absolute;
+  top: 1123px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-10-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 323px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-qCWAu6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .contents-qCWAu6 {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-13-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 323px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-UqliVv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-UqliVv {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-copy-8-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-B8eUZO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-B8eUZO {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-9-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 125px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-dXcAMA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-dXcAMA {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-copy-7-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-g0GeUY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-g0GeUY {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-8-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 214px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-JOX2MR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-JOX2MR {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-7-vAQmUr {
+  background-color: transparent;
+  height: 73px;
+  left: 410px;
+  position: absolute;
+  top: 369px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-2axB6r {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .group-2axB6r {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .content-quFnxa {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .title-quFnxa {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-copy-6-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 369px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-5Gscir {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-5Gscir {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-6-vAQmUr {
+  background-color: transparent;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 369px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-xXbCMb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .group-xXbCMb {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .content-n0scpn {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .title-n0scpn {
+  color: var(--persian-green);
+  font-weight: 600;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-copy-10-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-skoZqk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-skoZqk {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-17-vAQmUr {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 56px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-jxDHXC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-jxDHXC {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-14-vAQmUr {
+  background-color: transparent;
+  height: 53px;
+  left: 410px;
+  position: absolute;
+  top: 56px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-2xTbtv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .group-2xTbtv {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .content-OZC5IF {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .title-OZC5IF {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-19-vAQmUr {
+  background-color: transparent;
+  height: 93px;
+  left: 410px;
+  position: absolute;
+  top: 214px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-z8dUSv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .group-z8dUSv {
+  background-color: transparent;
+  height: 82px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .content-p5iW8i {
+  color: var(--black);
+  height: 60px;
+  top: 22px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .title-p5iW8i {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-18-vAQmUr {
+  background-color: transparent;
+  height: 73px;
+  left: 410px;
+  position: absolute;
+  top: 125px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-87DUS9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .group-87DUS9 {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .content-lxsJlG {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .title-lxsJlG {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .descriptiontabletop-copy-2-vAQmUr {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-title-pLTCJE {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-5qnQYo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .table-title-text-5qnQYo {
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-title-iLXlEC {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-ukxTlf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .table-title-text-ukxTlf {
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-title-dKGJxb {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-GDldLI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .table-title-text-GDldLI {
+  width: 38px;
+}
+
+.servicepluginliveviewcard .group-3-oZNw8b {
+  background-color: transparent;
+  height: 201px;
+  left: 1140px;
+  position: absolute;
+  top: 772px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-title-cypWRE {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewcard .rectangle-Cex68x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginliveviewcard .table-title-text-Cex68x {
+  width: 116px;
+}
+
+.servicepluginliveviewcard .table-guide-title-vnHcmT {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginliveviewcard .rectangle-BefpXq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginliveviewcard .table-title-text-BefpXq {
+  width: 154px;
+}
+
+.servicepluginliveviewcard .table-guide-title-copy-cypWRE {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.servicepluginliveviewcard .rectangle-jUkkA5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginliveviewcard .table-title-text-jUkkA5 {
+  width: 94px;
+}
+
+.servicepluginliveviewcard .table-guide-title-copy-2-cypWRE {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.servicepluginliveviewcard .rectangle-2xx1uA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginliveviewcard .table-title-text-2xx1uA {
+  width: 178px;
+}
+
+.servicepluginliveviewcard .table-guide-title-gvPgLz {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-pKsjjv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .table-title-text-pKsjjv {
+  width: 38px;
+}
+
+.servicepluginliveviewcard .descriptiontable2line-VFFR1V {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-HWeILZ {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewcard .rectangle-BK0bye {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewcard .contents-BK0bye {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginliveviewcard .rectangle-BovyLT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewcard .contents-BovyLT {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginliveviewcard .rectangle-H2JXlB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewcard .contents-H2JXlB {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line-copy-2-HWeILZ {
+  height: 75px;
+}
+
+.servicepluginliveviewcard .rectangle-J3TYRu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewcard .group-J3TYRu {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .content-mcpSEo {
+  color: var(--rose);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .content-lH8zep {
+  color: var(--rose);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .title-mcpSEo {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-36BpcJ {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-X7FbKk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-X7FbKk {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .descriptiontable2line-copy-VFFR1V {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 142px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-BJAxHX {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewcard .rectangle-NjcLn0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewcard .contents-NjcLn0 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginliveviewcard .rectangle-LkxSM8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewcard .contents-LkxSM8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginliveviewcard .rectangle-vStNge {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewcard .contents-vStNge {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line-copy-2-BJAxHX {
+  height: 53px;
+}
+
+.servicepluginliveviewcard .rectangle-rwT6x4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewcard .group-rwT6x4 {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .content-qFQu5Y {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .title-qFQu5Y {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-ySL9Q9 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-XA3ecx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-XA3ecx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .group-14-oZNw8b {
+  background-color: transparent;
+  height: 276px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .group-21-FjE13x {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-EziikM {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-jNiDVx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-jNiDVx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-EziikM {
+  height: 31px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-wrbNXi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-wrbNXi {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-4RADsa {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-q8dOXl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .contents-q8dOXl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .group-20-FjE13x {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-ezhLjf {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-7a9PGF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .contents-7a9PGF {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-ezhLjf {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-6aYVdz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-6aYVdz {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-ezhLjf {
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-1wDeqm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-1wDeqm {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .group-16-FjE13x {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-3-LCa6Fs {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-ACXMBU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .contents-ACXMBU {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-LCa6Fs {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-wsjlLH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-wsjlLH {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-LCa6Fs {
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-FhgTW3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-FhgTW3 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .group-13-FjE13x {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 217px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line-copy-XV3etg {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-QeU5Td {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .contents-QeU5Td {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-2-XV3etg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-3BxeEz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .contents-3BxeEz {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m-copy-11-XV3etg {
+  background-color: transparent;
+  height: 53px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-ixjtOE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .group-ixjtOE {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .content-qwqqLZ {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .title-qwqqLZ {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-title-cxL1iP {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .rectangle-MA60cw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginliveviewcard .table-title-text-MA60cw {
+  width: 258px;
+}
+
+.servicepluginliveviewcard .table-guide-title-yEddV5 {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .rectangle-TMo0M8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginliveviewcard .table-title-text-TMo0M8 {
+  width: 328px;
+}
+
+.servicepluginliveviewcard .table-guide-title-jjPXmr {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .rectangle-FgYlxl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewcard .table-title-text-FgYlxl {
+  width: 38px;
+}
+
+.servicepluginliveviewcard .web-sub_-title-oZNw8b {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 360px;
+}
+
+.servicepluginliveviewcard .sub-title-CjbxrV {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginliveviewcard .web-title-area-oZNw8b {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveviewcard .web-tab-service-plug-in_cctv-oZNw8b {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.servicepluginliveviewcard .x3rd-depth-IEO7wp {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveviewcard .card-copy-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginliveviewcard .popup-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.servicepluginliveviewcard .incoming-call_-push-n-copy-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 199px;
+}
+
+.servicepluginliveviewcard .incoming-call_-flow_m-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 250px;
+}
+
+.servicepluginliveviewcard .flow_-front-door-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.servicepluginliveviewcard .flow_-home-screen-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.servicepluginliveviewcard .flow_-back-key-copy-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.servicepluginliveviewcard .feature_-basic_-layout-copy-OVovbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginliveviewcard .x3rd-depth-copy-IEO7wp {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginliveviewcard .feature_-status-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 95px;
+}
+
+.servicepluginliveviewcard .feature_-button-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginliveviewcard .feature_-dialog-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginliveviewcard .feature_-main-entranc-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.servicepluginliveviewcard .feature_-front-door-copy-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginliveviewcard .feature_-call-end-copy-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.servicepluginliveviewcard .feature_-back-key-copy-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginliveviewcard .feature_-exceptional-90MpWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}
+
+.servicepluginliveviewcard .lnb-service-plug-in-oZNw8b {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .rectangle-SattPc {
+  background-color: var(--concrete);
+  height: 1396px;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .lnb-SattPc {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .stacked-group-d3NfL9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .web-index-title-common-copy-nUsMiJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .group-copy-nUsMiJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .empty-copy-6NgMGk {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .line-copy-2-6NgMGk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginliveviewcard .empty-copy-2-6NgMGk {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .web-index-contents1dpeth_open_selected-nUsMiJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .web-index-contents2dpeth-copy-2-nUsMiJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .web-index-contents2dpeth-copy-nUsMiJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .web-index-contents2dpeth-copy-3-nUsMiJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .group-nUsMiJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .empty-izxSKQ {
+  top: 21px;
+}
+
+.servicepluginliveviewcard .empty-sXPzOZ {
+  top: 0px;
+}
+
+.servicepluginliveviewcard .group-copy-2-nUsMiJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .empty-zxcP0b {
+  top: 21px;
+}
+
+.servicepluginliveviewcard .empty-0HYaIR {
+  top: 0px;
+}
+
+.servicepluginliveviewcard .web-index-title-common-copy-2-nUsMiJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewcard .line-d3NfL9 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginliveviewcard .home-net-gui-guidelin-d3NfL9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginliveviewcard .webgnb-oZNw8b {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewcard .rectangle-0Bj5Xm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginliveviewcard .background-0Bj5Xm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewcard .index-0Bj5Xm {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginliveviewcard .web-index-select-NzI2Lt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginliveviewcard .web-index-unselect-NzI2Lt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginliveviewcard .web-index-unelect_main-0Bj5Xm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginliveviewcard .logo-i0lr1h {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginliveviewcard .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.servicepluginliveviewcard .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.servicepluginliveviewcard .descriptiontabletop {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewcard .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line-copy {
+  background-color: transparent;
+  height: 31px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line-copy-2 {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginliveviewcard .table-guide-text2line_m {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewcard .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewcard .title {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

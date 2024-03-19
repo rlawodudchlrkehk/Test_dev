@@ -1,0 +1,940 @@
+/* screen - servicefeaturelist */
+
+.servicefeaturelist {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2560px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.servicefeaturelist .group-oUcdAE {
+  background-color: transparent;
+  height: 589px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-rOjFOt {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-8BCuar {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-ZwNOwd {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 194px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-xopfKt {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 263px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-copy-rOjFOt {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 332px;
+  width: 680px;
+}
+
+.servicefeaturelist .table-guide-text1line-rSG9Of {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicefeaturelist .table-guide-text1line-CTc8GT {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeaturelist .table-guide-text1line_-bold-rSG9Of {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeaturelist .group-7-copy-2-rOjFOt {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 421px;
+  width: 680px;
+}
+
+.servicefeaturelist .table-guide-text1line-8FaLnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicefeaturelist .table-guide-text1line-9gKftQ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeaturelist .table-guide-text1line_-bold-8FaLnJ {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeaturelist .group-7-copy-3-rOjFOt {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 510px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-4-rOjFOt {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-copy-oUcdAE {
+  background-color: transparent;
+  height: 589px;
+  left: 1140px;
+  position: absolute;
+  top: 1081px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-2TRv2x {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-diIX8K {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-gvSiHt {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 194px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-xMzjh5 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 263px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-copy-2TRv2x {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 332px;
+  width: 680px;
+}
+
+.servicefeaturelist .table-guide-text1line-nFsneB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicefeaturelist .table-guide-text1line-0NGRFD {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeaturelist .table-guide-text1line_-bold-nFsneB {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeaturelist .group-7-copy-2-2TRv2x {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 421px;
+  width: 680px;
+}
+
+.servicefeaturelist .table-guide-text1line-pDSxcI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicefeaturelist .table-guide-text1line-pak212 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeaturelist .table-guide-text1line_-bold-pDSxcI {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeaturelist .group-7-copy-3-2TRv2x {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 510px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-4-2TRv2x {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-copy-2-oUcdAE {
+  background-color: transparent;
+  height: 540px;
+  left: 1140px;
+  position: absolute;
+  top: 1820px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-IVo5BE {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-yiC72E {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-kvzi3R {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 194px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-7-TX6hxr {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 263px;
+  width: 680px;
+}
+
+.servicefeaturelist .table-guide-text1line-xlVwCx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicefeaturelist .table-guide-text1line-1TXGg3 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeaturelist .table-guide-text1line_-bold-xlVwCx {
+  background-color: transparent;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeaturelist .group-7-copy-2-IVo5BE {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 372px;
+  width: 680px;
+}
+
+.servicefeaturelist .table-guide-text1line-AKPx7S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicefeaturelist .table-guide-text1line-zoHxfY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeaturelist .table-guide-text1line_-bold-AKPx7S {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeaturelist .group-7-copy-3-IVo5BE {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 461px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-4-IVo5BE {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicefeaturelist .group-11-oUcdAE {
+  background-color: transparent;
+  height: 344px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.servicefeaturelist .group-12-oUcdAE {
+  background-color: transparent;
+  height: 344px;
+  left: 420px;
+  position: absolute;
+  top: 1081px;
+  width: 670px;
+}
+
+.servicefeaturelist .group-13-oUcdAE {
+  background-color: transparent;
+  height: 344px;
+  left: 420px;
+  position: absolute;
+  top: 1820px;
+  width: 670px;
+}
+
+.servicefeaturelist .web-sub_-title-oUcdAE {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicefeaturelist .web-title-area-oUcdAE {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicefeaturelist .web-tab-favorite-car-oUcdAE {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicefeaturelist .x3rd-depth-gBKEo0 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicefeaturelist .tab-gBKEo0 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.servicefeaturelist .contents-structure-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 116px;
+}
+
+.servicefeaturelist .service-feature-type-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 130px;
+}
+
+.servicefeaturelist .text-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 26px;
+}
+
+.servicefeaturelist .list-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.servicefeaturelist .dropdown-list-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.servicefeaturelist .dropdown-graph-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 117px;
+}
+
+.servicefeaturelist .media-flx1Bu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 38px;
+}
+
+.servicefeaturelist .lnb-favorite-card-oUcdAE {
+  background-color: transparent;
+  height: 1029px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeaturelist .rectangle-SllyPx {
+  background-color: var(--concrete);
+  height: 1029px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeaturelist .background-SllyPx {
+  background-color: var(--concrete);
+  height: 942px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeaturelist .stacked-group-SllyPx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-title-common-M7OQqa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-M7OQqa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-2Ehl1C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-jV6lXp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-9peQEx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-imqAN3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_open_selected-M7OQqa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents2dpeth-M7OQqa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents2dpeth-2Ehl1C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .group-M7OQqa {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .empty-qFgRFI {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicefeaturelist .line-copy-qFgRFI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeaturelist .empty-Y1pdgl {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-title-reference-M7OQqa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-CKxsBq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-mlvouW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-8KsCzw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-contents1dpeth_close-YqEsGk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .group-2Ehl1C {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .empty-TyTu0F {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicefeaturelist .line-copy-TyTu0F {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeaturelist .empty-0xVnUP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-title-reference-2Ehl1C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.servicefeaturelist .group-copy-M7OQqa {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeaturelist .empty-Z7oTxe {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicefeaturelist .line-copy-Z7oTxe {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeaturelist .empty-cCimIc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeaturelist .web-index-title-reference-copy-M7OQqa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.servicefeaturelist .line-SllyPx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicefeaturelist .home-net-ui-guideline-SllyPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicefeaturelist .webgnb-oUcdAE {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeaturelist .rectangle-RFRR2s {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeaturelist .background-RFRR2s {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeaturelist .index-RFRR2s {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.servicefeaturelist .web-index-select-zH2u6r {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicefeaturelist .web-index-unselect-zH2u6r {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.servicefeaturelist .web-index-select_main-RFRR2s {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicefeaturelist .logo-xKe1ki {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

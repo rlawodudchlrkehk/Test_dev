@@ -1,0 +1,547 @@
+/* screen - coreapplifetabservicecardhealth */
+
+.coreapplifetabservicecardhealth {
+  background-color: var(--white);
+  height: 2008px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardhealth .group-6Rt7I0 {
+  background-color: transparent;
+  height: 1412px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 1082px;
+}
+
+.coreapplifetabservicecardhealth .web-sub_-title-6Rt7I0 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 360px;
+}
+
+.coreapplifetabservicecardhealth .sub-title-YRZ7Eh {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreapplifetabservicecardhealth .web-title-area-6Rt7I0 {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardhealth .web-tabc2-c_re_popup-6Rt7I0 {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardhealth .rectangle-krnStE {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardhealth .background-krnStE {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardhealth .x3rd-depth-krnStE {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardhealth .layout-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 42px;
+}
+
+.coreapplifetabservicecardhealth .life-tab-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetabservicecardhealth .service-card-health-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 119px;
+}
+
+.coreapplifetabservicecardhealth .basic-_-title-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardhealth .basic-_-page-indicat-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetabservicecardhealth .basic-_-bg-copy-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetabservicecardhealth .basic-_-primary-colo-qMO3bP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetabservicecardhealth .x3rd-depth-copy-krnStE {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardhealth .basic-type-k1ZqUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetabservicecardhealth .quick-link-type-copy-k1ZqUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.coreapplifetabservicecardhealth .quick-link-type-_-se-k1ZqUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetabservicecardhealth .quick-link-type-_-ic-k1ZqUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetabservicecardhealth .banner-type-k1ZqUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardhealth .broken-token-k1ZqUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetabservicecardhealth .lnbc2-c_coreapp-6Rt7I0 {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardhealth .rectangle-Mr5ONI {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardhealth .background-Mr5ONI {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardhealth .line-Mr5ONI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetabservicecardhealth .home-net-gui-guidelin-Mr5ONI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup34 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup34 .web-index-title-reference-copy-2-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .group-idzRII {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup34 .empty-U4gBT5 {
+  bottom: 0px;
+}
+
+.stackedgroup34 .empty-dt2x6L {
+  top: 0px;
+}
+
+.stackedgroup34 .web-index-title-reference-copy-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .group-copy-idzRII {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .empty-yVq7O2 {
+  bottom: 0px;
+}
+
+.stackedgroup34 .empty-YzdtEY {
+  top: 0px;
+}
+
+.stackedgroup34 .web-index-title-reference-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .web-index-contents1dpeth_close-copy-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .group-uktVx5 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup34 .x1-depth-title-EjWt9e {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup34 .web-fold-uktVx5 {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup34 .background-fog0y0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup34 .button-fog0y0 {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup34 .web-index-contents1dpeth_close-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .group-MUybhn {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup34 .web-expanded-xpN1Pb {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup34 .button-6s0QWl {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup34 .x1-depth-title-xpN1Pb {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup34 .web-index-contents1dpeth_open_selected-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .group-copy-2-idzRII {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup34 .empty-wVq91p {
+  bottom: 0px;
+}
+
+.stackedgroup34 .empty-4ykfm3 {
+  top: 0px;
+}
+
+.stackedgroup34 .web-index-title-reference-copy-3-idzRII {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetabservicecardhealth .webgnb-6Rt7I0 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardhealth .rectangle-ygSI1V {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardhealth .background-ygSI1V {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardhealth .index-ygSI1V {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreapplifetabservicecardhealth .web-index-select-BylyYX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreapplifetabservicecardhealth .web-index-unselect-BylyYX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreapplifetabservicecardhealth .web-index-unelect_main-ygSI1V {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreapplifetabservicecardhealth .logo-xook7K {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup34 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup34 .group {
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+}
+
+.stackedgroup34 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

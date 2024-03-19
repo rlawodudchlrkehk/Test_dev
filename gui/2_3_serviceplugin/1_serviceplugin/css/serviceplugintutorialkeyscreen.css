@@ -1,0 +1,780 @@
+/* screen - serviceplugintutorialkeyscreen */
+
+.serviceplugintutorialkeyscreen {
+  background-color: var(--white);
+  height: 2614px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugintutorialkeyscreen .group-6-0jYCsO {
+  background-color: transparent;
+  height: 856px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.serviceplugintutorialkeyscreen .group-13-0jYCsO {
+  background-color: transparent;
+  height: 1066px;
+  left: 420px;
+  position: absolute;
+  top: 1348px;
+  width: 1429px;
+}
+
+.serviceplugintutorialkeyscreen .group-4-0jYCsO {
+  background-color: transparent;
+  height: 314px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugintutorialkeyscreen .group-3-pwD7Cf {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text2line-NINCzk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-7HDrWe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .contents-7HDrWe {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-NINCzk {
+  left: 410px;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-AXAu5K {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .contents-AXAu5K {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-rrxql9 {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-xh1S3X {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .contents-xh1S3X {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugintutorialkeyscreen .group-3-copy-pwD7Cf {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 123px;
+  width: 680px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text2line-copy-pHpqXP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-lXxlTd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .contents-lXxlTd {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-copy-pHpqXP {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-tQxxCQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .contents-tQxxCQ {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-copy-2-pHpqXP {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-h57dbk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .contents-h57dbk {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugintutorialkeyscreen .group-3-copy-2-pwD7Cf {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 190px;
+  width: 680px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text2line-copy-2-2xqbhC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-XHtBJE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .contents-XHtBJE {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-copy-3-2xqbhC {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-xbGW43 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .contents-xbGW43 {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-copy-4-2xqbhC {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-LNxzEs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .contents-LNxzEs {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugintutorialkeyscreen .group-3-copy-3-pwD7Cf {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 257px;
+  width: 680px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text2line-copy-3-3zqwL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-U4S0EZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .contents-U4S0EZ {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-copy-5-3zqwL3 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-0T8B7s {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .contents-0T8B7s {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line-copy-6-3zqwL3 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-Q7oAKv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .contents-Q7oAKv {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugintutorialkeyscreen .descriptiontabletop-pwD7Cf {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-title-q8agey {
+  left: 410px;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-tS80Ks {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.serviceplugintutorialkeyscreen .table-title-text-tS80Ks {
+  width: 258px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-title-lztP9S {
+  left: 60px;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-XHb47K {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.serviceplugintutorialkeyscreen .table-title-text-XHb47K {
+  width: 328px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-title-CXK8eG {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-x0n9Nw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.serviceplugintutorialkeyscreen .table-title-text-x0n9Nw {
+  width: 38px;
+}
+
+.serviceplugintutorialkeyscreen .web-sub_-title-0jYCsO {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.serviceplugintutorialkeyscreen .sub-title-CfUELA {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serviceplugintutorialkeyscreen .web-title-area-0jYCsO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.serviceplugintutorialkeyscreen .web-tab-service-plug-in_-home-screen-0jYCsO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.serviceplugintutorialkeyscreen .x3rd-depth-b7LlLR {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugintutorialkeyscreen .tab-mRHHE3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugintutorialkeyscreen .key-screen-bbxH2B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.serviceplugintutorialkeyscreen .header_-app-bar-bbxH2B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 107px;
+}
+
+.serviceplugintutorialkeyscreen .card-copy-bbxH2B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugintutorialkeyscreen .service-title-copy-bbxH2B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.serviceplugintutorialkeyscreen .bottom-buttons-bbxH2B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.serviceplugintutorialkeyscreen .lnb-service-plug-in-0jYCsO {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-r6mWGe {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .lnb-r6mWGe {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .stacked-group-asDx7o {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-title-common-copy-NF4GWY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .group-copy-NF4GWY {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .empty-copy-q4ZghG {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .line-copy-2-q4ZghG {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.serviceplugintutorialkeyscreen .empty-copy-2-q4ZghG {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-contents1dpeth_open_selected-NF4GWY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-contents2dpeth-copy-2-NF4GWY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-contents2dpeth-copy-NF4GWY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-contents2dpeth-copy-3-NF4GWY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .group-NF4GWY {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .empty-clO9KD {
+  top: 21px;
+}
+
+.serviceplugintutorialkeyscreen .empty-xxDJv5 {
+  top: 0px;
+}
+
+.serviceplugintutorialkeyscreen .group-copy-2-NF4GWY {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .empty-IzVAKd {
+  top: 21px;
+}
+
+.serviceplugintutorialkeyscreen .empty-Cv7GQk {
+  top: 0px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-title-common-copy-2-NF4GWY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialkeyscreen .line-asDx7o {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugintutorialkeyscreen .home-net-gui-guidelin-asDx7o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.serviceplugintutorialkeyscreen .webgnb-0jYCsO {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugintutorialkeyscreen .rectangle-WunRFf {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugintutorialkeyscreen .background-WunRFf {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugintutorialkeyscreen .index-WunRFf {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-select-ZP053o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-unselect-ZP053o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugintutorialkeyscreen .web-index-unelect_main-WunRFf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.serviceplugintutorialkeyscreen .logo-7VFuO8 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.serviceplugintutorialkeyscreen .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.serviceplugintutorialkeyscreen .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}

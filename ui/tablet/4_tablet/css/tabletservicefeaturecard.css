@@ -1,0 +1,53 @@
+/* screen - tabletservicefeaturecard */
+
+.tabletservicefeaturecard {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicefeaturecard .group-5 {
+  background-color: transparent;
+  height: 114px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicefeaturecard .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicefeaturecard .lnbc2-c-connector_1 {
+  background-color: transparent;
+  height: 761px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicefeaturecard .rectangle-lnbc2-c-connector_1 {
+  background-color: #f2f2f2;
+  height: 761px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicefeaturecard .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

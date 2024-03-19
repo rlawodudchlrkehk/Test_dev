@@ -1,0 +1,336 @@
+/* screen - c2clifetabservicecardbasictype */
+
+.c2clifetabservicecardbasictype {
+  background-color: var(--white);
+  height: 3080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2clifetabservicecardbasictype .group-18-3eaaJg {
+  background-color: transparent;
+  height: 578px;
+  left: 411px;
+  position: absolute;
+  top: 342px;
+  width: 1409px;
+}
+
+.c2clifetabservicecardbasictype .group-14-3eaaJg {
+  background-color: transparent;
+  height: 1810px;
+  left: 320px;
+  position: absolute;
+  top: 1070px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardbasictype .web-sub_-title-3eaaJg {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardbasictype .web-title-area-3eaaJg {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardbasictype .web-tabc2-c-connecto-3eaaJg {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardbasictype .x3rd-depth-GOMrlF {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardbasictype .tab-ljdldd {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2clifetabservicecardbasictype .life-tab-nv5C5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.c2clifetabservicecardbasictype .service-card-health-nv5C5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.c2clifetabservicecardbasictype .service-card-types-nv5C5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 108px;
+}
+
+.c2clifetabservicecardbasictype .service-card-_-basic-nv5C5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 153px;
+}
+
+.c2clifetabservicecardbasictype .service-card-_-quick-nv5C5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 173px;
+}
+
+.c2clifetabservicecardbasictype .loading-_-service-pl-nv5C5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 147px;
+}
+
+.c2clifetabservicecardbasictype .lnbc2-c-connector_2-3eaaJg {
+  background-color: transparent;
+  height: 895px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .rectangle-yuxuEH {
+  background-color: var(--concrete);
+  height: 895px;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .stacked-group-yuxuEH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .web-index-title-common-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .empty-rM5jV5 {
+  top: 21px;
+}
+
+.c2clifetabservicecardbasictype .empty-u6OEJL {
+  top: 0px;
+}
+
+.c2clifetabservicecardbasictype .empty-7b178v {
+  top: 21px;
+}
+
+.c2clifetabservicecardbasictype .empty-MZK7N6 {
+  top: 0px;
+}
+
+.c2clifetabservicecardbasictype .web-index-contents1dpeth_open_selected-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .web-index-contents1dpeth_close-copy-5-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .web-index-contents1dpeth_close-copy-7-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .web-index-contents1dpeth_close-copy-3-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .web-index-contents1dpeth_close-copy-2-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .group-copy-VYrkJm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardbasictype .empty-311MWS {
+  top: 21px;
+}
+
+.c2clifetabservicecardbasictype .empty-EDRm5A {
+  top: 0px;
+}
+
+.c2clifetabservicecardbasictype .web-index-title-reference-copy-VYrkJm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2clifetabservicecardbasictype .line-yuxuEH {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2clifetabservicecardbasictype .home-net-ui-guideline-yuxuEH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2clifetabservicecardbasictype .webgnb-3eaaJg {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabservicecardbasictype .rectangle-uTv6rc {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2clifetabservicecardbasictype .background-uTv6rc {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabservicecardbasictype .index-uTv6rc {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2clifetabservicecardbasictype .web-index-select-uJ1329 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2clifetabservicecardbasictype .web-index-unselect-uJ1329 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2clifetabservicecardbasictype .web-index-unelect_main-uTv6rc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

@@ -1,0 +1,69 @@
+/* screen - tablettouchinteractionmain */
+
+.tablettouchinteractionmain {
+  background-color: #ffffff;
+  height: 1334px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tablettouchinteractionmain .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tablettouchinteractionmain .group-1 {
+  background-color: transparent;
+  height: 900px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.tablettouchinteractionmain .lnbc2-c-connector_1 {
+  background-color: transparent;
+  height: 714px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tablettouchinteractionmain .rectangle-lnbc2-c-connector_1 {
+  background-color: #f2f2f2;
+  height: 714px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tablettouchinteractionmain .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tablettouchinteractionmain .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tablettouchinteractionmain .group-copy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

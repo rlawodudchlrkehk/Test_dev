@@ -1,0 +1,98 @@
+/* screen - basiccomponentlistgridlist */
+
+.basiccomponentlistgridlist {
+  background-color: var(--white);
+  height: 1933px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentlistgridlist .group-1 {
+  height: 542px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentlistgridlist .group-10 {
+  height: 364px;
+  left: 1140px;
+  top: 1268px;
+  width: 680px;
+}
+
+.basiccomponentlistgridlist .group-8 {
+  height: 777px;
+  left: 400px;
+  top: 342px;
+  width: 690px;
+}
+
+.basiccomponentlistgridlist .group-9 {
+  height: 466px;
+  left: 419px;
+  top: 1268px;
+  width: 672px;
+}
+
+.basiccomponentlistgridlist .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentlistgridlist .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentlistgridlist .expandable-list-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 95px;
+}
+
+.basiccomponentlistgridlist .grid-list {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.basiccomponentlistgridlist .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentlistgridlist .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentlistgridlist .group-3 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

@@ -1,0 +1,472 @@
+/* screen - servicepluginliveviewfrontdoor */
+
+.servicepluginliveviewfrontdoor {
+  background-color: var(--white);
+  height: 1205px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveviewfrontdoor .group-7-xGGLHN {
+  background-color: transparent;
+  height: 609px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 1400px;
+}
+
+.servicepluginliveviewfrontdoor .web-sub_-title-xGGLHN {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 439px;
+}
+
+.servicepluginliveviewfrontdoor .sub-title-1mhQFO {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginliveviewfrontdoor .web-title-area-xGGLHN {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfrontdoor .web-tab-service-plug-in_cctv-xGGLHN {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfrontdoor .x3rd-depth-yvkLh7 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfrontdoor .card-copy-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginliveviewfrontdoor .popup-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.servicepluginliveviewfrontdoor .incoming-call_-push-n-copy-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 199px;
+}
+
+.servicepluginliveviewfrontdoor .incoming-call_-flow_m-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 250px;
+}
+
+.servicepluginliveviewfrontdoor .flow_-front-door-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.servicepluginliveviewfrontdoor .flow_-home-screen-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.servicepluginliveviewfrontdoor .flow_-back-key-copy-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-basic_-layout-copy-IY0GBL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginliveviewfrontdoor .x3rd-depth-copy-yvkLh7 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-status-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 95px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-button-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-dialog-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-main-entranc-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-front-door-copy-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-call-end-copy-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-back-key-copy-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginliveviewfrontdoor .feature_-exceptional-BTHj4k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}
+
+.servicepluginliveviewfrontdoor .lnb-service-plug-in-xGGLHN {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .rectangle-6ftxzn {
+  background-color: var(--concrete);
+  height: 1396px;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .lnb-6ftxzn {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .stacked-group-1kM7xm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-title-common-copy-aLWcDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .group-copy-aLWcDw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .empty-copy-5WwsWa {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .line-copy-2-5WwsWa {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginliveviewfrontdoor .empty-copy-2-5WwsWa {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-contents1dpeth_open_selected-aLWcDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-contents2dpeth-copy-2-aLWcDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-contents2dpeth-copy-aLWcDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-contents2dpeth-copy-3-aLWcDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .group-aLWcDw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .empty-G7pYo1 {
+  top: 21px;
+}
+
+.servicepluginliveviewfrontdoor .empty-FleBJV {
+  top: 0px;
+}
+
+.servicepluginliveviewfrontdoor .group-copy-2-aLWcDw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .empty-m3x1wZ {
+  top: 21px;
+}
+
+.servicepluginliveviewfrontdoor .empty-VD3y6w {
+  top: 0px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-title-common-copy-2-aLWcDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfrontdoor .line-1kM7xm {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginliveviewfrontdoor .home-net-gui-guidelin-1kM7xm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginliveviewfrontdoor .webgnb-xGGLHN {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewfrontdoor .rectangle-UQmexE {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginliveviewfrontdoor .background-UQmexE {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewfrontdoor .index-UQmexE {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-select-eMNwsx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-unselect-eMNwsx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginliveviewfrontdoor .web-index-unelect_main-UQmexE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginliveviewfrontdoor .logo-q9ll7r {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}

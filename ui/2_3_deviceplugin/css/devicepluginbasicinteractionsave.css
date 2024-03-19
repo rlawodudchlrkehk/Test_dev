@@ -1,0 +1,652 @@
+/* screen - devicepluginbasicinteractionsave */
+
+.devicepluginbasicinteractionsave {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1276px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginbasicinteractionsave .group-40-ppLcFr {
+  background-color: transparent;
+  height: 679px;
+  left: 420px;
+  position: absolute;
+  top: 398px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractionsave .table-guide-title-ppLcFr {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractionsave .web-sub_-title_w-description-ppLcFr {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionsave .web-title-area-ppLcFr {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionsave .web-tab-device-plug-ppLcFr {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionsave .x3rd-depth-1d7FsL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionsave .information-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 800px;
+  position: absolute;
+  top: 0px;
+  width: 74px;
+}
+
+.devicepluginbasicinteractionsave .refresh-rule-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 924px;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.devicepluginbasicinteractionsave .time-routine-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1050px;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.devicepluginbasicinteractionsave .capability-_-graph-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1194px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.devicepluginbasicinteractionsave .activity-history-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1361px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+
+.devicepluginbasicinteractionsave .save-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 720px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.devicepluginbasicinteractionsave .change-icon-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 594px;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.devicepluginbasicinteractionsave .change-device-name-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 417px;
+  position: absolute;
+  top: 0px;
+  width: 127px;
+}
+
+.devicepluginbasicinteractionsave .add-to-home-screen-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 243px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.devicepluginbasicinteractionsave .remove-device-LlcK0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.devicepluginbasicinteractionsave .lnb-device-plug-in-ppLcFr {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .rectangle-qW9Kh6 {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .stacked-group-qW9Kh6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-title-common-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-fXAgu2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-Ccx9pv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-QOKleH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-G8XJlo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-gfwBhq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .group-66tFdv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .empty-4QYzQu {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .line-copy-4QYzQu {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractionsave .empty-Wx0UGJ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-title-reference-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-Je1ww2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-4pTtcG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_open_selected-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-fXAgu2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-Ccx9pv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-QOKleH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-G8XJlo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-gfwBhq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-Je1ww2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-4pTtcG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-Vb1iBg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-O2uUxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-PVA3tw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-Bix1JM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-copy-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents2dpeth-LX5oqf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-contents1dpeth_close-Vb1iBg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .group-fXAgu2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .empty-y0dLaJ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .line-copy-y0dLaJ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractionsave .empty-7cexHW {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-title-reference-fXAgu2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginbasicinteractionsave .group-copy-66tFdv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .empty-copy-Xyshlb {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .line-copy-2-Xyshlb {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractionsave .empty-copy-2-Xyshlb {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionsave .web-index-title-reference-copy-66tFdv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginbasicinteractionsave .line-qW9Kh6 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractionsave .home-net-ui-guideline-qW9Kh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginbasicinteractionsave .webgnb-ppLcFr {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractionsave .rectangle-60zNyh {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractionsave .background-60zNyh {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractionsave .index-60zNyh {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginbasicinteractionsave .web-index-select-yO1RrF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginbasicinteractionsave .web-index-unselect-yO1RrF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginbasicinteractionsave .web-index-unelect_main-60zNyh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginbasicinteractionsave .logo-KxbSgQ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

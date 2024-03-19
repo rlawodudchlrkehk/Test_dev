@@ -1,0 +1,4075 @@
+/* screen - basiccomponentlistlistwithbutton */
+
+.basiccomponentlistlistwithbutton {
+  background-color: var(--white);
+  height: 5310px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentlistlistwithbutton .group-60-oou1c4 {
+  background-color: transparent;
+  height: 868px;
+  left: 400px;
+  position: absolute;
+  top: 2643px;
+  width: 1071px;
+}
+
+.basiccomponentlistlistwithbutton .group-61-oou1c4 {
+  background-color: transparent;
+  height: 734px;
+  left: 420px;
+  position: absolute;
+  top: 3786px;
+  width: 988px;
+}
+
+.basiccomponentlistlistwithbutton .group-40-PM7GFA {
+  background-color: transparent;
+  height: 103px;
+  left: -1px;
+  position: absolute;
+  top: 172px;
+  width: 362px;
+}
+
+.basiccomponentlistlistwithbutton .group-54-PM7GFA {
+  background-color: transparent;
+  height: 73px;
+  left: -1px;
+  position: absolute;
+  top: 51px;
+  width: 362px;
+}
+
+.basiccomponentlistlistwithbutton .group-39-PM7GFA {
+  background-color: transparent;
+  height: 310px;
+  left: 460px;
+  position: absolute;
+  top: 0px;
+  width: 528px;
+}
+
+.basiccomponentlistlistwithbutton .group-14-PM7GFA {
+  background-color: transparent;
+  height: 324px;
+  left: 0px;
+  position: absolute;
+  top: 410px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .group-2-copy-2-h0Oe9x {
+  background-color: transparent;
+  height: 324px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-kPxJsd {
+  top: 64px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-jW5zNY {
+  height: 20px;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .contents-WYLy0O {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .contents-kx5Utp {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-iGSzfL {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-8zl9VY {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-cGcmWd {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .group-66-kPxJsd {
+  background-color: transparent;
+  height: 90px;
+  left: 160px;
+  position: absolute;
+  top: 56px;
+  width: 588px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-copy-kPxJsd {
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-5B6j0j {
+  left: 160px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-r8zuMV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-r8zuMV {
+  width: 178px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-5B6j0j {
+  left: 360px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-FfRu3r {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-FfRu3r {
+  width: 178px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-2-5B6j0j {
+  left: 560px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-sd9seq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-sd9seq {
+  width: 178px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-4-5B6j0j {
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-zPgoxK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-zPgoxK {
+  width: 138px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line-copy-3-kPxJsd {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 146px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-FcaNz8 {
+  height: 31px;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-MKJI00 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .contents-MKJI00 {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.basiccomponentlistlistwithbutton .group-FcaNz8 {
+  background-color: transparent;
+  height: 31px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-rm7fqS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-rm7fqS {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-FcaNz8 {
+  background-color: transparent;
+  height: 31px;
+  left: 360px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-asqxy0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-asqxy0 {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-FcaNz8 {
+  background-color: transparent;
+  height: 31px;
+  left: 560px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-U1uwwx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-U1uwwx {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line-copy-4-kPxJsd {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 193px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-x2Uqmu {
+  height: 31px;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-qO0bK9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .contents-qO0bK9 {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.basiccomponentlistlistwithbutton .group-x2Uqmu {
+  background-color: transparent;
+  height: 31px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-nGhMmw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-nGhMmw {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-x2Uqmu {
+  background-color: transparent;
+  height: 31px;
+  left: 360px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-7h5J0u {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-7h5J0u {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-x2Uqmu {
+  background-color: transparent;
+  height: 31px;
+  left: 560px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-34SG1T {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-34SG1T {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line-copy-5-kPxJsd {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 240px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-3iiY3x {
+  height: 31px;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-F34XMC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .contents-F34XMC {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.basiccomponentlistlistwithbutton .group-3iiY3x {
+  background-color: transparent;
+  height: 31px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-gABZPm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-gABZPm {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-3iiY3x {
+  background-color: transparent;
+  height: 31px;
+  left: 360px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-SIIxxX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-SIIxxX {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-3iiY3x {
+  background-color: transparent;
+  height: 31px;
+  left: 560px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-zR1bZV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-zR1bZV {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line-copy-6-kPxJsd {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 287px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-0jGfQL {
+  height: 31px;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-mYOt2E {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 150px;
+}
+
+.basiccomponentlistlistwithbutton .contents-mYOt2E {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.basiccomponentlistlistwithbutton .group-0jGfQL {
+  background-color: transparent;
+  height: 31px;
+  left: 160px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-669V9q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-669V9q {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-0jGfQL {
+  background-color: transparent;
+  height: 31px;
+  left: 360px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-qS1lGN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-qS1lGN {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-0jGfQL {
+  background-color: transparent;
+  height: 31px;
+  left: 560px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-ROBtjW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ROBtjW {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.basiccomponentlistlistwithbutton .group-62-oou1c4 {
+  background-color: transparent;
+  height: 301px;
+  left: 400px;
+  position: absolute;
+  top: 4777px;
+  width: 853px;
+}
+
+.basiccomponentlistlistwithbutton .group-55-copy-2-oou1c4 {
+  background-color: transparent;
+  height: 88px;
+  left: 1259px;
+  position: absolute;
+  top: 4981px;
+  width: 562px;
+}
+
+.basiccomponentlistlistwithbutton .group-58-oou1c4 {
+  background-color: transparent;
+  height: 507px;
+  left: 400px;
+  position: absolute;
+  top: 878px;
+  width: 781px;
+}
+
+.basiccomponentlistlistwithbutton .group-10-qBafx4 {
+  background-color: transparent;
+  height: 260px;
+  left: 20px;
+  position: absolute;
+  top: 247px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-T4Vf4R {
+  top: 118px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-Abcbec {
+  height: 20px;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .contents-Zj9jg9 {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .contents-uD25Dc {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-Th5UFY {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ChWJWY {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-OiwvmH {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .group-63-T4Vf4R {
+  background-color: transparent;
+  height: 90px;
+  left: 99px;
+  position: absolute;
+  top: 110px;
+  width: 651px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-copy-T4Vf4R {
+  top: 54px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-F8DKpn {
+  left: 100px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-kjfp67 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-kjfp67 {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-4-F8DKpn {
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-ViJR1g {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-ViJR1g {
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-F8DKpn {
+  left: 265px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-AbTp31 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-AbTp31 {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-2-F8DKpn {
+  left: 430px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-RqgbGb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-RqgbGb {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-fPxcFQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-fPxcFQ {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line-T4Vf4R {
+  top: 200px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-vkkEJv {
+  height: 37px;
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-xuT5cg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .contents-xuT5cg {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .group-vkkEJv {
+  background-color: transparent;
+  height: 53px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-iwDTqg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-iwDTqg {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-vkkEJv {
+  background-color: transparent;
+  height: 53px;
+  left: 265px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-JXYsKF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-JXYsKF {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-vkkEJv {
+  background-color: transparent;
+  height: 53px;
+  left: 430px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-PxuzHe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-PxuzHe {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-3-vkkEJv {
+  height: 53px;
+  left: 595px;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-k6D7RZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-k6D7RZ {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .contents-SORhqZ {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.basiccomponentlistlistwithbutton .group-17-qBafx4 {
+  background-color: transparent;
+  height: 87px;
+  left: 0px;
+  position: absolute;
+  top: 49px;
+  width: 381px;
+}
+
+.basiccomponentlistlistwithbutton .group-11-qBafx4 {
+  background-color: transparent;
+  height: 147px;
+  left: 479px;
+  position: absolute;
+  top: 0px;
+  width: 301px;
+}
+
+.basiccomponentlistlistwithbutton .group-59-oou1c4 {
+  background-color: transparent;
+  height: 534px;
+  left: 400px;
+  position: absolute;
+  top: 1661px;
+  width: 781px;
+}
+
+.basiccomponentlistlistwithbutton .group-26-niPylR {
+  background-color: transparent;
+  height: 146px;
+  left: 664px;
+  position: absolute;
+  top: 1px;
+  width: 116px;
+}
+
+.basiccomponentlistlistwithbutton .group-27-niPylR {
+  background-color: transparent;
+  height: 145px;
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 381px;
+}
+
+.basiccomponentlistlistwithbutton .group-25-niPylR {
+  background-color: transparent;
+  height: 148px;
+  left: 479px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.basiccomponentlistlistwithbutton .group-8-niPylR {
+  background-color: transparent;
+  height: 250px;
+  left: 20px;
+  position: absolute;
+  top: 284px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .contents-B137zf {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.basiccomponentlistlistwithbutton .group-2-copy-lYhiDa {
+  background-color: transparent;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-xVBX5r {
+  top: 64px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-v8wqTa {
+  height: 20px;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .contents-7nPxjU {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ydCfQ2 {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-rUYFPS {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ifxbFI {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ubxdcZ {
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .group-64-xVBX5r {
+  background-color: transparent;
+  height: 90px;
+  left: 99px;
+  position: absolute;
+  top: 56px;
+  width: 651px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-copy-xVBX5r {
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-QSsaBd {
+  left: 100px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-lYBD8o {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-lYBD8o {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-4-QSsaBd {
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-fQxv6E {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-fQxv6E {
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-QSsaBd {
+  left: 265px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-BuulDi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-BuulDi {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-2-QSsaBd {
+  left: 430px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-E4EblF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-E4EblF {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-3Y1jDW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-3Y1jDW {
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line-xVBX5r {
+  top: 146px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-n27FMb {
+  height: 37px;
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-q9FNhy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 90px;
+}
+
+.basiccomponentlistlistwithbutton .contents-q9FNhy {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.basiccomponentlistlistwithbutton .group-n27FMb {
+  background-color: transparent;
+  height: 53px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-ZBwrnt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ZBwrnt {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-n27FMb {
+  background-color: transparent;
+  height: 53px;
+  left: 265px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-GL1pWL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-GL1pWL {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-n27FMb {
+  background-color: transparent;
+  height: 53px;
+  left: 430px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-cpV1Ol {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-cpV1Ol {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-3-n27FMb {
+  height: 53px;
+  left: 595px;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-9BSWWr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .contents-9BSWWr {
+  color: var(--black);
+  height: 20px;
+  left: 5px;
+  top: 11px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .group-57-oou1c4 {
+  background-color: transparent;
+  height: 337px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentlistlistwithbutton .group-53-oou1c4 {
+  background-color: transparent;
+  height: 330px;
+  left: 1220px;
+  position: absolute;
+  top: 3096px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .group-36-JlwdL3 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 600px;
+}
+
+.tableguidetext1line42 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.83%;
+}
+
+.tableguidetext1line42 .background-Dzd5eq {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line42 .rectangle-Dzd5eq {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line42 .contents-Dzd5eq {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-2-sVyHWX {
+  left: 50px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-GHL5zj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-GHL5zj {
+  color: var(--lochmara);
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.tableguidetext2linemcopy5 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.83%;
+}
+
+.tableguidetext2linemcopy5 .background-C8gbdg {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy5 .rectangle-C8gbdg {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy5 .contents-C8gbdg {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .group-3-JlwdL3 {
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-xTsXlm {
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-8ZEipX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-8ZEipX {
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-pK1G0d {
+  left: 49px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-DoS6zh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-DoS6zh {
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-kvMq43 {
+  left: 0px;
+  width: 41px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-yxvDkK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 41px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-yxvDkK {
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .group-49-JlwdL3 {
+  background-color: transparent;
+  height: 37px;
+  left: 50px;
+  position: absolute;
+  top: 103px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-3-naEOXG {
+  height: 37px;
+  left: 0px;
+  position: relative;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-6D9WFf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-6D9WFf {
+  color: var(--lochmara);
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-5-JlwdL3 {
+  height: 59px;
+  top: 197px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-yDdsYt {
+  height: 53px;
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-NVD4yS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .group-NVD4yS {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-mkHcUL {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .title-mkHcUL {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext1line43 {
+  background-color: transparent;
+  height: 62.71%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.83%;
+}
+
+.tableguidetext1line43 .background-xUEV0d {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line43 .rectangle-xUEV0d {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line43 .contents-xUEV0d {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-yDdsYt {
+  height: 37px;
+  left: 49px;
+  overflow: hidden;
+  top: 0px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-ipUTAE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-ipUTAE {
+  color: var(--black);
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-52-JlwdL3 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 271px;
+  width: 600px;
+}
+
+.tableguidetext1line44 {
+  background-color: transparent;
+  height: 62.71%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.83%;
+}
+
+.tableguidetext1line44 .background-BKEpka {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line44 .rectangle-BKEpka {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line44 .contents-BKEpka {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-1VGkWC {
+  height: 53px;
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-M9IDxi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .group-M9IDxi {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-92vpMA {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .title-92vpMA {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-3-1VGkWC {
+  height: 57px;
+  left: 49px;
+  position: absolute;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-Y3X7G0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-Y3X7G0 {
+  color: var(--lochmara);
+  height: 40px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-51-JlwdL3 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 600px;
+}
+
+.tableguidetext2linemcopy {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.83%;
+}
+
+.tableguidetext2linemcopy .background-VQwXOp {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy .rectangle-VQwXOp {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy .contents-VQwXOp {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext1line45 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.83%;
+}
+
+.tableguidetext1line45 .background-oVK86z {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line45 .rectangle-oVK86z {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line45 .contents-oVK86z {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-3-BczXTT {
+  height: 37px;
+  left: 49px;
+  position: absolute;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-TPmQNs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-TPmQNs {
+  color: var(--lochmara);
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-48-oou1c4 {
+  background-color: transparent;
+  height: 396px;
+  left: 1220px;
+  position: absolute;
+  top: 1989px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .group-2-QKpKYr {
+  background-color: transparent;
+  height: 127px;
+  left: 0px;
+  position: absolute;
+  top: 269px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-p5AOAr {
+  height: 74px;
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-hJDkRY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .group-hJDkRY {
+  background-color: transparent;
+  height: 63px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-IpE5ps {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .title-IpE5ps {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext1line46 {
+  background-color: transparent;
+  height: 29.13%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.83%;
+}
+
+.tableguidetext1line46 .background-EhWe0i {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line46 .rectangle-EhWe0i {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line46 .contents-EhWe0i {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-p5AOAr {
+  height: 53px;
+  left: 49px;
+  top: 0px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-qqJobo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .group-qqJobo {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .content-7KIlC9 {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .title-7KIlC9 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.tableguidetext2linemcopy1 {
+  background-color: transparent;
+  bottom: 2.36%;
+  height: 26.77%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  width: 24.83%;
+}
+
+.tableguidetext2linemcopy1 .background-35LfcK {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy1 .rectangle-35LfcK {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy1 .contents-35LfcK {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext2linem115 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 29.13%;
+  left: 8.17%;
+  opacity: 1;
+  position: absolute;
+  width: 65.67%;
+}
+
+.tableguidetext2linem115 .background-1cB9Ab {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+
+.tableguidetext2linem115 .rectangle-1cB9Ab {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+
+.tableguidetext2linem115 .contents-1cB9Ab {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-28-QKpKYr {
+  background-color: transparent;
+  height: 259px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .group-56-TPzViQ {
+  background-color: transparent;
+  height: 203px;
+  left: 451px;
+  position: absolute;
+  top: 56px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line-U7o8Gh {
+  background-color: transparent;
+  height: 197px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-twhJmT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .group-twhJmT {
+  background-color: transparent;
+  height: 186px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-Dh2X7L {
+  color: var(--rose);
+  height: 40px;
+  top: 42px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-9oW9vT {
+  color: var(--black);
+  height: 20px;
+  top: 84px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-copy-Dh2X7L {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .title-Dh2X7L {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 137px;
+}
+
+.tableguidetext1linecopy {
+  background-color: transparent;
+  height: 14.29%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 21.62%;
+  width: 6.83%;
+}
+
+.tableguidetext1linecopy .background-mj8rwR {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1linecopy .rectangle-mj8rwR {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1linecopy .contents-mj8rwR {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-TPzViQ {
+  cursor: pointer;
+  height: 37px;
+  left: 55px;
+  overflow: hidden;
+  top: 56px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-tAoH5x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-tAoH5x {
+  color: var(--lochmara);
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-3-TPzViQ {
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-WkpKVu {
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-Ggxuos {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-Ggxuos {
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-qXhKHh {
+  left: 49px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-VlY3Mt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-VlY3Mt {
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-ayqwn8 {
+  left: 0px;
+  width: 41px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-xgxXlA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 41px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-xgxXlA {
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .group-47-oou1c4 {
+  background-color: transparent;
+  height: 224px;
+  left: 1220px;
+  position: absolute;
+  top: 1179px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-3-OtwmDU {
+  height: 75px;
+  left: 0px;
+  top: 103px;
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-dF3ZtE {
+  height: 73px;
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-JIrlNs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .group-JIrlNs {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .content-sTmYtF {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .title-sTmYtF {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext1line125 {
+  background-color: transparent;
+  height: 49.33%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.83%;
+}
+
+.tableguidetext1line125 .background-RvrsHb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line125 .rectangle-RvrsHb {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line125 .contents-RvrsHb {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-dF3ZtE {
+  height: 53px;
+  left: 49px;
+  top: 0px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-JwAguX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .group-JwAguX {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .content-jM0Sjp {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .title-jM0Sjp {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-4-OtwmDU {
+  height: 37px;
+  left: 49px;
+  top: 187px;
+  width: 551px;
+}
+
+.tableguidetext2linemcopy12 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 27.04%;
+}
+
+.tableguidetext2linemcopy12 .background-5Bjcya {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy12 .rectangle-5Bjcya {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy12 .contents-5Bjcya {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext2linem116 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 71.51%;
+}
+
+.tableguidetext2linem116 .background-nd1TIi {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+
+.tableguidetext2linem116 .rectangle-nd1TIi {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+
+.tableguidetext2linem116 .contents-nd1TIi {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-OtwmDU {
+  cursor: pointer;
+  height: 37px;
+  left: 49px;
+  overflow: hidden;
+  top: 56px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-DYhUPc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .contents-DYhUPc {
+  color: var(--lochmara);
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.tableguidetext2linemcopy2 {
+  background-color: transparent;
+  height: 16.52%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 25.00%;
+  width: 24.83%;
+}
+
+.tableguidetext2linemcopy2 .background-kRxIdl {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy2 .rectangle-kRxIdl {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.tableguidetext2linemcopy2 .contents-kRxIdl {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.tableguidetext1line47 {
+  background-color: transparent;
+  height: 16.52%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25.00%;
+  width: 6.83%;
+}
+
+.tableguidetext1line47 .background-vW7DIV {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line47 .rectangle-vW7DIV {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.tableguidetext1line47 .contents-vW7DIV {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .group-3-OtwmDU {
+  width: 600px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-6peMdx {
+  left: 451px;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-eWhILW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 149px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-eWhILW {
+  width: 137px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-K7W5Z6 {
+  left: 49px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-250ILV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-250ILV {
+  width: 382px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-Qobo4D {
+  left: 0px;
+  width: 41px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-2kCu4I {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 41px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-2kCu4I {
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .group-50-oou1c4 {
+  background-color: transparent;
+  height: 332px;
+  left: 1260px;
+  position: absolute;
+  top: 4778px;
+  width: 560px;
+}
+
+.basiccomponentlistlistwithbutton .group-9-4Hq1XP {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 560px;
+}
+
+.tableguidetext2linemcopy3 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.82%;
+}
+
+.tableguidetext2linemcopy3 .background-sUyq5v {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 139px;
+}
+
+.tableguidetext2linemcopy3 .rectangle-sUyq5v {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 139px;
+}
+
+.tableguidetext2linemcopy3 .contents-sUyq5v {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.tableguidetext1line48 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.79%;
+}
+
+.tableguidetext1line48 .background-942TDy {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line48 .rectangle-942TDy {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line48 .contents-942TDy {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-2-J9FMMF {
+  left: 40px;
+  width: 374px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-C4gO1t {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 374px;
+}
+
+.basiccomponentlistlistwithbutton .contents-C4gO1t {
+  color: var(--lochmara);
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 362px;
+}
+
+.basiccomponentlistlistwithbutton .group-3-4Hq1XP {
+  width: 560px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-nTBfx5 {
+  left: 421px;
+  width: 139px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-Pe5xkc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 139px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-Pe5xkc {
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-fqSigZ {
+  left: 46px;
+  width: 368px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-4VuLhn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 368px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-4VuLhn {
+  width: 356px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-7W5B54 {
+  left: 0px;
+  width: 38px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-zotXdM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 38px;
+}
+
+.basiccomponentlistlistwithbutton .table-title-text-zotXdM {
+  width: 26px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-3-4Hq1XP {
+  height: 86px;
+  left: 0px;
+  top: 103px;
+  width: 560px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-0E5LRg {
+  height: 75px;
+  left: 421px;
+  width: 139px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-NViTOs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 139px;
+}
+
+.basiccomponentlistlistwithbutton .group-NViTOs {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .content-cYnh7A {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .content-PlF9Kg {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .title-cYnh7A {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.tableguidetext1line49 {
+  background-color: transparent;
+  height: 43.02%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.79%;
+}
+
+.tableguidetext1line49 .background-3L69Uf {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line49 .rectangle-3L69Uf {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line49 .contents-3L69Uf {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-0E5LRg {
+  height: 53px;
+  left: 46px;
+  top: 0px;
+  width: 368px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-lZvgAt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 368px;
+}
+
+.basiccomponentlistlistwithbutton .group-lZvgAt {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 356px;
+}
+
+.basiccomponentlistlistwithbutton .content-SuVvWO {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 356px;
+}
+
+.basiccomponentlistlistwithbutton .title-SuVvWO {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 356px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-4-4Hq1XP {
+  height: 86px;
+  left: 0px;
+  top: 199px;
+  width: 560px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-NDe79T {
+  height: 75px;
+  left: 421px;
+  width: 139px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-n5DZs4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 139px;
+}
+
+.basiccomponentlistlistwithbutton .group-n5DZs4 {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .content-xUjIGk {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .content-EFz8Vn {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.basiccomponentlistlistwithbutton .title-xUjIGk {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.tableguidetext1line50 {
+  background-color: transparent;
+  height: 43.02%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.79%;
+}
+
+.tableguidetext1line50 .background-KPMsF0 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line50 .rectangle-KPMsF0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line50 .contents-KPMsF0 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.tableguidetext2linem30 {
+  background-color: transparent;
+  height: 43.02%;
+  left: 8.21%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 65.71%;
+}
+
+.tableguidetext2linem30 .background-0nxMnh {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 368px;
+}
+
+.tableguidetext2linem30 .rectangle-0nxMnh {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 368px;
+}
+
+.tableguidetext2linem30 .contents-0nxMnh {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 356px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-5-4Hq1XP {
+  height: 37px;
+  top: 295px;
+  width: 560px;
+}
+
+.tableguidetext2linemcopy4 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.82%;
+}
+
+.tableguidetext2linemcopy4 .background-R5d5yd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 139px;
+}
+
+.tableguidetext2linemcopy4 .rectangle-R5d5yd {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 139px;
+}
+
+.tableguidetext2linemcopy4 .contents-R5d5yd {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.tableguidetext1line51 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 6.79%;
+}
+
+.tableguidetext1line51 .background-Z0sHdY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line51 .rectangle-Z0sHdY {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.tableguidetext1line51 .contents-Z0sHdY {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.tableguidetext2linem31 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.21%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 65.71%;
+}
+
+.tableguidetext2linem31 .background-kDaPpz {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 368px;
+}
+
+.tableguidetext2linem31 .rectangle-kDaPpz {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 368px;
+}
+
+.tableguidetext2linem31 .contents-kDaPpz {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 356px;
+}
+
+.basiccomponentlistlistwithbutton .web-sub_-title-oou1c4 {
+  height: 57px;
+  top: 2585px;
+  width: 360px;
+}
+
+.basiccomponentlistlistwithbutton .web-sub_-title-VgekTc {
+  height: 57px;
+  top: 1603px;
+  width: 360px;
+}
+
+.basiccomponentlistlistwithbutton .web-sub_-title-KztynS {
+  height: 57px;
+  top: 3730px;
+  width: 447px;
+}
+
+.basiccomponentlistlistwithbutton .web-sub_-title-Wym6tN {
+  height: 58px;
+  top: 4720px;
+  width: 1600px;
+}
+
+.basiccomponentlistlistwithbutton .web-sub_-title-4pJtzf {
+  height: 57px;
+  top: 820px;
+  width: 360px;
+}
+
+.basiccomponentlistlistwithbutton .web-title-area-oou1c4 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentlistlistwithbutton .web-tab-service-feature_-basic-layout-oou1c4 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentlistlistwithbutton .x3rd-depth-wr54mT {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentlistlistwithbutton .tab-wr54mT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentlistlistwithbutton .basic-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentlistlistwithbutton .service-feature-type-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 56px;
+}
+
+.basiccomponentlistlistwithbutton .service-feature-type-copy-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentlistlistwithbutton .service-feature-type-copy-2-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 52px;
+}
+
+.basiccomponentlistlistwithbutton .service-feature-type-copy-3-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.basiccomponentlistlistwithbutton .service-feature-type-copy-5-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 124px;
+}
+
+.basiccomponentlistlistwithbutton .service-feature-type-copy-4-IGcIsj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.basiccomponentlistlistwithbutton .lnb-favorite-card-oou1c4 {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-KI5NTr {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .background-KI5NTr {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .stacked-group-KI5NTr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-title-common-Pp75iC {
+  margin: 0;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-2-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-14-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-10-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-6-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-11-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-7-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-4-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-8-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-9-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-5-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-3-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-12-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-13-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents2dpeth-copy-15-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-contents1dpeth_open_selected-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-Pp75iC {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .empty-uMiKeQ {
+  top: 21px;
+}
+
+.basiccomponentlistlistwithbutton .empty-u4q1qg {
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-title-common-copy-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .group-Pp75iC {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .empty-TxrTmK {
+  top: 21px;
+}
+
+.basiccomponentlistlistwithbutton .empty-vYbIGI {
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-title-common-U6L7O8 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-2-Pp75iC {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .empty-kqbmQg {
+  top: 21px;
+}
+
+.basiccomponentlistlistwithbutton .empty-2PFF2K {
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-title-common-copy-2-Pp75iC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .line-KI5NTr {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentlistlistwithbutton .home-net-gui-guidelin-KI5NTr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentlistlistwithbutton .webgnb-oou1c4 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentlistlistwithbutton .rectangle-wS5cVo {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentlistlistwithbutton .background-wS5cVo {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentlistlistwithbutton .index-wS5cVo {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-select-w1OvsZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-unselect-w1OvsZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentlistlistwithbutton .web-index-unelect_main-wS5cVo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentlistlistwithbutton .logo-HlxEUT {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentlistlistwithbutton .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentlistlistwithbutton .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentlistlistwithbutton .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.basiccomponentlistlistwithbutton .elementtable1line {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  width: 738px;
+}
+
+.basiccomponentlistlistwithbutton .elementtableelement-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  width: 750px;
+}
+
+.basiccomponentlistlistwithbutton .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-3 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-4 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentlistlistwithbutton .group-copy-5 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+}
+
+.basiccomponentlistlistwithbutton .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .srceen-comments-comment-copy-11 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 7px;
+  width: 352px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-copy {
+  background-color: transparent;
+  height: 20px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-copy-2 {
+  background-color: transparent;
+  height: 20px;
+  left: 265px;
+  position: absolute;
+  top: 0px;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-copy-3 {
+  background-color: transparent;
+  height: 20px;
+  left: 430px;
+  position: absolute;
+  top: 0px;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text1line-copy-4 {
+  background-color: transparent;
+  height: 20px;
+  left: 595px;
+  position: absolute;
+  top: 0px;
+  width: 143px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-text2line_m-copy-3 {
+  background-color: transparent;
+  cursor: pointer;
+  overflow: hidden;
+  top: 0px;
+  width: 394px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-3 {
+  background-color: transparent;
+  height: 38px;
+  left: 595px;
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.basiccomponentlistlistwithbutton .table-guide-title-copy-4 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .title {
+  background-color: transparent;
+  font-style: normal;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentlistlistwithbutton .web-sub_-title {
+  background-color: transparent;
+  left: 320px;
+  position: absolute;
+}

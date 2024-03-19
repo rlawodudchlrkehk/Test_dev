@@ -1,0 +1,72 @@
+/* screen - overviewprincipleresponsiveui */
+
+.overviewprincipleresponsiveui {
+  background-color: var(--white);
+  height: 2052px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewprincipleresponsiveui .group-5 {
+  background-color: transparent;
+  height: 1568px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.overviewprincipleresponsiveui .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewprincipleresponsiveui .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewprincipleresponsiveui .text-overflow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.overviewprincipleresponsiveui .word-break {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 73px;
+}
+
+.overviewprincipleresponsiveui .case-sensitive {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 90px;
+}
+
+.overviewprincipleresponsiveui .date-and-time-inform {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}

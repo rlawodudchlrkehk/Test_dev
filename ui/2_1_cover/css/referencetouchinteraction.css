@@ -1,0 +1,249 @@
+/* screen - referencetouchinteraction */
+
+.referencetouchinteraction {
+  background-color: #ffffff;
+  height: 1334px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.referencetouchinteraction .group-xD0UVZ {
+  background-color: transparent;
+  height: 900px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.referencetouchinteraction .web-title-area-xD0UVZ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.lnb {
+  background-color: transparent;
+  height: 937px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.lnb .rectangle-S4TkTl {
+  background-color: #f2f2f2;
+  height: 937px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.lnb1 {
+  background-color: transparent;
+  height: 937px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.lnb1 .rectangle-3csdwx {
+  background-color: #f2f2f2;
+  height: 90.72%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup .web-index-title-common-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .empty-I12gSr {
+  bottom: 0px;
+}
+
+.stackedgroup .empty-CMGcNK {
+  top: 0px;
+}
+
+.stackedgroup .web-index-contents1dpeth_open_selected-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .empty-2HpCyB {
+  bottom: 0px;
+}
+
+.stackedgroup .empty-xPlgvx {
+  top: 0px;
+}
+
+.stackedgroup .group-copy-cmWrxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup .empty-cxKBVJ {
+  bottom: 0px;
+}
+
+.stackedgroup .empty-WNTzCv {
+  top: 0px;
+}
+
+.stackedgroup .web-index-title-reference-copy-cmWrxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.lnb1 .line-3csdwx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.lnb1 .home-net-ui-guideline-3csdwx {
+  background-color: transparent;
+  color: #252525;
+  cursor: pointer;
+  font-family: 'SamsungOne-700', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.referencetouchinteraction .webgnb-xD0UVZ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.referencetouchinteraction .rectangle-dgtV7P {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.referencetouchinteraction .background-dgtV7P {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.referencetouchinteraction .index-dgtV7P {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.referencetouchinteraction .web-index-select-6iiv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.referencetouchinteraction .web-index-unselect-6iiv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.referencetouchinteraction .web-index-unelect_main-dgtV7P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.referencetouchinteraction .logo-gYrxf6 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

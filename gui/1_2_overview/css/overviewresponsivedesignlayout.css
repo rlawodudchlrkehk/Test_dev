@@ -1,0 +1,1416 @@
+/* screen - overviewresponsivedesignlayout */
+
+.overviewresponsivedesignlayout {
+  background-color: var(--white);
+  height: 2420px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewresponsivedesignlayout .group-11-xEi5qL {
+  background-color: transparent;
+  height: 860px;
+  left: 420px;
+  position: absolute;
+  top: 392px;
+  width: 1231px;
+}
+
+.overviewresponsivedesignlayout .screen-size-win-zzWuI1 {
+  background-color: transparent;
+  color: #444444;
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .group-3-zzWuI1 {
+  background-color: transparent;
+  height: 522px;
+  left: 0px;
+  position: absolute;
+  top: 248px;
+  width: 932px;
+}
+
+.overviewresponsivedesignlayout .title-copy-3-zzWuI1 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 150px;
+}
+
+.overviewresponsivedesignlayout .httpsdeveloperan-zzWuI1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 816px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .httpsmaterialio-zzWuI1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 840px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .group-4-xEi5qL {
+  background-color: transparent;
+  height: 818px;
+  left: 420px;
+  position: absolute;
+  top: 1402px;
+  width: 1400px;
+}
+
+.overviewresponsivedesignlayout .group-2-JHzbx4 {
+  background-color: transparent;
+  height: 379px;
+  left: 0px;
+  position: absolute;
+  top: 389px;
+  width: 1400px;
+}
+
+.overviewresponsivedesignlayout .group-8-n2bBTa {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 109px;
+  width: 1400px;
+}
+
+.tableguidetext1line2 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line2 .rectangle-HJQw5l {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line2 .contents-HJQw5l {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1linecopy22 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 25.21%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1linecopy22 .rectangle-APKrHw {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1linecopy22 .contents-APKrHw {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line1 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 25.21%;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line1 .rectangle-dorw05 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line1 .contents-dorw05 {
+  background-color: transparent;
+  color: #545454cc;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line22 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line22 .rectangle-yTHxpt {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line22 .contents-yTHxpt {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.overviewresponsivedesignlayout .group-8-copy-n2bBTa {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 62px;
+  width: 1400px;
+}
+
+.tableguidetext1line3 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line3 .rectangle-SQW8vR {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line3 .contents-SQW8vR {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1linecopy23 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 25.21%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1linecopy23 .rectangle-lfS88C {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1linecopy23 .contents-lfS88C {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line12 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 25.21%;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line12 .rectangle-XSFtwS {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line12 .contents-XSFtwS {
+  background-color: transparent;
+  color: #545454cc;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line23 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line23 .rectangle-oEMraE {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line23 .contents-oEMraE {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.overviewresponsivedesignlayout .group-7-n2bBTa {
+  background-color: transparent;
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  top: 156px;
+  width: 1400px;
+}
+
+.tableguidetext1line4 {
+  background-color: transparent;
+  height: 30.39%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4.90%;
+  width: 24.43%;
+}
+
+.tableguidetext1line4 .rectangle-FMHU8o {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line4 .contents-FMHU8o {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1linecopy24 {
+  background-color: transparent;
+  height: 50.00%;
+  left: 25.21%;
+  opacity: 1;
+  position: absolute;
+  top: 4.90%;
+  width: 24.43%;
+}
+
+.tableguidetext1linecopy24 .rectangle-niN1nd {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1linecopy24 .contents-niN1nd {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 330px;
+}
+
+.tableguidetext1line13 {
+  background-color: transparent;
+  height: 89.22%;
+  opacity: 1;
+  position: absolute;
+  right: 25.21%;
+  top: 5.39%;
+  width: 24.43%;
+}
+
+.tableguidetext1line13 .rectangle-MT2YQ4 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line13 .contents-MT2YQ4 {
+  background-color: transparent;
+  color: #545454cc;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 330px;
+}
+
+.tableguidetext1line24 {
+  background-color: transparent;
+  height: 30.39%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line24 .rectangle-JfOriG {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line24 .contents-JfOriG {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.overviewresponsivedesignlayout .group-6-n2bBTa {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 281px;
+  width: 1400px;
+}
+
+.tableguidetext1line5 {
+  background-color: transparent;
+  height: 70.45%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line5 .rectangle-x5Q7W5 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line5 .contents-x5Q7W5 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1linecopy32 {
+  background-color: transparent;
+  height: 70.45%;
+  left: 25.21%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1linecopy32 .rectangle-wMYqTk {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1linecopy32 .contents-wMYqTk {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line14 {
+  background-color: transparent;
+  height: 70.45%;
+  opacity: 1;
+  position: absolute;
+  right: 25.21%;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line14 .rectangle-64gVMz {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line14 .contents-64gVMz {
+  background-color: transparent;
+  color: #545454cc;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line25 {
+  background-color: transparent;
+  height: 70.45%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24.43%;
+}
+
+.tableguidetext1line25 .rectangle-FuqLOF {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line25 .contents-FuqLOF {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.overviewresponsivedesignlayout .group-5-n2bBTa {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 335px;
+  width: 1047px;
+}
+
+.tableguidetext1line6 {
+  background-color: transparent;
+  height: 70.45%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 32.66%;
+}
+
+.tableguidetext1line6 .rectangle-R44u0y {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line6 .contents-R44u0y {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1linecopy42 {
+  background-color: transparent;
+  height: 70.45%;
+  left: 33.67%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 32.66%;
+}
+
+.tableguidetext1linecopy42 .rectangle-y2NUCj {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1linecopy42 .contents-y2NUCj {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.tableguidetext1line15 {
+  background-color: transparent;
+  height: 70.45%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 32.66%;
+}
+
+.tableguidetext1line15 .rectangle-CLtdn4 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}
+
+.tableguidetext1line15 .contents-CLtdn4 {
+  background-color: transparent;
+  color: #545454cc;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.overviewresponsivedesignlayout .group-9-n2bBTa {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1400px;
+}
+
+.overviewresponsivedesignlayout .table-guide-title-pPMeZj {
+  left: 0px;
+}
+
+.overviewresponsivedesignlayout .no-FDXsvq {
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .rectangle-copy-3-ScfSPj {
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .rectangle-ScfSPj {
+  background-color: var(--black);
+  height: 2px;
+  opacity: 0.3;
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .table-guide-title-copy-pPMeZj {
+  background-color: transparent;
+  height: 52px;
+  left: 353px;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.overviewresponsivedesignlayout .no-yEvb2e {
+  width: 337px;
+}
+
+.overviewresponsivedesignlayout .rectangle-copy-3-Un3T4x {
+  width: 337px;
+}
+
+.overviewresponsivedesignlayout .rectangle-Un3T4x {
+  background-color: var(--black);
+  height: 2px;
+  opacity: 0.3;
+  width: 337px;
+}
+
+.overviewresponsivedesignlayout .table-guide-title-U8Wgxz {
+  left: 705px;
+}
+
+.overviewresponsivedesignlayout .no-EFgymG {
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .rectangle-copy-3-ALOk6H {
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .rectangle-ALOk6H {
+  background-color: var(--black);
+  height: 2px;
+  opacity: 0.3;
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .table-guide-title-SA7Smn {
+  left: 1058px;
+}
+
+.overviewresponsivedesignlayout .no-IjCuE7 {
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .rectangle-copy-3-ajZu9w {
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .section-title-1_-copy-2-ajZu9w {
+  white-space: nowrap;
+}
+
+.overviewresponsivedesignlayout .rectangle-ajZu9w {
+  background-color: var(--black);
+  height: 2px;
+  opacity: 0.3;
+  width: 342px;
+}
+
+.overviewresponsivedesignlayout .group-10-JHzbx4 {
+  background-color: transparent;
+  height: 289px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1396px;
+}
+
+.overviewresponsivedesignlayout .refer-to-android-JHzbx4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 817px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: right;
+  top: 798px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .width-h-JHzbx4 {
+  background-color: transparent;
+  color: #001dff;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 798px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .web-sub_-title-xEi5qL {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 378px;
+}
+
+.overviewresponsivedesignlayout .sub-title-SzZBq3 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .web-title-area-xEi5qL {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewresponsivedesignlayout .web-tab-overview_touch-area-xEi5qL {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewresponsivedesignlayout .x3rd-depth-3xJaZy {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewresponsivedesignlayout .tab-3xJaZy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .responsive-design-la-GI67Hi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 162px;
+}
+
+.overviewresponsivedesignlayout .lnb-favorite-card-xEi5qL {
+  background-color: transparent;
+  height: 1168px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .rectangle-5BLFOd {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .background-5BLFOd {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .stacked-group-5BLFOd {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-title-common-mHtpwb {
+  margin: 0;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_close-copy-2-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_close-copy-3-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_close-copy-4-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_close-copy-5-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_close-copy-6-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_close-copy-7-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .web-index-contents1dpeth_open_selected-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .group-copy-mHtpwb {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .empty-cy5yuq {
+  top: 21px;
+}
+
+.overviewresponsivedesignlayout .empty-nuyqFe {
+  top: 0px;
+}
+
+.overviewresponsivedesignlayout .web-index-title-common-copy-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .group-mHtpwb {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .empty-a9jaBR {
+  top: 21px;
+}
+
+.overviewresponsivedesignlayout .empty-NmwxI3 {
+  top: 0px;
+}
+
+.overviewresponsivedesignlayout .web-index-title-common-UkciAE {
+  margin: 0px 0 0 0;
+}
+
+.overviewresponsivedesignlayout .group-copy-2-mHtpwb {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .empty-ug6kvd {
+  top: 21px;
+}
+
+.overviewresponsivedesignlayout .empty-FCnjIs {
+  top: 0px;
+}
+
+.overviewresponsivedesignlayout .web-index-title-common-copy-2-mHtpwb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewresponsivedesignlayout .line-5BLFOd {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewresponsivedesignlayout .home-net-gui-guidelin-5BLFOd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewresponsivedesignlayout .webgnb-xEi5qL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewresponsivedesignlayout .rectangle-a6aiiN {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewresponsivedesignlayout .background-a6aiiN {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewresponsivedesignlayout .index-a6aiiN {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewresponsivedesignlayout .web-index-select-PeXcqx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewresponsivedesignlayout .web-index-unselect-PeXcqx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewresponsivedesignlayout .web-index-unelect_main-a6aiiN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.overviewresponsivedesignlayout .logo-7eOTxS {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.overviewresponsivedesignlayout .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.overviewresponsivedesignlayout .no {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewresponsivedesignlayout .rectangle-copy-3 {
+  background-color: var(--white);
+  height: 52px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewresponsivedesignlayout .section-title-1_-copy-2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: auto;
+}
+
+.overviewresponsivedesignlayout .table-guide-title {
+  background-color: transparent;
+  height: 52px;
+  position: absolute;
+  top: 0px;
+  width: 342px;
+}

@@ -1,0 +1,675 @@
+/* screen - devicefeaturemaindevicefeaturetoggle */
+
+.devicefeaturemaindevicefeaturetoggle {
+  background-color: var(--white);
+  height: 1237px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-11-eX6T2d {
+  background-color: transparent;
+  height: 240px;
+  left: 420px;
+  position: absolute;
+  top: 797px;
+  width: 600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-10-eX6T2d {
+  background-color: transparent;
+  height: 272px;
+  left: 400px;
+  position: absolute;
+  top: 375px;
+  width: 690px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-eX6T2d {
+  background-color: transparent;
+  height: 187px;
+  left: 1140px;
+  position: absolute;
+  top: 375px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-2-copy-3-ym6DGp {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line-uCPTKx {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-GZvuae {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-GZvuae {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line-jl1tPM {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-wGmO6Z {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-wGmO6Z {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-7m8bdu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-7m8bdu {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-2-copy-2-ym6DGp {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line-s4ZheM {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-mAzwcQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-mAzwcQ {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line-DUDOh1 {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-fwqlCK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-fwqlCK {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-Aj2xYs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-Aj2xYs {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-2-copy-4-ym6DGp {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line-CUf8SH {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-vYFyOX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-vYFyOX {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line-KUbnan {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-bzx1iY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-bzx1iY {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-3xSjpK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents-3xSjpK {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .descriptiontabletop-ym6DGp {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-title-9ytbeU {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-6VXZq0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-title-text-6VXZq0 {
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-title-wS1VjJ {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-WawBWu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-title-text-WawBWu {
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-title-ZWrFxk {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-AfHehq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-title-text-AfHehq {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-sub_-title_w-description-eX6T2d {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1500px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .content-f85sKO {
+  background-color: transparent;
+  font-weight: 400;
+  height: 23px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 1400px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .sub-title-f85sKO {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-title-area-eX6T2d {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-tab-device-featu-eX6T2d {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .x3rd-depth-dxSgM9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .tab-dxSgM9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturetoggle .types-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .service-feature-type-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .toggle-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 42px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .buttons-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 49px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .buttons-2-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .dropdown-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .toggle-adjust-_-st-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 177px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .toggle-adjust-_-li-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .value-slider-0sYSkF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .lnb-favorite-card-eX6T2d {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-jABHQT {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .background-jABHQT {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .stacked-group-jABHQT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-common-nNHyDq {
+  margin: 0;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-copy-2-nNHyDq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents2dpeth-copy-3-nNHyDq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-contents1dpeth_open_selected-nNHyDq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-copy-nNHyDq {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-hJoUBV {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-30XIZy {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-common-copy-nNHyDq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-nNHyDq {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-9ljtpi {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-ndQ74f {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-common-7GOq0N {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturemaindevicefeaturetoggle .group-copy-2-nNHyDq {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-hOnW8f {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .empty-K5xYmx {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-title-common-copy-2-nNHyDq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .line-jABHQT {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .home-net-gui-guidelin-jABHQT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .webgnb-eX6T2d {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .rectangle-PHo2VS {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .background-PHo2VS {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .index-PHo2VS {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-select-k1v78L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-unselect-k1v78L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .web-index-unelect_main-PHo2VS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .logo-wbOc7X {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturetoggle .table-guide-text2line_m {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

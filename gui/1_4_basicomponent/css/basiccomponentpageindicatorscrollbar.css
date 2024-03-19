@@ -1,0 +1,811 @@
+/* screen - basiccomponentpageindicatorscrollbar */
+
+.basiccomponentpageindicatorscrollbar {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-5-8xizdC {
+  background-color: transparent;
+  height: 382px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-8xizdC {
+  background-color: transparent;
+  height: 298px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-2-copy-2-tY2f3X {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line196 {
+  background-color: transparent;
+  height: 25.34%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line196 .background-kfd3p0 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line196 .rectangle-kfd3p0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line196 .contents-kfd3p0 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text1line-RibYi0 {
+  height: 135px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-RZwDzq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-RZwDzq {
+  background-color: transparent;
+  height: 124px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-ZX18w5 {
+  color: var(--black);
+  height: 80px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-iWotmA {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 104px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-ZX18w5 {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-oGBhmH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-oGBhmH {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-h3CyrA {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-h3CyrA {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-2-copy-3-tY2f3X {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 212px;
+  width: 680px;
+}
+
+.tableguidetext1line197 {
+  background-color: transparent;
+  height: 43.02%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line197 .background-PUmn1W {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line197 .rectangle-PUmn1W {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line197 .contents-PUmn1W {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text1line-xITHmZ {
+  height: 75px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-ndPo1l {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-ndPo1l {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-GLvPOq {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-Fy7wZJ {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-GLvPOq {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-KLDCeR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-KLDCeR {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-XkIH1t {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-XkIH1t {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-3-tY2f3X {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-j14TzL {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-xWcRsk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text-xWcRsk {
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-CBWCzW {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-QvkAzP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text-QvkAzP {
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-O0RwDs {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-NfpEBP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text-NfpEBP {
+  width: 38px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-sub_-title-8xizdC {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentpageindicatorscrollbar .sub-title-DLQcXF {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .web-title-area-8xizdC {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-tab-service-feature_-basic-layout-8xizdC {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentpageindicatorscrollbar .x3rd-depth-L9xOkA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentpageindicatorscrollbar .tab-L9xOkA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .page-indicator-fntTn0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 89px;
+}
+
+.basiccomponentpageindicatorscrollbar .service-feature-type-fntTn0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.basiccomponentpageindicatorscrollbar .lnb-favorite-card-8xizdC {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-tjxliV {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .background-tjxliV {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .stacked-group-tjxliV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-Cxyuxo {
+  margin: 0;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-2-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-14-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-10-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-6-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-11-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-7-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-4-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-8-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-9-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-5-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-3-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-12-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-13-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-15-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents1dpeth_open_selected-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-copy-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-xsV9jQ {
+  top: 21px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-xpcP5f {
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-copy-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-ETOZTp {
+  top: 21px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-A8gGlh {
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-oNeP7f {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentpageindicatorscrollbar .group-copy-2-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-eRG46n {
+  top: 21px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-S4NSdG {
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-copy-2-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .line-tjxliV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentpageindicatorscrollbar .home-net-gui-guidelin-tjxliV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentpageindicatorscrollbar .webgnb-8xizdC {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-J3vxfX {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .background-J3vxfX {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .index-J3vxfX {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-select-jse70I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-unselect-jse70I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-unelect_main-J3vxfX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentpageindicatorscrollbar .logo-ezekpp {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentpageindicatorscrollbar .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text1line {
+  background-color: transparent;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

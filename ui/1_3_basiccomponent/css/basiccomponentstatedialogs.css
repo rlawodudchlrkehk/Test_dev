@@ -1,0 +1,68 @@
+/* screen - basiccomponentstatedialogs */
+
+.basiccomponentstatedialogs {
+  background-color: var(--white);
+  height: 1386px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentstatedialogs .group-1 {
+  height: 844px;
+  left: 420px;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponentstatedialogs .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentstatedialogs .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentstatedialogs .dialogs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.basiccomponentstatedialogs .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentstatedialogs .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentstatedialogs .group-3 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

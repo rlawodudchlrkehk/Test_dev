@@ -1,0 +1,353 @@
+/* screen - servicepluginbasicinteractiontoucharea */
+
+.servicepluginbasicinteractiontoucharea {
+  background-color: var(--white);
+  height: 1430px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractiontoucharea .group-5-L6prNv {
+  background-color: transparent;
+  height: 946px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-title-area-L6prNv {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-tab-service-plug-L6prNv {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractiontoucharea .x3rd-depth-ojwiOe {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractiontoucharea .tab-YOo1rB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginbasicinteractiontoucharea .touch-area-vRUuit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.servicepluginbasicinteractiontoucharea .interaction-history-vRUuit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 114px;
+}
+
+.servicepluginbasicinteractiontoucharea .scroll-vRUuit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.servicepluginbasicinteractiontoucharea .more-vRUuit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginbasicinteractiontoucharea .menu-vRUuit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginbasicinteractiontoucharea .loading-vRUuit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.servicepluginbasicinteractiontoucharea .lnb-service-plug-in-L6prNv {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .rectangle-8N5e9R {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .lnb-8N5e9R {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .stacked-group-AhxIEH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-title-common-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .empty-9GFwx3 {
+  top: 21px;
+}
+
+.servicepluginbasicinteractiontoucharea .empty-CFtUba {
+  top: 0px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-contents1d-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-contents1dpeth_open_selected-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-contents2dpeth-copy-3-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-contents2dpeth-copy-2-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-contents2dpeth-copy-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-contents2dpeth-copy-4-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .empty-yWxtf5 {
+  top: 21px;
+}
+
+.servicepluginbasicinteractiontoucharea .empty-iyXEYS {
+  top: 0px;
+}
+
+.servicepluginbasicinteractiontoucharea .group-copy-jaZ1Vs {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .empty-wceHwW {
+  top: 21px;
+}
+
+.servicepluginbasicinteractiontoucharea .empty-5EO1f1 {
+  top: 0px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-title-reference-copy-jaZ1Vs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractiontoucharea .line-AhxIEH {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginbasicinteractiontoucharea .home-net-ui-guideline-AhxIEH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginbasicinteractiontoucharea .webgnb-L6prNv {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractiontoucharea .rectangle-jz5jgW {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractiontoucharea .background-jz5jgW {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractiontoucharea .index-jz5jgW {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-select-LLOLTK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-unselect-LLOLTK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginbasicinteractiontoucharea .web-index-unelect_main-jz5jgW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractiontoucharea .logo-aIHbNb {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractiontoucharea .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

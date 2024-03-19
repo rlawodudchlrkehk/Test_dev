@@ -1,0 +1,1242 @@
+/* screen - servicepluginenergyusagecard */
+
+.servicepluginenergyusagecard {
+  background-color: var(--white);
+  height: 1858px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .group-6-DxSnLn {
+  background-color: transparent;
+  height: 606px;
+  left: 380px;
+  position: absolute;
+  top: 1052px;
+  width: 710px;
+}
+
+.servicepluginenergyusagecard .group-8-DxSnLn {
+  background-color: transparent;
+  height: 560px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.servicepluginenergyusagecard .group-13-DxSnLn {
+  background-color: transparent;
+  height: 361px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-9T54ND {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-X1c0YX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-X1c0YX {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .rectangle-XD3WZ8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-XD3WZ8 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-6NZUFB {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-sTKHgL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-sTKHgL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-MTJM1Q {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-Wru7Lf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-Wru7Lf {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .rectangle-Ge1ffl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-Ge1ffl {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-55eu9i {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-IMVAix {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-IMVAix {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-w5wPdH {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-yiY0i3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-yiY0i3 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .rectangle-UymNKo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-UymNKo {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-5fLDeI {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-pxHZK0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-pxHZK0 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .group-aWpEte {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 304px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-nlLGn0 {
+  height: 51px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-9AViuP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-9AViuP {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .rectangle-xzeH9l {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-xzeH9l {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-eyMAyb {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-j6WMNx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-j6WMNx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .descriptiontabletop-aWpEte {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-dCkNMF {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-zRk29L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .table-title-text-zRk29L {
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-dBYb9l {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-DvEohB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .table-title-text-DvEohB {
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-lk10NA {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-csa8xe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .table-title-text-csa8xe {
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-bAWt9C {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-wdZNgh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-wdZNgh {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line-copy-4-bAWt9C {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-eyXTus {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-eyXTus {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-3-bAWt9C {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-j4OTgP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-j4OTgP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .group-13-copy-DxSnLn {
+  background-color: transparent;
+  height: 361px;
+  left: 1140px;
+  position: absolute;
+  top: 1052px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-2-AUAExy {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-S73Q4z {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-S73Q4z {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line-copy-AUAExy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-e46Lxm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-e46Lxm {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-4-AUAExy {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-19eXr4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-19eXr4 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-5-raHx6e {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-o6MUgy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-o6MUgy {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line-copy-2-raHx6e {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-EYYREx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-EYYREx {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-6-raHx6e {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-KvSybV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-KvSybV {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-7-PqEjA9 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-2Uvc6L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-2Uvc6L {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line-copy-3-PqEjA9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-zkl5Wa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-zkl5Wa {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-8-PqEjA9 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-ymrvOA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-ymrvOA {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .group-n6jJYP {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 304px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-9-oSJO5x {
+  background-color: transparent;
+  height: 51px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-7T5x9x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-7T5x9x {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line-copy-5-oSJO5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-hB0iiQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-hB0iiQ {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-10-oSJO5x {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-DzxlLt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-DzxlLt {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .descriptiontabletop-copy-n6jJYP {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-JDgAyO {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-BeuSSl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .table-title-text-BeuSSl {
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-6O5nEx {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-4DYsjA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .table-title-text-4DYsjA {
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-0cOAt7 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-kgcGfD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .table-title-text-kgcGfD {
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-11-3waO9U {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .rectangle-ftMvMf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginenergyusagecard .contents-ftMvMf {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line-copy-6-3waO9U {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .rectangle-xxAhxs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .contents-xxAhxs {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line-copy-12-3waO9U {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .rectangle-OxU3BW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .contents-OxU3BW {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginenergyusagecard .web-sub_-title-DxSnLn {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.servicepluginenergyusagecard .sub-title-LslBFW {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginenergyusagecard .web-title-area-DxSnLn {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .web-tab-service-plug-DxSnLn {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .x3rd-depth-krxN6s {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .tab-1Yp9Ln {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginenergyusagecard .card-weu4PG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginenergyusagecard .feature-weu4PG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginenergyusagecard .lnb-service-plug-in-DxSnLn {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .rectangle-oJaDcF {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .lnb-oJaDcF {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .stacked-group-5abpwE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-title-common-copy-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .group-copy-q4dstv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .empty-copy-VkxuEY {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .line-copy-2-VkxuEY {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginenergyusagecard .empty-copy-2-VkxuEY {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents1dpeth_open_selected-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-2-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-3-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .group-q4dstv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .empty-E4KdQ0 {
+  top: 21px;
+}
+
+.servicepluginenergyusagecard .empty-j9M7VZ {
+  top: 0px;
+}
+
+.servicepluginenergyusagecard .group-copy-2-q4dstv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .empty-7JVIvn {
+  top: 21px;
+}
+
+.servicepluginenergyusagecard .empty-ScDIxv {
+  top: 0px;
+}
+
+.servicepluginenergyusagecard .web-index-title-common-copy-2-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .line-5abpwE {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginenergyusagecard .home-net-gui-guidelin-5abpwE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginenergyusagecard .webgnb-DxSnLn {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .rectangle-MnH8yO {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .background-MnH8yO {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .index-MnH8yO {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginenergyusagecard .web-index-select-UO2wAd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginenergyusagecard .web-index-unselect-UO2wAd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginenergyusagecard .web-index-unelect_main-MnH8yO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginenergyusagecard .logo-gwQ9qf {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginenergyusagecard .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.servicepluginenergyusagecard .group-10 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .group-2 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .group-3 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .group-7 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginenergyusagecard .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

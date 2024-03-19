@@ -1,0 +1,1556 @@
+/* screen - c2coverviewsmartapartmentlist */
+
+.c2coverviewsmartapartmentlist {
+  background-color: var(--white);
+  height: 1953px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlist .group-15-kAZsxc {
+  background-color: transparent;
+  height: 818px;
+  left: 399px;
+  position: absolute;
+  top: 935px;
+  width: 691px;
+}
+
+.c2coverviewsmartapartmentlist .group-14-kAZsxc {
+  background-color: transparent;
+  height: 240px;
+  left: 373px;
+  position: absolute;
+  top: 342px;
+  width: 717px;
+}
+
+.c2coverviewsmartapartmentlist .group-2-copy-kAZsxc {
+  background-color: transparent;
+  height: 268px;
+  left: 1140px;
+  position: absolute;
+  top: 935px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-copy-VMuttg {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-U6GXvW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-U6GXvW {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-copy-2-VMuttg {
+  background-color: transparent;
+  height: 95px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-HRwgrR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentlist .group-HRwgrR {
+  height: 84px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .content-e80VFR {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .content-copy-e80VFR {
+  color: var(--black);
+  height: 40px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .title-e80VFR {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-copy-3-VMuttg {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-SEa9p5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentlist .contents-SEa9p5 {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentlist .group-xnhzZh {
+  height: 101px;
+  left: 0px;
+  top: 167px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-copy-4-170FK6 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-Ymq0P0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-Ymq0P0 {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-copy-5-170FK6 {
+  background-color: transparent;
+  height: 75px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-UvwTLY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentlist .group-UvwTLY {
+  height: 64px;
+  left: 6px;
+  top: 11px;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentlist .content-lbrjRv {
+  color: var(--black);
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentlist .content-copy-lbrjRv {
+  color: var(--fuscous-gray);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentlist .title-lbrjRv {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-copy-6-170FK6 {
+  background-color: transparent;
+  height: 95px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-ZlkPxW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentlist .group-ZlkPxW {
+  height: 84px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .content-zW9Zhs {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .content-copy-zW9Zhs {
+  color: var(--black);
+  height: 40px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .title-zW9Zhs {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-copy-2-xnhzZh {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .group-3-copy-kAZsxc {
+  background-color: transparent;
+  height: 256px;
+  left: 1140px;
+  position: absolute;
+  top: 1303px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .group-13-xSQ3YQ {
+  background-color: transparent;
+  height: 256px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-dxCEXX {
+  height: 38px;
+  left: 552px;
+  width: 128px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-JWWTKg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-JWWTKg {
+  width: 116px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-4ONTae {
+  height: 38px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-ebSiCw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-ebSiCw {
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-8AAy5t {
+  height: 38px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-pPKYo0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-pPKYo0 {
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-KR68oc {
+  height: 38px;
+  left: 352px;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-BVFxF4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-BVFxF4 {
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-VY3FsR {
+  height: 38px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-YYpZSF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-YYpZSF {
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-viJGwW {
+  height: 31px;
+  left: 551px;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-gImyQK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .contents-gImyQK {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-wlsKPC {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-wm5Cp6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .contents-wm5Cp6 {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-2eZTNp {
+  height: 31px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-IGx6If {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .contents-IGx6If {
+  color: var(--black);
+  font-weight: 400;
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-SxVkUS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .contents-SxVkUS {
+  color: var(--black);
+  font-weight: 400;
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-0J3gU6 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-NZoLhW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-NZoLhW {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-mx2mDC {
+  height: 31px;
+  left: 551px;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-6x07gl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .contents-6x07gl {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-wwpTix {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-MpAtUl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .contents-MpAtUl {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-LAAuFC {
+  height: 31px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-s2LIWy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .contents-s2LIWy {
+  color: var(--black);
+  font-weight: 400;
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-jkE6xR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .contents-jkE6xR {
+  color: var(--black);
+  font-weight: 400;
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-xylDMR {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-9C9fmn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-9C9fmn {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .styletable1line_-color-copy-2-ujNfCs {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 196px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-t77N2j {
+  height: 31px;
+  left: 551px;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-OEoIPf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .contents-OEoIPf {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-rD1sJA {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-Nh2ng2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .contents-Nh2ng2 {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-2Aac5n {
+  height: 31px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-Ruozd3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .contents-Ruozd3 {
+  color: var(--black);
+  font-weight: 400;
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-UHbxAH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .contents-UHbxAH {
+  color: var(--black);
+  font-weight: 400;
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-W3spx2 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-61aBce {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-61aBce {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .group-2-kAZsxc {
+  background-color: transparent;
+  height: 157px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-y15RuB {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-2G3jhK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-2G3jhK {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-FBy6PN {
+  height: 95px;
+  left: 60px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-PNhGMm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentlist .group-PNhGMm {
+  height: 84px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .content-ijTXjx {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .content-copy-ijTXjx {
+  color: var(--black);
+  height: 40px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .title-ijTXjx {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-oXXpL9 {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-Iauh89 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentlist .contents-Iauh89 {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-pSCfqQ {
+  height: 56px;
+  left: 0px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .group-3-kAZsxc {
+  background-color: transparent;
+  height: 186px;
+  left: 1140px;
+  position: absolute;
+  top: 599px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-OxrtCu {
+  height: 38px;
+  left: 552px;
+  width: 128px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-K7VK0C {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-K7VK0C {
+  width: 116px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-7WDqyW {
+  height: 38px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-ud0k7C {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-ud0k7C {
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-E4rofM {
+  height: 38px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-VnCXr5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-VnCXr5 {
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-AO1A6f {
+  height: 38px;
+  left: 352px;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-9ckmLQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-9ckmLQ {
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title-aef6Dm {
+  height: 38px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-oNhI4n {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .table-title-text-oNhI4n {
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-hz2SRr {
+  height: 31px;
+  left: 551px;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-hxUwr7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .contents-hxUwr7 {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-qmJw0I {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-5R3W0y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .contents-5R3W0y {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-twKC4T {
+  height: 31px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-iuyhyQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .contents-iuyhyQ {
+  color: var(--black);
+  font-weight: 400;
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-DVi7wL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .contents-DVi7wL {
+  color: var(--black);
+  font-weight: 400;
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-NkmoaG {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-wfhr2V {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-wfhr2V {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-PozYx6 {
+  height: 31px;
+  left: 551px;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-jNL2oc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.c2coverviewsmartapartmentlist .contents-jNL2oc {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-piLcxm {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-BSahPU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.c2coverviewsmartapartmentlist .contents-BSahPU {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-Cbi3RA {
+  height: 31px;
+  left: 236px;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-p6yGIG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 106px;
+}
+
+.c2coverviewsmartapartmentlist .contents-p6yGIG {
+  color: var(--black);
+  font-weight: 400;
+  width: 94px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-6xDUqG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .contents-6xDUqG {
+  color: var(--black);
+  font-weight: 400;
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line-h11g32 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-Ys4ZJO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentlist .contents-Ys4ZJO {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentlist .web-sub_-title-kAZsxc {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.c2coverviewsmartapartmentlist .sub-title-wUxtVq {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2coverviewsmartapartmentlist .web-title-area-kAZsxc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlist .web-tabc2-c_-overview-kAZsxc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlist .x3rd-depth-fng9Gi {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlist .tab-fng9Gi {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewsmartapartmentlist .image-xAcExo {
+  margin: 0;
+  width: 198px;
+}
+
+.c2coverviewsmartapartmentlist .smart-apartment-xAcExo {
+  width: 108px;
+}
+
+.c2coverviewsmartapartmentlist .list-copy-xAcExo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.c2coverviewsmartapartmentlist .smart-apartment_-card-copy-xAcExo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2coverviewsmartapartmentlist .smart-apartment_-list-copy-xAcExo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 140px;
+}
+
+.c2coverviewsmartapartmentlist .smart-apartment-NIs72d {
+  width: 187px;
+}
+
+.c2coverviewsmartapartmentlist .image-NIs72d {
+  margin: 0 0 0 50px;
+  width: 145px;
+}
+
+.c2coverviewsmartapartmentlist .lnb-service-feature-copy-kAZsxc {
+  background-color: transparent;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-hCyctb {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlist .background-hCyctb {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlist .line-hCyctb {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewsmartapartmentlist .home-net-gui-guidelin-hCyctb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup11 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup11 .web-index-title-reference-copy-2-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .group-PPoNq0 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup11 .empty-seND9W {
+  bottom: 0px;
+}
+
+.stackedgroup11 .empty-s9sCZQ {
+  top: 0px;
+}
+
+.stackedgroup11 .web-index-title-reference-copy-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .group-copy-PPoNq0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .empty-vDZMAx {
+  bottom: 0px;
+}
+
+.stackedgroup11 .empty-gQ4nmR {
+  top: 0px;
+}
+
+.stackedgroup11 .web-index-title-reference-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-copy-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .group-yfgtXI {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup11 .web-expanded-RAtjOW {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup11 .button-IjrpxR {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup11 .x1-depth-title-RAtjOW {
+  color: #3695dd;
+  width: 91px;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-PPoNq0 {
+  height: auto;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-13Owb9 {
+  height: auto;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-iYxDQJ {
+  height: auto;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-copy-2-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-XBOw0S {
+  height: auto;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-tZZKC6 {
+  height: 46px;
+}
+
+.stackedgroup11 .group-wjRYxv {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup11 .x1-depth-title-zx73Uk {
+  color: #252525;
+  width: 56px;
+}
+
+.stackedgroup11 .web-fold-wjRYxv {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup11 .background-n3RMNI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup11 .button-n3RMNI {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup11 .group-copy-2-PPoNq0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .empty-j0iB4y {
+  bottom: 0px;
+}
+
+.stackedgroup11 .empty-eKRy3J {
+  top: 0px;
+}
+
+.stackedgroup11 .web-index-title-reference-copy-3-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2coverviewsmartapartmentlist .webgnb-kAZsxc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlist .rectangle-dnVgYx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlist .background-dnVgYx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlist .index-dnVgYx {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2coverviewsmartapartmentlist .web-index-select-nNxEra {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2coverviewsmartapartmentlist .web-index-unselect-nNxEra {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2coverviewsmartapartmentlist .web-index-unelect_main-dnVgYx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.c2coverviewsmartapartmentlist .logo-SHFDBR {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.c2coverviewsmartapartmentlist .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.c2coverviewsmartapartmentlist .content-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+}
+
+.c2coverviewsmartapartmentlist .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.c2coverviewsmartapartmentlist .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.c2coverviewsmartapartmentlist .group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.c2coverviewsmartapartmentlist .group-5 {
+  background-color: transparent;
+  height: 101px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .styletable1line_-color {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .styletable1line_-color-copy {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 126px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.c2coverviewsmartapartmentlist .table-guide-title {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.c2coverviewsmartapartmentlist .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}
+
+.stackedgroup11 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup11 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

@@ -1,0 +1,1002 @@
+/* screen - devicefeaturemaindevicefeaturevalueslider */
+
+.devicefeaturemaindevicefeaturevalueslider {
+  background-color: var(--white);
+  height: 1526px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-5-Hca3I0 {
+  background-color: transparent;
+  height: 230px;
+  left: 357px;
+  position: absolute;
+  top: 1098px;
+  width: 439px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-9-Hca3I0 {
+  background-color: transparent;
+  height: 225px;
+  left: 357px;
+  position: absolute;
+  top: 723px;
+  width: 439px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-11-Hca3I0 {
+  background-color: transparent;
+  height: 198px;
+  left: 357px;
+  position: absolute;
+  top: 375px;
+  width: 733px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-3-copy-Hca3I0 {
+  background-color: transparent;
+  height: 187px;
+  left: 1140px;
+  position: absolute;
+  top: 615px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .styletabletop-1AbA3a {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-Mlcv3a {
+  left: 552px;
+  width: 128px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-X0YTxw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-X0YTxw {
+  width: 116px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-Kj0M6d {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-EZhxIr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-EZhxIr {
+  width: 154px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-OyYSLi {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-xoEjND {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-xoEjND {
+  width: 88px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-xkouxc {
+  left: 346px;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-5GbyXz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-5GbyXz {
+  width: 184px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-yaHyfW {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-Sw3EFK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-Sw3EFK {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .styletable1line_-color-1AbA3a {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 681px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-4x1z2o {
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-lLnvPU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-lLnvPU {
+  color: var(--black);
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-dvrBas {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-t5ABwh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-t5ABwh {
+  color: var(--black);
+  width: 154px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-GQaNFJ {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-4vEdMQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-4vEdMQ {
+  color: var(--black);
+  width: 88px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-kRLzbi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-kRLzbi {
+  color: var(--black);
+  width: 184px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-OhpTlr {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-6n4eXS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-6n4eXS {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .styletable1line_-color-copy-1AbA3a {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 681px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-mlxgUD {
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-o4ShKC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-o4ShKC {
+  color: var(--black);
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-RXH0W3 {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-exlZiG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-exlZiG {
+  color: var(--black);
+  width: 154px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-yRBND5 {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-aBs9Q8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-aBs9Q8 {
+  color: var(--black);
+  width: 88px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-NL42dE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-NL42dE {
+  color: var(--black);
+  width: 184px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-g9wpxH {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-HKCOP9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-HKCOP9 {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .styletable1line_-color-copy-2-1AbA3a {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 681px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-QZjbrD {
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-nlyJxg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-nlyJxg {
+  color: var(--black);
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-nU9Dv8 {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-VaffFY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-VaffFY {
+  color: var(--black);
+  width: 154px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-Moawrq {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-zWlA01 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-zWlA01 {
+  color: var(--black);
+  width: 88px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-Jfosqx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-Jfosqx {
+  color: var(--black);
+  width: 184px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-KYUT4M {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-sfv7St {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-sfv7St {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-Hca3I0 {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 375px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-2-copy-2-7Nk0Hw {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-nUqRLx {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-3R5sk2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-3R5sk2 {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-hXLQ4g {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-N8XDSe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-N8XDSe {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-LCgFIN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-LCgFIN {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-2-copy-4-7Nk0Hw {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-D4bCMx {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-tPO7Cg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-tPO7Cg {
+  color: var(--black);
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line-NeRGOw {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-76zXqP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-76zXqP {
+  color: var(--black);
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-RxThz9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents-RxThz9 {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .descriptiontabletop-7Nk0Hw {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-xxtiec {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-3Bkc64 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-3Bkc64 {
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-fa2zVH {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-AKq3AV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-AKq3AV {
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-title-ZfDbse {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-Ka7xJb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-title-text-Ka7xJb {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-sub_-title_w-description-Hca3I0 {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1500px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .content-aprEiW {
+  background-color: transparent;
+  font-weight: 400;
+  height: 23px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 1400px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .sub-title-aprEiW {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-title-area-Hca3I0 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-tab-device-featu-Hca3I0 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .x3rd-depth-CjZqFD {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .tab-CjZqFD {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .types-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .service-feature-type-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .toggle-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .buttons-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 49px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .buttons-2-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .dropdown-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .toggle-adjust-_-st-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 177px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .toggle-adjust-_-li-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .value-slider-nnbZh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .lnb-favorite-card-Hca3I0 {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-Xaxw6S {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .background-Xaxw6S {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .stacked-group-Xaxw6S {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-title-common-WxBslF {
+  margin: 0;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-contents2dpeth-copy-2-WxBslF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-contents2dpeth-copy-3-WxBslF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-contents1dpeth_open_selected-WxBslF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-copy-WxBslF {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .empty-xNaZ2f {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .empty-LF2BVC {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-title-common-copy-WxBslF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-WxBslF {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .empty-ZDRH0v {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .empty-DNfx2h {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-title-common-JoZgWa {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .group-copy-2-WxBslF {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .empty-cP3cwt {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .empty-A2bLOn {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-title-common-copy-2-WxBslF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .line-Xaxw6S {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .home-net-gui-guidelin-Xaxw6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .webgnb-Hca3I0 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .rectangle-S5B9ua {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .background-S5B9ua {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .index-S5B9ua {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-select-JVUr3r {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-unselect-JVUr3r {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .web-index-unelect_main-S5B9ua {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .logo-4GM1il {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.devicefeaturemaindevicefeaturevalueslider .table-guide-text2line_m {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

@@ -1,0 +1,85 @@
+/* screen - basiccomponentbutton2buttons */
+
+.basiccomponentbutton2buttons {
+  background-color: var(--white);
+  height: 1184px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbutton2buttons .group-5 {
+  background-color: transparent;
+  height: 642px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponentbutton2buttons .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbutton2buttons .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbutton2buttons .toggle-button {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 86px;
+}
+
+.basiccomponentbutton2buttons .bottom-buttons {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentbutton2buttons .group-1 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentbutton2buttons .group-copy {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentbutton2buttons .group-2 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1166px;
+  width: 320px;
+}

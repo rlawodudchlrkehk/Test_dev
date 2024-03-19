@@ -1,0 +1,673 @@
+/* screen - servicepluginhometoucharea */
+
+.servicepluginhometoucharea {
+  background-color: var(--white);
+  height: 2510px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhometoucharea .group-8-YNDQd7 {
+  background-color: transparent;
+  height: 971px;
+  left: 420px;
+  position: absolute;
+  top: 395px;
+  width: 670px;
+}
+
+.servicepluginhometoucharea .group-4-YNDQd7 {
+  background-color: transparent;
+  height: 794px;
+  left: 420px;
+  position: absolute;
+  top: 1516px;
+  width: 362px;
+}
+
+.servicepluginhometoucharea .group-6-YNDQd7 {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 394px;
+  width: 680px;
+}
+
+.servicepluginhometoucharea .descriptiontabletop-wVSPGF {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhometoucharea .table-guide-title-F6Iau7 {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhometoucharea .rectangle-wiYLG4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginhometoucharea .table-title-text-wiYLG4 {
+  width: 258px;
+}
+
+.servicepluginhometoucharea .table-guide-title-HZodPz {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginhometoucharea .rectangle-sDOXUT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginhometoucharea .table-title-text-sDOXUT {
+  width: 328px;
+}
+
+.servicepluginhometoucharea .table-guide-title-2EiEBe {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhometoucharea .rectangle-mXLEFW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginhometoucharea .table-title-text-mXLEFW {
+  width: 38px;
+}
+
+.servicepluginhometoucharea .group-3-wVSPGF {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhometoucharea .table-guide-text1line-yQCkC4 {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhometoucharea .rectangle-UTROTE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhometoucharea .contents-UTROTE {
+  width: 258px;
+}
+
+.servicepluginhometoucharea .rectangle-xkrbux {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhometoucharea .contents-xkrbux {
+  width: 328px;
+}
+
+.servicepluginhometoucharea .table-guide-text1line-9lJBpy {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhometoucharea .rectangle-LEuoLD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhometoucharea .contents-LEuoLD {
+  width: 38px;
+}
+
+.servicepluginhometoucharea .group-5-wVSPGF {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginhometoucharea .table-guide-text1line-oieWxa {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhometoucharea .rectangle-aKbvAS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhometoucharea .contents-aKbvAS {
+  width: 258px;
+}
+
+.servicepluginhometoucharea .rectangle-a3Xk9C {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhometoucharea .contents-a3Xk9C {
+  width: 328px;
+}
+
+.servicepluginhometoucharea .table-guide-text1line-6mxoCX {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhometoucharea .rectangle-xvcARO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhometoucharea .contents-xvcARO {
+  width: 38px;
+}
+
+.servicepluginhometoucharea .web-sub_-title-YNDQd7 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 337px;
+  width: 360px;
+}
+
+.servicepluginhometoucharea .sub-title-DQCQHm {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginhometoucharea .web-title-area-YNDQd7 {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhometoucharea .web-tab-service-plug-in_-home-screen-YNDQd7 {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhometoucharea .x3rd-depth-on7t2e {
+  top: 0px;
+}
+
+.servicepluginhometoucharea .default-type-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 78px;
+}
+
+.servicepluginhometoucharea .shortcut-default-t-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 142px;
+}
+
+.servicepluginhometoucharea .brand-type-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhometoucharea .shortcut-brand-typ-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhometoucharea .banner-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhometoucharea .app-link-copy-2-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhometoucharea .banner-_-xkLULc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginhometoucharea .x3rd-depth-OYJxJY {
+  top: 53px;
+}
+
+.servicepluginhometoucharea .more-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginhometoucharea .edit-_-feature-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.servicepluginhometoucharea .notifications-_-feat-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhometoucharea .help-guide-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginhometoucharea .help-guide-_-expanda-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhometoucharea .help-guide-_-image-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.servicepluginhometoucharea .service-feature-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhometoucharea .service-feature-_-no-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhometoucharea .touch-area-RyQzIo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhometoucharea .lnb-service-plug-in-YNDQd7 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .rectangle-LUgxQU {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .lnb-LUgxQU {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .stacked-group-x2kbof {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .web-index-title-common-copy-hXeS1q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .group-copy-hXeS1q {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .empty-copy-D00Ex7 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .line-copy-2-D00Ex7 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhometoucharea .empty-copy-2-D00Ex7 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .web-index-contents1dpeth_open_selected-hXeS1q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .web-index-contents2dpeth-copy-2-hXeS1q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .web-index-contents2dpeth-copy-hXeS1q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .web-index-contents2dpeth-copy-3-hXeS1q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .group-hXeS1q {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .empty-fQ3lFi {
+  top: 21px;
+}
+
+.servicepluginhometoucharea .empty-Hjmx9v {
+  top: 0px;
+}
+
+.servicepluginhometoucharea .group-copy-2-hXeS1q {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .empty-RY16vE {
+  top: 21px;
+}
+
+.servicepluginhometoucharea .empty-5bw3xU {
+  top: 0px;
+}
+
+.servicepluginhometoucharea .web-index-title-common-copy-2-hXeS1q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .line-x2kbof {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhometoucharea .home-net-gui-guidelin-x2kbof {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhometoucharea .webgnb-YNDQd7 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhometoucharea .rectangle-gTpIFn {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhometoucharea .background-gTpIFn {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhometoucharea .index-gTpIFn {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhometoucharea .web-index-select-w386gj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhometoucharea .web-index-unselect-w386gj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhometoucharea .web-index-unelect_main-gTpIFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginhometoucharea .logo-YjA7WX {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginhometoucharea .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.servicepluginhometoucharea .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginhometoucharea .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

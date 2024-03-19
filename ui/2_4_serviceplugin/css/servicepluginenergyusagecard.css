@@ -1,0 +1,514 @@
+/* screen - servicepluginenergyusagecard */
+
+.servicepluginenergyusagecard {
+  background-color: var(--white);
+  height: 1561px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .group-12-DxSnLn {
+  background-color: transparent;
+  height: 479px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.servicepluginenergyusagecard .group-13-DxSnLn {
+  background-color: transparent;
+  height: 440px;
+  left: 420px;
+  position: absolute;
+  top: 921px;
+  width: 670px;
+}
+
+.servicepluginenergyusagecard .group-20-DxSnLn {
+  background-color: transparent;
+  height: 869px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .group-19-xfAf9v {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-copy-1r2y24 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-copy-2-1r2y24 {
+  background-color: transparent;
+  height: 56px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginenergyusagecard .table-guide-title-copy-3-1r2y24 {
+  background-color: transparent;
+  height: 56px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginenergyusagecard .group-18-xfAf9v {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-ZowxLa {
+  height: 59px;
+}
+
+.servicepluginenergyusagecard .group-17-xfAf9v {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-OwaRbq {
+  height: 99px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-copy-2-OwaRbq {
+  cursor: pointer;
+}
+
+.servicepluginenergyusagecard .group-16-xfAf9v {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 234px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-v20pqq {
+  height: 99px;
+}
+
+.servicepluginenergyusagecard .group-15-xfAf9v {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 343px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-6Uxjap {
+  height: 139px;
+}
+
+.servicepluginenergyusagecard .group-14-xfAf9v {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: absolute;
+  top: 492px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-gUhVrk {
+  height: 179px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-copy-2-gUhVrk {
+  cursor: pointer;
+}
+
+.servicepluginenergyusagecard .group-9-xfAf9v {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 681px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-2DQiJj {
+  height: 99px;
+}
+
+.servicepluginenergyusagecard .group-3-xfAf9v {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 790px;
+  width: 680px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-URkCmI {
+  height: 79px;
+}
+
+.servicepluginenergyusagecard .web-sub_-title-DxSnLn {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .web-title-area-DxSnLn {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .web-tab-service-plug-DxSnLn {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .x3rd-depth-krxN6s {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecard .tab-1Yp9Ln {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginenergyusagecard .card-weu4PG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginenergyusagecard .feature-weu4PG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginenergyusagecard .interaction-flow-weu4PG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginenergyusagecard .case-weu4PG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.servicepluginenergyusagecard .lnb-service-plug-in-DxSnLn {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .rectangle-oJaDcF {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .lnb-oJaDcF {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .stacked-group-5abpwE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-title-common-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .empty-E4KdQ0 {
+  top: 21px;
+}
+
+.servicepluginenergyusagecard .empty-j9M7VZ {
+  top: 0px;
+}
+
+.servicepluginenergyusagecard .web-index-contents1d-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents1dpeth_open_selected-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-3-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-2-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .web-index-contents2dpeth-copy-4-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .empty-702yyD {
+  top: 21px;
+}
+
+.servicepluginenergyusagecard .empty-O8hI63 {
+  top: 0px;
+}
+
+.servicepluginenergyusagecard .group-copy-q4dstv {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .empty-VkxuEY {
+  top: 21px;
+}
+
+.servicepluginenergyusagecard .empty-iAfGu3 {
+  top: 0px;
+}
+
+.servicepluginenergyusagecard .web-index-title-reference-copy-q4dstv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .line-5abpwE {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginenergyusagecard .home-net-ui-guideline-5abpwE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginenergyusagecard .webgnb-DxSnLn {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .rectangle-MnH8yO {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .background-MnH8yO {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecard .index-MnH8yO {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginenergyusagecard .web-index-select-UO2wAd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginenergyusagecard .web-index-unselect-UO2wAd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginenergyusagecard .web-index-unelect_main-MnH8yO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginenergyusagecard .logo-gwQ9qf {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginenergyusagecard .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginenergyusagecard .table-guide-text2line_mint-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

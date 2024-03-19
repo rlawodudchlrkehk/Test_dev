@@ -1,0 +1,547 @@
+/* screen - coreapplifetablayout */
+
+.coreapplifetablayout {
+  background-color: var(--white);
+  height: 1887px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetablayout .group-2-6ilEUz {
+  background-color: transparent;
+  height: 1337px;
+  left: 420px;
+  position: absolute;
+  top: 350px;
+  width: 1400px;
+}
+
+.coreapplifetablayout .web-sub_-title-6ilEUz {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 360px;
+}
+
+.coreapplifetablayout .sub-title-lyii7F {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreapplifetablayout .web-title-area-6ilEUz {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreapplifetablayout .web-tabc2-c_re_popup-6ilEUz {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.coreapplifetablayout .rectangle-UVUJQP {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetablayout .background-UVUJQP {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetablayout .x3rd-depth-UVUJQP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetablayout .layout-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 43px;
+}
+
+.coreapplifetablayout .life-tab-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetablayout .service-card-health-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.coreapplifetablayout .basic-_-title-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetablayout .basic-_-page-indicat-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetablayout .basic-_-bg-copy-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetablayout .basic-_-primary-colo-1PUiP6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetablayout .x3rd-depth-copy-UVUJQP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetablayout .basic-type-GhVGUc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetablayout .quick-link-type-copy-GhVGUc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.coreapplifetablayout .quick-link-type-_-se-GhVGUc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetablayout .quick-link-type-_-ic-GhVGUc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetablayout .banner-type-GhVGUc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetablayout .broken-token-GhVGUc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetablayout .lnbc2-c_coreapp-6ilEUz {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetablayout .rectangle-jHT20S {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreapplifetablayout .background-jHT20S {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreapplifetablayout .line-jHT20S {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetablayout .home-net-gui-guidelin-jHT20S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup31 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup31 .web-index-title-reference-copy-2-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .group-jjB0ne {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup31 .empty-GihQE5 {
+  bottom: 0px;
+}
+
+.stackedgroup31 .empty-JoxSjB {
+  top: 0px;
+}
+
+.stackedgroup31 .web-index-title-reference-copy-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .group-copy-jjB0ne {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .empty-gBHVxl {
+  bottom: 0px;
+}
+
+.stackedgroup31 .empty-jRf5Uq {
+  top: 0px;
+}
+
+.stackedgroup31 .web-index-title-reference-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .web-index-contents1dpeth_close-copy-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .group-5BS697 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup31 .x1-depth-title-9xe3hO {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup31 .web-fold-5BS697 {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup31 .background-IZ7xME {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup31 .button-IZ7xME {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup31 .web-index-contents1dpeth_close-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .group-y3qggd {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup31 .web-expanded-85o69w {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup31 .button-ZZizKL {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup31 .x1-depth-title-85o69w {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup31 .web-index-contents1dpeth_open_selected-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .group-copy-2-jjB0ne {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup31 .empty-Q8Q8dE {
+  bottom: 0px;
+}
+
+.stackedgroup31 .empty-ehC82W {
+  top: 0px;
+}
+
+.stackedgroup31 .web-index-title-reference-copy-3-jjB0ne {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetablayout .webgnb-6ilEUz {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetablayout .rectangle-Y99xoI {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetablayout .background-Y99xoI {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetablayout .index-Y99xoI {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreapplifetablayout .web-index-select-q2bimz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreapplifetablayout .web-index-unselect-q2bimz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreapplifetablayout .web-index-unelect_main-Y99xoI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreapplifetablayout .logo-vW17N0 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup31 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup31 .group {
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+}
+
+.stackedgroup31 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

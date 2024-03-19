@@ -1,0 +1,86 @@
+/* screen - basiccomponenttextfieldsinteractionflow */
+
+.basiccomponenttextfieldsinteractionflow {
+  background-color: var(--white);
+  height: 1365px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-2 {
+  height: 823px;
+  left: 420px;
+  top: 342px;
+  width: 1400px;
+}
+
+.basiccomponenttextfieldsinteractionflow .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsinteractionflow .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsinteractionflow .text-fields {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.basiccomponenttextfieldsinteractionflow .auto-complete-text-f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 151px;
+}
+
+.basiccomponenttextfieldsinteractionflow .states-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 39px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsinteractionflow .group-3 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

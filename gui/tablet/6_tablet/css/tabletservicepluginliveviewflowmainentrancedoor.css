@@ -1,0 +1,713 @@
+/* screen - tabletservicepluginliveviewflowmainentrancedoor */
+
+.tabletservicepluginliveviewflowmainentrancedoor {
+  background-color: var(--white);
+  height: 2809px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-10-0Wi4sG {
+  background-color: transparent;
+  height: 2213px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 1400px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-sub_-title-0Wi4sG {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 532px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .sub-title-dlxYZD {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-title-area-0Wi4sG {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-tab-service-plug-in_-home-screen-0Wi4sG {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x3rd-depth-kltALS {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .live-view_-feature_-ca-FHx8Ab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 148px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .live-view_-feature_-po-FHx8Ab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .incoming-call_-flow_m-FHx8Ab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 251px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .flow_-front-door-FHx8Ab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .flow_-home-screen-FHx8Ab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .flow_-back-key-FHx8Ab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x3rd-depth-copy-kltALS {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .feature_-basic_layout-TV1yN2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 181px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .feature_-main-entranc-TV1yN2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .feature_-front-door-TV1yN2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 121px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .feature_-call-end-TV1yN2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .feature_-back-key-TV1yN2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .feature_-exceptional-TV1yN2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 160px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .lnb-service-plug-in-0Wi4sG {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .rectangle-vPhbvd {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .lnb-vPhbvd {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .stacked-group-DWScSc {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-index-title-common-copy-yVEcEW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-DL8YUj {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-copy-yVEcEW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .empty-copy-zyQLyO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .line-copy-2-zyQLyO {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .empty-copy-2-zyQLyO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-JY4IGk {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-yVEcEW {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .empty-05WEIq {
+  top: 21px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .empty-v2blZ5 {
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-U9lEGd {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-HsDpiT {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .empty-qlr4wW {
+  top: 21px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .empty-SnDrOW {
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-qZh0M4 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-bxFzjb {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x1-depth-title-7CJP58 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .button-y7zv3s {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-PGEZAO {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x1-depth-title-N7ej9y {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .button-Oq6Uxt {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-VBpEdM {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x1-depth-title-bKHSMl {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .button-61lzw0 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-XzXoHq {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x1-depth-title-x6XnWl {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .button-Cfs2WW {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-MTG4xH {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x1-depth-title-jnlYjV {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .button-tTZWzO {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-xx9x0a {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x1-depth-title-5O5Ioa {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-expanded-xx9x0a {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .button-9J2t9Y {
+  left: 1px;
+  top: -4px;
+  transform: rotate(90deg);
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-C1vMbJ {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-ISz2bX {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-MyLxxx {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-2yvBUS {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-SlpxLp {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-JOAqvD {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-QENaO4 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-jBBexA {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-rfKFst {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-CC5xqZ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-saupv2 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-cSIbcS {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-h4QSHn {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-LBhT7F {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-LwWbRz {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-ayX81W {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-CTACBk {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-o1hw4n {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-KwNMVj {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-C5JH2m {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-kvwXpY {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-UNIzlG {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-0eKHRH {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-G8ukbb {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .group-ZZWypW {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title-dgrrTB {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .line-DWScSc {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .home-net-gui-guidelin-DWScSc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .webgnb-0Wi4sG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .rectangle-ZiHnPN {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .background-ZiHnPN {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .index-ZiHnPN {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-index-select-bm253v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-index-unselect-bm253v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .web-index-unelect_main-ZiHnPN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .logo-uhpzWl {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginliveviewflowmainentrancedoor .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

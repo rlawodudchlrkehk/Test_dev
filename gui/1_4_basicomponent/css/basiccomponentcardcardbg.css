@@ -1,0 +1,740 @@
+/* screen - basiccomponentcardcardbg */
+
+.basiccomponentcardcardbg {
+  background-color: var(--white);
+  height: 1488px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentcardcardbg .group-3-5fxFrL {
+  background-color: transparent;
+  height: 748px;
+  left: 420px;
+  position: absolute;
+  top: 376px;
+  width: 671px;
+}
+
+.basiccomponentcardcardbg .group-5-5fxFrL {
+  background-color: transparent;
+  height: 236px;
+  left: 1140px;
+  position: absolute;
+  top: 376px;
+  width: 680px;
+}
+
+.basiccomponentcardcardbg .group-6-5fxFrL {
+  background-color: transparent;
+  height: 236px;
+  left: 1140px;
+  position: absolute;
+  top: 882px;
+  width: 680px;
+}
+
+.basiccomponentcardcardbg .group-9-5fxFrL {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 642px;
+  width: 680px;
+}
+
+.basiccomponentcardcardbg .table-guide-title-FxvWS6 {
+  left: 280px;
+  width: 400px;
+}
+
+.basiccomponentcardcardbg .rectangle-bplnNG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 400px;
+}
+
+.basiccomponentcardcardbg .table-title-text-bplnNG {
+  width: 388px;
+}
+
+.basiccomponentcardcardbg .table-guide-title-AagX5w {
+  left: 0px;
+  width: 270px;
+}
+
+.basiccomponentcardcardbg .rectangle-6gxuaC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentcardcardbg .table-title-text-6gxuaC {
+  width: 258px;
+}
+
+.basiccomponentcardcardbg .rectangle-xCg6qW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 400px;
+}
+
+.basiccomponentcardcardbg .contents-xCg6qW {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  top: 11px;
+  width: 388px;
+}
+
+.tableguidetext2line1 {
+  background-color: transparent;
+  height: 44.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext2line1 .background-UHYPZ7 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext2line1 .rectangle-UHYPZ7 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext2line1 .contents-UHYPZ7 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentcardcardbg .group-9-copy-5fxFrL {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 1148px;
+  width: 680px;
+}
+
+.basiccomponentcardcardbg .table-guide-title-4jLAoH {
+  left: 280px;
+  width: 400px;
+}
+
+.basiccomponentcardcardbg .rectangle-Lm7rFP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 400px;
+}
+
+.basiccomponentcardcardbg .table-title-text-Lm7rFP {
+  width: 388px;
+}
+
+.basiccomponentcardcardbg .table-guide-title-Oi1RIs {
+  left: 0px;
+  width: 270px;
+}
+
+.basiccomponentcardcardbg .rectangle-bmKhEV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentcardcardbg .table-title-text-bmKhEV {
+  width: 258px;
+}
+
+.basiccomponentcardcardbg .rectangle-vvPNkc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 400px;
+}
+
+.basiccomponentcardcardbg .contents-vvPNkc {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  top: 11px;
+  width: 388px;
+}
+
+.tableguidetext2line12 {
+  background-color: transparent;
+  height: 44.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext2line12 .background-L0bmhx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext2line12 .rectangle-L0bmhx {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext2line12 .contents-L0bmhx {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentcardcardbg .srceen-comments-comment-copy-5fxFrL {
+  background-color: transparent;
+  height: 20px;
+  left: 420px;
+  position: absolute;
+  top: 349px;
+  width: 288px;
+}
+
+.basiccomponentcardcardbg .contents-xxGBPZ {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 288px;
+}
+
+.basiccomponentcardcardbg .web-sub_-title-5fxFrL {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentcardcardbg .sub-title-991V1s {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentcardcardbg .web-title-area-5fxFrL {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentcardcardbg .web-tab-service-feature_-basic-layout-5fxFrL {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentcardcardbg .x3rd-depth-hSeKtX {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentcardcardbg .tab-hSeKtX {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentcardcardbg .card-bg-xSLRh0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 50px;
+}
+
+.basiccomponentcardcardbg .lnb-favorite-card-5fxFrL {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .rectangle-jPy6xZ {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .background-jPy6xZ {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .stacked-group-jPy6xZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-title-common-6Mqc4R {
+  margin: 0;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-2-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-14-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-10-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-6-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-11-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-7-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-4-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-8-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-9-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-5-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-3-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-12-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-13-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents2dpeth-copy-15-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .web-index-contents1dpeth_open_selected-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .group-copy-6Mqc4R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .empty-J0bjNN {
+  top: 21px;
+}
+
+.basiccomponentcardcardbg .empty-kxHOWq {
+  top: 0px;
+}
+
+.basiccomponentcardcardbg .web-index-title-common-copy-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .group-6Mqc4R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .empty-BmUSFM {
+  top: 21px;
+}
+
+.basiccomponentcardcardbg .empty-qXCkU1 {
+  top: 0px;
+}
+
+.basiccomponentcardcardbg .web-index-title-common-KViEzL {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentcardcardbg .group-copy-2-6Mqc4R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .empty-OTcoaR {
+  top: 21px;
+}
+
+.basiccomponentcardcardbg .empty-4Vxmbl {
+  top: 0px;
+}
+
+.basiccomponentcardcardbg .web-index-title-common-copy-2-6Mqc4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentcardcardbg .line-jPy6xZ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentcardcardbg .home-net-gui-guidelin-jPy6xZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentcardcardbg .webgnb-5fxFrL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentcardcardbg .rectangle-PBTzUZ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentcardcardbg .background-PBTzUZ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentcardcardbg .index-PBTzUZ {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentcardcardbg .web-index-select-d4ELlE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentcardcardbg .web-index-unselect-d4ELlE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentcardcardbg .web-index-unelect_main-PBTzUZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentcardcardbg .logo-1WkCax {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentcardcardbg .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentcardcardbg .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  white-space: nowrap;
+  width: 388px;
+}
+
+.basiccomponentcardcardbg .descriptiontable2line {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentcardcardbg .descriptiontabletop {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentcardcardbg .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentcardcardbg .table-guide-text2line {
+  background-color: transparent;
+  height: 73px;
+  left: 280px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}

@@ -1,0 +1,365 @@
+/* screen - basiccomponentmain */
+
+.basiccomponentmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentmain .group-2-eQc9Vl {
+  background-color: transparent;
+  height: 650px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 618px;
+}
+
+.basiccomponentmain .lnb-favorite-card-eQc9Vl {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentmain .rectangle-fjxu0K {
+  background-color: var(--concrete);
+  height: 1494px;
+  width: 320px;
+}
+
+.basiccomponentmain .background-fjxu0K {
+  background-color: var(--concrete);
+  height: 952px;
+  width: 320px;
+}
+
+.basiccomponentmain .stacked-group-fjxu0K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-title-common-2xE2YH {
+  margin: 0;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-2-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-14-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-10-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-6-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-11-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-7-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-4-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-8-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-9-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-5-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-3-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-12-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-13-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents2dpeth-copy-15-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .web-index-contents1dpeth_open_selected-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .group-copy-2xE2YH {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .empty-4YZWEu {
+  top: 21px;
+}
+
+.basiccomponentmain .empty-6QZZcf {
+  top: 0px;
+}
+
+.basiccomponentmain .web-index-title-common-copy-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .group-2xE2YH {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .empty-yl5tjy {
+  top: 21px;
+}
+
+.basiccomponentmain .empty-4sz2kQ {
+  top: 0px;
+}
+
+.basiccomponentmain .web-index-title-common-d9QqtI {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentmain .group-copy-2-2xE2YH {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .empty-gtXgN4 {
+  top: 21px;
+}
+
+.basiccomponentmain .empty-Wv9i0F {
+  top: 0px;
+}
+
+.basiccomponentmain .web-index-title-common-copy-2-2xE2YH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentmain .line-fjxu0K {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentmain .home-net-gui-guidelin-fjxu0K {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentmain .webgnb-eQc9Vl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentmain .rectangle-wgGs7D {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentmain .background-wgGs7D {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentmain .index-wgGs7D {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentmain .web-index-select-rgIKxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentmain .web-index-unselect-rgIKxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentmain .web-index-unelect_main-wgGs7D {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentmain .logo-0q10jU {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentmain .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

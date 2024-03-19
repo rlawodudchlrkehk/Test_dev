@@ -1,0 +1,583 @@
+/* screen - servicepluginhomescreenbasic */
+
+.servicepluginhomescreenbasic {
+  background-color: var(--white);
+  height: 1400px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbasic .group-7-fjqgs0 {
+  background-color: transparent;
+  height: 588px;
+  left: 400px;
+  position: absolute;
+  top: 389px;
+  width: 690px;
+}
+
+.servicepluginhomescreenbasic .group-11-fjqgs0 {
+  background-color: transparent;
+  height: 811px;
+  left: 1140px;
+  position: absolute;
+  top: 389px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .group-10-UzQVLC {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .table-guide-title-copy-dfin1O {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginhomescreenbasic .table-guide-title-copy-2-dfin1O {
+  background-color: transparent;
+  height: 56px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenbasic .table-guide-title-copy-3-dfin1O {
+  background-color: transparent;
+  height: 56px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenbasic .group-9-UzQVLC {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-wGgf7L {
+  height: 79px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-copy-2-wGgf7L {
+  height: 37px;
+}
+
+.servicepluginhomescreenbasic .group-8-UzQVLC {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-XxOacU {
+  height: 139px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-copy-2-XxOacU {
+  height: 57px;
+}
+
+.servicepluginhomescreenbasic .group-6-UzQVLC {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 294px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-n3zP8e {
+  height: 119px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-copy-2-n3zP8e {
+  cursor: pointer;
+  height: 37px;
+}
+
+.servicepluginhomescreenbasic .group-5-UzQVLC {
+  background-color: transparent;
+  height: 219px;
+  left: 0px;
+  position: absolute;
+  top: 423px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-xdtfrC {
+  height: 219px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-copy-2-xdtfrC {
+  height: 37px;
+}
+
+.servicepluginhomescreenbasic .group-3-UzQVLC {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  position: absolute;
+  top: 652px;
+  width: 680px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-S0ROwi {
+  height: 159px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-copy-2-S0ROwi {
+  cursor: pointer;
+  height: 37px;
+}
+
+.servicepluginhomescreenbasic .web-sub_-title-fjqgs0 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbasic .web-title-area-fjqgs0 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbasic .web-tab-service-plug-in_-home-screen-fjqgs0 {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbasic .rectangle-LcPbFh {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbasic .x3rd-depth-LcPbFh {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbasic .service-feature-k5FOBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginhomescreenbasic .basic-k5FOBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.servicepluginhomescreenbasic .banner-app-link-k5FOBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginhomescreenbasic .feature-k5FOBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomescreenbasic .interaction-flow-copy-4-k5FOBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginhomescreenbasic .notifications-_-feat-k5FOBh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.servicepluginhomescreenbasic .group-k5FOBh {
+  height: 17px;
+  margin: 0 0 0 50px;
+  width: 194px;
+}
+
+.servicepluginhomescreenbasic .notifications-_-inte-Yj5Ii5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.servicepluginhomescreenbasic .x3rd-depth-copy-LcPbFh {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbasic .group-x5oUxX {
+  height: 17px;
+  margin: 0;
+  width: 619px;
+}
+
+.servicepluginhomescreenbasic .help-_-interaction-f-IvvLaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 478px;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.servicepluginhomescreenbasic .help-guide-_-using-b-IvvLaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.servicepluginhomescreenbasic .help-guide-copy-IvvLaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.servicepluginhomescreenbasic .help-_-guide-text-IvvLaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.servicepluginhomescreenbasic .lnb-service-plug-in-fjqgs0 {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .rectangle-B3zc8e {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .lnb-B3zc8e {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .stacked-group-Yhxs07 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .web-index-title-common-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .group-JpKq3R {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .empty-2vXOtM {
+  top: 21px;
+}
+
+.servicepluginhomescreenbasic .empty-FrwMtB {
+  top: 0px;
+}
+
+.servicepluginhomescreenbasic .web-index-contents1d-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .web-index-contents1dpeth_open_selected-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .web-index-contents2dpeth-copy-3-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .web-index-contents2dpeth-copy-2-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .web-index-contents2dpeth-copy-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .web-index-contents2dpeth-copy-4-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .group-WOcGML {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .empty-ozEig4 {
+  top: 21px;
+}
+
+.servicepluginhomescreenbasic .empty-JJxppx {
+  top: 0px;
+}
+
+.servicepluginhomescreenbasic .group-copy-JpKq3R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .empty-uboUAh {
+  top: 21px;
+}
+
+.servicepluginhomescreenbasic .empty-Aaxkzl {
+  top: 0px;
+}
+
+.servicepluginhomescreenbasic .web-index-title-reference-copy-JpKq3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbasic .line-Yhxs07 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomescreenbasic .home-net-ui-guideline-Yhxs07 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginhomescreenbasic .webgnb-fjqgs0 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbasic .rectangle-vlNC3X {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbasic .background-vlNC3X {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbasic .index-vlNC3X {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginhomescreenbasic .web-index-select-fv7E6t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomescreenbasic .web-index-unselect-fv7E6t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomescreenbasic .web-index-unelect_main-vlNC3X {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginhomescreenbasic .logo-I4xf89 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginhomescreenbasic .group {
+  background-color: transparent;
+  position: relative;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenbasic .table-guide-text2line_mint-copy-2 {
+  background-color: transparent;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

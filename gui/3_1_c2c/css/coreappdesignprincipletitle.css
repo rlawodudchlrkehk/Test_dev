@@ -1,0 +1,476 @@
+/* screen - coreappdesignprincipletitle */
+
+.coreappdesignprincipletitle {
+  background-color: var(--white);
+  height: 1572px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .group-XWv7kc {
+  background-color: transparent;
+  height: 1030px;
+  left: 352px;
+  position: absolute;
+  top: 342px;
+  width: 1468px;
+}
+
+.coreappdesignprincipletitle .web-sub_-title-XWv7kc {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.coreappdesignprincipletitle .sub-title-NjQfBs {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreappdesignprincipletitle .web-title-area-XWv7kc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreappdesignprincipletitle .web-tabc2-c_re_popup-XWv7kc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.coreappdesignprincipletitle .x3rd-depth-F9xHvG {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreappdesignprincipletitle .tab-F9xHvG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.coreappdesignprincipletitle .design-principle-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 94px;
+}
+
+.coreappdesignprincipletitle .title-copy-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 28px;
+}
+
+.coreappdesignprincipletitle .contents-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.coreappdesignprincipletitle .logo-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.coreappdesignprincipletitle .background-image-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 109px;
+}
+
+.coreappdesignprincipletitle .pattern-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 44px;
+}
+
+.coreappdesignprincipletitle .lnbc2-c_coreapp-XWv7kc {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappdesignprincipletitle .rectangle-SINwNq {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappdesignprincipletitle .background-SINwNq {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappdesignprincipletitle .line-SINwNq {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappdesignprincipletitle .home-net-gui-guidelin-SINwNq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup45 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup45 .web-index-title-reference-copy-2-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-lbUP9J {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup45 .empty-AxGjU2 {
+  bottom: 0px;
+}
+
+.stackedgroup45 .empty-KwCCfP {
+  top: 0px;
+}
+
+.stackedgroup45 .web-index-title-reference-copy-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-copy-lbUP9J {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .empty-s88oCi {
+  bottom: 0px;
+}
+
+.stackedgroup45 .empty-yAwsgf {
+  top: 0px;
+}
+
+.stackedgroup45 .web-index-title-reference-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .web-index-contents1dpeth_close-copy-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-8Zhlxn {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup45 .x1-depth-title-WdxbcH {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup45 .web-fold-8Zhlxn {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup45 .background-3mldKC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup45 .button-3mldKC {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup45 .web-index-contents1dpeth_close-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-douaoD {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup45 .web-expanded-T2yZ2Z {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup45 .button-oynuDh {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup45 .x1-depth-title-T2yZ2Z {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup45 .web-index-contents1dpeth_open_selected-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .group-copy-2-lbUP9J {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup45 .empty-6RIuMb {
+  bottom: 0px;
+}
+
+.stackedgroup45 .empty-uzFHXd {
+  top: 0px;
+}
+
+.stackedgroup45 .web-index-title-reference-copy-3-lbUP9J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreappdesignprincipletitle .webgnb-XWv7kc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .rectangle-ZVSfFe {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .background-ZVSfFe {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .index-ZVSfFe {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappdesignprincipletitle .web-index-select-NdBRKP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappdesignprincipletitle .web-index-unselect-NdBRKP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappdesignprincipletitle .web-index-unelect_main-ZVSfFe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreappdesignprincipletitle .logo-25L1S4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup45 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup45 .group {
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+}
+
+.stackedgroup45 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

@@ -1,0 +1,1372 @@
+/* screen - devicepluginairconditioneroption */
+
+.devicepluginairconditioneroption {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3220px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginairconditioneroption .group-22-in3PZQ {
+  background-color: transparent;
+  height: 1324px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .descriptiontabletop-zoPovK {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .group-14-zoPovK {
+  background-color: transparent;
+  height: 380px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .group-13-HmVjzl {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-nmefQA {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-nmefQA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 77px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-nmefQA {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-12-HmVjzl {
+  background-color: transparent;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 89px;
+  width: 620px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-2-JsKwpK {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-5-JsKwpK {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-11-HmVjzl {
+  background-color: transparent;
+  height: 97px;
+  left: 60px;
+  position: absolute;
+  top: 156px;
+  width: 620px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-3-wwMzcY {
+  background-color: transparent;
+  height: 97px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-6-wwMzcY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-HmVjzl {
+  background-color: transparent;
+  height: 117px;
+  left: 60px;
+  position: absolute;
+  top: 263px;
+  width: 620px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-4-RxvJG3 {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-7-RxvJG3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-2-zoPovK {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 446px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-JgcV80 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-JgcV80 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-JgcV80 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-3-zoPovK {
+  background-color: transparent;
+  height: 333px;
+  left: 0px;
+  position: absolute;
+  top: 535px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-Zr5j2M {
+  background-color: transparent;
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-16-Zr5j2M {
+  background-color: transparent;
+  height: 97px;
+  left: 60px;
+  position: absolute;
+  top: 129px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-17-Zr5j2M {
+  background-color: transparent;
+  height: 97px;
+  left: 60px;
+  position: absolute;
+  top: 236px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-Zr5j2M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-Zr5j2M {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-21-zoPovK {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 878px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-mNfY1P {
+  background-color: transparent;
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-mNfY1P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-mNfY1P {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-20-zoPovK {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 1007px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-3-Ldwsw9 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-21-Ldwsw9 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-20-Ldwsw9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 77px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-19-zoPovK {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 1096px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-7-6xdLsb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-23-6xdLsb {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-22-6xdLsb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-5-zoPovK {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 1185px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-BCJAp3 {
+  background-color: transparent;
+  height: 139px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-BCJAp3 {
+  background-color: transparent;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-BCJAp3 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-17-in3PZQ {
+  background-color: transparent;
+  height: 1204px;
+  left: 1140px;
+  position: absolute;
+  top: 1816px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .descriptiontabletop-copy-5wZg0v {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .group-14-5wZg0v {
+  background-color: transparent;
+  height: 253px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .group-13-QOsbxO {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-8-uaxyrZ {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-9-uaxyrZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 77px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-uaxyrZ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-12-QOsbxO {
+  background-color: transparent;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 89px;
+  width: 620px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-10-VvNDII {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-11-VvNDII {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-11-QOsbxO {
+  background-color: transparent;
+  height: 97px;
+  left: 60px;
+  position: absolute;
+  top: 156px;
+  width: 620px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-12-p8h8Gn {
+  background-color: transparent;
+  height: 97px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-13-p8h8Gn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-2-5wZg0v {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 319px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-24-xPxLol {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-25-xPxLol {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-2-xPxLol {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-15-5wZg0v {
+  background-color: transparent;
+  height: 340px;
+  left: 0px;
+  position: absolute;
+  top: 408px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .group-9-fG6xtW {
+  background-color: transparent;
+  height: 97px;
+  left: 60px;
+  position: absolute;
+  top: 69px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-26-vriCbX {
+  background-color: transparent;
+  height: 97px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .group-9-copy-fG6xtW {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-40-xOIElx {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-41-xOIElx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-6-xOIElx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-7-fG6xtW {
+  background-color: transparent;
+  height: 77px;
+  left: 60px;
+  position: absolute;
+  top: 176px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-27-5UYMhN {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .group-8-fG6xtW {
+  background-color: transparent;
+  height: 77px;
+  left: 60px;
+  position: absolute;
+  top: 263px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-28-5eoeFu {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .group-16-5wZg0v {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 758px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-32-uzEyOq {
+  background-color: transparent;
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-33-uzEyOq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-4-uzEyOq {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-4-5wZg0v {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 887px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-8-4yOzL4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-34-4yOzL4 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-35-4yOzL4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 77px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-6-5wZg0v {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 976px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-9-UxfexY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-36-UxfexY {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-37-UxfexY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .group-5-5wZg0v {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 1065px;
+  width: 680px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-38-zmi1G8 {
+  background-color: transparent;
+  height: 139px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginairconditioneroption .table-guide-text2line_mint-copy-39-zmi1G8 {
+  background-color: transparent;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.devicepluginairconditioneroption .table-guide-text1line_-bold-copy-5-zmi1G8 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginairconditioneroption .group-24-in3PZQ {
+  background-color: transparent;
+  height: 1074px;
+  left: 420px;
+  position: absolute;
+  top: 1816px;
+  width: 670px;
+}
+
+.devicepluginairconditioneroption .group-23-in3PZQ {
+  background-color: transparent;
+  height: 1128px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginairconditioneroption .web-sub_-title-in3PZQ {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginairconditioneroption .web-title-area-in3PZQ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginairconditioneroption .web-tab-device-plug-in_-air-conditioner-in3PZQ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginairconditioneroption .x3rd-depth-VucCIl {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginairconditioneroption .tab-jJicRp {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginairconditioneroption .option-bD0oUq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 43px;
+}
+
+.devicepluginairconditioneroption .option-_-interaction-bD0oUq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 154px;
+}
+
+.devicepluginairconditioneroption .lnb-device-plug-in-in3PZQ {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .rectangle-be7kKU {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .stacked-group-be7kKU {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-title-common-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-QTQ5JB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-udDOsS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-FSp2jv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-sGRykZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-F4EP8k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .group-q3SnbN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .empty-kQgDsZ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .line-copy-kQgDsZ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginairconditioneroption .empty-4JMHP3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-title-reference-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-6GZK1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-tmC1ye {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_open_selected-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-QTQ5JB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-udDOsS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-FSp2jv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-sGRykZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-F4EP8k {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-6GZK1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-tmC1ye {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-pYsBav {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-IiC3hq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-xyTIP7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-5oHFYR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-copy-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents2dpeth-KQijuS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-contents1dpeth_close-pYsBav {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .group-QTQ5JB {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .empty-t7fvO3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .line-copy-t7fvO3 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginairconditioneroption .empty-hhcIaT {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-title-reference-QTQ5JB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginairconditioneroption .group-copy-q3SnbN {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .empty-copy-FxEwjQ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .line-copy-2-FxEwjQ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginairconditioneroption .empty-copy-2-FxEwjQ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginairconditioneroption .web-index-title-reference-copy-q3SnbN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginairconditioneroption .line-be7kKU {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginairconditioneroption .home-net-ui-guideline-be7kKU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginairconditioneroption .webgnb-in3PZQ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginairconditioneroption .rectangle-0obg5i {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginairconditioneroption .background-0obg5i {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginairconditioneroption .index-0obg5i {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginairconditioneroption .web-index-select-iiQqpx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginairconditioneroption .web-index-unselect-iiQqpx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginairconditioneroption .web-index-unelect_main-0obg5i {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginairconditioneroption .logo-DYG4h8 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

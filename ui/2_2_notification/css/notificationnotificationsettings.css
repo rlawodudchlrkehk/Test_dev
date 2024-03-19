@@ -1,0 +1,230 @@
+/* screen - notificationnotificationsettings */
+
+.notificationnotificationsettings {
+  background-color: var(--white);
+  height: 1189px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationnotificationsettings .group-7-VhEJEm {
+  background-color: transparent;
+  height: 705px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationnotificationsettings .web-title-area-VhEJEm {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.notificationnotificationsettings .lnb-notification-VhEJEm {
+  background-color: transparent;
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationnotificationsettings .rectangle-g3LPNx {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.notificationnotificationsettings .rectangle-olb0aR {
+  background-color: var(--concrete);
+  height: 1080px;
+  width: 320px;
+}
+
+.notificationnotificationsettings .stacked-group-g3LPNx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.notificationnotificationsettings .web-index-title-common-KxSotG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .empty-KSqOun {
+  top: 21px;
+}
+
+.notificationnotificationsettings .empty-5Xm5Ny {
+  top: 0px;
+}
+
+.notificationnotificationsettings .web-index-contents1dpeth_open_selected-KxSotG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .web-index-contents2dpeth-copy-2-KxSotG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .web-index-contents2dpeth-copy-KxSotG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .empty-iMDdxC {
+  top: 21px;
+}
+
+.notificationnotificationsettings .empty-05xCLd {
+  top: 0px;
+}
+
+.notificationnotificationsettings .group-copy-KxSotG {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .empty-xhx4oY {
+  top: 21px;
+}
+
+.notificationnotificationsettings .empty-Q21fOU {
+  top: 0px;
+}
+
+.notificationnotificationsettings .web-index-title-reference-copy-KxSotG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .line-g3LPNx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.notificationnotificationsettings .home-net-ui-guideline-g3LPNx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.notificationnotificationsettings .webgnb-VhEJEm {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationnotificationsettings .rectangle-7SkZEu {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.notificationnotificationsettings .background-7SkZEu {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationnotificationsettings .index-7SkZEu {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.notificationnotificationsettings .web-index-select-I4Wxvs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.notificationnotificationsettings .web-index-unselect-I4Wxvs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.notificationnotificationsettings .web-index-unelect_main-7SkZEu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.notificationnotificationsettings .logo-NyQKMV {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

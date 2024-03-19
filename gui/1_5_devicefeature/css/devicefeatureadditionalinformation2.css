@@ -1,0 +1,949 @@
+/* screen - devicefeatureadditionalinformation2 */
+
+.devicefeatureadditionalinformation2 {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation2 .group-3-HnsIvt {
+  background-color: transparent;
+  height: 199px;
+  left: 358px;
+  position: absolute;
+  top: 663px;
+  width: 438px;
+}
+
+.devicefeatureadditionalinformation2 .group-10-HnsIvt {
+  background-color: transparent;
+  height: 221px;
+  left: 358px;
+  position: absolute;
+  top: 342px;
+  width: 732px;
+}
+
+.devicefeatureadditionalinformation2 .group-3-copy-HnsIvt {
+  background-color: transparent;
+  height: 190px;
+  left: 1140px;
+  position: absolute;
+  top: 631px;
+  width: 680px;
+}
+
+.devicefeatureadditionalinformation2 .styletabletop-1Mas0K {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-aOBIiY {
+  left: 552px;
+  width: 128px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-gxucVw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-gxucVw {
+  width: 116px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-LYx08U {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-lOudxK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-lOudxK {
+  width: 154px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-xfAyuN {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-2740u5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 100px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-2740u5 {
+  width: 88px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-Ux9wDD {
+  left: 346px;
+  width: 196px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-gaD2om {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 196px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-gaD2om {
+  width: 184px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-aRJqES {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-fOSN04 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-fOSN04 {
+  width: 38px;
+}
+
+.devicefeatureadditionalinformation2 .styletable1line_-color-1Mas0K {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 681px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-ELwOrn {
+  height: 31px;
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-k0vcLF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeatureadditionalinformation2 .contents-k0vcLF {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-OiYlAC {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-D3HdbN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeatureadditionalinformation2 .contents-D3HdbN {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-wKKeCW {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-jbEVro {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeatureadditionalinformation2 .contents-jbEVro {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-XRVBON {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeatureadditionalinformation2 .contents-XRVBON {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-njcoSt {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-UnYTvA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .contents-UnYTvA {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.devicefeatureadditionalinformation2 .styletable1line_-color-copy-1Mas0K {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 126px;
+  width: 681px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-mIX2xb {
+  height: 31px;
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-UT3Cx3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeatureadditionalinformation2 .contents-UT3Cx3 {
+  color: var(--black);
+  font-weight: 400;
+  width: 117px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-qnO5Z0 {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-YFT5wh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeatureadditionalinformation2 .contents-YFT5wh {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-UbkOhv {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-iib41B {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeatureadditionalinformation2 .contents-iib41B {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-t63GRZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeatureadditionalinformation2 .contents-t63GRZ {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-nEMv6c {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-DtGSTd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .contents-DtGSTd {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.devicefeatureadditionalinformation2 .group-HnsIvt {
+  background-color: transparent;
+  height: 189px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicefeatureadditionalinformation2 .group-2-copy-3-wgkqjM {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-hNI3r0 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-KnSCW8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .contents-KnSCW8 {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-y9g3Kw {
+  height: 75px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-u86S3w {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeatureadditionalinformation2 .group-u86S3w {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicefeatureadditionalinformation2 .content-SDjzoA {
+  color: var(--black);
+  top: 22px;
+  width: 258px;
+}
+
+.devicefeatureadditionalinformation2 .content-GSvTSG {
+  color: var(--fuscous-gray);
+  top: 44px;
+  width: 258px;
+}
+
+.devicefeatureadditionalinformation2 .title-SDjzoA {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text2line_m-hNI3r0 {
+  height: 53px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-I3RikU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeatureadditionalinformation2 .group-I3RikU {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicefeatureadditionalinformation2 .content-RadRMO {
+  color: var(--black);
+  top: 22px;
+  width: 328px;
+}
+
+.devicefeatureadditionalinformation2 .title-RadRMO {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicefeatureadditionalinformation2 .group-2-copy-2-wgkqjM {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-qJJG5x {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-kxtLVQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .contents-kxtLVQ {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line-i9jt3P {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-nksyKG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeatureadditionalinformation2 .contents-nksyKG {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text2line_m-qJJG5x {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-ttDiKr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeatureadditionalinformation2 .contents-ttDiKr {
+  color: var(--lochmara);
+  font-weight: 400;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeatureadditionalinformation2 .descriptiontabletop-wgkqjM {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-TkTlYj {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-wHcKhY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-wHcKhY {
+  width: 258px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-4JEuRQ {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-h8BUxl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-h8BUxl {
+  width: 328px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-title-Rmti22 {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-ONEB5E {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation2 .table-title-text-ONEB5E {
+  width: 38px;
+}
+
+.devicefeatureadditionalinformation2 .web-sub_-title_w-description-HnsIvt {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 362px;
+}
+
+.devicefeatureadditionalinformation2 .sub-title-uoq9xf {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeatureadditionalinformation2 .web-title-area-HnsIvt {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation2 .web-tab-device-feature_-capabilities-HnsIvt {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation2 .x3rd-depth-YyqAZA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation2 .tab-YyqAZA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeatureadditionalinformation2 .additional-informati-sKshTR {
+  margin: 0;
+  width: 169px;
+}
+
+.devicefeatureadditionalinformation2 .service-feature-type-sKshTR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 152px;
+}
+
+.devicefeatureadditionalinformation2 .additional-informati-4vEnpX {
+  margin: 0 0 0 50px;
+  width: 155px;
+}
+
+.devicefeatureadditionalinformation2 .time-routine-sKshTR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.devicefeatureadditionalinformation2 .lnb-favorite-card-HnsIvt {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-0VMvIn {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .background-0VMvIn {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .stacked-group-0VMvIn {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-title-common-lnXYt9 {
+  margin: 0;
+}
+
+.devicefeatureadditionalinformation2 .web-index-contents2dpeth-copy-2-lnXYt9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-contents2dpeth-copy-3-lnXYt9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-contents1dpeth_open_selected-lnXYt9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .group-copy-lnXYt9 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .empty-7ZPxL7 {
+  top: 21px;
+}
+
+.devicefeatureadditionalinformation2 .empty-xREbWJ {
+  top: 0px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-title-common-copy-lnXYt9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .group-lnXYt9 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .empty-5slz6J {
+  top: 21px;
+}
+
+.devicefeatureadditionalinformation2 .empty-HSucAX {
+  top: 0px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-title-common-9Z7Xh9 {
+  margin: 0px 0 0 0;
+}
+
+.devicefeatureadditionalinformation2 .group-copy-2-lnXYt9 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .empty-Vitksz {
+  top: 21px;
+}
+
+.devicefeatureadditionalinformation2 .empty-OqyTHp {
+  top: 0px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-title-common-copy-2-lnXYt9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation2 .line-0VMvIn {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeatureadditionalinformation2 .home-net-gui-guidelin-0VMvIn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeatureadditionalinformation2 .webgnb-HnsIvt {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation2 .rectangle-MwLTe8 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation2 .background-MwLTe8 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation2 .index-MwLTe8 {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-select-EpSL6O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-unselect-EpSL6O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeatureadditionalinformation2 .web-index-unelect_main-MwLTe8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeatureadditionalinformation2 .logo-j0fFLg {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeatureadditionalinformation2 .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.devicefeatureadditionalinformation2 .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.devicefeatureadditionalinformation2 .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.devicefeatureadditionalinformation2 .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicefeatureadditionalinformation2 .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

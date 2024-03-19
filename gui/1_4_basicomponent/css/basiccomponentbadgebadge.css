@@ -1,0 +1,668 @@
+/* screen - basiccomponentbadgebadge */
+
+.basiccomponentbadgebadge {
+  background-color: var(--white);
+  height: 1309px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbadgebadge .group-11-Z85Fuw {
+  background-color: transparent;
+  height: 643px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentbadgebadge .group-14-Z85Fuw {
+  background-color: transparent;
+  height: 142px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentbadgebadge .group-8-U6Fujz {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line172 {
+  background-color: transparent;
+  height: 43.02%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line172 .background-spcwjj {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line172 .rectangle-spcwjj {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line172 .contents-spcwjj {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentbadgebadge .table-guide-text1line-iFLRpQ {
+  background-color: transparent;
+  height: 75px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentbadgebadge .rectangle-JjcYxK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentbadgebadge .group-JjcYxK {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentbadgebadge .content-x14mZL {
+  color: var(--black);
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentbadgebadge .content-fFxGHJ {
+  color: var(--fuscous-gray);
+  top: 44px;
+  width: 258px;
+}
+
+.basiccomponentbadgebadge .title-x14mZL {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.basiccomponentbadgebadge .table-guide-text2line_m-iFLRpQ {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentbadgebadge .rectangle-0FPycF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbadgebadge .group-0FPycF {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbadgebadge .content-BOxlXn {
+  color: var(--black);
+  top: 22px;
+  width: 328px;
+}
+
+.basiccomponentbadgebadge .title-BOxlXn {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentbadgebadge .group-13-U6Fujz {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentbadgebadge .table-guide-title-14X98b {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbadgebadge .rectangle-e99600 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentbadgebadge .table-title-text-e99600 {
+  width: 258px;
+}
+
+.basiccomponentbadgebadge .table-guide-title-j9mChx {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentbadgebadge .rectangle-QC5gjP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentbadgebadge .table-title-text-QC5gjP {
+  width: 328px;
+}
+
+.basiccomponentbadgebadge .table-guide-title-knQ9WA {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbadgebadge .rectangle-43thFT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbadgebadge .table-title-text-43thFT {
+  width: 38px;
+}
+
+.basiccomponentbadgebadge .web-sub_-title-Z85Fuw {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentbadgebadge .sub-title-TTIqkT {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbadgebadge .web-title-area-Z85Fuw {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbadgebadge .web-tab-service-feature_-basic-layout-Z85Fuw {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentbadgebadge .x3rd-depth-tXXEwF {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbadgebadge .tab-tXXEwF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbadgebadge .badge-7yxm2T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 50px;
+}
+
+.basiccomponentbadgebadge .lnb-favorite-card-Z85Fuw {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .rectangle-zynxBu {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .background-zynxBu {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .stacked-group-zynxBu {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-title-common-hGyL2O {
+  margin: 0;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-2-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-14-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-10-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-6-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-11-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-7-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-4-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-8-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-9-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-5-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-3-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-12-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-13-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents2dpeth-copy-15-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .web-index-contents1dpeth_open_selected-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .group-copy-hGyL2O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .empty-QNsnCA {
+  top: 21px;
+}
+
+.basiccomponentbadgebadge .empty-nyiC5F {
+  top: 0px;
+}
+
+.basiccomponentbadgebadge .web-index-title-common-copy-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .group-hGyL2O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .empty-xecTg4 {
+  top: 21px;
+}
+
+.basiccomponentbadgebadge .empty-jcsNwn {
+  top: 0px;
+}
+
+.basiccomponentbadgebadge .web-index-title-common-2xidpO {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbadgebadge .group-copy-2-hGyL2O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .empty-8zFZUg {
+  top: 21px;
+}
+
+.basiccomponentbadgebadge .empty-T1z5OU {
+  top: 0px;
+}
+
+.basiccomponentbadgebadge .web-index-title-common-copy-2-hGyL2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbadgebadge .line-zynxBu {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbadgebadge .home-net-gui-guidelin-zynxBu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentbadgebadge .webgnb-Z85Fuw {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbadgebadge .rectangle-UqvWzx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbadgebadge .background-UqvWzx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbadgebadge .index-UqvWzx {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbadgebadge .web-index-select-XxMxMJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbadgebadge .web-index-unselect-XxMxMJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbadgebadge .web-index-unelect_main-UqvWzx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentbadgebadge .logo-hQxxnv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentbadgebadge .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.basiccomponentbadgebadge .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentbadgebadge .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

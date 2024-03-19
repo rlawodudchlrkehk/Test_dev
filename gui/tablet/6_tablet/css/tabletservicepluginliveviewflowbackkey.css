@@ -1,0 +1,713 @@
+/* screen - tabletservicepluginliveviewflowbackkey */
+
+.tabletservicepluginliveviewflowbackkey {
+  background-color: var(--white);
+  height: 1151px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-8-vVcx16 {
+  background-color: transparent;
+  height: 555px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 1400px;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-sub_-title-vVcx16 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 420px;
+}
+
+.tabletservicepluginliveviewflowbackkey .sub-title-oU98Rn {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-title-area-vVcx16 {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-tab-service-plug-in_-home-screen-vVcx16 {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x3rd-depth-aSeWm0 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowbackkey .live-view_-feature_-ca-0s3d0G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 148px;
+}
+
+.tabletservicepluginliveviewflowbackkey .live-view_-feature_-po-0s3d0G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluginliveviewflowbackkey .incoming-call_-flow_m-0s3d0G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 250px;
+}
+
+.tabletservicepluginliveviewflowbackkey .flow_-front-door-0s3d0G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.tabletservicepluginliveviewflowbackkey .flow_-home-screen-0s3d0G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.tabletservicepluginliveviewflowbackkey .flow_-back-key-0s3d0G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x3rd-depth-copy-aSeWm0 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowbackkey .feature_-basic_layout-xcoNiO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 181px;
+}
+
+.tabletservicepluginliveviewflowbackkey .feature_-main-entranc-xcoNiO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.tabletservicepluginliveviewflowbackkey .feature_-front-door-xcoNiO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 121px;
+}
+
+.tabletservicepluginliveviewflowbackkey .feature_-call-end-xcoNiO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.tabletservicepluginliveviewflowbackkey .feature_-back-key-xcoNiO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.tabletservicepluginliveviewflowbackkey .feature_-exceptional-xcoNiO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 160px;
+}
+
+.tabletservicepluginliveviewflowbackkey .lnb-service-plug-in-vVcx16 {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .rectangle-rKmaox {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .lnb-rKmaox {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .stacked-group-k0Glmh {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-index-title-common-copy-E06jpJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-DkiGzA {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-copy-E06jpJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .empty-copy-LbObYz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .line-copy-2-LbObYz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletservicepluginliveviewflowbackkey .empty-copy-2-LbObYz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-y9TCbQ {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-E06jpJ {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginliveviewflowbackkey .empty-gJwGXg {
+  top: 21px;
+}
+
+.tabletservicepluginliveviewflowbackkey .empty-zabFOT {
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-u44ZD1 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-IObZ4T {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginliveviewflowbackkey .empty-NbFIxU {
+  top: 21px;
+}
+
+.tabletservicepluginliveviewflowbackkey .empty-scMBoV {
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-sxpYMV {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-82vufx {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x1-depth-title-jLCiek {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowbackkey .button-p1OsbD {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-vLa0kq {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x1-depth-title-6PJjQT {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowbackkey .button-GyPTWl {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-x439rb {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x1-depth-title-DsO2kx {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowbackkey .button-NrHq4Q {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-xoDXU7 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x1-depth-title-0qSxPz {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowbackkey .button-iP8Sx5 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-qKxCzP {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x1-depth-title-ettH9k {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowbackkey .button-YxX1uK {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-oLxoXL {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x1-depth-title-WldTHi {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-expanded-oLxoXL {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.tabletservicepluginliveviewflowbackkey .button-BxFxMv {
+  left: 1px;
+  top: -4px;
+  transform: rotate(90deg);
+}
+
+.tabletservicepluginliveviewflowbackkey .group-fy5xHD {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-kOvBLU {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-BC03Cy {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-CsqEta {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-0KTa2r {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-0M9EVg {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-HuzveJ {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-xXGp9q {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-JHuXob {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-bk52TE {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-dZtawN {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-r4QCYW {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-VzrJoc {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-RQNb60 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-di51TF {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-si0thc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-ifxlJz {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-7maLLk {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-Hv1k1u {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-GEzEde {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-NimfdR {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-Qcnbzz {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-Ai54dg {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-L26tmp {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowbackkey .group-FumKyo {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title-zj9DFQ {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowbackkey .line-k0Glmh {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluginliveviewflowbackkey .home-net-gui-guidelin-k0Glmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.tabletservicepluginliveviewflowbackkey .webgnb-vVcx16 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowbackkey .rectangle-vxJ8Ll {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowbackkey .background-vxJ8Ll {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowbackkey .index-vxJ8Ll {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-index-select-mLywNc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-index-unselect-mLywNc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluginliveviewflowbackkey .web-index-unelect_main-vxJ8Ll {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletservicepluginliveviewflowbackkey .logo-LoeWB4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.tabletservicepluginliveviewflowbackkey .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginliveviewflowbackkey .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

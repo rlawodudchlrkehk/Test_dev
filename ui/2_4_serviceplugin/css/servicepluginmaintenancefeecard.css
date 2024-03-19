@@ -1,0 +1,519 @@
+/* screen - servicepluginmaintenancefeecard */
+
+.servicepluginmaintenancefeecard {
+  background-color: var(--white);
+  height: 1313px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .group-12-ZRCfWJ {
+  background-color: transparent;
+  height: 771px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.servicepluginmaintenancefeecard .group-11-ZRCfWJ {
+  background-color: transparent;
+  height: 838px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .group-10-tAxkz6 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-copy-U7rhTl {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-copy-2-U7rhTl {
+  background-color: transparent;
+  height: 56px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-title-copy-3-U7rhTl {
+  background-color: transparent;
+  height: 56px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginmaintenancefeecard .group-9-tAxkz6 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-kj2t1C {
+  height: 59px;
+}
+
+.servicepluginmaintenancefeecard .group-8-tAxkz6 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-AYAmKn {
+  height: 79px;
+}
+
+.servicepluginmaintenancefeecard .group-7-tAxkz6 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-AObl5X {
+  height: 99px;
+}
+
+.servicepluginmaintenancefeecard .group-5-tAxkz6 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 432px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-utY3Oj {
+  height: 79px;
+}
+
+.servicepluginmaintenancefeecard .group-4-tAxkz6 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 521px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-vIVqK3 {
+  height: 99px;
+}
+
+.servicepluginmaintenancefeecard .group-6-tAxkz6 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 323px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-UXPOkT {
+  height: 99px;
+}
+
+.servicepluginmaintenancefeecard .group-2-tAxkz6 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 759px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-53spR1 {
+  height: 79px;
+}
+
+.servicepluginmaintenancefeecard .group-3-tAxkz6 {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 630px;
+  width: 680px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-huNd0H {
+  height: 119px;
+}
+
+.servicepluginmaintenancefeecard .web-sub_-title-ZRCfWJ {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .web-title-area-ZRCfWJ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .web-tab-service-plug-in_-maintenance-fee-ZRCfWJ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .x3rd-depth-e2UyOS {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecard .tab-yTDL7q {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginmaintenancefeecard .card-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginmaintenancefeecard .feature-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginmaintenancefeecard .strings-copy-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 45px;
+}
+
+.servicepluginmaintenancefeecard .interaction-flow-copy-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginmaintenancefeecard .case-F4ukcV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.servicepluginmaintenancefeecard .lnb-service-plug-in-ZRCfWJ {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-5nPaA8 {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .lnb-5nPaA8 {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .stacked-group-Bx6m4t {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-title-common-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .empty-JpboxN {
+  top: 21px;
+}
+
+.servicepluginmaintenancefeecard .empty-2yx6de {
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents1d-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents1dpeth_open_selected-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-3-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-2-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .web-index-contents2dpeth-copy-4-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .empty-BsEkbF {
+  top: 21px;
+}
+
+.servicepluginmaintenancefeecard .empty-sWvkCD {
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .group-copy-A80ZAp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .empty-6w5jQp {
+  top: 21px;
+}
+
+.servicepluginmaintenancefeecard .empty-xgyfG8 {
+  top: 0px;
+}
+
+.servicepluginmaintenancefeecard .web-index-title-reference-copy-A80ZAp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .line-Bx6m4t {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginmaintenancefeecard .home-net-ui-guideline-Bx6m4t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginmaintenancefeecard .webgnb-ZRCfWJ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .rectangle-kJmnlx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .background-kJmnlx {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecard .index-kJmnlx {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginmaintenancefeecard .web-index-select-lGPMoS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginmaintenancefeecard .web-index-unselect-lGPMoS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginmaintenancefeecard .web-index-unelect_main-kJmnlx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginmaintenancefeecard .logo-oAIDnZ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginmaintenancefeecard .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginmaintenancefeecard .table-guide-text2line_mint-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

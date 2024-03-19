@@ -1,0 +1,327 @@
+/* screen - c2clifetabservicecardtypes */
+
+.c2clifetabservicecardtypes {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2clifetabservicecardtypes .group-3-gF13kN {
+  background-color: transparent;
+  height: 524px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.c2clifetabservicecardtypes .web-sub_-title-gF13kN {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardtypes .web-title-area-gF13kN {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardtypes .web-tabc2-c-connecto-gF13kN {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardtypes .x3rd-depth-xRtMiT {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardtypes .tab-IdNPgY {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2clifetabservicecardtypes .life-tab-x8w4oy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.c2clifetabservicecardtypes .service-card-health-x8w4oy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.c2clifetabservicecardtypes .service-card-types-x8w4oy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.c2clifetabservicecardtypes .service-card-_-basic-x8w4oy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2clifetabservicecardtypes .service-card-_-quick-x8w4oy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 173px;
+}
+
+.c2clifetabservicecardtypes .loading-_-service-pl-x8w4oy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 147px;
+}
+
+.c2clifetabservicecardtypes .lnbc2-c-connector_2-gF13kN {
+  background-color: transparent;
+  height: 895px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .rectangle-Ocp5YM {
+  background-color: var(--concrete);
+  height: 895px;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .stacked-group-Ocp5YM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .web-index-title-common-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .empty-xa201k {
+  top: 21px;
+}
+
+.c2clifetabservicecardtypes .empty-mnl8zS {
+  top: 0px;
+}
+
+.c2clifetabservicecardtypes .empty-AMpPn9 {
+  top: 21px;
+}
+
+.c2clifetabservicecardtypes .empty-IyKEaO {
+  top: 0px;
+}
+
+.c2clifetabservicecardtypes .web-index-contents1dpeth_open_selected-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .web-index-contents1dpeth_close-copy-5-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .web-index-contents1dpeth_close-copy-7-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .web-index-contents1dpeth_close-copy-3-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .web-index-contents1dpeth_close-copy-2-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .group-copy-43xO1f {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardtypes .empty-O4lu5X {
+  top: 21px;
+}
+
+.c2clifetabservicecardtypes .empty-5gCD0o {
+  top: 0px;
+}
+
+.c2clifetabservicecardtypes .web-index-title-reference-copy-43xO1f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2clifetabservicecardtypes .line-Ocp5YM {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2clifetabservicecardtypes .home-net-ui-guideline-Ocp5YM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2clifetabservicecardtypes .webgnb-gF13kN {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabservicecardtypes .rectangle-cZUQvb {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2clifetabservicecardtypes .background-cZUQvb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabservicecardtypes .index-cZUQvb {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2clifetabservicecardtypes .web-index-select-ItuOUA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2clifetabservicecardtypes .web-index-unselect-ItuOUA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2clifetabservicecardtypes .web-index-unelect_main-cZUQvb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

@@ -1,0 +1,385 @@
+/* screen - servicepluginliveviewincomingcallstructure */
+
+.servicepluginliveviewincomingcallstructure {
+  background-color: var(--white);
+  height: 1161px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveviewincomingcallstructure .group-2-sg8DbK {
+  background-color: transparent;
+  height: 630px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-title-area-sg8DbK {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveviewincomingcallstructure .lnb-service-plug-in-sg8DbK {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .rectangle-Xl1Lhi {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .lnb-Xl1Lhi {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .stacked-group-ZvD11x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-title-common-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .empty-o3R4XZ {
+  top: 21px;
+}
+
+.servicepluginliveviewincomingcallstructure .empty-tEUsQ7 {
+  top: 0px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-contents1d-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-contents1dpeth_open_selected-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-contents2dpeth-copy-3-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-contents2dpeth-copy-2-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-contents2dpeth-copy-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-contents2dpeth-copy-4-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .empty-I3C8xk {
+  top: 21px;
+}
+
+.servicepluginliveviewincomingcallstructure .empty-lILBEB {
+  top: 0px;
+}
+
+.servicepluginliveviewincomingcallstructure .group-copy-r4FlD9 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .empty-GgfOYA {
+  top: 21px;
+}
+
+.servicepluginliveviewincomingcallstructure .empty-TR6nVB {
+  top: 0px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-title-reference-copy-r4FlD9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewincomingcallstructure .line-ZvD11x {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginliveviewincomingcallstructure .home-net-ui-guideline-ZvD11x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginliveviewincomingcallstructure .webgnb-sg8DbK {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewincomingcallstructure .rectangle-7BERih {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginliveviewincomingcallstructure .background-7BERih {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewincomingcallstructure .index-7BERih {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-select-gP95vE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-unselect-gP95vE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-index-unelect_main-7BERih {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginliveviewincomingcallstructure .logo-G4YkMy {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginliveviewincomingcallstructure .web-tab-service-plug-in_cctv-sg8DbK {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginliveviewincomingcallstructure .rectangle-He0iby {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginliveviewincomingcallstructure .x3rd-depth-He0iby {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveviewincomingcallstructure .live-view-_-basic-st-0S6HJa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 165px;
+}
+
+.servicepluginliveviewincomingcallstructure .live-view-0S6HJa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 57px;
+}
+
+.servicepluginliveviewincomingcallstructure .live-view-_-feature-0S6HJa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.servicepluginliveviewincomingcallstructure .live-view-_-interact-0S6HJa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-_-stru-copy-0S6HJa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 156px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-_-scre-0S6HJa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.servicepluginliveviewincomingcallstructure .x3rd-depth-copy-He0iby {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-kV1BR2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 85px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-_-feat-kV1BR2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 146px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-_-inte-kV1BR2 {
+  width: 197px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-_-inte-XHVXUh {
+  width: 262px;
+}
+
+.servicepluginliveviewincomingcallstructure .incoming-call-_-inte-M1cA3S {
+  width: 315px;
+}
+
+.servicepluginliveviewincomingcallstructure .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

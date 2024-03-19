@@ -1,0 +1,693 @@
+/* screen - serviceplugintutorialcard */
+
+.serviceplugintutorialcard {
+  background-color: var(--white);
+  height: 1189px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugintutorialcard .group-4-FgUqPV {
+  background-color: transparent;
+  height: 647px;
+  left: 359px;
+  position: absolute;
+  top: 342px;
+  width: 731px;
+}
+
+.serviceplugintutorialcard .group-6-FgUqPV {
+  background-color: transparent;
+  height: 348px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugintutorialcard .group-3-pyaoqd {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.serviceplugintutorialcard .table-guide-text2line-KbcS12 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugintutorialcard .rectangle-7YZLDM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugintutorialcard .group-7YZLDM {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.serviceplugintutorialcard .content-ffT5EY {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.serviceplugintutorialcard .title-ffT5EY {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+}
+
+.serviceplugintutorialcard .table-guide-text1line-KbcS12 {
+  left: 410px;
+  width: 270px;
+}
+
+.serviceplugintutorialcard .rectangle-z7LoC5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugintutorialcard .contents-z7LoC5 {
+  color: var(--black);
+  font-weight: 400;
+  width: 258px;
+}
+
+.serviceplugintutorialcard .table-guide-text1line-adr8Gg {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialcard .rectangle-xPAozr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialcard .contents-xPAozr {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.serviceplugintutorialcard .group-5-pyaoqd {
+  background-color: transparent;
+  height: 223px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.serviceplugintutorialcard .table-guide-text2line-copy-gKDYp2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 217px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugintutorialcard .rectangle-NoxKkK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugintutorialcard .group-NoxKkK {
+  background-color: transparent;
+  height: 206px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.serviceplugintutorialcard .content-jOgL0u {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.serviceplugintutorialcard .content-KOanHM {
+  color: var(--black);
+  font-weight: 400;
+  height: 80px;
+  top: 84px;
+}
+
+.serviceplugintutorialcard .content-copy-jOgL0u {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: 328px;
+}
+
+.serviceplugintutorialcard .title-jOgL0u {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 60px;
+  text-decoration: underline;
+}
+
+.serviceplugintutorialcard .table-guide-text1line-copy-gKDYp2 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugintutorialcard .rectangle-xSn99x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugintutorialcard .contents-xSn99x {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.serviceplugintutorialcard .table-guide-text1line-copy-2-gKDYp2 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialcard .rectangle-TbOp8G {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialcard .contents-TbOp8G {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.serviceplugintutorialcard .descriptiontabletop-pyaoqd {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugintutorialcard .table-guide-title-jWHnd0 {
+  left: 410px;
+  width: 270px;
+}
+
+.serviceplugintutorialcard .rectangle-5n0Gtb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.serviceplugintutorialcard .table-title-text-5n0Gtb {
+  width: 258px;
+}
+
+.serviceplugintutorialcard .table-guide-title-pXgFBs {
+  left: 60px;
+  width: 340px;
+}
+
+.serviceplugintutorialcard .rectangle-saD0QB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.serviceplugintutorialcard .table-title-text-saD0QB {
+  width: 328px;
+}
+
+.serviceplugintutorialcard .table-guide-title-e2E7xx {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialcard .rectangle-bYw52G {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.serviceplugintutorialcard .table-title-text-bYw52G {
+  width: 38px;
+}
+
+.serviceplugintutorialcard .web-sub_-title-FgUqPV {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.serviceplugintutorialcard .sub-title-ZTLHb6 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serviceplugintutorialcard .web-title-area-FgUqPV {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.serviceplugintutorialcard .web-tab-service-plug-in_-home-screen-FgUqPV {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.serviceplugintutorialcard .x3rd-depth-e9co7a {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugintutorialcard .tab-V186pF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugintutorialcard .key-screen-MquLWZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 66px;
+}
+
+.serviceplugintutorialcard .header_-app-bar-MquLWZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 107px;
+}
+
+.serviceplugintutorialcard .card-copy-MquLWZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugintutorialcard .service-title-copy-MquLWZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.serviceplugintutorialcard .bottom-buttons-MquLWZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.serviceplugintutorialcard .lnb-service-plug-in-FgUqPV {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .rectangle-hokc6V {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .lnb-hokc6V {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .stacked-group-dIayTI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .web-index-title-common-copy-Y5Xx21 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .group-copy-Y5Xx21 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .empty-copy-BQuKGa {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .line-copy-2-BQuKGa {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.serviceplugintutorialcard .empty-copy-2-BQuKGa {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .web-index-contents1dpeth_open_selected-Y5Xx21 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .web-index-contents2dpeth-copy-2-Y5Xx21 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .web-index-contents2dpeth-copy-Y5Xx21 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .web-index-contents2dpeth-copy-3-Y5Xx21 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .group-Y5Xx21 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .empty-nF1Z2t {
+  top: 21px;
+}
+
+.serviceplugintutorialcard .empty-ZuI1W0 {
+  top: 0px;
+}
+
+.serviceplugintutorialcard .group-copy-2-Y5Xx21 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .empty-T4ojQ8 {
+  top: 21px;
+}
+
+.serviceplugintutorialcard .empty-Myvsyn {
+  top: 0px;
+}
+
+.serviceplugintutorialcard .web-index-title-common-copy-2-Y5Xx21 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialcard .line-dIayTI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugintutorialcard .home-net-gui-guidelin-dIayTI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.serviceplugintutorialcard .webgnb-FgUqPV {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugintutorialcard .rectangle-Uucm9F {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugintutorialcard .background-Uucm9F {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugintutorialcard .index-Uucm9F {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.serviceplugintutorialcard .web-index-select-7VK28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugintutorialcard .web-index-unselect-7VK28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugintutorialcard .web-index-unelect_main-Uucm9F {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.serviceplugintutorialcard .logo-fqmV2x {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.serviceplugintutorialcard .content {
+  background-color: transparent;
+  font-style: normal;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  width: 328px;
+}
+
+.serviceplugintutorialcard .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.serviceplugintutorialcard .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.serviceplugintutorialcard .title {
+  background-color: transparent;
+  font-style: normal;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 328px;
+}

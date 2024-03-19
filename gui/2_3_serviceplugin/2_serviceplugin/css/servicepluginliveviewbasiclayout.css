@@ -1,0 +1,1183 @@
+/* screen - servicepluginliveviewbasiclayout */
+
+.servicepluginliveviewbasiclayout {
+  background-color: var(--white);
+  height: 1535px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveviewbasiclayout .group-7-pstYJY {
+  background-color: transparent;
+  height: 939px;
+  left: 357px;
+  position: absolute;
+  top: 396px;
+  width: 733px;
+}
+
+.servicepluginliveviewbasiclayout .group-3-pstYJY {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 790px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-rVed2i {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-kXwS7p {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-kXwS7p {
+  width: 116px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-VkcMQO {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-4W28Lb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-4W28Lb {
+  width: 154px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-copy-rVed2i {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-fvzb6G {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-fvzb6G {
+  width: 94px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-copy-2-rVed2i {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-mW2kZp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-mW2kZp {
+  width: 178px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-oTcV44 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-3twHGZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-3twHGZ {
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .descriptiontable2line-copy-FBFbkl {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-lcbWNG {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-lZkjQD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewbasiclayout .contents-lZkjQD {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-dgpxaj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewbasiclayout .contents-dgpxaj {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-6x0cuq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewbasiclayout .contents-6x0cuq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-GNFgBx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewbasiclayout .contents-GNFgBx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-8Md95p {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-I0VMtl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .contents-I0VMtl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .descriptiontable2line-copy-2-FBFbkl {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-xoilMF {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-5NBxkl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginliveviewbasiclayout .contents-5NBxkl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-c7IWOU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginliveviewbasiclayout .contents-c7IWOU {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-0XcXRO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginliveviewbasiclayout .contents-0XcXRO {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-RvSxGs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginliveviewbasiclayout .contents-RvSxGs {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-Ixp1RI {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-pS1gDk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .contents-pS1gDk {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .group-10-pstYJY {
+  background-color: transparent;
+  height: 294px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .group-21-Az87FO {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-Aq2aC9 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-0dGyax {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .contents-0dGyax {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-Aq2aC9 {
+  height: 31px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-VSfCQk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .contents-VSfCQk {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-JTC9MH {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-fL76cF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .contents-fL76cF {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewbasiclayout .group-20-Az87FO {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-copy-bQxqXP {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-KwlxlT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .contents-KwlxlT {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-bQxqXP {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-sTENbN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .contents-sTENbN {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-bQxqXP {
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-Yrcy9L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .contents-Yrcy9L {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginliveviewbasiclayout .group-8-Az87FO {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-copy-3-ixnQVp {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-Sp6VdP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .contents-Sp6VdP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-copy-ixnQVp {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-AxQJfT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .contents-AxQJfT {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-copy-2-ixnQVp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-0wDJJ0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .contents-0wDJJ0 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginliveviewbasiclayout .group-5-Az87FO {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line-SlhOYJ {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-SWSxPp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .contents-SWSxPp {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-SlhOYJ {
+  height: 31px;
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-2vvx2L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .contents-2vvx2L {
+  color: var(--rose);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m-copy-11-SlhOYJ {
+  background-color: transparent;
+  height: 51px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-4LhyZL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .contents-4LhyZL {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 40px;
+  width: 258px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-IXMw3S {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-Ei1wkF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-Ei1wkF {
+  width: 258px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-Pc1PNI {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-j3EcxZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-j3EcxZ {
+  width: 328px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title-MHLYKS {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-REnmrO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginliveviewbasiclayout .table-title-text-REnmrO {
+  width: 38px;
+}
+
+.servicepluginliveviewbasiclayout .web-sub_-title-pstYJY {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 500px;
+}
+
+.servicepluginliveviewbasiclayout .sub-title-PvNBKA {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginliveviewbasiclayout .web-title-area-pstYJY {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveviewbasiclayout .web-tab-service-plug-in_cctv-pstYJY {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.servicepluginliveviewbasiclayout .x3rd-depth-Dui14k {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveviewbasiclayout .card-copy-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginliveviewbasiclayout .popup-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.servicepluginliveviewbasiclayout .incoming-call_-push-n-copy-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 199px;
+}
+
+.servicepluginliveviewbasiclayout .incoming-call_-flow_m-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 250px;
+}
+
+.servicepluginliveviewbasiclayout .flow_-front-door-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.servicepluginliveviewbasiclayout .flow_-home-screen-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.servicepluginliveviewbasiclayout .flow_-back-key-copy-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-basic_-layout-copy-6xDksf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.servicepluginliveviewbasiclayout .x3rd-depth-copy-Dui14k {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-status-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 95px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-button-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-dialog-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-main-entranc-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-front-door-copy-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 122px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-call-end-copy-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-back-key-copy-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginliveviewbasiclayout .feature_-exceptional-yxRx6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}
+
+.servicepluginliveviewbasiclayout .lnb-service-plug-in-pstYJY {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-Au2QA3 {
+  background-color: var(--concrete);
+  height: 1396px;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .lnb-Au2QA3 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .stacked-group-vacNdM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-title-common-copy-XD0xFI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .group-copy-XD0xFI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .empty-copy-pUBnvr {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .line-copy-2-pUBnvr {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginliveviewbasiclayout .empty-copy-2-pUBnvr {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-contents1dpeth_open_selected-XD0xFI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-contents2dpeth-copy-2-XD0xFI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-contents2dpeth-copy-XD0xFI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-contents2dpeth-copy-3-XD0xFI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .group-XD0xFI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .empty-Cmlv91 {
+  top: 21px;
+}
+
+.servicepluginliveviewbasiclayout .empty-RpWHJ2 {
+  top: 0px;
+}
+
+.servicepluginliveviewbasiclayout .group-copy-2-XD0xFI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .empty-BONlGu {
+  top: 21px;
+}
+
+.servicepluginliveviewbasiclayout .empty-G7QOnH {
+  top: 0px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-title-common-copy-2-XD0xFI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewbasiclayout .line-vacNdM {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginliveviewbasiclayout .home-net-gui-guidelin-vacNdM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginliveviewbasiclayout .webgnb-pstYJY {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewbasiclayout .rectangle-sFRVDK {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginliveviewbasiclayout .background-sFRVDK {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginliveviewbasiclayout .index-sFRVDK {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-select-xScCtv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-unselect-xScCtv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginliveviewbasiclayout .web-index-unelect_main-sFRVDK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginliveviewbasiclayout .logo-5auFfN {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginliveviewbasiclayout .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.servicepluginliveviewbasiclayout .descriptiontabletop {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line-copy {
+  background-color: transparent;
+  height: 31px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line-copy-2 {
+  background-color: transparent;
+  height: 31px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-text2line_m {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginliveviewbasiclayout .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

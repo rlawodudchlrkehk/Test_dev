@@ -1,0 +1,391 @@
+/* screen - servicefeatureservicefeaturetypes */
+
+.servicefeatureservicefeaturetypes {
+  background-color: var(--white);
+  height: 1282px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypes .group-2-w2QxYS {
+  background-color: transparent;
+  height: 739px;
+  left: 420px;
+  position: absolute;
+  top: 343px;
+  width: 1400px;
+}
+
+.servicefeatureservicefeaturetypes .web-sub_-title-w2QxYS {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 285px;
+  width: 360px;
+}
+
+.servicefeatureservicefeaturetypes .sub-title-rjMZWN {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.servicefeatureservicefeaturetypes .web-title-area-w2QxYS {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 65px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypes .web-tab-favorite-car-w2QxYS {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypes .x3rd-depth-DLixYH {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypes .tab-DLixYH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.servicefeatureservicefeaturetypes .service-feature-type-eoEx8T {
+  margin: 0;
+  width: 130px;
+}
+
+.servicefeatureservicefeaturetypes .service-feature-type-Dahz5n {
+  margin: 0 0 0 50px;
+  width: 26px;
+}
+
+.servicefeatureservicefeaturetypes .list-eoEx8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.servicefeatureservicefeaturetypes .dropdown-list-eoEx8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.servicefeatureservicefeaturetypes .dropdwon-graph-copy-eoEx8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 117px;
+}
+
+.servicefeatureservicefeaturetypes .info-text-graph-eoEx8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.servicefeatureservicefeaturetypes .graph-rule-eoEx8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicefeatureservicefeaturetypes .media-eoEx8T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 38px;
+}
+
+.servicefeatureservicefeaturetypes .lnb-service-feature-w2QxYS {
+  background-color: transparent;
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .rectangle-exvixn {
+  background-color: var(--concrete);
+  height: 891px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .background-exvixn {
+  background-color: var(--concrete);
+  height: 717px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .stacked-group-exvixn {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-title-common-GkB1FO {
+  margin: 0;
+}
+
+.servicefeatureservicefeaturetypes .web-index-contents1dpeth_open_selected-GkB1FO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .group-copy-GkB1FO {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .empty-copy-qsrOTH {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .line-copy-2-qsrOTH {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeatureservicefeaturetypes .empty-copy-2-qsrOTH {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-title-common-LNS4fY {
+  margin: 0px 0 0 0;
+}
+
+.servicefeatureservicefeaturetypes .group-copy-2-GkB1FO {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .empty-copy-3-gboaXP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .line-copy-3-gboaXP {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeatureservicefeaturetypes .empty-copy-4-gboaXP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-title-common-copy-GkB1FO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .group-GkB1FO {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypes .empty-BvDcUD {
+  top: 21px;
+}
+
+.servicefeatureservicefeaturetypes .line-copy-BvDcUD {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeatureservicefeaturetypes .empty-VBLC0V {
+  top: 0px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-title-common-Wpnchv {
+  margin: 0px 0 0 0;
+}
+
+.servicefeatureservicefeaturetypes .line-exvixn {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicefeatureservicefeaturetypes .home-net-gui-guidelin-exvixn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicefeatureservicefeaturetypes .webgnb-w2QxYS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypes .rectangle-3zqdTI {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypes .background-3zqdTI {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypes .index-3zqdTI {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-unselect-8JXQaU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-select-8JXQaU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicefeatureservicefeaturetypes .web-index-unelect_main-3zqdTI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicefeatureservicefeaturetypes .logo-spb94m {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}

@@ -1,0 +1,426 @@
+/* screen - servicepluginhomescreenservicefeature */
+
+.servicepluginhomescreenservicefeature {
+  background-color: var(--white);
+  height: 1495px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomescreenservicefeature .group-2-gPSEsG {
+  background-color: transparent;
+  height: 964px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenservicefeature .web-title-area-gPSEsG {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenservicefeature .web-tab-service-plug-in_-home-screen-gPSEsG {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenservicefeature .rectangle-HPqHNu {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenservicefeature .x3rd-depth-HPqHNu {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenservicefeature .service-feature-oVyYbK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 94px;
+}
+
+.servicepluginhomescreenservicefeature .basic-oVyYbK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.servicepluginhomescreenservicefeature .banner-app-link-oVyYbK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginhomescreenservicefeature .feature-oVyYbK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomescreenservicefeature .interaction-flow-copy-4-oVyYbK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginhomescreenservicefeature .notifications-_-feat-oVyYbK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.servicepluginhomescreenservicefeature .group-oVyYbK {
+  height: 17px;
+  margin: 0 0 0 50px;
+  width: 194px;
+}
+
+.servicepluginhomescreenservicefeature .notifications-_-inte-t3ZQmg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.servicepluginhomescreenservicefeature .x3rd-depth-copy-HPqHNu {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenservicefeature .group-CPHCZx {
+  height: 17px;
+  margin: 0;
+  width: 619px;
+}
+
+.servicepluginhomescreenservicefeature .help-_-interaction-f-Caxf7d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 478px;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.servicepluginhomescreenservicefeature .help-guide-_-using-b-Caxf7d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.servicepluginhomescreenservicefeature .help-guide-copy-Caxf7d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.servicepluginhomescreenservicefeature .help-_-guide-text-Caxf7d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.servicepluginhomescreenservicefeature .lnb-service-plug-in-gPSEsG {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .rectangle-EpuXys {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .lnb-EpuXys {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .stacked-group-KdF08k {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-title-common-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .group-7Sxx4E {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .empty-5x0JAM {
+  top: 21px;
+}
+
+.servicepluginhomescreenservicefeature .empty-m07MsM {
+  top: 0px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-contents1d-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-contents1dpeth_open_selected-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-contents2dpeth-copy-3-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-contents2dpeth-copy-2-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-contents2dpeth-copy-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-contents2dpeth-copy-4-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .group-WovlIy {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .empty-T4nXOg {
+  top: 21px;
+}
+
+.servicepluginhomescreenservicefeature .empty-zLCMSI {
+  top: 0px;
+}
+
+.servicepluginhomescreenservicefeature .group-copy-7Sxx4E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .empty-9KCGDp {
+  top: 21px;
+}
+
+.servicepluginhomescreenservicefeature .empty-MuhCFu {
+  top: 0px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-title-reference-copy-7Sxx4E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenservicefeature .line-KdF08k {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomescreenservicefeature .home-net-ui-guideline-KdF08k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginhomescreenservicefeature .webgnb-gPSEsG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenservicefeature .rectangle-YbVEMa {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenservicefeature .background-YbVEMa {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenservicefeature .index-YbVEMa {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-select-HMXft8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-unselect-HMXft8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomescreenservicefeature .web-index-unelect_main-YbVEMa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginhomescreenservicefeature .logo-zfpkJj {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginhomescreenservicefeature .group {
+  background-color: transparent;
+  position: relative;
+}

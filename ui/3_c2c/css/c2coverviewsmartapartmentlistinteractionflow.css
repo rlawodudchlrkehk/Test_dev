@@ -1,0 +1,318 @@
+/* screen - c2coverviewsmartapartmentlistinteractionflow */
+
+.c2coverviewsmartapartmentlistinteractionflow {
+  background-color: var(--white);
+  height: 3241px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .group-6-PqNIcf {
+  background-color: transparent;
+  height: 2757px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-title-area-PqNIcf {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-tabc2-c-connecto-PqNIcf {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .x3rd-depth-9Hxf7P {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .tab-85zDSe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .copy-oScdhh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 198px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .smart-apartment-oScdhh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .smart-apartment-list-oScdhh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 247px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .image-oScdhh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .device-room-oScdhh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .device-naming-oScdhh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 91px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .lnbc2-c-connector_1-PqNIcf {
+  background-color: transparent;
+  height: 803px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .rectangle-SHYYtl {
+  background-color: var(--concrete);
+  height: 803px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .stacked-group-SHYYtl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-title-common-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .empty-OkVqr3 {
+  top: 21px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .empty-zg4sMd {
+  top: 0px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .empty-bwebUw {
+  top: 21px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .empty-WfRXH6 {
+  top: 0px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-contents1dpeth_open_selected-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-contents1dpeth_close-copy-5-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-contents1dpeth_close-copy-3-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-contents1dpeth_close-copy-6-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-contents1dpeth_close-copy-2-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .group-copy-DxSurT {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .empty-LRg8uy {
+  top: 21px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .empty-3DgxoV {
+  top: 0px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-title-reference-copy-DxSurT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .line-SHYYtl {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .home-net-ui-guideline-SHYYtl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .webgnb-PqNIcf {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .rectangle-Epeuad {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .background-Epeuad {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .index-Epeuad {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-select-7f0lQO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-unselect-7f0lQO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2coverviewsmartapartmentlistinteractionflow .web-index-unelect_main-Epeuad {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

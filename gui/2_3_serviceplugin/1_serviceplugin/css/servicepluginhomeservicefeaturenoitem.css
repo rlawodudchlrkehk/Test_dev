@@ -1,0 +1,653 @@
+/* screen - servicepluginhomeservicefeaturenoitem */
+
+.servicepluginhomeservicefeaturenoitem {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-5-Gvqu7H {
+  background-color: transparent;
+  height: 216px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 670px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-3-Gvqu7H {
+  background-color: transparent;
+  height: 115px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-4-0N36aW {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-text1line-kj6VCX {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-wqdmhh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomeservicefeaturenoitem .contents-wqdmhh {
+  width: 258px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-text2line-kj6VCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-1q521P {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-1q521P {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.servicepluginhomeservicefeaturenoitem .content-kK9doB {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomeservicefeaturenoitem .title-kK9doB {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-text1line-ksvIXt {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-FBLynl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomeservicefeaturenoitem .contents-FBLynl {
+  width: 38px;
+}
+
+.servicepluginhomeservicefeaturenoitem .descriptiontabletop-0N36aW {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-title-PZfa0v {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-38b7pS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-title-text-38b7pS {
+  width: 258px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-title-Wh1vkZ {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-qfhhDG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-title-text-qfhhDG {
+  width: 328px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-title-qplbtV {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-kYP6ub {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-title-text-kYP6ub {
+  width: 38px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-sub_-title-Gvqu7H {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 374px;
+}
+
+.servicepluginhomeservicefeaturenoitem .sub-title-X80xEM {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-title-area-Gvqu7H {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-tab-service-plug-in_-home-screen-Gvqu7H {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomeservicefeaturenoitem .x3rd-depth-SEhk3w {
+  top: 0px;
+}
+
+.servicepluginhomeservicefeaturenoitem .default-type-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 78px;
+}
+
+.servicepluginhomeservicefeaturenoitem .shortcut-default-t-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 142px;
+}
+
+.servicepluginhomeservicefeaturenoitem .brand-type-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomeservicefeaturenoitem .shortcut-brand-typ-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhomeservicefeaturenoitem .banner-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomeservicefeaturenoitem .app-link-copy-2-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomeservicefeaturenoitem .banner-_-Hx7ZxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginhomeservicefeaturenoitem .x3rd-depth-F2n4Wa {
+  top: 53px;
+}
+
+.servicepluginhomeservicefeaturenoitem .more-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginhomeservicefeaturenoitem .edit-_-feature-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.servicepluginhomeservicefeaturenoitem .notifications-_-feat-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhomeservicefeaturenoitem .help-guide-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginhomeservicefeaturenoitem .help-guide-_-expanda-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomeservicefeaturenoitem .help-guide-_-image-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.servicepluginhomeservicefeaturenoitem .service-feature-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhomeservicefeaturenoitem .service-feature-_-no-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhomeservicefeaturenoitem .touch-area-pTjsvZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomeservicefeaturenoitem .lnb-service-plug-in-Gvqu7H {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-9POXAk {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .lnb-9POXAk {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .stacked-group-R4TZyY {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-title-common-copy-Vf8oIW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-copy-Vf8oIW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .empty-copy-JaVsk3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .line-copy-2-JaVsk3 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomeservicefeaturenoitem .empty-copy-2-JaVsk3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-contents1dpeth_open_selected-Vf8oIW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-contents2dpeth-copy-2-Vf8oIW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-contents2dpeth-copy-Vf8oIW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-contents2dpeth-copy-3-Vf8oIW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-Vf8oIW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .empty-1w9c2G {
+  top: 21px;
+}
+
+.servicepluginhomeservicefeaturenoitem .empty-LGBN1a {
+  top: 0px;
+}
+
+.servicepluginhomeservicefeaturenoitem .group-copy-2-Vf8oIW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .empty-SPf3nx {
+  top: 21px;
+}
+
+.servicepluginhomeservicefeaturenoitem .empty-XvelnE {
+  top: 0px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-title-common-copy-2-Vf8oIW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeservicefeaturenoitem .line-R4TZyY {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomeservicefeaturenoitem .home-net-gui-guidelin-R4TZyY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhomeservicefeaturenoitem .webgnb-Gvqu7H {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomeservicefeaturenoitem .rectangle-1ZgWiY {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomeservicefeaturenoitem .background-1ZgWiY {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomeservicefeaturenoitem .index-1ZgWiY {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-select-nCvM22 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-unselect-nCvM22 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomeservicefeaturenoitem .web-index-unelect_main-1ZgWiY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginhomeservicefeaturenoitem .logo-gT9Py5 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginhomeservicefeaturenoitem .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.servicepluginhomeservicefeaturenoitem .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}

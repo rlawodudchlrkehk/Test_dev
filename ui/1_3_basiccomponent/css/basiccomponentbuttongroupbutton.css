@@ -1,0 +1,103 @@
+/* screen - basiccomponentbuttongroupbutton */
+
+.basiccomponentbuttongroupbutton {
+  background-color: var(--white);
+  height: 1458px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbuttongroupbutton .group-1 {
+  background-color: transparent;
+  height: 184px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentbuttongroupbutton .group-7 {
+  background-color: transparent;
+  height: 544px;
+  left: 419px;
+  position: absolute;
+  top: 715px;
+  width: 1400px;
+}
+
+.basiccomponentbuttongroupbutton .group-9 {
+  background-color: transparent;
+  height: 223px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentbuttongroupbutton .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbuttongroupbutton .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbuttongroupbutton .toggle-button {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 86px;
+}
+
+.basiccomponentbuttongroupbutton .bottom-buttons {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentbuttongroupbutton .group-2 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentbuttongroupbutton .group-copy {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentbuttongroupbutton .group-3 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1166px;
+  width: 320px;
+}

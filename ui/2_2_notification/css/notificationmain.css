@@ -1,0 +1,221 @@
+/* screen - notificationmain */
+
+.notificationmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationmain .group-2-M6Pu3m {
+  background-color: transparent;
+  height: 530px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 425px;
+}
+
+.notificationmain .lnb-notification-M6Pu3m {
+  background-color: transparent;
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationmain .rectangle-tlMK6x {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.notificationmain .rectangle-V85f8i {
+  background-color: var(--concrete);
+  height: 1080px;
+  width: 320px;
+}
+
+.notificationmain .stacked-group-tlMK6x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.notificationmain .web-index-title-common-5rF6i4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationmain .empty-ljF3Ap {
+  top: 21px;
+}
+
+.notificationmain .empty-swLmtp {
+  top: 0px;
+}
+
+.notificationmain .web-index-contents1dpeth_open_selected-5rF6i4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationmain .web-index-contents2dpeth-copy-2-5rF6i4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationmain .web-index-contents2dpeth-copy-5rF6i4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationmain .empty-FYGedV {
+  top: 21px;
+}
+
+.notificationmain .empty-y1IxDt {
+  top: 0px;
+}
+
+.notificationmain .group-copy-5rF6i4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationmain .empty-Csl3Ia {
+  top: 21px;
+}
+
+.notificationmain .empty-NqLiAD {
+  top: 0px;
+}
+
+.notificationmain .web-index-title-reference-copy-5rF6i4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationmain .line-tlMK6x {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.notificationmain .home-net-ui-guideline-tlMK6x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.notificationmain .webgnb-M6Pu3m {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationmain .rectangle-vollyL {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.notificationmain .background-vollyL {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationmain .index-vollyL {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.notificationmain .web-index-select-OEQayh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.notificationmain .web-index-unselect-OEQayh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.notificationmain .web-index-unelect_main-vollyL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.notificationmain .logo-oY1Dg0 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

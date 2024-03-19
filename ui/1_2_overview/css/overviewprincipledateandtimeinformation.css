@@ -1,0 +1,72 @@
+/* screen - overviewprincipledateandtimeinformation */
+
+.overviewprincipledateandtimeinformation {
+  background-color: var(--white);
+  height: 1094px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewprincipledateandtimeinformation .group-2-overviewprincipledateandtimeinformation {
+  background-color: transparent;
+  height: 610px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.overviewprincipledateandtimeinformation .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewprincipledateandtimeinformation .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewprincipledateandtimeinformation .text-overflow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.overviewprincipledateandtimeinformation .word-break {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 73px;
+}
+
+.overviewprincipledateandtimeinformation .case-sensitive {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 90px;
+}
+
+.overviewprincipledateandtimeinformation .date-and-time-inform {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 164px;
+}

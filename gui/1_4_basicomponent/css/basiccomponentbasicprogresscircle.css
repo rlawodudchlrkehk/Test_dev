@@ -1,0 +1,850 @@
+/* screen - basiccomponentbasicprogresscircle */
+
+.basiccomponentbasicprogresscircle {
+  background-color: var(--white);
+  height: 1206px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbasicprogresscircle .group-3-QBUGIa {
+  background-color: transparent;
+  height: 630px;
+  left: 420px;
+  position: absolute;
+  top: 376px;
+  width: 1400px;
+}
+
+.basiccomponentbasicprogresscircle .table-guide-title-bLqIAb {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .rectangle-bGGNmv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  top: 55px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .table-title-text-bGGNmv {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 654px;
+}
+
+.basiccomponentbasicprogresscircle .mobile-dark_theme09_-bLqIAb {
+  height: 24px;
+  left: 321px;
+  top: 86px;
+  width: 24px;
+}
+
+.basiccomponentbasicprogresscircle .size-24x24-bLqIAb {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .contents-bLqIAb {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 197px;
+  width: 467px;
+}
+
+.basiccomponentbasicprogresscircle .table-guide-title-copy-2-bLqIAb {
+  background-color: transparent;
+  height: 56px;
+  left: 734px;
+  position: absolute;
+  top: 0px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .rectangle-8Beay0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  top: 55px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .small-title-8Beay0 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 654px;
+}
+
+.basiccomponentbasicprogresscircle .mobile-dark_theme09_-Q9xIPZ {
+  height: 16px;
+  left: 1060px;
+  top: 86px;
+  width: 16px;
+}
+
+.basiccomponentbasicprogresscircle .size-16x16-bLqIAb {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1035px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .contents-copy-bLqIAb {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 834px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 197px;
+  width: 467px;
+}
+
+.basiccomponentbasicprogresscircle .table-guide-title-copy-bLqIAb {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 383px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .rectangle-8VsyFL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  top: 55px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .default-color-8VsyFL {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 654px;
+}
+
+.basiccomponentbasicprogresscircle .mobile-dark_theme09_-8ZJnLj {
+  height: 72px;
+  left: 297px;
+  top: 488px;
+  width: 72px;
+}
+
+.basiccomponentbasicprogresscircle .x00-d694-bLqIAb {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 389px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 516px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .x0381-fe-bLqIAb {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: right;
+  top: 516px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .table-guide-title-copy-3-bLqIAb {
+  background-color: transparent;
+  height: 56px;
+  left: 734px;
+  position: absolute;
+  top: 383px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .rectangle-rU3ykz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  top: 55px;
+  width: 666px;
+}
+
+.basiccomponentbasicprogresscircle .custom-color-rU3ykz {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 654px;
+}
+
+.basiccomponentbasicprogresscircle .group-2-bLqIAb {
+  background-color: transparent;
+  height: 142px;
+  left: 833px;
+  position: absolute;
+  top: 488px;
+  width: 467px;
+}
+
+.basiccomponentbasicprogresscircle .group-4SzZzn {
+  background-color: transparent;
+  height: 72px;
+  left: 198px;
+  position: absolute;
+  top: 0px;
+  width: 72px;
+}
+
+.basiccomponentbasicprogresscircle .fafafa-100-4SzZzn {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: right;
+  top: 28px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .fafafa-40-4SzZzn {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 290px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .contents-copy-2-4SzZzn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: 467px;
+}
+
+.basiccomponentbasicprogresscircle .web-sub_-title_w-description-QBUGIa {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 285px;
+  width: 1500px;
+}
+
+.basiccomponentbasicprogresscircle .content-1jQx5t {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-family: var(--font-family-samsungone-400);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 1400px;
+}
+
+.basiccomponentbasicprogresscircle .sub-title-1jQx5t {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .web-title-area-QBUGIa {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbasicprogresscircle .web-tab-favorite-car-QBUGIa {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.basiccomponentbasicprogresscircle .x3rd-depth-g7efI3 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbasicprogresscircle .tab-g7efI3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbasicprogresscircle .header_-app-bar-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 102px;
+}
+
+.basiccomponentbasicprogresscircle .service-feature-type-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 71px;
+}
+
+.basiccomponentbasicprogresscircle .layout_-basic-grid_-de-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 202px;
+}
+
+.basiccomponentbasicprogresscircle .layout_-basic-grid_-se-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 206px;
+}
+
+.basiccomponentbasicprogresscircle .layout_bg-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.basiccomponentbasicprogresscircle .layout_bg_-dynamic-br-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 251px;
+}
+
+.basiccomponentbasicprogresscircle .progress-circle-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 91px;
+}
+
+.basiccomponentbasicprogresscircle .refresh-CU4zuP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.basiccomponentbasicprogresscircle .lnb-favorite-card-QBUGIa {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .rectangle-C6ovo0 {
+  background-color: var(--concrete);
+  height: 1581px;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .background-C6ovo0 {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .stacked-group-C6ovo0 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-title-common-0dkUse {
+  margin: 0;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-2-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-14-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-10-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-6-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-11-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-7-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-4-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-8-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-9-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-5-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-3-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-12-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-13-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents2dpeth-copy-15-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-contents1dpeth_open_selected-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .group-copy-0dkUse {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .empty-4CVpgg {
+  top: 21px;
+}
+
+.basiccomponentbasicprogresscircle .empty-jLNMgx {
+  top: 0px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-title-common-copy-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .group-0dkUse {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .empty-sYx4IW {
+  top: 21px;
+}
+
+.basiccomponentbasicprogresscircle .empty-AIRX8l {
+  top: 0px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-title-common-IgBAx0 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbasicprogresscircle .group-copy-2-0dkUse {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .empty-jGv7xc {
+  top: 21px;
+}
+
+.basiccomponentbasicprogresscircle .empty-8MDDky {
+  top: 0px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-title-common-copy-2-0dkUse {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicprogresscircle .line-C6ovo0 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbasicprogresscircle .home-net-gui-guidelin-C6ovo0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentbasicprogresscircle .webgnb-QBUGIa {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasicprogresscircle .rectangle-UpSbaK {
+  background-color: var(--shark);
+  height: 64px;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasicprogresscircle .background-UpSbaK {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicprogresscircle .index-UpSbaK {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-select-QJagR8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-unselect-QJagR8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbasicprogresscircle .web-index-unelect_main-UpSbaK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentbasicprogresscircle .logo-zJAdxB {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentbasicprogresscircle .mobile-dark_theme09_ {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentbasicprogresscircle .rectangle {
+  left: 0px;
+  position: absolute;
+}

@@ -1,0 +1,300 @@
+/* screen - c2cdevicetabdevicecard */
+
+.c2cdevicetabdevicecard {
+  background-color: var(--white);
+  height: 1365px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cdevicetabdevicecard .group-13-BcfJ1v {
+  background-color: transparent;
+  height: 823px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.c2cdevicetabdevicecard .group-12-BcfJ1v {
+  background-color: transparent;
+  height: 273px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2cdevicetabdevicecard .web-sub_-title-BcfJ1v {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cdevicetabdevicecard .web-title-area-BcfJ1v {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2cdevicetabdevicecard .web-tabc2-c-connecto-BcfJ1v {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2cdevicetabdevicecard .x3rd-depth-m3SlFD {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2cdevicetabdevicecard .tab-YH4LUx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2cdevicetabdevicecard .device-health-l88O06 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 85px;
+}
+
+.c2cdevicetabdevicecard .device-card-l88O06 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 72px;
+}
+
+.c2cdevicetabdevicecard .lnbc2-c-connector_2-BcfJ1v {
+  background-color: transparent;
+  height: 895px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .rectangle-pctoxV {
+  background-color: var(--concrete);
+  height: 895px;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .stacked-group-pctoxV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .web-index-title-common-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .empty-MmtKFs {
+  top: 21px;
+}
+
+.c2cdevicetabdevicecard .empty-5vt4jO {
+  top: 0px;
+}
+
+.c2cdevicetabdevicecard .empty-yJYXso {
+  top: 21px;
+}
+
+.c2cdevicetabdevicecard .empty-lkUfqA {
+  top: 0px;
+}
+
+.c2cdevicetabdevicecard .web-index-contents1dpeth_open_selected-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .web-index-contents1dpeth_close-copy-5-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .web-index-contents1dpeth_close-copy-7-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .web-index-contents1dpeth_close-copy-3-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .web-index-contents1dpeth_close-copy-2-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .group-copy-dV9O9C {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .empty-cKI7jj {
+  top: 21px;
+}
+
+.c2cdevicetabdevicecard .empty-RCPpgq {
+  top: 0px;
+}
+
+.c2cdevicetabdevicecard .web-index-title-reference-copy-dV9O9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2cdevicetabdevicecard .line-pctoxV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cdevicetabdevicecard .home-net-ui-guideline-pctoxV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2cdevicetabdevicecard .webgnb-BcfJ1v {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cdevicetabdevicecard .rectangle-S4lUxJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2cdevicetabdevicecard .background-S4lUxJ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cdevicetabdevicecard .index-S4lUxJ {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2cdevicetabdevicecard .web-index-select-fdQctq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2cdevicetabdevicecard .web-index-unselect-fdQctq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2cdevicetabdevicecard .web-index-unelect_main-S4lUxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

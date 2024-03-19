@@ -1,0 +1,353 @@
+/* screen - servicepluginbasicinteractioninteractionhistory */
+
+.servicepluginbasicinteractioninteractionhistory {
+  background-color: var(--white);
+  height: 1340px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .group-4-ATw4Vp {
+  background-color: transparent;
+  height: 856px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-title-area-ATw4Vp {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-tab-service-plug-ATw4Vp {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .x3rd-depth-jqxLqV {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .tab-5InTk4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginbasicinteractioninteractionhistory .touch-area-uzge3J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .interaction-history-uzge3J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 115px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .scroll-uzge3J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .more-uzge3J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .menu-uzge3J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .loading-uzge3J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .lnb-service-plug-in-ATw4Vp {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .rectangle-FfZLxW {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .lnb-FfZLxW {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .stacked-group-FfpMig {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-title-common-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .empty-68U1fB {
+  top: 21px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .empty-dR8YUn {
+  top: 0px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-contents1d-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-contents1dpeth_open_selected-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-contents2dpeth-copy-3-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-contents2dpeth-copy-2-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-contents2dpeth-copy-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-contents2dpeth-copy-4-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .empty-F13LdL {
+  top: 21px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .empty-qgWl71 {
+  top: 0px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .group-copy-nPC5VI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .empty-u1dM4c {
+  top: 21px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .empty-EHfHUK {
+  top: 0px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-title-reference-copy-nPC5VI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .line-FfpMig {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .home-net-ui-guideline-FfpMig {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .webgnb-ATw4Vp {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .rectangle-TA40hN {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .background-TA40hN {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .index-TA40hN {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-select-yciVYa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-unselect-yciVYa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .web-index-unelect_main-TA40hN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .logo-rV60qx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractioninteractionhistory .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

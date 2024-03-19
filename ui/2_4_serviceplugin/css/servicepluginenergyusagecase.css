@@ -1,0 +1,344 @@
+/* screen - servicepluginenergyusagecase */
+
+.servicepluginenergyusagecase {
+  background-color: var(--white);
+  height: 1949px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecase .group-13-rXl3OF {
+  background-color: transparent;
+  height: 438px;
+  left: 319px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecase .group-14-rXl3OF {
+  background-color: transparent;
+  height: 877px;
+  left: 420px;
+  position: absolute;
+  top: 872px;
+  width: 1400px;
+}
+
+.servicepluginenergyusagecase .web-title-area-rXl3OF {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecase .web-tab-service-plug-rXl3OF {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecase .x3rd-depth-7Ni3nt {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginenergyusagecase .tab-KAkUVr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginenergyusagecase .card-hxKwQx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginenergyusagecase .feature-hxKwQx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginenergyusagecase .interaction-flow-hxKwQx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginenergyusagecase .case-hxKwQx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.servicepluginenergyusagecase .lnb-service-plug-in-rXl3OF {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .rectangle-jJG9Ut {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .lnb-jJG9Ut {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .stacked-group-jWUvzx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .web-index-title-common-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .empty-bJJZnU {
+  top: 21px;
+}
+
+.servicepluginenergyusagecase .empty-dC7Z05 {
+  top: 0px;
+}
+
+.servicepluginenergyusagecase .web-index-contents1d-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .web-index-contents1dpeth_open_selected-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .web-index-contents2dpeth-copy-3-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .web-index-contents2dpeth-copy-2-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .web-index-contents2dpeth-copy-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .web-index-contents2dpeth-copy-4-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .empty-4xu6bX {
+  top: 21px;
+}
+
+.servicepluginenergyusagecase .empty-lNuoKB {
+  top: 0px;
+}
+
+.servicepluginenergyusagecase .group-copy-X9EC18 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .empty-tlUSOa {
+  top: 21px;
+}
+
+.servicepluginenergyusagecase .empty-29qkxW {
+  top: 0px;
+}
+
+.servicepluginenergyusagecase .web-index-title-reference-copy-X9EC18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginenergyusagecase .line-jWUvzx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginenergyusagecase .home-net-ui-guideline-jWUvzx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginenergyusagecase .webgnb-rXl3OF {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecase .rectangle-3MmBgs {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecase .background-3MmBgs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginenergyusagecase .index-3MmBgs {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginenergyusagecase .web-index-select-vhPPlU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginenergyusagecase .web-index-unselect-vhPPlU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginenergyusagecase .web-index-unelect_main-3MmBgs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginenergyusagecase .logo-uNyx6D {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginenergyusagecase .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

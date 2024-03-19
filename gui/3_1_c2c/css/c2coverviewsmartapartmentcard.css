@@ -1,0 +1,1105 @@
+/* screen - c2coverviewsmartapartmentcard */
+
+.c2coverviewsmartapartmentcard {
+  background-color: var(--white);
+  height: 1337px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentcard .group-9-jxqCcu {
+  background-color: transparent;
+  height: 796px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.c2coverviewsmartapartmentcard .group-14-jxqCcu {
+  background-color: transparent;
+  height: 655px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .group-13-bgAW2b {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 555px;
+  width: 80px;
+}
+
+.c2coverviewsmartapartmentcard .group-4-bgAW2b {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-Nw7Lnc {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-zDvOZx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .contents-zDvOZx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line_mint-Nw7Lnc {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-P4PYXr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .group-P4PYXr {
+  height: 20px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .title-XjYqgn {
+  color: var(--persian-green);
+  height: 20px;
+  line-height: 20px;
+  opacity: 0.8;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .contents-P4PYXr {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-WrFp2x {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-rSfhTV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .contents-rSfhTV {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .group-5-bgAW2b {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-oGfab5 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-SlnlIw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .contents-SlnlIw {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-tw1tFx {
+  height: 75px;
+  left: 60px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-095EdI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .group-095EdI {
+  height: 64px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .content-IH4Yu9 {
+  color: var(--persian-green);
+  top: 22px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .content-copy-IH4Yu9 {
+  color: var(--black);
+  top: 44px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .title-IH4Yu9 {
+  color: var(--persian-green);
+  height: 20px;
+  line-height: 20px;
+  opacity: 0.8;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-xOyxwi {
+  height: 72px;
+  left: 410px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-kndFXH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .group-kndFXH {
+  height: 61px;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .content-Hj5hfn {
+  color: var(--black);
+  top: 19px;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .content-copy-Hj5hfn {
+  color: var(--fuscous-gray);
+  top: 41px;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .title-Hj5hfn {
+  color: #3695dd;
+  height: auto;
+  line-height: 17px;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .group-10-bgAW2b {
+  background-color: transparent;
+  height: 151px;
+  left: 0px;
+  position: absolute;
+  top: 285px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-4-R9Qix4 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-zC0x06 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .contents-zC0x06 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-5-R9Qix4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-f7o91z {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .contents-f7o91z {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-7-R9Qix4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-sCkPvs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .contents-sCkPvs {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-8-R9Qix4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 94px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-xm7JWS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .contents-xm7JWS {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-6-R9Qix4 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-1epRyW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .contents-1epRyW {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .group-5-copy-2-bgAW2b {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 216px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-5Bkbae {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-ixpmqE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .contents-ixpmqE {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-2-5Bkbae {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-QD4xGz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .group-QD4xGz {
+  height: 20px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .title-xxCChc {
+  color: var(--persian-green);
+  height: 20px;
+  line-height: 20px;
+  opacity: 0.8;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .contents-QD4xGz {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-3-5Bkbae {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-0cl2zq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .contents-0cl2zq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .group-11-bgAW2b {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 446px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-9-3PVHhT {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-F6ry8Q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2coverviewsmartapartmentcard .contents-F6ry8Q {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-10-3PVHhT {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-Yw5lyy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2coverviewsmartapartmentcard .group-Yw5lyy {
+  height: 20px;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .title-xgIZLG {
+  color: var(--persian-green);
+  height: 20px;
+  line-height: 20px;
+  opacity: 0.8;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .contents-Yw5lyy {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line-copy-11-3PVHhT {
+  background-color: transparent;
+  height: 53px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-CG4SwP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2coverviewsmartapartmentcard .group-CG4SwP {
+  height: 20px;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .title-Vzytln {
+  color: var(--science-blue);
+  height: 20px;
+  line-height: 20px;
+  opacity: 0.8;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .contents-CG4SwP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-title-bgAW2b {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2coverviewsmartapartmentcard .web-sub_-title-jxqCcu {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.c2coverviewsmartapartmentcard .sub-title-3zrYdY {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2coverviewsmartapartmentcard .web-title-area-jxqCcu {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentcard .web-tabc2-c_-overview-jxqCcu {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentcard .x3rd-depth-VJtuSD {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartmentcard .tab-VJtuSD {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewsmartapartmentcard .image-5TQDf4 {
+  margin: 0;
+  width: 198px;
+}
+
+.c2coverviewsmartapartmentcard .smart-apartment-5TQDf4 {
+  width: 108px;
+}
+
+.c2coverviewsmartapartmentcard .list-copy-5TQDf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.c2coverviewsmartapartmentcard .smart-apartment_-card-copy-5TQDf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 145px;
+}
+
+.c2coverviewsmartapartmentcard .smart-apartment_-list-copy-5TQDf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.c2coverviewsmartapartmentcard .smart-apartment-GaWYOT {
+  width: 187px;
+}
+
+.c2coverviewsmartapartmentcard .image-GaWYOT {
+  margin: 0 0 0 50px;
+  width: 145px;
+}
+
+.c2coverviewsmartapartmentcard .lnb-service-feature-copy-jxqCcu {
+  background-color: transparent;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-GFRapk {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentcard .background-GFRapk {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartmentcard .line-GFRapk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewsmartapartmentcard .home-net-gui-guidelin-GFRapk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup12 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup12 .web-index-title-reference-copy-2-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-Wu9aHG {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup12 .empty-cI2Xkp {
+  bottom: 0px;
+}
+
+.stackedgroup12 .empty-Lc5deE {
+  top: 0px;
+}
+
+.stackedgroup12 .web-index-title-reference-copy-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-copy-Wu9aHG {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .empty-xRGKFn {
+  bottom: 0px;
+}
+
+.stackedgroup12 .empty-TNVLWF {
+  top: 0px;
+}
+
+.stackedgroup12 .web-index-title-reference-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-copy-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-Z5KR6V {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup12 .web-expanded-dq1MOk {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup12 .button-PzCAi7 {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup12 .x1-depth-title-dq1MOk {
+  color: #3695dd;
+  width: 91px;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-Wu9aHG {
+  height: auto;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-xBcAZD {
+  height: auto;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-8cHywH {
+  height: auto;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-copy-2-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-RbaxUx {
+  height: auto;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-62vior {
+  height: 46px;
+}
+
+.stackedgroup12 .group-aqpzMl {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup12 .x1-depth-title-PBupY5 {
+  color: #252525;
+  width: 56px;
+}
+
+.stackedgroup12 .web-fold-aqpzMl {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup12 .background-e1Bx8H {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .button-e1Bx8H {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup12 .group-copy-2-Wu9aHG {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .empty-2rfmdh {
+  bottom: 0px;
+}
+
+.stackedgroup12 .empty-C4RWxK {
+  top: 0px;
+}
+
+.stackedgroup12 .web-index-title-reference-copy-3-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2coverviewsmartapartmentcard .webgnb-jxqCcu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentcard .rectangle-TFjNAM {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentcard .background-TFjNAM {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartmentcard .index-TFjNAM {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2coverviewsmartapartmentcard .web-index-select-bsfLY6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2coverviewsmartapartmentcard .web-index-unselect-bsfLY6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2coverviewsmartapartmentcard .web-index-unelect_main-TFjNAM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.c2coverviewsmartapartmentcard .logo-Zf56Ji {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.c2coverviewsmartapartmentcard .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.c2coverviewsmartapartmentcard .content-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.c2coverviewsmartapartmentcard .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.c2coverviewsmartapartmentcard .group {
+  background-color: transparent;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+}
+
+.c2coverviewsmartapartmentcard .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.c2coverviewsmartapartmentcard .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  left: 0px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}
+
+.stackedgroup12 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup12 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

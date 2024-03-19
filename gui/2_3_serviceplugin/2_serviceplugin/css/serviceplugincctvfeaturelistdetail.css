@@ -1,0 +1,760 @@
+/* screen - serviceplugincctvfeaturelistdetail */
+
+.serviceplugincctvfeaturelistdetail {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-6-yqN90C {
+  background-color: transparent;
+  height: 528px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-5-yqN90C {
+  background-color: transparent;
+  height: 300px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-2-2mucoH {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-DcjU8X {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugincctvfeaturelistdetail .contents-DcjU8X {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m-W4sRca {
+  cursor: pointer;
+  height: 51px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-89Bb2o {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugincctvfeaturelistdetail .contents-89Bb2o {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m-copy-6-W4sRca {
+  background-color: transparent;
+  height: 53px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-I3gPzI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-I3gPzI {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .content-0XlJpl {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .title-0XlJpl {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-3-2mucoH {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 680px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-lRMixy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugincctvfeaturelistdetail .contents-lRMixy {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m-ewxXX4 {
+  height: 31px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-xlCxPp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugincctvfeaturelistdetail .contents-xlCxPp {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m-copy-5-ewxXX4 {
+  background-color: transparent;
+  height: 75px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-DXoa0K {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-DXoa0K {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .content-RxlF4u {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .content-kjC2fe {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .title-RxlF4u {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .descriptiontabletop-2mucoH {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-title-gXAMnB {
+  left: 410px;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-Y7rngg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-title-text-Y7rngg {
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-title-JVkJ45 {
+  left: 60px;
+  width: 340px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-PTOLzO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-title-text-PTOLzO {
+  width: 328px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-title-bCnosj {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-olCjjF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-title-text-olCjjF {
+  width: 38px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-2mucoH {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m-copy-BvbvDT {
+  background-color: transparent;
+  height: 53px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-ZRizBj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-ZRizBj {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .content-okJxZm {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .title-okJxZm {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-tSKUZV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugincctvfeaturelistdetail .contents-tSKUZV {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m-BvbvDT {
+  cursor: pointer;
+  height: 73px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-61WiJC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-61WiJC {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.serviceplugincctvfeaturelistdetail .content-WauqBZ {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.serviceplugincctvfeaturelistdetail .title-WauqBZ {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-sub_-title-yqN90C {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.serviceplugincctvfeaturelistdetail .sub-title-GldZgX {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serviceplugincctvfeaturelistdetail .web-title-area-yqN90C {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-tab-service-plug-in_cctv-yqN90C {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.serviceplugincctvfeaturelistdetail .x3rd-depth-35ntMv {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugincctvfeaturelistdetail .tab-Jqboxy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugincctvfeaturelistdetail .card-qwxxMF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugincctvfeaturelistdetail .feature-_-list-qwxxMF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 85px;
+}
+
+.serviceplugincctvfeaturelistdetail .feature-_-list-det-qwxxMF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.serviceplugincctvfeaturelistdetail .feature-detail-qwxxMF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 95px;
+}
+
+.serviceplugincctvfeaturelistdetail .lnb-service-plug-in-yqN90C {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-fIBpi1 {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .lnb-fIBpi1 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .stacked-group-4HajAc {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-title-common-copy-FdeInp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-copy-FdeInp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .empty-copy-1vKTEc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .line-copy-2-1vKTEc {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.serviceplugincctvfeaturelistdetail .empty-copy-2-1vKTEc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-contents1dpeth_open_selected-FdeInp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-contents2dpeth-copy-2-FdeInp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-contents2dpeth-copy-FdeInp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-contents2dpeth-copy-3-FdeInp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-FdeInp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .empty-m816KE {
+  top: 21px;
+}
+
+.serviceplugincctvfeaturelistdetail .empty-bMfJCJ {
+  top: 0px;
+}
+
+.serviceplugincctvfeaturelistdetail .group-copy-2-FdeInp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .empty-Tu8J5K {
+  top: 21px;
+}
+
+.serviceplugincctvfeaturelistdetail .empty-NKulLy {
+  top: 0px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-title-common-copy-2-FdeInp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvfeaturelistdetail .line-4HajAc {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugincctvfeaturelistdetail .home-net-gui-guidelin-4HajAc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.serviceplugincctvfeaturelistdetail .webgnb-yqN90C {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugincctvfeaturelistdetail .rectangle-ur65TY {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugincctvfeaturelistdetail .background-ur65TY {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugincctvfeaturelistdetail .index-ur65TY {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-select-I3Kkbu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-unselect-I3Kkbu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugincctvfeaturelistdetail .web-index-unelect_main-ur65TY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.serviceplugincctvfeaturelistdetail .logo-lGS5dA {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.serviceplugincctvfeaturelistdetail .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.serviceplugincctvfeaturelistdetail .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugincctvfeaturelistdetail .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}
+
+.serviceplugincctvfeaturelistdetail .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

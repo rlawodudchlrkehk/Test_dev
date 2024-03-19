@@ -1,0 +1,19 @@
+:root { 
+  --concrete: #f2f2f2;
+  --shark: #252525;
+  --white: #ffffff;
+ 
+  --font-size-m: 20px;
+ 
+  --font-family-samsungone-700: "SamsungOne-700", Helvetica;
+}
+.samsungone-700-bold-shark-20px {
+  color: var(--shark);
+  font-family: var(--font-family-samsungone-700);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+:root {
+}

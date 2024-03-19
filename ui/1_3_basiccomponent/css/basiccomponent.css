@@ -1,0 +1,37 @@
+/* screen - basiccomponent */
+
+.basiccomponent {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponent .group-2 {
+  height: 611px;
+  left: 420px;
+  top: 290px;
+  width: 618px;
+}
+
+.basiccomponent .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponent .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponent .group-3 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

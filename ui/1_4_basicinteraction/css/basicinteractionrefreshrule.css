@@ -1,0 +1,43 @@
+/* screen - basicinteractionrefreshrule */
+
+.basicinteractionrefreshrule {
+  background-color: var(--white);
+  height: 2397px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionrefreshrule .group-4 {
+  background-color: transparent;
+  height: 904px;
+  left: 420px;
+  position: absolute;
+  top: 292px;
+  width: 1400px;
+}
+
+.basicinteractionrefreshrule .group-5 {
+  background-color: transparent;
+  height: 851px;
+  left: 320px;
+  position: absolute;
+  top: 1346px;
+  width: 1600px;
+}
+
+.basicinteractionrefreshrule .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionrefreshrule .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

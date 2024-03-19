@@ -1,0 +1,81 @@
+/* screen - overviewprinciplereleaseversion */
+
+.overviewprinciplereleaseversion {
+  background-color: var(--white);
+  height: 1305px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewprinciplereleaseversion .group-2-overviewprinciplereleaseversion {
+  background-color: transparent;
+  height: 437px;
+  left: 420px;
+  position: absolute;
+  top: 668px;
+  width: 1400px;
+}
+
+.overviewprinciplereleaseversion .table-guidesub-title_-disabled-divider {
+  background-color: transparent;
+  height: 276px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.overviewprinciplereleaseversion .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewprinciplereleaseversion .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewprinciplereleaseversion .text-overflow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.overviewprinciplereleaseversion .word-break {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 73px;
+}
+
+.overviewprinciplereleaseversion .case-sensitive {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 90px;
+}
+
+.overviewprinciplereleaseversion .date-and-time-inform {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}

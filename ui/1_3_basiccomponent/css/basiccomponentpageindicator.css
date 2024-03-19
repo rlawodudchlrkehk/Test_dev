@@ -1,0 +1,44 @@
+/* screen - basiccomponentpageindicator */
+
+.basiccomponentpageindicator {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentpageindicator .group-4 {
+  height: 195px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentpageindicator .group-5 {
+  height: 201px;
+  left: 320px;
+  top: 342px;
+  width: 770px;
+}
+
+.basiccomponentpageindicator .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentpageindicator .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentpageindicator .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

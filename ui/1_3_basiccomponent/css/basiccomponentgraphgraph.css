@@ -1,0 +1,73 @@
+/* screen - basiccomponentgraphgraph */
+
+.basiccomponentgraphgraph {
+  background-color: var(--white);
+  height: 1717px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentgraphgraph .group-5 {
+  height: 493px;
+  left: 420px;
+  top: 1024px;
+  width: 1400px;
+}
+
+.basiccomponentgraphgraph .group-8 {
+  height: 453px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentgraphgraph .group-4 {
+  height: 532px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentgraphgraph .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentgraphgraph .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentgraphgraph .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentgraphgraph .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentgraphgraph .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

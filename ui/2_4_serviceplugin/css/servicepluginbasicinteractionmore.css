@@ -1,0 +1,361 @@
+/* screen - servicepluginbasicinteractionmore */
+
+.servicepluginbasicinteractionmore {
+  background-color: var(--white);
+  height: 1257px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionmore .group-bOx8Bc {
+  background-color: transparent;
+  height: 773px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionmore .web-title-area-bOx8Bc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionmore .web-tab-service-plug-bOx8Bc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionmore .x3rd-depth-BdnW1b {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionmore .tab-RZCcuz {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginbasicinteractionmore .touch-area-0b4Fwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.servicepluginbasicinteractionmore .interaction-history-0b4Fwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 114px;
+}
+
+.servicepluginbasicinteractionmore .scroll-0b4Fwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.servicepluginbasicinteractionmore .more-0b4Fwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginbasicinteractionmore .menu-0b4Fwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginbasicinteractionmore .loading-0b4Fwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.servicepluginbasicinteractionmore .lnb-service-plug-in-bOx8Bc {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .rectangle-QmjcPf {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .lnb-QmjcPf {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .stacked-group-FoPwQx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .web-index-title-common-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .group-gsOsTx {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .empty-kV5EjV {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionmore .empty-p4GPXe {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionmore .web-index-contents1d-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .web-index-contents1dpeth_open_selected-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .web-index-contents2dpeth-copy-3-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .web-index-contents2dpeth-copy-2-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .web-index-contents2dpeth-copy-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .web-index-contents2dpeth-copy-4-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .group-f7vEwA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .empty-8HEL2R {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionmore .empty-KxShYl {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionmore .group-copy-gsOsTx {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .empty-MXefCx {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionmore .empty-y3KmfK {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionmore .web-index-title-reference-copy-gsOsTx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionmore .line-FoPwQx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginbasicinteractionmore .home-net-ui-guideline-FoPwQx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginbasicinteractionmore .webgnb-bOx8Bc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionmore .rectangle-h5qDiP {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionmore .background-h5qDiP {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionmore .index-h5qDiP {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginbasicinteractionmore .web-index-select-e1CvSt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginbasicinteractionmore .web-index-unselect-e1CvSt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginbasicinteractionmore .web-index-unelect_main-h5qDiP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractionmore .logo-uXjGz2 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

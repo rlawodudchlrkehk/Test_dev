@@ -1,0 +1,34 @@
+/* screen - basicinteractionscrollbarscrollbar */
+
+.basicinteractionscrollbarscrollbar {
+  background-color: var(--white);
+  height: 1384px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionscrollbarscrollbar .group-3 {
+  background-color: transparent;
+  height: 892px;
+  left: 420px;
+  position: absolute;
+  top: 292px;
+  width: 1472px;
+}
+
+.basicinteractionscrollbarscrollbar .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionscrollbarscrollbar .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

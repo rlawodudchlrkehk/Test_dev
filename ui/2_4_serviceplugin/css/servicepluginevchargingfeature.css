@@ -1,0 +1,479 @@
+/* screen - servicepluginevchargingfeature */
+
+.servicepluginevchargingfeature {
+  background-color: var(--white);
+  height: 1286px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginevchargingfeature .group-10-jaS8pb {
+  background-color: transparent;
+  height: 560px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .group-9-kHLxrl {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-title-copy-8C97XK {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingfeature .table-guide-title-copy-2-8C97XK {
+  background-color: transparent;
+  height: 56px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginevchargingfeature .table-guide-title-copy-3-8C97XK {
+  background-color: transparent;
+  height: 56px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginevchargingfeature .group-8-kHLxrl {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-6oirUZ {
+  height: 79px;
+}
+
+.servicepluginevchargingfeature .group-7-kHLxrl {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-iJVO1g {
+  height: 119px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-copy-2-iJVO1g {
+  cursor: pointer;
+}
+
+.servicepluginevchargingfeature .group-6-kHLxrl {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 274px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-VkdHEJ {
+  height: 79px;
+}
+
+.servicepluginevchargingfeature .group-5-kHLxrl {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 363px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-kevnEi {
+  height: 59px;
+}
+
+.servicepluginevchargingfeature .group-4-kHLxrl {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 432px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-9ZM0ud {
+  height: 59px;
+}
+
+.servicepluginevchargingfeature .group-3-kHLxrl {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 501px;
+  width: 680px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-rsHUOl {
+  height: 59px;
+}
+
+.servicepluginevchargingfeature .group-2-jaS8pb {
+  background-color: transparent;
+  height: 744px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.servicepluginevchargingfeature .web-sub_-title-jaS8pb {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginevchargingfeature .web-title-area-jaS8pb {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginevchargingfeature .web-tab-service-plug-in_cctv-jaS8pb {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginevchargingfeature .x3rd-depth-PUAI63 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginevchargingfeature .tab-jdHmN6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginevchargingfeature .card-SVt1Ex {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginevchargingfeature .feature-SVt1Ex {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginevchargingfeature .interaction-flow-SVt1Ex {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginevchargingfeature .lnb-service-plug-in-jaS8pb {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .rectangle-xaM3xp {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .lnb-xaM3xp {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .stacked-group-MxTbYv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .web-index-title-common-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .empty-4uM50K {
+  top: 21px;
+}
+
+.servicepluginevchargingfeature .empty-32NSo3 {
+  top: 0px;
+}
+
+.servicepluginevchargingfeature .web-index-contents1d-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .web-index-contents1dpeth_open_selected-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .web-index-contents2dpeth-copy-3-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .web-index-contents2dpeth-copy-2-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .web-index-contents2dpeth-copy-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .web-index-contents2dpeth-copy-4-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .empty-LjsAxe {
+  top: 21px;
+}
+
+.servicepluginevchargingfeature .empty-cT6TOG {
+  top: 0px;
+}
+
+.servicepluginevchargingfeature .group-copy-g32tSo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .empty-oqX4zg {
+  top: 21px;
+}
+
+.servicepluginevchargingfeature .empty-bw7Z4x {
+  top: 0px;
+}
+
+.servicepluginevchargingfeature .web-index-title-reference-copy-g32tSo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .line-MxTbYv {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginevchargingfeature .home-net-ui-guideline-MxTbYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginevchargingfeature .webgnb-jaS8pb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginevchargingfeature .rectangle-09jI3a {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginevchargingfeature .background-09jI3a {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginevchargingfeature .index-09jI3a {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginevchargingfeature .web-index-select-pxDTZu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginevchargingfeature .web-index-unselect-pxDTZu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginevchargingfeature .web-index-unelect_main-09jI3a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginevchargingfeature .logo-OfWKUm {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginevchargingfeature .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginevchargingfeature .table-guide-text2line_mint-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

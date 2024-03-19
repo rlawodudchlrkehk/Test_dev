@@ -1,0 +1,713 @@
+/* screen - tabletservicepluginliveviewflowfrontdoor */
+
+.tabletservicepluginliveviewflowfrontdoor {
+  background-color: var(--white);
+  height: 1218px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-3-zRwXmx {
+  background-color: transparent;
+  height: 622px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 1400px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-sub_-title-zRwXmx {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 439px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .sub-title-swa7bu {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-title-area-zRwXmx {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-tab-service-plug-in_-home-screen-zRwXmx {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 194px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x3rd-depth-YpoO5v {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .live-view_-feature_-ca-tBdxu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 148px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .live-view_-feature_-po-tBdxu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .incoming-call_-flow_m-tBdxu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 250px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .flow_-front-door-tBdxu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .flow_-home-screen-tBdxu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 118px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .flow_-back-key-tBdxu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x3rd-depth-copy-YpoO5v {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .feature_-basic_layout-jKKMHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 181px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .feature_-main-entranc-jKKMHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .feature_-front-door-jKKMHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 121px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .feature_-call-end-jKKMHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .feature_-back-key-jKKMHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .feature_-exceptional-jKKMHX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 160px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .lnb-service-plug-in-zRwXmx {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .rectangle-ACiIPF {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .lnb-ACiIPF {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .stacked-group-KIrXMV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-index-title-common-copy-tt3J6W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-NhIxzH {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-copy-tt3J6W {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .empty-copy-cdxRAO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .line-copy-2-cdxRAO {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .empty-copy-2-cdxRAO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-5ZvWBw {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-tt3J6W {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .empty-pxHzeq {
+  top: 21px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .empty-tbs8qZ {
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-ksZr8y {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-Oxvfdp {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .empty-c315js {
+  top: 21px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .empty-5KOUDS {
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-SF5eXe {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-gyydH5 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x1-depth-title-g9ys42 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .button-hzN5C2 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-6cux0P {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x1-depth-title-OuHxTf {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .button-qZayMx {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-06IdNJ {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x1-depth-title-AHecii {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .button-CPbTR1 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-H4xr7y {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x1-depth-title-p3xPwX {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .button-JZMUkS {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-960D1A {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x1-depth-title-OJpRqd {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .button-2qM63x {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-ypG0Ux {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x1-depth-title-VGPMNe {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-expanded-ypG0Ux {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .button-ZXF3Lx {
+  left: 1px;
+  top: -4px;
+  transform: rotate(90deg);
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-Rb6oQp {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-rG4xNz {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-wcSl76 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-1j7JiE {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-GbO1xs {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-1tXOvq {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-OcmKsL {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-DJgCdD {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-nkn122 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-Hbh0vb {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-QJvraW {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-GZwl2H {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-oe3mz4 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-s0NZjt {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-XR34Ce {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-xiaPUS {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-wxg7E7 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-9TZ4st {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-Tn2Lmn {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-FLDDB7 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-KTltaD {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-xO2eV3 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-DuXgex {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-SjXOpr {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .group-3ZDidi {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title-wHBgom {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .line-KIrXMV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .home-net-gui-guidelin-KIrXMV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .webgnb-zRwXmx {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .rectangle-bWyqFS {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .background-bWyqFS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .index-bWyqFS {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-index-select-cMbxop {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-index-unselect-cMbxop {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .web-index-unelect_main-bWyqFS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .logo-EqdSkp {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginliveviewflowfrontdoor .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

@@ -1,0 +1,637 @@
+/* screen - devicepluginlightdimmertypeinteractionflow */
+
+.devicepluginlightdimmertypeinteractionflow {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 6466px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-29-lXEK4x {
+  background-color: transparent;
+  height: 956px;
+  left: 420px;
+  position: absolute;
+  top: 1281px;
+  width: 1400px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-22-lXEK4x {
+  background-color: transparent;
+  height: 859px;
+  left: 420px;
+  position: absolute;
+  top: 4471px;
+  width: 1400px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-23-lXEK4x {
+  background-color: transparent;
+  height: 787px;
+  left: 420px;
+  position: absolute;
+  top: 3534px;
+  width: 1400px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-25-lXEK4x {
+  background-color: transparent;
+  height: 997px;
+  left: 420px;
+  position: absolute;
+  top: 2387px;
+  width: 1400px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-21-lXEK4x {
+  background-color: transparent;
+  height: 787px;
+  left: 420px;
+  position: absolute;
+  top: 5479px;
+  width: 1400px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-28-lXEK4x {
+  background-color: transparent;
+  height: 789px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-sub_-title_w-description-lXEK4x {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-title-area-lXEK4x {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-tab-device-plug-in_-light-lXEK4x {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .x3rd-depth-pKIG6h {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .tab-sCVPF8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginlightdimmertypeinteractionflow .switch-type-1wTnGj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 72px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .switch-type-_-intera-1wTnGj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 184px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .dimmer-type-1wTnGj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 80px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .dimmer-type-_-intera-1wTnGj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 196px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .lnb-device-plug-in-lXEK4x {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .rectangle-8yNYCS {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .stacked-group-8yNYCS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-title-common-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-CtbeOW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-tAeRMh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-Jx8qmY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-cLs7ml {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-RfxqMf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-56DoUM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .empty-XM98tH {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .line-copy-XM98tH {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .empty-VycjgD {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-title-reference-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-LI5LxY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-8DdiX2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_open_selected-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-CtbeOW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-tAeRMh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-Jx8qmY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-cLs7ml {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-RfxqMf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-LI5LxY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-8DdiX2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-yWR5Bx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-f7HzH4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-bDIYAH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-Tcg72q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-copy-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents2dpeth-YtLQIk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-contents1dpeth_close-yWR5Bx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-CtbeOW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .empty-a9X27X {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .line-copy-a9X27X {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .empty-oNdWBK {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-title-reference-CtbeOW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .group-copy-56DoUM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .empty-copy-vIDWeI {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .line-copy-2-vIDWeI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .empty-copy-2-vIDWeI {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-title-reference-copy-56DoUM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .line-8yNYCS {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .home-net-ui-guideline-8yNYCS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .webgnb-lXEK4x {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .rectangle-oR4xOX {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .background-oR4xOX {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .index-oR4xOX {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-select-Sac9Zh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-unselect-Sac9Zh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .web-index-unelect_main-oR4xOX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginlightdimmertypeinteractionflow .logo-EmgvuW {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

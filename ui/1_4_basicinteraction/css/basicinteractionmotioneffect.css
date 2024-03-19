@@ -1,0 +1,79 @@
+/* screen - basicinteractionmotioneffect */
+
+.basicinteractionmotioneffect {
+  background-color: var(--white);
+  height: 4250px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionmotioneffect .group-10 {
+  background-color: transparent;
+  height: 848px;
+  left: 420px;
+  position: absolute;
+  top: 1210px;
+  width: 1441px;
+}
+
+.basicinteractionmotioneffect .group-7 {
+  background-color: transparent;
+  height: 904px;
+  left: 400px;
+  position: absolute;
+  top: 3146px;
+  width: 1420px;
+}
+
+.basicinteractionmotioneffect .group-12 {
+  background-color: transparent;
+  height: 768px;
+  left: 420px;
+  position: absolute;
+  top: 292px;
+  width: 1420px;
+}
+
+.basicinteractionmotioneffect .group-9 {
+  background-color: transparent;
+  height: 788px;
+  left: 418px;
+  position: absolute;
+  top: 2208px;
+  width: 1402px;
+}
+
+.basicinteractionmotioneffect .web-sub_-title-copy {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 234px;
+  width: 1600px;
+}
+
+.basicinteractionmotioneffect .srceen-comments-comment {
+  background-color: transparent;
+  height: 34px;
+  left: 584px;
+  position: absolute;
+  top: 234px;
+  width: 622px;
+}
+
+.basicinteractionmotioneffect .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionmotioneffect .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

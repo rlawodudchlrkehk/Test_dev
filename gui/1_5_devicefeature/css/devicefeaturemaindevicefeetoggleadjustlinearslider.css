@@ -1,0 +1,701 @@
+/* screen - devicefeaturemaindevicefeetoggleadjustlinearslider */
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider {
+  background-color: var(--white);
+  height: 1269px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-4-Enx7gu {
+  background-color: transparent;
+  height: 256px;
+  left: 420px;
+  position: absolute;
+  top: 813px;
+  width: 336px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-3-Enx7gu {
+  background-color: transparent;
+  height: 288px;
+  left: 380px;
+  position: absolute;
+  top: 375px;
+  width: 710px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-Enx7gu {
+  background-color: transparent;
+  height: 207px;
+  left: 1140px;
+  position: absolute;
+  top: 375px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-2-copy-3-jME69H {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line-QzTpBO {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-mZIxEG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-mZIxEG {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line-0Txse7 {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-K3IDl6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-K3IDl6 {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text2line_m-QzTpBO {
+  height: 51px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-BFAEOb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-BFAEOb {
+  color: var(--lochmara);
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-2-copy-2-jME69H {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line-wPx0xM {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-G0vN19 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-G0vN19 {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line-pL2W9a {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-jZLpFN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-jZLpFN {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text2line_m-wPx0xM {
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-Xy8CzG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-Xy8CzG {
+  color: var(--lochmara);
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-6-jME69H {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line-2PXXdH {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-I1BtxJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-I1BtxJ {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line-EkU1Fb {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-v0FLEf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-v0FLEf {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text2line_m-2PXXdH {
+  height: 31px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-paEKUw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents-paEKUw {
+  color: var(--lochmara);
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .descriptiontabletop-jME69H {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-title-rp79vm {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-pxSmaR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-title-text-pxSmaR {
+  width: 258px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-title-1wKJjV {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-R8ovZo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-title-text-R8ovZo {
+  width: 328px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-title-cNRFUy {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-OY2jZj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-title-text-OY2jZj {
+  width: 38px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-sub_-title_w-description-Enx7gu {
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1500px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .content-owAzxb {
+  background-color: transparent;
+  font-weight: 400;
+  height: 23px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 1400px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .sub-title-owAzxb {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-title-area-Enx7gu {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-tab-device-featu-Enx7gu {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .x3rd-depth-O2x4IG {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .tab-O2x4IG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .types-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .service-feature-type-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .toggle-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 41px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .buttons-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 49px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .buttons-2-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .dropdown-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .toggle-adjust-_-st-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 177px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .toggle-adjust-_-li-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .value-slider-d3scIB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .lnb-favorite-card-Enx7gu {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-ML5RTr {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .background-ML5RTr {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .stacked-group-ML5RTr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-title-common-iJe9aQ {
+  margin: 0;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-contents2dpeth-copy-2-iJe9aQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-contents2dpeth-copy-3-iJe9aQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-contents1dpeth_open_selected-iJe9aQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-copy-iJe9aQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .empty-HAlIXH {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .empty-pOfUA8 {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-title-common-copy-iJe9aQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-iJe9aQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .empty-4ehGxX {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .empty-kv3eMJ {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-title-common-BrxtzO {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .group-copy-2-iJe9aQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .empty-E9Pixt {
+  top: 21px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .empty-S7pGxf {
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-title-common-copy-2-iJe9aQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .line-ML5RTr {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .home-net-gui-guidelin-ML5RTr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .webgnb-Enx7gu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .rectangle-P0HMgK {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .background-P0HMgK {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .index-P0HMgK {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-select-dYLz8Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-unselect-dYLz8Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .web-index-unelect_main-P0HMgK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .logo-oxr1FF {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturemaindevicefeetoggleadjustlinearslider .table-guide-text2line_m {
+  background-color: transparent;
+  cursor: pointer;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}

@@ -1,0 +1,288 @@
+/* screen - overviewmain */
+
+.overviewmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewmain .group-2-EtJXS3 {
+  background-color: transparent;
+  height: 150px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 384px;
+}
+
+.overviewmain .lnb-favorite-card-EtJXS3 {
+  background-color: transparent;
+  height: 1168px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewmain .rectangle-IhZm8L {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewmain .background-IhZm8L {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewmain .stacked-group-IhZm8L {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewmain .web-index-title-common-PeCDbL {
+  margin: 0;
+}
+
+.overviewmain .web-index-contents1dpeth_close-copy-2-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .web-index-contents1dpeth_close-copy-3-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .web-index-contents1dpeth_close-copy-4-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .web-index-contents1dpeth_close-copy-5-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .web-index-contents1dpeth_close-copy-6-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .web-index-contents1dpeth_close-copy-7-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .web-index-contents1dpeth_open_selected-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .group-copy-PeCDbL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .empty-ix7cps {
+  top: 21px;
+}
+
+.overviewmain .empty-5rxjmw {
+  top: 0px;
+}
+
+.overviewmain .web-index-title-common-copy-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .group-PeCDbL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .empty-IPbS8z {
+  top: 21px;
+}
+
+.overviewmain .empty-palW3H {
+  top: 0px;
+}
+
+.overviewmain .web-index-title-common-2JHSnn {
+  margin: 0px 0 0 0;
+}
+
+.overviewmain .group-copy-2-PeCDbL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .empty-6F4lFI {
+  top: 21px;
+}
+
+.overviewmain .empty-VyImVM {
+  top: 0px;
+}
+
+.overviewmain .web-index-title-common-copy-2-PeCDbL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewmain .line-IhZm8L {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewmain .home-net-gui-guidelin-IhZm8L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewmain .webgnb-EtJXS3 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewmain .rectangle-Ph4J9I {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewmain .background-Ph4J9I {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewmain .index-Ph4J9I {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewmain .web-index-select-kVmChx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewmain .web-index-unselect-kVmChx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewmain .web-index-unelect_main-Ph4J9I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.overviewmain .logo-tIfdnJ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.overviewmain .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}

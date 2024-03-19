@@ -1,0 +1,371 @@
+/* screen - servicepluginbasicinteractionloading */
+
+.servicepluginbasicinteractionloading {
+  background-color: var(--white);
+  height: 3518px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionloading .group-2-XWbzZ0 {
+  background-color: transparent;
+  height: 808px;
+  left: 420px;
+  position: absolute;
+  top: 1320px;
+  width: 1400px;
+}
+
+.servicepluginbasicinteractionloading .group-7-XWbzZ0 {
+  background-color: transparent;
+  height: 886px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .group-3-XWbzZ0 {
+  background-color: transparent;
+  height: 1040px;
+  left: 420px;
+  position: absolute;
+  top: 2278px;
+  width: 1400px;
+}
+
+.servicepluginbasicinteractionloading .web-title-area-XWbzZ0 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .web-tab-service-plug-XWbzZ0 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .x3rd-depth-lDp5Mh {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .tab-RuXA76 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginbasicinteractionloading .touch-area-DDRGxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.servicepluginbasicinteractionloading .interaction-history-DDRGxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 114px;
+}
+
+.servicepluginbasicinteractionloading .scroll-DDRGxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.servicepluginbasicinteractionloading .more-DDRGxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginbasicinteractionloading .menu-DDRGxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginbasicinteractionloading .loading-DDRGxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.servicepluginbasicinteractionloading .lnb-service-plug-in-XWbzZ0 {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .rectangle-CSCi9G {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .lnb-CSCi9G {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .stacked-group-MWMg2W {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .web-index-title-common-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .empty-JXWH1C {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionloading .empty-LLk0ON {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionloading .web-index-contents1d-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .web-index-contents1dpeth_open_selected-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .web-index-contents2dpeth-copy-3-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .web-index-contents2dpeth-copy-2-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .web-index-contents2dpeth-copy-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .web-index-contents2dpeth-copy-4-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .empty-HI2gDA {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionloading .empty-jAgeLZ {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionloading .group-copy-CzEId6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .empty-WcnqNe {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionloading .empty-6T900y {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionloading .web-index-title-reference-copy-CzEId6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .line-MWMg2W {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginbasicinteractionloading .home-net-ui-guideline-MWMg2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginbasicinteractionloading .webgnb-XWbzZ0 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionloading .rectangle-ypSFyg {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionloading .background-ypSFyg {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionloading .index-ypSFyg {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginbasicinteractionloading .web-index-select-IEnqxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginbasicinteractionloading .web-index-unselect-IEnqxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginbasicinteractionloading .web-index-unelect_main-ypSFyg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractionloading .logo-vFuDLo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractionloading .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

@@ -1,0 +1,948 @@
+/* screen - serviceplugindeliveriescard */
+
+.serviceplugindeliveriescard {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .group-9-H92jLO {
+  background-color: transparent;
+  height: 403px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.serviceplugindeliveriescard .group-3-H92jLO {
+  background-color: transparent;
+  height: 515px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .group-2-t6J6xJ {
+  background-color: transparent;
+  height: 459px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .group-7-P4G9gd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-496h3u {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .rectangle-2ymbyl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .contents-2ymbyl {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-7-496h3u {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .rectangle-3BkIbz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .contents-3BkIbz {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-496h3u {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .rectangle-et4Ts5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .contents-et4Ts5 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugindeliveriescard .group-6-P4G9gd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-3-L79xX6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .rectangle-eOjPJH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .contents-eOjPJH {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-8-L79xX6 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .rectangle-Zjn8o2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .contents-Zjn8o2 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-6-L79xX6 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .rectangle-iODbso {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .contents-iODbso {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugindeliveriescard .group-5-P4G9gd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 94px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-10-Zf5mbe {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .rectangle-j1cWgc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .contents-j1cWgc {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-2-Zf5mbe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .rectangle-MRc5bC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .contents-MRc5bC {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-9-Zf5mbe {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .rectangle-qcvJB1 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .contents-qcvJB1 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugindeliveriescard .group-4-P4G9gd {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 141px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-11-v34FDM {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .rectangle-9OZYfA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .contents-9OZYfA {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-4-v34FDM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .rectangle-jczORn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .contents-jczORn {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-13-v34FDM {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .rectangle-7eR6jI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .contents-7eR6jI {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugindeliveriescard .group-P4G9gd {
+  background-color: transparent;
+  height: 251px;
+  left: 0px;
+  position: absolute;
+  top: 208px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-12-46m7dH {
+  background-color: transparent;
+  height: 75px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .rectangle-AvUPqu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .group-AvUPqu {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .content-ptEqCq {
+  color: var(--black);
+  top: 22px;
+}
+
+.serviceplugindeliveriescard .content-S9pYqf {
+  color: var(--fuscous-gray);
+  top: 44px;
+}
+
+.serviceplugindeliveriescard .title-ptEqCq {
+  background-color: transparent;
+  color: var(--science-blue);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-5-46m7dH {
+  background-color: transparent;
+  height: 193px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .rectangle-RbP6zs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .contents-RbP6zs {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .contents-copy-RbP6zs {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 160px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-15-46m7dH {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 214px;
+  width: 295px;
+}
+
+.serviceplugindeliveriescard .contents-ONrYth {
+  color: var(--rose);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.serviceplugindeliveriescard .table-guide-text1line-copy-14-46m7dH {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .rectangle-4KPfwF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .contents-4KPfwF {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugindeliveriescard .descriptiontabletop-t6J6xJ {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-title-buBGbP {
+  left: 410px;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .rectangle-xnAbzZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.serviceplugindeliveriescard .table-title-text-xnAbzZ {
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .table-guide-title-L2r5wY {
+  left: 60px;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .rectangle-zdKGwg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.serviceplugindeliveriescard .table-title-text-zdKGwg {
+  width: 328px;
+}
+
+.serviceplugindeliveriescard .table-guide-title-BMlICZ {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .rectangle-VsB5mk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .table-title-text-VsB5mk {
+  width: 38px;
+}
+
+.serviceplugindeliveriescard .web-sub_-title-H92jLO {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.serviceplugindeliveriescard .sub-title-NvSoME {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serviceplugindeliveriescard .web-title-area-H92jLO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .web-tab-service-plug-in_-deliveries-H92jLO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .x3rd-depth-t9GvvO {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .tab-z1bOw6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugindeliveriescard .card-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugindeliveriescard .feature-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.serviceplugindeliveriescard .feature-_-no-informa-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 156px;
+}
+
+.serviceplugindeliveriescard .case-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.serviceplugindeliveriescard .lnb-service-plug-in-H92jLO {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .rectangle-wO5mgG {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .lnb-wO5mgG {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .stacked-group-SEJ6TP {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-title-common-copy-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .group-copy-d0wrcL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .empty-copy-gHNmgZ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .line-copy-2-gHNmgZ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.serviceplugindeliveriescard .empty-copy-2-gHNmgZ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents1dpeth_open_selected-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-2-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-3-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .group-d0wrcL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .empty-WSScp8 {
+  top: 21px;
+}
+
+.serviceplugindeliveriescard .empty-Atxf3k {
+  top: 0px;
+}
+
+.serviceplugindeliveriescard .group-copy-2-d0wrcL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .empty-UwDxpJ {
+  top: 21px;
+}
+
+.serviceplugindeliveriescard .empty-0gBAD7 {
+  top: 0px;
+}
+
+.serviceplugindeliveriescard .web-index-title-common-copy-2-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .line-SEJ6TP {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugindeliveriescard .home-net-gui-guidelin-SEJ6TP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.serviceplugindeliveriescard .webgnb-H92jLO {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .rectangle-Y0Bnd6 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .background-Y0Bnd6 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .index-Y0Bnd6 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.serviceplugindeliveriescard .web-index-select-swrSKs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugindeliveriescard .web-index-unselect-swrSKs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugindeliveriescard .web-index-unelect_main-Y0Bnd6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.serviceplugindeliveriescard .logo-MktBQQ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.serviceplugindeliveriescard .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.serviceplugindeliveriescard .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.serviceplugindeliveriescard .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

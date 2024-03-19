@@ -1,0 +1,368 @@
+/* screen - devicefeaturecapabilitiestypes */
+
+.devicefeaturecapabilitiestypes {
+  background-color: var(--white);
+  height: 1236px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiestypes .group-8-B6eVuk {
+  background-color: transparent;
+  height: 694px;
+  left: 320px;
+  position: absolute;
+  top: 342px;
+  width: 1182px;
+}
+
+.devicefeaturecapabilitiestypes .web-sub_-title_w-description-B6eVuk {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.devicefeaturecapabilitiestypes .sub-title-V6j77K {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturecapabilitiestypes .web-title-area-B6eVuk {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiestypes .web-tab-device-feature_-capabilities-B6eVuk {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiestypes .x3rd-depth-rWkWDj {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiestypes .tab-rWkWDj {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturecapabilitiestypes .types-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 36px;
+}
+
+.devicefeaturecapabilitiestypes .service-feature-type-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 106px;
+}
+
+.devicefeaturecapabilitiestypes .value-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiestypes .value-slider-_-lin-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.devicefeaturecapabilitiestypes .value-slider-_-ste-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 167px;
+}
+
+.devicefeaturecapabilitiestypes .value-switch-sli-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.devicefeaturecapabilitiestypes .grouping-card-w0TEd1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.devicefeaturecapabilitiestypes .lnb-favorite-card-B6eVuk {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .rectangle-8ITbot {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .background-8ITbot {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .stacked-group-8ITbot {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-title-common-saixcU {
+  margin: 0;
+}
+
+.devicefeaturecapabilitiestypes .web-index-contents2dpeth-copy-2-saixcU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-contents2dpeth-copy-3-saixcU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-contents1dpeth_open_selected-saixcU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .group-copy-saixcU {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .empty-wWnziY {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiestypes .empty-BZHLeI {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-title-common-copy-saixcU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .group-saixcU {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .empty-OJIQTN {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiestypes .empty-43Gc4f {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-title-common-lxf1XA {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturecapabilitiestypes .group-copy-2-saixcU {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .empty-Z8CbxL {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiestypes .empty-OixGLs {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-title-common-copy-2-saixcU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiestypes .line-8ITbot {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiestypes .home-net-gui-guidelin-8ITbot {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturecapabilitiestypes .webgnb-B6eVuk {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiestypes .rectangle-xF4c8N {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiestypes .background-xF4c8N {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiestypes .index-xF4c8N {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-select-vyqEbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-unselect-vyqEbh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturecapabilitiestypes .web-index-unelect_main-xF4c8N {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturecapabilitiestypes .logo-xYOYax {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}

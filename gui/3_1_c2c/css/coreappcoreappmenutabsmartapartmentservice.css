@@ -1,0 +1,977 @@
+/* screen - coreappcoreappmenutabsmartapartmentservice */
+
+.coreappcoreappmenutabsmartapartmentservice {
+  background-color: var(--white);
+  height: 1361px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-25-nPKtxV {
+  background-color: transparent;
+  height: 819px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-23-nPKtxV {
+  background-color: transparent;
+  height: 205px;
+  left: 1140px;
+  position: absolute;
+  top: 956px;
+  width: 216px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .refer-to-one-ui5x-nPKtxV {
+  background-color: transparent;
+  height: 20px;
+  left: 1413px;
+  opacity: 0.8;
+  position: absolute;
+  top: 296px;
+  width: 407px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-2-nPKtxV {
+  background-color: transparent;
+  height: 473px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-4-b5b8MP {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-lkgu8f {
+  left: 0px;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-ShFkiC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-ShFkiC {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line_mint-lkgu8f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-oNjzxw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-oNjzxw {
+  height: 20px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-oNjzxw {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  top: 33px;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-x1pGEs {
+  left: 410px;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-7uI4nc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-7uI4nc {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-4-copy-b5b8MP {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-copy-9tnfaQ {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-Io7cRr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-Io7cRr {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line_mint-copy-9tnfaQ {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-BWIvFo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-BWIvFo {
+  height: 20px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-BWIvFo {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-copy-2-9tnfaQ {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-z5dTKh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-z5dTKh {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-4-copy-2-b5b8MP {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-copy-3-xQePJ7 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-SLZXKc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-SLZXKc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line_mint-copy-2-xQePJ7 {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-RYVag2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-RYVag2 {
+  height: 20px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-RYVag2 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-copy-4-xQePJ7 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-T8Y22L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-T8Y22L {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-4-copy-3-b5b8MP {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 414px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-copy-5-SNVBoB {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-WYfYEp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-WYfYEp {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line_mint-copy-3-SNVBoB {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-ZxGrDu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-ZxGrDu {
+  height: 20px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-ZxGrDu {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-copy-6-SNVBoB {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-eCwxit {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-eCwxit {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-6-b5b8MP {
+  background-color: transparent;
+  height: 121px;
+  left: 0px;
+  position: absolute;
+  top: 283px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-Eiio78 {
+  left: 0px;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-XxVyfx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-XxVyfx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line-LC1mZW {
+  left: 410px;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-zUKxVH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents-zUKxVH {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text2line_m-Eiio78 {
+  background-color: transparent;
+  height: 115px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-KfpxP3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group-KfpxP3 {
+  height: 104px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .content-1N0I3B {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .content-copy-1N0I3B {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 64px;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-title-b5b8MP {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .web-sub_-title-nPKtxV {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .sub-title-d8JJtr {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .web-title-area-nPKtxV {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .web-tabc2-c_re_popup-nPKtxV {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-xszyJO {
+  background-color: var(--white);
+  height: 47px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .x3rd-depth-xszyJO {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .tab-LtRzLg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .flow-upkZy0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .how-to-use-upkZy0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .smart-apartment-serv-upkZy0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 156px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .lnbc2-c_coreapp-nPKtxV {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-NFKxmf {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .background-NFKxmf {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .line-NFKxmf {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .home-net-gui-guidelin-NFKxmf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup28 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup28 .web-index-title-reference-copy-2-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .group-5XYr15 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup28 .empty-M17NsD {
+  bottom: 0px;
+}
+
+.stackedgroup28 .empty-7nOyBE {
+  top: 0px;
+}
+
+.stackedgroup28 .web-index-title-reference-copy-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .group-copy-5XYr15 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .empty-ZibBfy {
+  bottom: 0px;
+}
+
+.stackedgroup28 .empty-yFGkiY {
+  top: 0px;
+}
+
+.stackedgroup28 .web-index-title-reference-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .web-index-contents1dpeth_close-copy-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .group-qLq5be {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup28 .x1-depth-title-xXu0fW {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup28 .web-fold-qLq5be {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup28 .background-38KMya {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup28 .button-38KMya {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup28 .web-index-contents1dpeth_close-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .group-6qe1f9 {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup28 .web-expanded-e9xnWg {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup28 .button-vOghyA {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup28 .x1-depth-title-e9xnWg {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup28 .web-index-contents1dpeth_open_selected-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .group-copy-2-5XYr15 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup28 .empty-HZCQtG {
+  bottom: 0px;
+}
+
+.stackedgroup28 .empty-IRjIPI {
+  top: 0px;
+}
+
+.stackedgroup28 .web-index-title-reference-copy-3-5XYr15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .webgnb-nPKtxV {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .rectangle-uJdNA9 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .background-uJdNA9 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .index-uJdNA9 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .web-index-select-3uJrWI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .web-index-unselect-3uJrWI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .web-index-unelect_main-uJdNA9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .logo-3gFhqq {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .group {
+  background-color: transparent;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.coreappcoreappmenutabsmartapartmentservice .title {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.stackedgroup28 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup28 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

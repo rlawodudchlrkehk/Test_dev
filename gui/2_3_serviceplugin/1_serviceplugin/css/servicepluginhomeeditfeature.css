@@ -1,0 +1,799 @@
+/* screen - servicepluginhomeeditfeature */
+
+.servicepluginhomeeditfeature {
+  background-color: var(--white);
+  height: 1412px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomeeditfeature .group-6-UUwR8M {
+  background-color: transparent;
+  height: 816px;
+  left: 382px;
+  position: absolute;
+  top: 396px;
+  width: 708px;
+}
+
+.servicepluginhomeeditfeature .group-2-UUwR8M {
+  background-color: transparent;
+  height: 428px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginhomeeditfeature .group-4-0tdYkH {
+  background-color: transparent;
+  height: 428px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomeeditfeature .group-BQScrp {
+  background-color: transparent;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-copy-l1FB83 {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-HOttxw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .contents-HOttxw {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-l1FB83 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginhomeeditfeature .rectangle-Is9Rr6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomeeditfeature .contents-Is9Rr6 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-copy-2-l1FB83 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 114px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-GDMjne {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .contents-GDMjne {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-copy-4-l1FB83 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 181px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-WmJmAv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .contents-WmJmAv {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-copy-5-l1FB83 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 248px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-QXYvRK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .contents-QXYvRK {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-copy-6-l1FB83 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 315px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-TqZ8OE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .contents-TqZ8OE {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text1line-copy-3-l1FB83 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-IpVcmH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .contents-IpVcmH {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-text2line_b-copy-3-l1FB83 {
+  background-color: transparent;
+  height: 137px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginhomeeditfeature .rectangle-OTftBI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomeeditfeature .group-OTftBI {
+  background-color: transparent;
+  height: 126px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.servicepluginhomeeditfeature .content-sYFEgH {
+  color: var(--rose);
+  top: 42px;
+}
+
+.servicepluginhomeeditfeature .content-H3jIjV {
+  color: var(--black);
+  top: 64px;
+}
+
+.servicepluginhomeeditfeature .content-copy-sYFEgH {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 258px;
+}
+
+.servicepluginhomeeditfeature .title-sYFEgH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 258px;
+}
+
+.servicepluginhomeeditfeature .descriptiontabletop-BQScrp {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomeeditfeature .table-guide-title-zjbhn3 {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomeeditfeature .rectangle-jOlo5D {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginhomeeditfeature .table-title-text-jOlo5D {
+  width: 258px;
+}
+
+.servicepluginhomeeditfeature .table-guide-title-xyQMDD {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .rectangle-lV0ps8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginhomeeditfeature .table-title-text-lV0ps8 {
+  width: 328px;
+}
+
+.servicepluginhomeeditfeature .table-guide-title-d9xz00 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomeeditfeature .rectangle-GxN7wf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginhomeeditfeature .table-title-text-GxN7wf {
+  width: 38px;
+}
+
+.servicepluginhomeeditfeature .web-sub_-title-UUwR8M {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.servicepluginhomeeditfeature .web-title-area-UUwR8M {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomeeditfeature .web-tab-service-plug-in_-home-screen-UUwR8M {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomeeditfeature .x3rd-depth-DNrN5H {
+  top: 0px;
+}
+
+.servicepluginhomeeditfeature .default-type-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 78px;
+}
+
+.servicepluginhomeeditfeature .shortcut-default-t-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 142px;
+}
+
+.servicepluginhomeeditfeature .brand-type-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomeeditfeature .shortcut-brand-typ-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhomeeditfeature .banner-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomeeditfeature .app-link-copy-2-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomeeditfeature .banner-_-gNQFBD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginhomeeditfeature .x3rd-depth-x1xfDQ {
+  top: 53px;
+}
+
+.servicepluginhomeeditfeature .more-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginhomeeditfeature .edit-_-feature-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.servicepluginhomeeditfeature .notifications-_-feat-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhomeeditfeature .help-guide-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginhomeeditfeature .help-guide-_-expanda-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomeeditfeature .help-guide-_-image-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.servicepluginhomeeditfeature .service-feature-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhomeeditfeature .service-feature-_-no-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhomeeditfeature .touch-area-wxMKxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomeeditfeature .lnb-service-plug-in-UUwR8M {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .rectangle-mxPLKY {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .lnb-mxPLKY {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .stacked-group-B5QddB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .web-index-title-common-copy-GsqwMH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .group-copy-GsqwMH {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .empty-copy-Qi7NVv {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .line-copy-2-Qi7NVv {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomeeditfeature .empty-copy-2-Qi7NVv {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .web-index-contents1dpeth_open_selected-GsqwMH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .web-index-contents2dpeth-copy-2-GsqwMH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .web-index-contents2dpeth-copy-GsqwMH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .web-index-contents2dpeth-copy-3-GsqwMH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .group-GsqwMH {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .empty-36NGEj {
+  top: 21px;
+}
+
+.servicepluginhomeeditfeature .empty-HYxBw3 {
+  top: 0px;
+}
+
+.servicepluginhomeeditfeature .group-copy-2-GsqwMH {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .empty-AEUZfH {
+  top: 21px;
+}
+
+.servicepluginhomeeditfeature .empty-S5lVJ4 {
+  top: 0px;
+}
+
+.servicepluginhomeeditfeature .web-index-title-common-copy-2-GsqwMH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomeeditfeature .line-B5QddB {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomeeditfeature .home-net-gui-guidelin-B5QddB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhomeeditfeature .webgnb-UUwR8M {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomeeditfeature .rectangle-3ybcxQ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomeeditfeature .background-3ybcxQ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomeeditfeature .index-3ybcxQ {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhomeeditfeature .web-index-select-twMe10 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomeeditfeature .web-index-unselect-twMe10 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomeeditfeature .web-index-unelect_main-3ybcxQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginhomeeditfeature .logo-qBxPzt {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginhomeeditfeature .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginhomeeditfeature .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}

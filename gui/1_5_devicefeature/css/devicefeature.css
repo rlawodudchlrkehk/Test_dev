@@ -1,0 +1,242 @@
+/* screen - devicefeature */
+
+.devicefeature {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeature .group-2-joxKJg {
+  background-color: transparent;
+  height: 490px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 514px;
+}
+
+.devicefeature .lnb-favorite-card-joxKJg {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeature .rectangle-fUXcaU {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeature .background-fUXcaU {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeature .stacked-group-fUXcaU {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeature .web-index-title-common-ctvNQd {
+  margin: 0;
+}
+
+.devicefeature .web-index-contents2dpeth-copy-2-ctvNQd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .web-index-contents2dpeth-copy-3-ctvNQd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .web-index-contents1dpeth_open_selected-ctvNQd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .group-copy-ctvNQd {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .empty-K0he0L {
+  top: 21px;
+}
+
+.devicefeature .empty-TCI8nq {
+  top: 0px;
+}
+
+.devicefeature .web-index-title-common-copy-ctvNQd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .group-ctvNQd {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .empty-ehnjef {
+  top: 21px;
+}
+
+.devicefeature .empty-OHw3nH {
+  top: 0px;
+}
+
+.devicefeature .web-index-title-common-D0NLtz {
+  margin: 0px 0 0 0;
+}
+
+.devicefeature .group-copy-2-ctvNQd {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .empty-rgxdb2 {
+  top: 21px;
+}
+
+.devicefeature .empty-45Saz2 {
+  top: 0px;
+}
+
+.devicefeature .web-index-title-common-copy-2-ctvNQd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeature .line-fUXcaU {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeature .home-net-gui-guidelin-fUXcaU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeature .webgnb-joxKJg {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeature .rectangle-x9oNrE {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeature .background-x9oNrE {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeature .index-x9oNrE {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeature .web-index-select-18EKtB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeature .web-index-unselect-18EKtB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeature .web-index-unelect_main-x9oNrE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeature .logo-6R2F84 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}

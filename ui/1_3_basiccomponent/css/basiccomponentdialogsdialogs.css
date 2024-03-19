@@ -1,0 +1,93 @@
+/* screen - basiccomponentdialogsdialogs */
+
+.basiccomponentdialogsdialogs {
+  background-color: var(--white);
+  height: 1455px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentdialogsdialogs .group-8 {
+  height: 653px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentdialogsdialogs .group-9 {
+  height: 913px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentdialogsdialogs .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsdialogs .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentdialogsdialogs .dialogs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 47px;
+}
+
+.basiccomponentdialogsdialogs .detail-input-popup-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 115px;
+}
+
+.basiccomponentdialogsdialogs .tablet-dialogs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 86px;
+}
+
+.basiccomponentdialogsdialogs .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

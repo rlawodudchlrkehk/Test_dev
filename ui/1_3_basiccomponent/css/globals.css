@@ -1,0 +1,535 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/6361d82109fe97a7361e7a10.6361d8222687b04364a8f2d0.DuK0QM0.hcp.png");
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  /*justify-content: center;*/
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.web-tab-basic-component_-button {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 43px;
+}
+
+.x2-buttons {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.group-button {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 86px;
+}
+
+.lnb-basic-component {
+  background-color: transparent;
+  height: 1611px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.rectangle-1 {
+  background-color: var(--concrete);
+  height: 1611px;
+  width: 320px;
+}
+
+.background-lnb-basic-component {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.rectangle-2 {
+  background-color: var(--concrete);
+  height: 1524px;
+  width: 320px;
+}
+
+.line {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.home-net-ui-guideline {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.empty-1 {
+  top: 21px;
+}
+
+.empty-2 {
+  top: 0px;
+}
+
+.empty-3 {
+  top: 21px;
+}
+
+.empty-4 {
+  top: 0px;
+}
+
+.empty-5 {
+  top: 21px;
+}
+
+.empty-6 {
+  top: 0px;
+}
+
+.web-index-contents1dpeth_close-1 {
+  top: 1391px;
+}
+
+.web-index-contents1dpeth_close-2 {
+  top: 1345px;
+}
+
+.web-index-contents1dpeth_close-3 {
+  top: 1299px;
+}
+
+.web-index-contents1dpeth_close-4 {
+  top: 1253px;
+}
+
+.web-index-title-reference-1 {
+  top: 1478px;
+}
+
+.web-index-title-reference-copy {
+  top: 1565px;
+}
+
+.web-index-title-reference-2 {
+  top: 1207px;
+}
+
+.web-index-contents1dpeth_close-5 {
+  top: 1120px;
+}
+
+.web-index-contents1dpeth_close-6 {
+  top: 1074px;
+}
+
+.web-index-contents1dpeth_close-7 {
+  top: 1028px;
+}
+
+.web-index-contents2dpeth-1 {
+  top: 982px;
+}
+
+.web-index-contents2dpeth-2 {
+  top: 936px;
+}
+
+.web-index-contents2dpeth-3 {
+  top: 890px;
+}
+
+.web-index-contents2dpeth-4 {
+  top: 844px;
+}
+
+.web-index-contents2dpeth-5 {
+  top: 798px;
+}
+
+.web-index-contents2dpeth-6 {
+  top: 752px;
+}
+
+.web-index-contents2dpeth-7 {
+  top: 706px;
+}
+
+.web-index-contents2dpeth-8 {
+  top: 614px;
+}
+
+.web-index-contents2dpeth-9 {
+  top: 660px;
+}
+
+.web-index-contents2dpeth-10 {
+  top: 568px;
+}
+
+.web-index-contents2dpeth-11 {
+  top: 522px;
+}
+
+.web-index-contents2dpeth-12 {
+  top: 476px;
+}
+
+.web-index-contents2dpeth-13 {
+  top: 430px;
+}
+
+.web-index-contents2dpeth-14 {
+  top: 384px;
+}
+
+.web-index-contents2dpeth-15 {
+  top: 338px;
+}
+
+.web-index-contents1dpeth_open_selected {
+  height: 46px;
+  left: 0px;
+  top: 292px;
+  width: 320px;
+}
+
+.web-index-contents1dpeth_close-8 {
+  top: 246px;
+}
+
+.web-index-contents1dpeth_close-9 {
+  top: 200px;
+}
+
+.web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.rectangle-3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.background-webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.index {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.web-index-select {
+  height: 28px;
+  left: 0px;
+  top: 0px;
+  width: 32px;
+}
+
+.web-index-unselect {
+  height: 22px;
+  left: 93px;
+  top: 0px;
+  width: 29px;
+}
+
+.web-index-unelect_main {
+  height: 24px;
+  left: 18px;
+  top: 20px;
+  width: 293px;
+}
+
+.logo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.empty {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.web-index {
+  background-color: transparent;
+  cursor: pointer;
+  position: absolute;
+}
+
+.web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.web-index-contents2dpeth {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.web-index-title-reference {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 313px;
+}
+
+.web-tab-basic-component_-slider {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.linear-slider {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 79px;
+}
+
+.step-slider {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 67px;
+}
+
+.group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.web-tab-basic-component_-graph {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.interaction-flow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.web-tab-basic-component_-state {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.component {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 72px;
+}
+
+.web-tab-basic-component_-list {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.list {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 23px;
+}
+
+.list-with-button-copy-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.web-tab-basic-component_-dialogs {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.graph {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 38px;
+}
+
+.graph-with-unit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}

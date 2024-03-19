@@ -1,0 +1,335 @@
+/* screen - serviceplugincctvinteractionflow */
+
+.serviceplugincctvinteractionflow {
+  background-color: var(--white);
+  height: 2118px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugincctvinteractionflow .group-2-RoBzov {
+  background-color: transparent;
+  height: 820px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.serviceplugincctvinteractionflow .group-3-RoBzov {
+  background-color: transparent;
+  height: 664px;
+  left: 420px;
+  position: absolute;
+  top: 1254px;
+  width: 1400px;
+}
+
+.serviceplugincctvinteractionflow .web-title-area-RoBzov {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.serviceplugincctvinteractionflow .web-tab-service-plug-in_cctv-RoBzov {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.serviceplugincctvinteractionflow .x3rd-depth-Lg0y8v {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugincctvinteractionflow .tab-4GklTi {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugincctvinteractionflow .card-woKh9O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugincctvinteractionflow .feature-woKh9O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.serviceplugincctvinteractionflow .interaction-flow-woKh9O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.serviceplugincctvinteractionflow .lnb-service-plug-in-RoBzov {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .rectangle-V0BTqB {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .lnb-V0BTqB {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .stacked-group-0NAjF5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .web-index-title-common-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .empty-Fh7plG {
+  top: 21px;
+}
+
+.serviceplugincctvinteractionflow .empty-RLc7y5 {
+  top: 0px;
+}
+
+.serviceplugincctvinteractionflow .web-index-contents1d-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .web-index-contents1dpeth_open_selected-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .web-index-contents2dpeth-copy-3-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .web-index-contents2dpeth-copy-2-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .web-index-contents2dpeth-copy-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .web-index-contents2dpeth-copy-4-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .empty-2v6GxU {
+  top: 21px;
+}
+
+.serviceplugincctvinteractionflow .empty-fAglj2 {
+  top: 0px;
+}
+
+.serviceplugincctvinteractionflow .group-copy-wj5e3d {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .empty-wWqZq0 {
+  top: 21px;
+}
+
+.serviceplugincctvinteractionflow .empty-1sCFQY {
+  top: 0px;
+}
+
+.serviceplugincctvinteractionflow .web-index-title-reference-copy-wj5e3d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugincctvinteractionflow .line-0NAjF5 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugincctvinteractionflow .home-net-ui-guideline-0NAjF5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.serviceplugincctvinteractionflow .webgnb-RoBzov {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugincctvinteractionflow .rectangle-t6z19P {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugincctvinteractionflow .background-t6z19P {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugincctvinteractionflow .index-t6z19P {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.serviceplugincctvinteractionflow .web-index-select-kDG90w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugincctvinteractionflow .web-index-unselect-kDG90w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugincctvinteractionflow .web-index-unelect_main-t6z19P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.serviceplugincctvinteractionflow .logo-sBH9pl {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.serviceplugincctvinteractionflow .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

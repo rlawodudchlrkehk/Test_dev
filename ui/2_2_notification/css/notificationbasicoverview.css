@@ -1,0 +1,266 @@
+/* screen - notificationbasicoverview */
+
+.notificationbasicoverview {
+  background-color: var(--white);
+  height: 1210px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationbasicoverview .web-sub_-title_w-description-Iu8aco {
+  background-color: transparent;
+  height: 114px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationbasicoverview .rectangle-2-Iu8aco {
+  background-color: transparent;
+  height: 556px;
+  left: 989px;
+  position: absolute;
+  top: 454px;
+  width: 831px;
+}
+
+.notificationbasicoverview .rectangle-Iu8aco {
+  background-color: transparent;
+  height: 321px;
+  left: 419px;
+  position: absolute;
+  top: 454px;
+  width: 437px;
+}
+
+.notificationbasicoverview .table-guide-title-Iu8aco {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 398px;
+  width: 1400px;
+}
+
+.notificationbasicoverview .web-title-area-Iu8aco {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.notificationbasicoverview .lnb-notification-Iu8aco {
+  background-color: transparent;
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationbasicoverview .rectangle-Oe9U0S {
+  background-color: var(--concrete);
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationbasicoverview .rectangle-dNskep {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationbasicoverview .stacked-group-Oe9U0S {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.notificationbasicoverview .web-index-title-common-eEGIlc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasicoverview .empty-bEdgnB {
+  top: 21px;
+}
+
+.notificationbasicoverview .empty-x9Hxux {
+  top: 0px;
+}
+
+.notificationbasicoverview .web-index-contents1dpeth_open_selected-eEGIlc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasicoverview .web-index-contents2dpeth-copy-2-eEGIlc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasicoverview .web-index-contents2dpeth-copy-eEGIlc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasicoverview .empty-EP9GH9 {
+  top: 21px;
+}
+
+.notificationbasicoverview .empty-3JSGQJ {
+  top: 0px;
+}
+
+.notificationbasicoverview .group-copy-eEGIlc {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasicoverview .empty-ifj1ZW {
+  top: 21px;
+}
+
+.notificationbasicoverview .empty-FVhYUo {
+  top: 0px;
+}
+
+.notificationbasicoverview .web-index-title-reference-copy-eEGIlc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasicoverview .line-Oe9U0S {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.notificationbasicoverview .home-net-ui-guideline-Oe9U0S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.notificationbasicoverview .webgnb-Iu8aco {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationbasicoverview .rectangle-fc9mz5 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationbasicoverview .background-fc9mz5 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationbasicoverview .index-fc9mz5 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.notificationbasicoverview .web-index-select-Uaxc20 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.notificationbasicoverview .web-index-unselect-Uaxc20 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.notificationbasicoverview .web-index-unelect_main-fc9mz5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.notificationbasicoverview .logo-5KO7VX {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

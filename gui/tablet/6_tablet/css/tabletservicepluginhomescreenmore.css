@@ -1,0 +1,953 @@
+/* screen - tabletservicepluginhomescreenmore */
+
+.tabletservicepluginhomescreenmore {
+  background-color: var(--white);
+  height: 1948px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginhomescreenmore .group-6-TTjh8b {
+  background-color: transparent;
+  height: 696px;
+  left: 420px;
+  position: absolute;
+  top: 396px;
+  width: 670px;
+}
+
+.tabletservicepluginhomescreenmore .group-copy-2-TTjh8b {
+  background-color: transparent;
+  height: 506px;
+  left: 420px;
+  position: absolute;
+  top: 1242px;
+  width: 670px;
+}
+
+.tabletservicepluginhomescreenmore .group-4-TTjh8b {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-s5Kxlj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .contents-s5Kxlj {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-text1line-XRtUzF {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-rz8FNa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .contents-rz8FNa {
+  color: var(--black);
+  width: 258px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-text1line-6neueQ {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-BcNl6x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .contents-BcNl6x {
+  color: var(--black);
+  width: 38px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-title-ezVRQm {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-NBM0XW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .table-title-text-NBM0XW {
+  width: 258px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-title-u31ure {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-UBQJd6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .table-title-text-UBQJd6 {
+  width: 328px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-title-VabH6O {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-6NqnzS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .table-title-text-6NqnzS {
+  width: 38px;
+}
+
+.tabletservicepluginhomescreenmore .group-4-copy-TTjh8b {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 1242px;
+  width: 680px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-mQKDSQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .contents-mQKDSQ {
+  color: var(--lochmara);
+  text-decoration: underline;
+  width: 328px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-text1line-gzyL5O {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-Vs5m8C {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .contents-Vs5m8C {
+  color: var(--black);
+  width: 258px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-text1line-txHEJP {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-0b5uB7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .contents-0b5uB7 {
+  color: var(--black);
+  width: 38px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-title-zLqC0j {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-bg7ewE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluginhomescreenmore .table-title-text-bg7ewE {
+  width: 258px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-title-c3iGHm {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-i9jk4g {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .table-title-text-i9jk4g {
+  width: 328px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-title-YXHWHc {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-E8hros {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluginhomescreenmore .table-title-text-E8hros {
+  width: 38px;
+}
+
+.tabletservicepluginhomescreenmore .web-sub_-title-TTjh8b {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 360px;
+}
+
+.tabletservicepluginhomescreenmore .sub-title-ix0cx8 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginhomescreenmore .web-title-area-TTjh8b {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluginhomescreenmore .web-tab-service-plug-in_-home-screen-TTjh8b {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.tabletservicepluginhomescreenmore .x3rd-depth-hssG16 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluginhomescreenmore .feature-jxcSEx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluginhomescreenmore .feature_-shortcut_-def-jxcSEx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 193px;
+}
+
+.tabletservicepluginhomescreenmore .feature_-shortcut_-bra-jxcSEx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 185px;
+}
+
+.tabletservicepluginhomescreenmore .banner_-jxcSEx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.tabletservicepluginhomescreenmore .x3rd-depth-copy-hssG16 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.tabletservicepluginhomescreenmore .more-ebvHE7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 32px;
+}
+
+.tabletservicepluginhomescreenmore .edit-_-feature-ebvHE7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.tabletservicepluginhomescreenmore .notifications-_-feat-ebvHE7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.tabletservicepluginhomescreenmore .help-guide-ebvHE7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 67px;
+}
+
+.tabletservicepluginhomescreenmore .service-feature-ebvHE7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.tabletservicepluginhomescreenmore .lnb-service-plug-in-TTjh8b {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-8LfxIH {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .lnb-8LfxIH {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .stacked-group-JtxxL7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .web-index-title-common-copy-4K3rqI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .group-xIDUTY {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .group-copy-4K3rqI {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .empty-copy-Q19wQz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .line-copy-2-Q19wQz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletservicepluginhomescreenmore .empty-copy-2-Q19wQz {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginhomescreenmore .group-vYqvOw {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .group-4K3rqI {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginhomescreenmore .empty-4KtLUP {
+  top: 21px;
+}
+
+.tabletservicepluginhomescreenmore .empty-5sHU30 {
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .group-JHGKPo {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .group-pufepr {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginhomescreenmore .empty-wfQNUx {
+  top: 21px;
+}
+
+.tabletservicepluginhomescreenmore .empty-kOIYWp {
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .group-wWjnl4 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .group-b7mTwX {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x1-depth-title-hpqspQ {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginhomescreenmore .button-PBE54A {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginhomescreenmore .group-W1yAFJ {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x1-depth-title-sn5bBC {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginhomescreenmore .button-UigdQH {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginhomescreenmore .group-vuWQSr {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x1-depth-title-M0DyfW {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginhomescreenmore .button-FThGNm {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginhomescreenmore .group-QxOeLx {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x1-depth-title-rvmOYw {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginhomescreenmore .button-g3Q8QJ {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginhomescreenmore .group-eZ3SFJ {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x1-depth-title-T1ZgcK {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginhomescreenmore .button-Q9hPM8 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginhomescreenmore .group-SqozDx {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x1-depth-title-8wxLVS {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.tabletservicepluginhomescreenmore .web-expanded-SqozDx {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.tabletservicepluginhomescreenmore .button-rI9jKM {
+  left: 1px;
+  top: -4px;
+  transform: rotate(90deg);
+}
+
+.tabletservicepluginhomescreenmore .group-yXX0fC {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-1Oo51y {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-mceOxs {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-dZVxxg {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.tabletservicepluginhomescreenmore .group-xXGfr1 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-4vYOz7 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-xNf2JW {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-ODBFVH {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-ZIwNfH {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-bwNeJo {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-b4txit {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-MMbAzk {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-ZyLc63 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-zvgmr7 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-YyeH7M {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-1DBjoY {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-w19rtk {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-fL9e1r {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-O9WegC {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-P7T66Q {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-oMg1xH {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-Kpp2xx {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-xYhaDD {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-rcnLnH {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .group-B5xQM6 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title-ysmxtv {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginhomescreenmore .line-JtxxL7 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluginhomescreenmore .home-net-gui-guidelin-JtxxL7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.tabletservicepluginhomescreenmore .webgnb-TTjh8b {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginhomescreenmore .rectangle-FjuLzz {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluginhomescreenmore .background-FjuLzz {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginhomescreenmore .index-FjuLzz {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tabletservicepluginhomescreenmore .web-index-select-MDnZAO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluginhomescreenmore .web-index-unselect-MDnZAO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluginhomescreenmore .web-index-unelect_main-FjuLzz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletservicepluginhomescreenmore .logo-DvYLF6 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.tabletservicepluginhomescreenmore .contents {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.tabletservicepluginhomescreenmore .descriptiontabletop {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluginhomescreenmore .group-3 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginhomescreenmore .table-guide-text2line {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluginhomescreenmore .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginhomescreenmore .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

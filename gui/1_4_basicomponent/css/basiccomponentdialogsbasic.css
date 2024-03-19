@@ -1,0 +1,1941 @@
+/* screen - basiccomponentdialogsbasic */
+
+.basiccomponentdialogsbasic {
+  background-color: var(--white);
+  height: 2151px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .group-13-OQG5EQ {
+  background-color: transparent;
+  height: 428px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .refer-to-androi-O6xTOC {
+  top: 388px;
+}
+
+.basiccomponentdialogsbasic .group-O6xTOC {
+  background-color: transparent;
+  height: 378px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-2-wvrTxl {
+  height: 166px;
+  position: absolute;
+  top: 56px;
+}
+
+.tableguidetext1line81 {
+  background-color: transparent;
+  height: 22.29%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line81 .background-IxH3yH {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line81 .rectangle-IxH3yH {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line81 .contents-IxH3yH {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-0iM1b6 {
+  height: 155px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-3xn6K3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .group-3xn6K3 {
+  background-color: transparent;
+  height: 144px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-whrU70 {
+  color: var(--black);
+  height: 80px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-xUpyeP {
+  color: var(--fuscous-gray);
+  height: 40px;
+  top: 104px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .title-whrU70 {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .rectangle-g9RIIU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .group-g9RIIU {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .content-qOx85U {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .title-qOx85U {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-3-wvrTxl {
+  height: 146px;
+  top: 232px;
+}
+
+.tableguidetext1line82 {
+  background-color: transparent;
+  height: 25.34%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line82 .background-Zuul3p {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line82 .rectangle-Zuul3p {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line82 .contents-Zuul3p {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-pC7jbL {
+  height: 135px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-UexBMl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .group-UexBMl {
+  background-color: transparent;
+  height: 124px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-dwErRN {
+  color: var(--black);
+  height: 60px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-WbAzk5 {
+  color: var(--fuscous-gray);
+  height: 40px;
+  top: 84px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .title-dwErRN {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .rectangle-8asnq6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .group-8asnq6 {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .content-OSEdSA {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .title-OSEdSA {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-y4IuVs {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-KF7ma4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-KF7ma4 {
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-ooou2s {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .rectangle-sMrrgy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-sMrrgy {
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-JCDGUr {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-1euImR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-1euImR {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .group-6-OQG5EQ {
+  background-color: transparent;
+  height: 190px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.basiccomponentdialogsbasic .group-7-OQG5EQ {
+  background-color: transparent;
+  height: 336px;
+  left: 365px;
+  position: absolute;
+  top: 681px;
+  width: 655px;
+}
+
+.basiccomponentdialogsbasic .group-3-copy-4-OQG5EQ {
+  height: 116px;
+  top: 870px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-3m1cdG {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-Gm5qy7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-Gm5qy7 {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-gx9dFO {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-lVxSlx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-lVxSlx {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .rectangle-P4Rmwt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-P4Rmwt {
+  width: 94px;
+}
+
+.basiccomponentdialogsbasic .rectangle-SrE7Fq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-SrE7Fq {
+  width: 178px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-q7p1BT {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-tzj4he {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-tzj4he {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .group-5-QszWCg {
+  height: 60px;
+}
+
+.basiccomponentdialogsbasic .styletable1line_-color-copy-vEhoGq {
+  position: relative;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-jfDhSh {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-5NFm4h {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .contents-5NFm4h {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-9X7NF1 {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-YdWNMz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .contents-YdWNMz {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-SSXdu2 {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .rectangle-2UjiGi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .contents-2UjiGi {
+  width: 88px;
+}
+
+.basiccomponentdialogsbasic .rectangle-ZqkUjK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .contents-ZqkUjK {
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-S6phjx {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-S5Ldnh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .contents-S5Ldnh {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .web-sub_-title-OQG5EQ {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentdialogsbasic .sub-title-erxZmL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .group-12-OQG5EQ {
+  background-color: transparent;
+  height: 328px;
+  left: 400px;
+  position: absolute;
+  top: 1167px;
+  width: 690px;
+}
+
+.basiccomponentdialogsbasic .group-OQG5EQ {
+  background-color: transparent;
+  height: 428px;
+  left: 1140px;
+  position: absolute;
+  top: 1167px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-2-bRVXPi {
+  height: 166px;
+  position: absolute;
+  top: 56px;
+}
+
+.tableguidetext1line83 {
+  background-color: transparent;
+  height: 22.29%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line83 .background-hnPyqI {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line83 .rectangle-hnPyqI {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line83 .contents-hnPyqI {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-4QsSFD {
+  height: 155px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-fxu7Ai {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .group-fxu7Ai {
+  background-color: transparent;
+  height: 144px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-nJwtHp {
+  color: var(--black);
+  height: 80px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-RSWYNx {
+  color: var(--fuscous-gray);
+  height: 40px;
+  top: 104px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .title-nJwtHp {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .rectangle-vEoNOv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .group-vEoNOv {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .content-v4hBDC {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .title-v4hBDC {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-3-bRVXPi {
+  height: 59px;
+  top: 299px;
+}
+
+.tableguidetext1line84 {
+  background-color: transparent;
+  height: 62.71%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line84 .background-wfD0e2 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line84 .rectangle-wfD0e2 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line84 .contents-wfD0e2 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line148 {
+  background-color: transparent;
+  height: 62.71%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line148 .background-2GFrYQ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line148 .rectangle-2GFrYQ {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line148 .contents-2GFrYQ {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text2line_m-4eVzkx {
+  cursor: pointer;
+}
+
+.basiccomponentdialogsbasic .rectangle-JKvgst {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .group-JKvgst {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .content-jBmdmx {
+  color: var(--lochmara);
+  height: 20px;
+  text-decoration: underline;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .title-jBmdmx {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .refer-to-androi-2-bRVXPi {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 388px;
+  width: 588px;
+}
+
+.basiccomponentdialogsbasic .refer-to-androi-vp1Sf7 {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .group-bRVXPi {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 232px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-2-LY4f9E {
+  height: 57px;
+  position: relative;
+  top: 0px;
+}
+
+.tableguidetext1line85 {
+  background-color: transparent;
+  height: 64.91%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line85 .background-Ov93PH {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line85 .rectangle-Ov93PH {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line85 .contents-Ov93PH {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line149 {
+  background-color: transparent;
+  height: 64.91%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line149 .background-Aidrhp {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line149 .rectangle-Aidrhp {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line149 .contents-Aidrhp {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem52 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem52 .background-sHf5uL {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem52 .rectangle-sHf5uL {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem52 .contents-sHf5uL {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-vho7ew {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-FuGW5s {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-FuGW5s {
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-IYETgO {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .rectangle-igqM3h {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-igqM3h {
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-JOPZX5 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-g1142v {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-g1142v {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .group-8-OQG5EQ {
+  background-color: transparent;
+  height: 115px;
+  left: 420px;
+  position: absolute;
+  top: 1595px;
+  width: 440px;
+}
+
+.basiccomponentdialogsbasic .group-11-OQG5EQ {
+  background-color: transparent;
+  height: 55px;
+  left: 419px;
+  position: absolute;
+  top: 1810px;
+  width: 80px;
+}
+
+.basiccomponentdialogsbasic .group-3-copy-4-1gPHIx {
+  height: 256px;
+  top: 1695px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-xNzWmh {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-pyZPG7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-pyZPG7 {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-a7Bn2g {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-BG2Y4k {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-BG2Y4k {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .rectangle-7fwx9x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-7fwx9x {
+  width: 94px;
+}
+
+.basiccomponentdialogsbasic .rectangle-KSsOxQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-KSsOxQ {
+  width: 178px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-VQae6s {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-K6Fw31 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-K6Fw31 {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .group-5-SUvD8R {
+  height: 200px;
+}
+
+.basiccomponentdialogsbasic .styletable1line_-color-copy-lNvhpx {
+  position: absolute;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-FURPCO {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-9Fw3MV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .contents-9Fw3MV {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-ol6W5a {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-qGGV6D {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .contents-qGGV6D {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-3HDmXF {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .rectangle-XmDS87 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .contents-XmDS87 {
+  width: 88px;
+}
+
+.basiccomponentdialogsbasic .rectangle-IxUZYB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .contents-IxUZYB {
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-dkf1lD {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-ObD01x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .contents-ObD01x {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .styletable1line_-color-copy-2-lNvhpx {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 70px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-d4wxSD {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-PNd0jf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .contents-PNd0jf {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-nFwMcz {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-J9HuWU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .contents-J9HuWU {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-mQmUyu {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .rectangle-QNG5Fa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .contents-QNG5Fa {
+  width: 88px;
+}
+
+.basiccomponentdialogsbasic .rectangle-RiWcEF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .contents-RiWcEF {
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-eMqss0 {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-3QxLJw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .contents-3QxLJw {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .styletable1line_-color-copy-3-lNvhpx {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 140px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-ofGHdJ {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-q7XNL5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .contents-q7XNL5 {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-guknZg {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-GW1D4B {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .contents-GW1D4B {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-Jc0f3H {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .rectangle-pfuKeC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .contents-pfuKeC {
+  width: 88px;
+}
+
+.basiccomponentdialogsbasic .rectangle-rsayg5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .contents-rsayg5 {
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-D9evVx {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-xaNwax {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .contents-xaNwax {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .web-title-area-OQG5EQ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsbasic .web-tab-service-feature_-basic-layout-OQG5EQ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentdialogsbasic .x3rd-depth-GSiMFx {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentdialogsbasic .tab-GSiMFx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .basic-iwBxeh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentdialogsbasic .lnb-favorite-card-OQG5EQ {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .rectangle-nxVlnF {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .background-nxVlnF {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .stacked-group-nxVlnF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-ZQfb0R {
+  margin: 0;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-2-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-14-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-10-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-6-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-11-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-7-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-4-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-8-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-9-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-5-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-3-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-12-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-13-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-15-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-contents1dpeth_open_selected-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-copy-ZQfb0R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .empty-sfM7Ux {
+  top: 21px;
+}
+
+.basiccomponentdialogsbasic .empty-yL2Uoz {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-copy-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-ZQfb0R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .empty-xxXdvZ {
+  top: 21px;
+}
+
+.basiccomponentdialogsbasic .empty-1MRhw6 {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-JMfKOx {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentdialogsbasic .group-copy-2-ZQfb0R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .empty-jaZyXZ {
+  top: 21px;
+}
+
+.basiccomponentdialogsbasic .empty-1OCE3z {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-copy-2-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .line-nxVlnF {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentdialogsbasic .home-net-gui-guidelin-nxVlnF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentdialogsbasic .webgnb-OQG5EQ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .rectangle-mHFJCr {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .background-mHFJCr {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .index-mHFJCr {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .web-index-select-v4zROE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentdialogsbasic .web-index-unselect-v4zROE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentdialogsbasic .web-index-unelect_main-mHFJCr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentdialogsbasic .logo-PIIJfJ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentdialogsbasic .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentdialogsbasic .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponentdialogsbasic .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-2 {
+  background-color: transparent;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-3-copy-4 {
+  background-color: transparent;
+  left: 1140px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .refer-to-androi {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .styletable1line_-color-copy {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentdialogsbasic .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

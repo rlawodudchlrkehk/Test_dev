@@ -1,0 +1,34 @@
+/* screen - tabletoverviewindicatorbar */
+
+.tabletoverviewindicatorbar {
+  background-color: var(--white);
+  height: 2351px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletoverviewindicatorbar .group-12 {
+  background-color: transparent;
+  height: 1867px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletoverviewindicatorbar .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletoverviewindicatorbar .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

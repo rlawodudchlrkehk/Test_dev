@@ -1,0 +1,240 @@
+/* screen - referencemain */
+
+.referencemain {
+  background-color: #ffffff;
+  height: 1158px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.referencemain .cover-X94S7s {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 852px;
+}
+
+.lnb2 {
+  background-color: transparent;
+  height: 937px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.lnb2 .rectangle-kYxaL8 {
+  background-color: #f2f2f2;
+  height: 937px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.lnb12 {
+  background-color: transparent;
+  height: 937px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.lnb12 .rectangle-WRKUfn {
+  background-color: #f2f2f2;
+  height: 90.72%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup2 .web-index-title-common-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .empty-xwsxPD {
+  bottom: 0px;
+}
+
+.stackedgroup2 .empty-ijbXHj {
+  top: 0px;
+}
+
+.stackedgroup2 .web-index-contents1dpeth_open_selected-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .empty-3nqsFg {
+  bottom: 0px;
+}
+
+.stackedgroup2 .empty-Y1uHl5 {
+  top: 0px;
+}
+
+.stackedgroup2 .group-copy-EHSxTt {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .empty-K690TO {
+  bottom: 0px;
+}
+
+.stackedgroup2 .empty-6Nhabs {
+  top: 0px;
+}
+
+.stackedgroup2 .web-index-title-reference-copy-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.lnb12 .line-WRKUfn {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.lnb12 .home-net-ui-guideline-WRKUfn {
+  background-color: transparent;
+  color: #252525;
+  cursor: pointer;
+  font-family: 'SamsungOne-700', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.referencemain .webgnb-X94S7s {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.referencemain .rectangle-2ZpHPe {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.referencemain .background-2ZpHPe {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.referencemain .index-2ZpHPe {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.referencemain .web-index-select-FjLFzx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.referencemain .web-index-unselect-FjLFzx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.referencemain .web-index-unelect_main-2ZpHPe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.referencemain .logo-Nx4Txo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

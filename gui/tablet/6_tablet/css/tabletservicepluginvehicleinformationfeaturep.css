@@ -1,0 +1,727 @@
+/* screen - tabletservicepluginvehicleinformationfeaturep */
+
+.tabletservicepluginvehicleinformationfeaturep {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-7-2xgNhu {
+  background-color: transparent;
+  height: 548px;
+  left: 419px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-4-2xgNhu {
+  background-color: transparent;
+  height: 180px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-3-681s0a {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text2line-idSoJb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text1line-idSoJb {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text1line-Ak2GaH {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-3-copy-681s0a {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 123px;
+  width: 680px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text2line-copy-kzRWLe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text1line-copy-kzRWLe {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text1line-copy-2-kzRWLe {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .descriptiontabletop-681s0a {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-sub_-title-2xgNhu {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 670px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .sub-title-xNw1XT {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-title-area-2xgNhu {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-tab-service-plug-in_-home-screen-2xgNhu {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x3rd-depth-MJOkdM {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .tab-6uE7Es {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .feature-xnO6Cy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .feature-480-w-67-xnO6Cy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 195px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .vehicle-information-xnO6Cy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 336px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .lnb-service-plug-in-2xgNhu {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .rectangle-x0Cw8Z {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .lnb-x0Cw8Z {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .stacked-group-ec7gwi {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-index-title-common-copy-jKs4f1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-K1m4r1 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-copy-jKs4f1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .empty-copy-NeadJy {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .line-copy-2-NeadJy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .empty-copy-2-NeadJy {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-Apwbcz {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-jKs4f1 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .empty-2LD94W {
+  top: 21px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .empty-9FMQcA {
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-QV8D6I {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-JlRfmi {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .empty-A80fSw {
+  top: 21px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .empty-c4YPOI {
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-vcoA47 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-d6b4f0 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x1-depth-title-HwwIip {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .button-JNoZ6f {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-dQ1rbv {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x1-depth-title-0eW1JU {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .button-QxOheZ {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-MrmDTh {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x1-depth-title-fxUpSQ {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .button-k6dtBU {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-JHrasy {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x1-depth-title-yZTSys {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .button-9Y5zMG {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-2F6WZo {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x1-depth-title-hhvjx0 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .button-QA8Ol2 {
+  left: -2px;
+  top: -2px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-yFBYah {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x1-depth-title-lqPvIt {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-expanded-yFBYah {
+  background-color: transparent;
+  height: 5px;
+  left: 27px;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .button-ssIUrt {
+  left: 1px;
+  top: -4px;
+  transform: rotate(90deg);
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-6PQxLo {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-mERjqh {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-12F8W5 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-YBxwr1 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-FWhHiY {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-zBvuSj {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-XKQXYu {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-xy6lgB {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-h1x47r {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-pjimqp {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-xUar3m {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-DIveWb {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-FqVAiv {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-TZE2JC {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-6l3sxG {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-TJgYl1 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-wbIO5T {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-2WukuK {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-pRZIXR {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-mRrtoc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-Kx5F1B {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-HdOzUI {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-N5ZJr8 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-ys3HxX {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .group-dCe90E {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title-qnw6kQ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .line-ec7gwi {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .home-net-gui-guidelin-ec7gwi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .webgnb-2xgNhu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .rectangle-U4wPFN {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .background-U4wPFN {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .index-U4wPFN {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-index-select-mmHtSq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-index-unselect-mmHtSq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .web-index-unelect_main-U4wPFN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .logo-6nRZl1 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .table-guide-text1line {
+  background-color: transparent;
+  height: 37px;
+  position: absolute;
+  top: 0px;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluginvehicleinformationfeaturep .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

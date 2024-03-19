@@ -1,0 +1,936 @@
+/* screen - devicepluginlightswitchtype */
+
+.devicepluginlightswitchtype {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1358px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginlightswitchtype .group-CCwjtF {
+  background-color: transparent;
+  height: 816px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.devicepluginlightswitchtype .group-copy-CCwjtF {
+  background-color: transparent;
+  height: 488px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .group-2-7gitxK {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-O9wfYi {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-wk7xez {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .contents-wk7xez {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-EhVqxa {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-mSds8T {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .contents-mSds8T {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-O9wfYi {
+  height: 31px;
+}
+
+.devicepluginlightswitchtype .rectangle-fcXOA2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .contents-fcXOA2 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .descriptiontabletop-7gitxK {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-title-dWDo94 {
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-Ix4ZUT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .table-title-text-Ix4ZUT {
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-title-jNx8tb {
+  left: 60px;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .rectangle-Zp3myf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .table-title-text-Zp3myf {
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .table-guide-title-ooI8uW {
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-IP6bU3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .table-title-text-IP6bU3 {
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .group-2-copy-7gitxK {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-q71S6C {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-FgckUH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .contents-FgckUH {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-ar97KA {
+  height: 113px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-u2HbkG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .group-u2HbkG {
+  background-color: transparent;
+  height: 102px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .content-082XoJ {
+  height: 80px;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .title-082XoJ {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-q71S6C {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginlightswitchtype .rectangle-iRKI4a {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .contents-iRKI4a {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-copy-q71S6C {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 37px;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .rectangle-kGz6ii {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .group-kGz6ii {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .content-WTKxDQ {
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .title-WTKxDQ {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .group-2-copy-3-7gitxK {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 232px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-oQ1PJ3 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-7FJJAq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .contents-7FJJAq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-ZrgYyI {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-gxvFL9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .contents-gxvFL9 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-oQ1PJ3 {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginlightswitchtype .rectangle-gcQ5xM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .contents-gcQ5xM {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .group-2-copy-4-7gitxK {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 279px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-21x77r {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-Htalbb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .contents-Htalbb {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-EePxfW {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-dxpGMe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .contents-dxpGMe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-21x77r {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginlightswitchtype .rectangle-gr8xLN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .contents-gr8xLN {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .group-2-copy-5-7gitxK {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 326px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-a7uQ0I {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-W5xmTa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .contents-W5xmTa {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-3f5SPo {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-xIUPE1 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .contents-xIUPE1 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-a7uQ0I {
+  cursor: pointer;
+  height: 51px;
+}
+
+.devicepluginlightswitchtype .rectangle-NEH5ky {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .contents-NEH5ky {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .group-2-copy-2-7gitxK {
+  background-color: transparent;
+  height: 95px;
+  left: 0px;
+  position: absolute;
+  top: 393px;
+  width: 680px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-2SOqyd {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .rectangle-BEbyee {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginlightswitchtype .contents-BEbyee {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line-50FiP6 {
+  height: 73px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .rectangle-moeJyu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginlightswitchtype .group-moeJyu {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .content-Kka4fG {
+  height: 40px;
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .title-Kka4fG {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m-2SOqyd {
+  height: 53px;
+}
+
+.devicepluginlightswitchtype .rectangle-DEb8xw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .group-DEb8xw {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .content-JkS1BI {
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .title-JkS1BI {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicepluginlightswitchtype .descriptiontable2line-2SOqyd {
+  background-color: transparent;
+  height: 36px;
+  left: 59px;
+  position: absolute;
+  top: 59px;
+  width: 94px;
+}
+
+.devicepluginlightswitchtype .web-sub_-title-CCwjtF {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.devicepluginlightswitchtype .sub-title-rTiA5x {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.devicepluginlightswitchtype .web-title-area-CCwjtF {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginlightswitchtype .web-tab-device-plug-CCwjtF {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginlightswitchtype .x3rd-depth-nQxbBd {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginlightswitchtype .tab-uE7sk2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginlightswitchtype .switch-type-LHNvfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 73px;
+}
+
+.devicepluginlightswitchtype .dimmer-type-LHNvfr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 80px;
+}
+
+.devicepluginlightswitchtype .lnb-device-plug-in-CCwjtF {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .rectangle-PD6css {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .background-PD6css {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .stacked-group-PD6css {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .web-index-title-common-DzDCUQ {
+  margin: 0;
+}
+
+.devicepluginlightswitchtype .group-copy-DzDCUQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .empty-5cWz7C {
+  top: 21px;
+}
+
+.devicepluginlightswitchtype .empty-b1cjxf {
+  top: 0px;
+}
+
+.devicepluginlightswitchtype .web-index-title-common-copy-DzDCUQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .web-index-contents1dpeth_open_selected-DzDCUQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .group-DzDCUQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .empty-P7xZZ6 {
+  top: 21px;
+}
+
+.devicepluginlightswitchtype .empty-E4Rzdo {
+  top: 0px;
+}
+
+.devicepluginlightswitchtype .web-index-title-common-34Dltj {
+  margin: 0px 0 0 0;
+}
+
+.devicepluginlightswitchtype .group-copy-2-DzDCUQ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .empty-075WG9 {
+  top: 21px;
+}
+
+.devicepluginlightswitchtype .empty-CPU8Zj {
+  top: 0px;
+}
+
+.devicepluginlightswitchtype .web-index-title-common-copy-2-DzDCUQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginlightswitchtype .line-PD6css {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginlightswitchtype .home-net-gui-guidelin-PD6css {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginlightswitchtype .webgnb-CCwjtF {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginlightswitchtype .rectangle-JShvrI {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginlightswitchtype .background-JShvrI {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginlightswitchtype .index-JShvrI {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginlightswitchtype .web-index-select-WTo2HY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginlightswitchtype .web-index-unselect-WTo2HY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginlightswitchtype .web-index-unelect_main-JShvrI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicepluginlightswitchtype .logo-YODrMy {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicepluginlightswitchtype .content {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+}
+
+.devicepluginlightswitchtype .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.devicepluginlightswitchtype .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginlightswitchtype .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginlightswitchtype .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginlightswitchtype .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

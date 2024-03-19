@@ -1,0 +1,564 @@
+/* screen - deviceplugindeviceplugindefaultplugin */
+
+.deviceplugindeviceplugindefaultplugin {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1477px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugindeviceplugindefaultplugin .group-Ww2i7A {
+  background-color: transparent;
+  height: 993px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-title-area-Ww2i7A {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-tab-device-plug-in_-device-plug-in-Ww2i7A {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .x3rd-depth-o0z75J {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .default-plug-in-xNd7DM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 333px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.deviceplugindeviceplugindefaultplugin .basic-layout-xNd7DM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 208px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+
+.deviceplugindeviceplugindefaultplugin .overview-xNd7DM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 58px;
+}
+
+.deviceplugindeviceplugindefaultplugin .lnb-device-plug-in-Ww2i7A {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .rectangle-dx5aZd {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .stacked-group-dx5aZd {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-title-common-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-sf5cBi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-e6A7md {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-kqB6Pt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-KGE9Lf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-278s7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .group-UxLMxc {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-SYX1sF {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .line-copy-SYX1sF {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-usFD35 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-title-reference-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-a7wpwu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-Osjij2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_open_selected-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-sf5cBi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-e6A7md {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-kqB6Pt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-KGE9Lf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-278s7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-a7wpwu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-Osjij2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-lIDLgk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-KM0SBY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-vYqkmp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-EtAsdw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-copy-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents2dpeth-IxEQTn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-contents1dpeth_close-lIDLgk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .group-sf5cBi {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-pWLWTS {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .line-copy-pWLWTS {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-mAVWpC {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-title-reference-sf5cBi {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugindeviceplugindefaultplugin .group-copy-UxLMxc {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-copy-xcEayu {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .line-copy-2-xcEayu {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-copy-2-xcEayu {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-title-reference-copy-UxLMxc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugindeviceplugindefaultplugin .line-dx5aZd {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugindefaultplugin .home-net-ui-guideline-dx5aZd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.deviceplugindeviceplugindefaultplugin .webgnb-Ww2i7A {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugindefaultplugin .rectangle-1eoBye {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugindefaultplugin .background-1eoBye {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugindefaultplugin .index-1eoBye {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-select-YYLtt5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-unselect-YYLtt5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-unelect_main-1eoBye {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.deviceplugindeviceplugindefaultplugin .logo-CYDnw2 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

@@ -1,0 +1,52 @@
+/* screen - basicinteractionplugininformationinteractionflow */
+
+.basicinteractionplugininformationinteractionflow {
+  background-color: var(--white);
+  height: 2248px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionplugininformationinteractionflow .group-5 {
+  background-color: transparent;
+  height: 1764px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basicinteractionplugininformationinteractionflow .key-screen {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 66px;
+}
+
+.basicinteractionplugininformationinteractionflow .interaction-flow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.basicinteractionplugininformationinteractionflow .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

@@ -1,0 +1,27 @@
+/* screen - overviewintroduction */
+
+.overviewintroduction {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewintroduction .group-2-overviewintroduction {
+  background-color: transparent;
+  height: 229px;
+  left: 320px;
+  position: absolute;
+  top: 234px;
+  width: 1600px;
+}
+
+.overviewintroduction .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}

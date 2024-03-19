@@ -1,0 +1,52 @@
+/* screen - basicinteractionerrorcasenetworkdisconnection */
+
+.basicinteractionerrorcasenetworkdisconnection {
+  background-color: var(--white);
+  height: 2354px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionerrorcasenetworkdisconnection .group-4 {
+  background-color: transparent;
+  height: 1870px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basicinteractionerrorcasenetworkdisconnection .network-disconnectio {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.basicinteractionerrorcasenetworkdisconnection .server-cloud-not-res {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 164px;
+}
+
+.basicinteractionerrorcasenetworkdisconnection .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcasenetworkdisconnection .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

@@ -1,0 +1,395 @@
+/* screen - overviewreferto */
+
+.overviewreferto {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewreferto .group-2-Twsat4 {
+  background-color: transparent;
+  height: 244px;
+  left: 420px;
+  position: absolute;
+  top: 392px;
+  width: 1334px;
+}
+
+.overviewreferto .title-bcsNxU {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 1334px;
+}
+
+.overviewreferto .title-copy-bcsNxU {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 124px;
+  width: 1334px;
+}
+
+.overviewreferto .web-sub_-title-Twsat4 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.overviewreferto .sub-title-6UKBx8 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewreferto .web-title-area-Twsat4 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewreferto .web-tab-overview_touch-area-Twsat4 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewreferto .x3rd-depth-PyxqXQ {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewreferto .tab-PyxqXQ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewreferto .refer-to-2PiLa4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 49px;
+}
+
+.overviewreferto .lnb-favorite-card-Twsat4 {
+  background-color: transparent;
+  height: 1168px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewreferto .rectangle-xbcx36 {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewreferto .background-xbcx36 {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewreferto .stacked-group-xbcx36 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewreferto .web-index-title-common-sC58Nw {
+  margin: 0;
+}
+
+.overviewreferto .web-index-contents1dpeth_close-copy-2-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .web-index-contents1dpeth_close-copy-3-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .web-index-contents1dpeth_close-copy-4-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .web-index-contents1dpeth_close-copy-5-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .web-index-contents1dpeth_close-copy-6-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .web-index-contents1dpeth_close-copy-7-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .web-index-contents1dpeth_open_selected-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .group-copy-sC58Nw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .empty-0pWY9a {
+  top: 21px;
+}
+
+.overviewreferto .empty-W1OpjI {
+  top: 0px;
+}
+
+.overviewreferto .web-index-title-common-copy-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .group-sC58Nw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .empty-ixV0BZ {
+  top: 21px;
+}
+
+.overviewreferto .empty-y5fY9S {
+  top: 0px;
+}
+
+.overviewreferto .web-index-title-common-MGLnai {
+  margin: 0px 0 0 0;
+}
+
+.overviewreferto .group-copy-2-sC58Nw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .empty-6289yc {
+  top: 21px;
+}
+
+.overviewreferto .empty-RtKLhu {
+  top: 0px;
+}
+
+.overviewreferto .web-index-title-common-copy-2-sC58Nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewreferto .line-xbcx36 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewreferto .home-net-gui-guidelin-xbcx36 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewreferto .webgnb-Twsat4 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewreferto .rectangle-ClNlxf {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewreferto .background-ClNlxf {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewreferto .index-ClNlxf {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewreferto .web-index-select-EKN2Dy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewreferto .web-index-unselect-EKN2Dy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewreferto .web-index-unelect_main-ClNlxf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.overviewreferto .logo-BKxHOv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.overviewreferto .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}

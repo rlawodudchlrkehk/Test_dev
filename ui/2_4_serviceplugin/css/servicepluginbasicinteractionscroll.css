@@ -1,0 +1,353 @@
+/* screen - servicepluginbasicinteractionscroll */
+
+.servicepluginbasicinteractionscroll {
+  background-color: var(--white);
+  height: 1260px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionscroll .group-7-FnjxMJ {
+  background-color: transparent;
+  height: 776px;
+  left: 320px;
+  position: absolute;
+  top: 281px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionscroll .web-title-area-FnjxMJ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionscroll .web-tab-service-plug-FnjxMJ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionscroll .x3rd-depth-8HRzcA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionscroll .tab-u6xd8R {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginbasicinteractionscroll .touch-area-vMHhM8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 67px;
+}
+
+.servicepluginbasicinteractionscroll .interaction-history-vMHhM8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 114px;
+}
+
+.servicepluginbasicinteractionscroll .scroll-vMHhM8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.servicepluginbasicinteractionscroll .more-vMHhM8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginbasicinteractionscroll .menu-vMHhM8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginbasicinteractionscroll .loading-vMHhM8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.servicepluginbasicinteractionscroll .lnb-service-plug-in-FnjxMJ {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .rectangle-xIu5ar {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .lnb-xIu5ar {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .stacked-group-rwzbS8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-title-common-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .empty-f1wrnj {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionscroll .empty-cMXYSx {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-contents1d-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-contents1dpeth_open_selected-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-contents2dpeth-copy-3-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-contents2dpeth-copy-2-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-contents2dpeth-copy-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-contents2dpeth-copy-4-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .empty-c29qhV {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionscroll .empty-8ya4dR {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionscroll .group-copy-ewqsuW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .empty-jHiQOz {
+  top: 21px;
+}
+
+.servicepluginbasicinteractionscroll .empty-Q9G4U1 {
+  top: 0px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-title-reference-copy-ewqsuW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionscroll .line-rwzbS8 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginbasicinteractionscroll .home-net-ui-guideline-rwzbS8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginbasicinteractionscroll .webgnb-FnjxMJ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionscroll .rectangle-rs9ooy {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionscroll .background-rs9ooy {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionscroll .index-rs9ooy {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-select-pkBCNR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-unselect-pkBCNR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginbasicinteractionscroll .web-index-unelect_main-rs9ooy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractionscroll .logo-G6n94c {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginbasicinteractionscroll .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

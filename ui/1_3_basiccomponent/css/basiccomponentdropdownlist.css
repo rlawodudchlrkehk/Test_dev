@@ -1,0 +1,51 @@
+/* screen - basiccomponentdropdownlist */
+
+.basiccomponentdropdownlist {
+  background-color: var(--white);
+  height: 1686px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentdropdownlist .group-5 {
+  height: 393px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlist .group-15 {
+  height: 566px;
+  left: 420px;
+  top: 920px;
+  width: 1400px;
+}
+
+.basiccomponentdropdownlist .group-14 {
+  height: 428px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentdropdownlist .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentdropdownlist .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentdropdownlist .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

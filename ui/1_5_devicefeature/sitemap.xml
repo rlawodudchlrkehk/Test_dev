@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeature</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeatureadditionalinformation</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturebasiclayout</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilities</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesgroupingcard</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitieslinearslider</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesstepgrade</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesvalue</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesvalueswitchslider</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecontentsstructure</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeature</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturebuttons1</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturebuttons2</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturedropdown</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturestate</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturestatus</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturetoggle</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturetoggleadjust</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturetypetypes</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeatureofflinebasic</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeatureofflineinteraction</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesvalue.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturetoggleadjust.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitieslinearslider.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturestatus.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturetypetypes.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturestate.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturetoggle.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeatureofflinebasic.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturedropdown.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecontentsstructure.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeatureadditionalinformation.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesvalueswitchslider.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturebasiclayout.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturebuttons2.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesstepgrade.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilitiesgroupingcard.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeature.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturecapabilities.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeaturebuttons1.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeaturemaindevicefeature.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/devicefeatureofflineinteraction.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/styleguide.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+<url>
+  <loc>http://floral-sun-7508.animaapp.io/globals.css</loc>
+  <lastmod>2023-01-13</lastmod>
+
+</url>
+
+</urlset>

@@ -1,0 +1,65 @@
+/* screen - basiccomponenttab */
+
+.basiccomponenttab {
+  background-color: var(--white);
+  height: 3420px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttab .group-4 {
+  height: 433px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponenttab .group-8 {
+  height: 550px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponenttab .group-9 {
+  height: 548px;
+  left: 414px;
+  top: 1042px;
+  width: 1406px;
+}
+
+.basiccomponenttab .group-11 {
+  height: 593px;
+  left: 420px;
+  top: 1740px;
+  width: 1400px;
+}
+
+.basiccomponenttab .group-12 {
+  height: 737px;
+  left: 420px;
+  top: 2483px;
+  width: 1400px;
+}
+
+.basiccomponenttab .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponenttab .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponenttab .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

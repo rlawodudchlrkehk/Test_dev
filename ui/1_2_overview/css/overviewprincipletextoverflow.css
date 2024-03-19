@@ -1,0 +1,72 @@
+/* screen - overviewprincipletextoverflow */
+
+.overviewprincipletextoverflow {
+  background-color: var(--white);
+  height: 1102px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewprincipletextoverflow .group-2-overviewprincipletextoverflow {
+  background-color: transparent;
+  height: 618px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.overviewprincipletextoverflow .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewprincipletextoverflow .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewprincipletextoverflow .text-overflow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 84px;
+}
+
+.overviewprincipletextoverflow .word-break {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 73px;
+}
+
+.overviewprincipletextoverflow .case-sensitive {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 90px;
+}
+
+.overviewprincipletextoverflow .date-and-time-inform {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}

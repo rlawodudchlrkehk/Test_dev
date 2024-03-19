@@ -1,0 +1,318 @@
+/* screen - c2captserviceconnectiononboardingstartpage */
+
+.c2captserviceconnectiononboardingstartpage {
+  background-color: var(--white);
+  height: 1536px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingstartpage .group-16-1jJHp0 {
+  background-color: transparent;
+  height: 994px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-sub_-title-1jJHp0 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-title-area-1jJHp0 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-tabc2-c-connector_-1jJHp0 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingstartpage .x3rd-depth-eYh5uI {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingstartpage .tab-AHnE0j {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingstartpage .overview-Efyban {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 56px;
+}
+
+.c2captserviceconnectiononboardingstartpage .onboarding-start-p-Efyban {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 150px;
+}
+
+.c2captserviceconnectiononboardingstartpage .onboarding-Efyban {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 191px;
+}
+
+.c2captserviceconnectiononboardingstartpage .onboarding-welcome-Efyban {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 169px;
+}
+
+.c2captserviceconnectiononboardingstartpage .interaction-flow-Efyban {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.c2captserviceconnectiononboardingstartpage .lnbc2-c-connector_1-1jJHp0 {
+  background-color: transparent;
+  height: 803px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .rectangle-4ae6Zo {
+  background-color: var(--concrete);
+  height: 803px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .stacked-group-4ae6Zo {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-title-common-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .empty-1FvPih {
+  top: 21px;
+}
+
+.c2captserviceconnectiononboardingstartpage .empty-aPins1 {
+  top: 0px;
+}
+
+.c2captserviceconnectiononboardingstartpage .empty-JOQSsd {
+  top: 21px;
+}
+
+.c2captserviceconnectiononboardingstartpage .empty-dNK6Eu {
+  top: 0px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-contents1dpeth_open_selected-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-contents1dpeth_close-copy-5-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-contents1dpeth_close-copy-3-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-contents1dpeth_close-copy-6-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-contents1dpeth_close-copy-2-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .group-copy-DQT2SC {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingstartpage .empty-m4ONz8 {
+  top: 21px;
+}
+
+.c2captserviceconnectiononboardingstartpage .empty-CDPfgn {
+  top: 0px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-title-reference-copy-DQT2SC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2captserviceconnectiononboardingstartpage .line-4ae6Zo {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingstartpage .home-net-ui-guideline-4ae6Zo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2captserviceconnectiononboardingstartpage .webgnb-1jJHp0 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingstartpage .rectangle-4U7mxm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingstartpage .background-4U7mxm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingstartpage .index-4U7mxm {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-select-vdePMz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-unselect-vdePMz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2captserviceconnectiononboardingstartpage .web-index-unelect_main-4U7mxm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

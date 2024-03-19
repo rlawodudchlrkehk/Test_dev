@@ -1,0 +1,988 @@
+/* screen - deviceplugingasvalvestatustype */
+
+.deviceplugingasvalvestatustype {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1358px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugingasvalvestatustype .group-4-6PMNMZ {
+  background-color: transparent;
+  height: 816px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.deviceplugingasvalvestatustype .group-6PMNMZ {
+  background-color: transparent;
+  height: 593px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .group-2-0SxPtA {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-Qxt8Xt {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-x8E2Zt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-x8E2Zt {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-3euzJM {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-lXQPZj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-lXQPZj {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-Qxt8Xt {
+  height: 31px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-6gWUdu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-6gWUdu {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .descriptiontabletop-0SxPtA {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-title-iu9sx5 {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-b5zuQE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .table-title-text-b5zuQE {
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-title-e9dQx7 {
+  left: 60px;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-O3CjPN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .table-title-text-O3CjPN {
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-title-IEPRVO {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-JHqAFN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .table-title-text-JHqAFN {
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-0SxPtA {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-HP4Jf7 {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-Mqvx50 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-Mqvx50 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-1ODSo7 {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-zYbutO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-zYbutO {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-HP4Jf7 {
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-ddEHgo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-ddEHgo {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-2-0SxPtA {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-0fDdgi {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-UAi5pe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-UAi5pe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-IOzxlp {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-3kNFcE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-3kNFcE {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-0fDdgi {
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-ZfIbrP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-ZfIbrP {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-6-0SxPtA {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 237px;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-KuJxUx {
+  height: 53px;
+  left: 0px;
+  position: relative;
+}
+
+.deviceplugingasvalvestatustype .rectangle-pwUg6r {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .group-pwUg6r {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-3-0SxPtA {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 306px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-MGDQmh {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-APyKXo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-APyKXo {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-zNL0wA {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-dKZs7w {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-dKZs7w {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-MGDQmh {
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-EulrIe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-EulrIe {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-4-0SxPtA {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 353px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-reaR28 {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-NxDnqZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-NxDnqZ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-YZx6XO {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-vWunKT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-vWunKT {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-reaR28 {
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-cfAhcG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-cfAhcG {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-7-0SxPtA {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 420px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-o9lxu7 {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-xbCDbK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-xbCDbK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-h5b0x3 {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-xKizxu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-xKizxu {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-o9lxu7 {
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-g1hE5h {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-g1hE5h {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .group-2-copy-5-0SxPtA {
+  background-color: transparent;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 487px;
+  width: 680px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-6gC0xx {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-uUSm1i {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugingasvalvestatustype .contents-uUSm1i {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line-XgVG57 {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-eORNm5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugingasvalvestatustype .contents-eORNm5 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-6gC0xx {
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+}
+
+.deviceplugingasvalvestatustype .rectangle-AQSIQr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .contents-AQSIQr {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m-copy-6gC0xx {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-AyPLaD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .group-AyPLaD {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .web-sub_-title-6PMNMZ {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.deviceplugingasvalvestatustype .sub-title-wd49Sx {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 122px;
+}
+
+.deviceplugingasvalvestatustype .web-title-area-6PMNMZ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustype .web-tab-device-plug-6PMNMZ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustype .x3rd-depth-wKCxAo {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvestatustype .tab-0FAlbJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugingasvalvestatustype .status-type-voRcu0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 71px;
+}
+
+.deviceplugingasvalvestatustype .controller-type-voRcu0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.deviceplugingasvalvestatustype .lnb-device-plug-in-6PMNMZ {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-I6FJKD {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .background-I6FJKD {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .stacked-group-I6FJKD {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .web-index-title-common-Hb3W2w {
+  margin: 0;
+}
+
+.deviceplugingasvalvestatustype .group-copy-Hb3W2w {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .empty-TJrFCl {
+  top: 21px;
+}
+
+.deviceplugingasvalvestatustype .empty-E2O7yp {
+  top: 0px;
+}
+
+.deviceplugingasvalvestatustype .web-index-title-common-copy-Hb3W2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .web-index-contents1dpeth_open_selected-Hb3W2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .group-Hb3W2w {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .empty-Wxi0oB {
+  top: 21px;
+}
+
+.deviceplugingasvalvestatustype .empty-1NRnuc {
+  top: 0px;
+}
+
+.deviceplugingasvalvestatustype .web-index-title-common-ymGKI2 {
+  margin: 0px 0 0 0;
+}
+
+.deviceplugingasvalvestatustype .group-copy-2-Hb3W2w {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .empty-Uu1Dqa {
+  top: 21px;
+}
+
+.deviceplugingasvalvestatustype .empty-QSMex2 {
+  top: 0px;
+}
+
+.deviceplugingasvalvestatustype .web-index-title-common-copy-2-Hb3W2w {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvestatustype .line-I6FJKD {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugingasvalvestatustype .home-net-gui-guidelin-I6FJKD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.deviceplugingasvalvestatustype .webgnb-6PMNMZ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvestatustype .rectangle-KgA3GG {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvestatustype .background-KgA3GG {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvestatustype .index-KgA3GG {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.deviceplugingasvalvestatustype .web-index-select-S6EuIJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.deviceplugingasvalvestatustype .web-index-unselect-S6EuIJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugingasvalvestatustype .web-index-unelect_main-KgA3GG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.deviceplugingasvalvestatustype .logo-1GzbMW {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.deviceplugingasvalvestatustype .content {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.deviceplugingasvalvestatustype .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.deviceplugingasvalvestatustype .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.deviceplugingasvalvestatustype .table-guide-text2line_m {
+  background-color: transparent;
+  top: 0px;
+  width: 340px;
+}
+
+.deviceplugingasvalvestatustype .title {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}

@@ -1,0 +1,620 @@
+/* screen - c2ccommoncardbg */
+
+.c2ccommoncardbg {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2ccommoncardbg .group-3-TAxUWo {
+  background-color: transparent;
+  height: 156px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.c2ccommoncardbg .group-5-TAxUWo {
+  background-color: transparent;
+  height: 195px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2ccommoncardbg .group-4-R0Z56O {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2ccommoncardbg .group-2-xo6Eam {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.c2ccommoncardbg .table-guide-text1line-x9zqUI {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2ccommoncardbg .rectangle-UlukvM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.c2ccommoncardbg .contents-UlukvM {
+  height: 20px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2ccommoncardbg .table-guide-text2line_m-x9zqUI {
+  height: 53px;
+  left: 60px;
+  width: 340px;
+}
+
+.c2ccommoncardbg .rectangle-xgQDT5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.c2ccommoncardbg .group-xgQDT5 {
+  width: 328px;
+}
+
+.c2ccommoncardbg .title-xyNdRc {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.c2ccommoncardbg .contents-xgQDT5 {
+  height: 20px;
+  top: 33px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.c2ccommoncardbg .table-guide-text2line_m-H6f0oI {
+  height: 133px;
+  left: 410px;
+  width: 270px;
+}
+
+.c2ccommoncardbg .rectangle-eDrqWT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.c2ccommoncardbg .group-eDrqWT {
+  width: 258px;
+}
+
+.c2ccommoncardbg .title-h2ctEP {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.c2ccommoncardbg .contents-eDrqWT {
+  height: 100px;
+  top: 33px;
+  width: 258px;
+}
+
+.c2ccommoncardbg .descriptiontabletop-R0Z56O {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2ccommoncardbg .web-sub_-title-TAxUWo {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.c2ccommoncardbg .sub-title-lFTroo {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2ccommoncardbg .web-title-area-TAxUWo {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2ccommoncardbg .web-tabc2-c_-common-TAxUWo {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2ccommoncardbg .x3rd-depth-5mOm37 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2ccommoncardbg .tab-5mOm37 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2ccommoncardbg .advanced-features-cgjzyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 118px;
+}
+
+.c2ccommoncardbg .core-app-service-car-cgjzyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 167px;
+}
+
+.c2ccommoncardbg .card-bg-cgjzyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.c2ccommoncardbg .dialog-copy-cgjzyi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.c2ccommoncardbg .lnb-service-feature-TAxUWo {
+  background-color: transparent;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2ccommoncardbg .rectangle-cwXx5x {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2ccommoncardbg .background-cwXx5x {
+  background-color: var(--concrete);
+  height: 799px;
+  width: 320px;
+}
+
+.c2ccommoncardbg .line-cwXx5x {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2ccommoncardbg .home-net-gui-guidelin-cwXx5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-zm0cTg {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup6 .empty-vqP8b5 {
+  bottom: 0px;
+}
+
+.stackedgroup6 .empty-xo3Tn7 {
+  top: 0px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-gUs2DO {
+  bottom: 0px;
+}
+
+.stackedgroup6 .empty-lyCcoW {
+  top: 0px;
+}
+
+.stackedgroup6 .web-index-title-reference-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-copy-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-2wGEVx {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup6 .web-expanded-mA5hw0 {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup6 .button-Xcx4N4 {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup6 .x1-depth-title-mA5hw0 {
+  color: #3695dd;
+  width: 91px;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-zm0cTg {
+  height: auto;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-42fmgc {
+  height: auto;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-1WjFZz {
+  height: auto;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-3GDjbo {
+  height: auto;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-Mh5h4H {
+  height: 46px;
+}
+
+.stackedgroup6 .group-D8dWGx {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup6 .x1-depth-title-ULoGIN {
+  color: #252525;
+  width: 56px;
+}
+
+.stackedgroup6 .web-fold-D8dWGx {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup6 .background-0wYEOM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup6 .button-0wYEOM {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup6 .group-copy-2-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-FWSGoV {
+  bottom: 0px;
+}
+
+.stackedgroup6 .empty-4wo2LP {
+  top: 0px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-3-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2ccommoncardbg .webgnb-TAxUWo {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2ccommoncardbg .rectangle-JIoIVJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2ccommoncardbg .background-JIoIVJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2ccommoncardbg .index-JIoIVJ {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2ccommoncardbg .web-index-select-cTpvH1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2ccommoncardbg .web-index-unselect-cTpvH1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2ccommoncardbg .web-index-unelect_main-JIoIVJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.c2ccommoncardbg .logo-qMYyxR {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.c2ccommoncardbg .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.c2ccommoncardbg .group {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+}
+
+.c2ccommoncardbg .table-guide-text2line_m {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.c2ccommoncardbg .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}
+
+.stackedgroup6 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup6 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

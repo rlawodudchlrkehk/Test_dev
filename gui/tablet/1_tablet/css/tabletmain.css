@@ -1,0 +1,462 @@
+/* screen - tabletmain */
+
+.tabletmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletmain .cover-wDfYCg {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 855px;
+}
+
+.tabletmain .lnb-service-feature-wDfYCg {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletmain .rectangle-PVZ2Kr {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.tabletmain .line-PVZ2Kr {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletmain .home-net-gui-guidelin-PVZ2Kr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup2 .web-index-title-reference-copy-2-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-jB1zcn {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup2 .title-SDxNkY {
+  width: 72px;
+}
+
+.stackedgroup2 .group-EHSxTt {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .empty-xwsxPD {
+  bottom: 0px;
+}
+
+.stackedgroup2 .empty-ijbXHj {
+  top: 0px;
+}
+
+.stackedgroup2 .web-index-title-reference-copy-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-eSVtpN {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup2 .title-xRU6yc {
+  width: 81px;
+}
+
+.stackedgroup2 .group-copy-EHSxTt {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .empty-K690TO {
+  bottom: 0px;
+}
+
+.stackedgroup2 .empty-6Nhabs {
+  top: 0px;
+}
+
+.stackedgroup2 .web-index-title-reference-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-WVVLw6 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup2 .title-s5zU3L {
+  width: 136px;
+}
+
+.stackedgroup2 .group-copy-2-EHSxTt {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .empty-copy-NA9zcN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup2 .line-copy-2-NA9zcN {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup2 .empty-copy-2-NA9zcN {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .web-index-title-reference-copy-3-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-024gcf {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup2 .title-R2QxRW {
+  width: 50px;
+}
+
+.stackedgroup2 .web-index-contents2dpeth-copy-3-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-jDGOcL {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .x1-depth-title-DUfan6 {
+  width: 67px;
+}
+
+.stackedgroup2 .web-index-contents2dpeth-copy-2-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-KU2Pod {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .x1-depth-title-lzsewO {
+  width: 123px;
+}
+
+.stackedgroup2 .web-index-contents2dpeth-copy-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-tF2mwu {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .x1-depth-title-rIEwp3 {
+  width: 106px;
+}
+
+.stackedgroup2 .web-index-contents2dpeth-copy-4-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-x83ktd {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .x1-depth-title-Pd66Wl {
+  width: 100px;
+}
+
+.stackedgroup2 .web-index-contents2dpeth-copy-5-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-xH7yi1 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .x1-depth-title-oEMUpY {
+  width: 112px;
+}
+
+.stackedgroup2 .web-index-contents2dpeth-copy-6-EHSxTt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup2 .group-ItG2x0 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup2 .x1-depth-title-OnxPAH {
+  width: 106px;
+}
+
+.tabletmain .webgnb-wDfYCg {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletmain .rectangle-4nie2h {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletmain .background-4nie2h {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletmain .index-4nie2h {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletmain .web-index-select-JSC9Yl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletmain .web-index-unselect-JSC9Yl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletmain .web-index-unelect_main-4nie2h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.tabletmain .logo-CQFaRD {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.stackedgroup2 .button {
+  background-color: transparent;
+  height: 122.22%;
+  left: -20.00%;
+  opacity: 1;
+  position: absolute;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup2 .x1-depth-title {
+  background-color: transparent;
+  color: #252525;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

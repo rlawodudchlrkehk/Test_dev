@@ -1,0 +1,91 @@
+/* screen - basiccomponentlistlistwithbutton */
+
+.basiccomponentlistlistwithbutton {
+  background-color: var(--white);
+  height: 1186px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentlistlistwithbutton .group-18 {
+  height: 271px;
+  left: 419px;
+  top: 715px;
+  width: 663px;
+}
+
+.basiccomponentlistlistwithbutton .group-9 {
+  height: 333px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentlistlistwithbutton .group-17 {
+  height: 274px;
+  left: 419px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentlistlistwithbutton .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentlistlistwithbutton .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentlistlistwithbutton .expandable-list-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 95px;
+}
+
+.basiccomponentlistlistwithbutton .grid-list {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 49px;
+}
+
+.basiccomponentlistlistwithbutton .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentlistlistwithbutton .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

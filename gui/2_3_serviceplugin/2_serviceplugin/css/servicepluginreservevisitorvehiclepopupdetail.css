@@ -1,0 +1,649 @@
+/* screen - servicepluginreservevisitorvehiclepopupdetail */
+
+.servicepluginreservevisitorvehiclepopupdetail {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .group-SAzpif {
+  background-color: transparent;
+  height: 203px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .group-4-SAzpif {
+  background-color: transparent;
+  height: 120px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .descriptiontabletop-kZekMT {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-title-VTtsG2 {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-jakBCN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-title-text-jakBCN {
+  width: 116px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-title-lyb58x {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-roE6om {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-title-text-roE6om {
+  width: 154px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-title-copy-VTtsG2 {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-ldrePc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-title-text-ldrePc {
+  width: 94px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-title-copy-2-VTtsG2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-WGsiMs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-title-text-WGsiMs {
+  width: 178px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-title-RWN0R9 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-iLxxFE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-title-text-iLxxFE {
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .descriptiontable2line-kZekMT {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-text1line-nLasXl {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-Xx6h4u {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents-Xx6h4u {
+  width: 116px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-text2line-nLasXl {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-gatqMI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents-gatqMI {
+  width: 154px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-text2line-copy-nLasXl {
+  background-color: transparent;
+  height: 31px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-AsL5vk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents-AsL5vk {
+  width: 88px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-text2line-copy-2-nLasXl {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-1a5c3s {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents-1a5c3s {
+  width: 184px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents-copy-1a5c3s {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-text1line-1sdvzZ {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-OWKwlF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents-OWKwlF {
+  width: 38px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-sub_-title-SAzpif {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .sub-title-1nwocE {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-title-area-SAzpif {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-tab-service-plug-in_cctv-SAzpif {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .x3rd-depth-xqOwmk {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .tab-ckQAYr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .card-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .feature-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .feature-register-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .feature-informatio-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 131px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .pop-up-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .pop-up-detail-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .feature-_-delete-lis-cPPDLE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 128px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .lnb-service-plug-in-SAzpif {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-cH6XQ7 {
+  background-color: var(--concrete);
+  height: 1396px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .lnb-cH6XQ7 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .stacked-group-XVpHQS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-title-common-copy-utXB0O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .group-copy-utXB0O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .empty-copy-AH1Krw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .line-copy-2-AH1Krw {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .empty-copy-2-AH1Krw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-contents1dpeth_open_selected-utXB0O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-contents2dpeth-copy-2-utXB0O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-contents2dpeth-copy-utXB0O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-contents2dpeth-copy-3-utXB0O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .group-utXB0O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .empty-08w3q2 {
+  top: 21px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .empty-nXPsAg {
+  top: 0px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .group-copy-2-utXB0O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .empty-59md1P {
+  top: 21px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .empty-0xEi0u {
+  top: 0px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-title-common-copy-2-utXB0O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .line-XVpHQS {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .home-net-gui-guidelin-XVpHQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .webgnb-SAzpif {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .rectangle-Wy4Fnm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .background-Wy4Fnm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .index-Wy4Fnm {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-select-4utlA0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-unselect-4utlA0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .web-index-unelect_main-Wy4Fnm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .logo-blFiu3 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginreservevisitorvehiclepopupdetail .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}

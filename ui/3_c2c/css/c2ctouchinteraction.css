@@ -1,0 +1,249 @@
+/* screen - c2ctouchinteraction */
+
+.c2ctouchinteraction {
+  background-color: var(--white);
+  height: 1334px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2ctouchinteraction .group-QSIhKS {
+  background-color: transparent;
+  height: 900px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.c2ctouchinteraction .web-title-area-QSIhKS {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2ctouchinteraction .lnbc2-c-connector_1-QSIhKS {
+  background-color: transparent;
+  height: 803px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2ctouchinteraction .rectangle-dxs6C2 {
+  background-color: var(--concrete);
+  height: 803px;
+  width: 320px;
+}
+
+.c2ctouchinteraction .stacked-group-dxs6C2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2ctouchinteraction .web-index-title-common-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .group-B0hgCX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .empty-vUom5X {
+  top: 21px;
+}
+
+.c2ctouchinteraction .empty-TAP4aJ {
+  top: 0px;
+}
+
+.c2ctouchinteraction .group-Sxey0a {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .empty-TlCCaD {
+  top: 21px;
+}
+
+.c2ctouchinteraction .empty-XxGI82 {
+  top: 0px;
+}
+
+.c2ctouchinteraction .web-index-contents1dpeth_open_selected-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .web-index-contents1dpeth_close-copy-5-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .web-index-contents1dpeth_close-copy-3-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .web-index-contents1dpeth_close-copy-6-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .web-index-contents1dpeth_close-copy-2-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .group-copy-B0hgCX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .empty-zbtX2d {
+  top: 21px;
+}
+
+.c2ctouchinteraction .empty-OTebof {
+  top: 0px;
+}
+
+.c2ctouchinteraction .web-index-title-reference-copy-B0hgCX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2ctouchinteraction .line-dxs6C2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2ctouchinteraction .home-net-ui-guideline-dxs6C2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2ctouchinteraction .webgnb-QSIhKS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2ctouchinteraction .rectangle-3OXzr5 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2ctouchinteraction .background-3OXzr5 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2ctouchinteraction .index-3OXzr5 {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2ctouchinteraction .web-index-select-gUISPw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2ctouchinteraction .web-index-unselect-gUISPw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2ctouchinteraction .web-index-unelect_main-3OXzr5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

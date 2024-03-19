@@ -1,0 +1,673 @@
+/* screen - basiccomponentgraphscroll */
+
+.basiccomponentgraphscroll {
+  background-color: var(--white);
+  height: 1231px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentgraphscroll .group-11-Qp7vrd {
+  background-color: transparent;
+  height: 270px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentgraphscroll .group-2-Qp7vrd {
+  background-color: transparent;
+  height: 270px;
+  left: 420px;
+  position: absolute;
+  top: 761px;
+  width: 600px;
+}
+
+.basiccomponentgraphscroll .web-sub_-title-Qp7vrd {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentgraphscroll .sub-title-VCgiuV {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphscroll .group-9-Qp7vrd {
+  background-color: transparent;
+  height: 183px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentgraphscroll .descriptiontabletop-iPBNwO {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphscroll .table-guide-title-LyhxZx {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphscroll .rectangle-UfPCiZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentgraphscroll .table-title-text-UfPCiZ {
+  width: 258px;
+}
+
+.basiccomponentgraphscroll .table-guide-title-Yi2B73 {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentgraphscroll .rectangle-T2d5ZR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentgraphscroll .table-title-text-T2d5ZR {
+  width: 328px;
+}
+
+.basiccomponentgraphscroll .table-guide-title-It3c2N {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphscroll .rectangle-g6a8m3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentgraphscroll .table-title-text-g6a8m3 {
+  width: 38px;
+}
+
+.basiccomponentgraphscroll .group-10-iPBNwO {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line97 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line97 .background-Gz43AR {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line97 .rectangle-Gz43AR {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line97 .contents-Gz43AR {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphscroll .table-guide-text2line_m-copy-2-QY8j5B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphscroll .rectangle-MJyXl5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentgraphscroll .contents-MJyXl5 {
+  width: 328px;
+}
+
+.basiccomponentgraphscroll .table-guide-text2line_m-copy-3-QY8j5B {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphscroll .rectangle-1MipQX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentgraphscroll .contents-1MipQX {
+  width: 258px;
+}
+
+.basiccomponentgraphscroll .x280dp-iPBNwO {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  width: auto;
+}
+
+.basiccomponentgraphscroll .web-title-area-Qp7vrd {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentgraphscroll .web-tab-service-feature_-basic-layout-Qp7vrd {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentgraphscroll .x3rd-depth-QthRz5 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentgraphscroll .tab-QthRz5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentgraphscroll .basic-xLGOTw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentgraphscroll .service-feature-type-xLGOTw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.basiccomponentgraphscroll .service-feature-type-copy-xLGOTw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 24px;
+}
+
+.basiccomponentgraphscroll .service-feature-type-copy-2-xLGOTw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.basiccomponentgraphscroll .lnb-favorite-card-Qp7vrd {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .rectangle-44x01a {
+  background-color: var(--concrete);
+  height: 1494px;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .background-44x01a {
+  background-color: var(--concrete);
+  height: 952px;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .stacked-group-44x01a {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-title-common-dPmBA4 {
+  margin: 0;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-2-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-14-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-10-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-6-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-11-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-7-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-4-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-8-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-9-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-5-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-3-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-12-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-13-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents2dpeth-copy-15-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .web-index-contents1dpeth_open_selected-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .group-copy-dPmBA4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .empty-MZMUpY {
+  top: 21px;
+}
+
+.basiccomponentgraphscroll .empty-WYwYxt {
+  top: 0px;
+}
+
+.basiccomponentgraphscroll .web-index-title-common-copy-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .group-dPmBA4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .empty-cu1a1W {
+  top: 21px;
+}
+
+.basiccomponentgraphscroll .empty-wOBsrQ {
+  top: 0px;
+}
+
+.basiccomponentgraphscroll .web-index-title-common-fv7Lls {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentgraphscroll .group-copy-2-dPmBA4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .empty-w6ce06 {
+  top: 21px;
+}
+
+.basiccomponentgraphscroll .empty-yxndoJ {
+  top: 0px;
+}
+
+.basiccomponentgraphscroll .web-index-title-common-copy-2-dPmBA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphscroll .line-44x01a {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentgraphscroll .home-net-gui-guidelin-44x01a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentgraphscroll .webgnb-Qp7vrd {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentgraphscroll .rectangle-wZPnqO {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentgraphscroll .background-wZPnqO {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentgraphscroll .index-wZPnqO {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentgraphscroll .web-index-select-PGoVuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentgraphscroll .web-index-unselect-PGoVuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentgraphscroll .web-index-unelect_main-wZPnqO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentgraphscroll .logo-KKon57 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentgraphscroll .contents {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponentgraphscroll .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}

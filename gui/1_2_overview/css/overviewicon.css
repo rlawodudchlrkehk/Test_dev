@@ -1,0 +1,1240 @@
+/* screen - overviewicon */
+
+.overviewicon {
+  background-color: var(--white);
+  height: 1969px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewicon .group-3-Xucq5b {
+  background-color: transparent;
+  height: 1485px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.overviewicon .group-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 58px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-3-AbKCOn {
+  color: var(--black);
+  font-weight: 400;
+  left: 210px;
+  top: 89px;
+}
+
+.overviewicon .group-11-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  top: 148px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_activ-AbKCOn {
+  top: 179px;
+}
+
+.overviewicon .group-12-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  top: 238px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_activ-1xeQYo {
+  top: 269px;
+}
+
+.overviewicon .group-9-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  top: 58px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-7-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 89px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-10-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 58px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-10-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 89px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-13-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 148px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_windo-AbKCOn {
+  top: 179px;
+}
+
+.overviewicon .group-14-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 238px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_windo-1xeQYo {
+  top: 269px;
+}
+
+.overviewicon .group-31-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  top: 635px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_status_cctv-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-34-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 595px;
+  position: absolute;
+  top: 745px;
+  width: 81px;
+}
+
+.overviewicon .home_ic_status_deliv-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 776px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-35-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 595px;
+  position: absolute;
+  top: 855px;
+  width: 81px;
+}
+
+.overviewicon .home_ic_status_emss-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 886px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-36-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  top: 965px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_status_noti-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-37-AbKCOn {
+  top: 1075px;
+}
+
+.overviewicon .home_ic_status_parki-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1106px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-37-1xeQYo {
+  top: 1295px;
+}
+
+.overviewicon .home_ic_status_adds-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1326px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-38-AbKCOn {
+  left: 100px;
+  top: 1405px;
+}
+
+.overviewicon .home_ic_status_visit-AbKCOn {
+  left: 210px;
+  top: 1436px;
+}
+
+.overviewicon .group-38-1xeQYo {
+  left: 100px;
+  top: 1295px;
+}
+
+.overviewicon .home_ic_status_livev-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1326px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-38-8Gpi4x {
+  left: 596px;
+  top: 1185px;
+}
+
+.overviewicon .home_ic_status_visit-1xeQYo {
+  left: 706px;
+  top: 1216px;
+}
+
+.overviewicon .group-38-CQKnsa {
+  left: 596px;
+  top: 1405px;
+}
+
+.overviewicon .home_ic_status_remov-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1436px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-20-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 525px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-3-1xeQYo {
+  color: var(--black);
+  font-weight: 400;
+  left: 210px;
+  top: 556px;
+}
+
+.overviewicon .title-copy-3-8Gpi4x {
+  color: var(--persian-green);
+  font-weight: 600;
+  left: 100px;
+  top: 468px;
+}
+
+.overviewicon .group-21-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 635px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_gass-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-22-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 745px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_hot_w-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 776px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-23-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 855px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_therm-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 886px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-24-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 965px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_water-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-26-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 1075px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_status_admin-AbKCOn {
+  top: 1106px;
+}
+
+.overviewicon .group-28-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 1185px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_status_admin-1xeQYo {
+  top: 1216px;
+}
+
+.overviewicon .group-30-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  top: 525px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-6-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 556px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-39-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 525px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-9-AbKCOn {
+  left: 1202px;
+  top: 556px;
+}
+
+.overviewicon .group-40-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 635px;
+  width: 80px;
+}
+
+.overviewicon .delivery_ic_unnamed-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-41-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 745px;
+  width: 80px;
+}
+
+.overviewicon .delivery_ic_default-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 776px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-42-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 855px;
+  width: 80px;
+}
+
+.overviewicon .delivery_ic_freezer-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 886px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-43-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 965px;
+  width: 80px;
+}
+
+.overviewicon .delivery_ic_freshsv-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 996px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-44-AbKCOn {
+  top: 1075px;
+}
+
+.overviewicon .delivery_ic_mailsvg-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1106px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-44-1xeQYo {
+  top: 1185px;
+}
+
+.overviewicon .homeicdeviceelectricity_black-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 1185px;
+  width: 80px;
+}
+
+.overviewicon .evcharging_ic_type01-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1216px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-44-8Gpi4x {
+  top: 1295px;
+}
+
+.overviewicon .icparkingmy_car-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  top: 1295px;
+  width: 80px;
+}
+
+.overviewicon .evcharging_ic_type02-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 1326px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .group-6-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 148px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-9-1xeQYo {
+  left: 210px;
+  top: 179px;
+}
+
+.overviewicon .group-8-AbKCOn {
+  background-color: transparent;
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 238px;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_onsv-AbKCOn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 269px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .web-sub_-title-AbKCOn {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.overviewicon .sub-title-CgdE9d {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .web-title-area-Xucq5b {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewicon .web-tab-overview_touch-area-Xucq5b {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewicon .x3rd-depth-UXEE0B {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewicon .tab-UXEE0B {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewicon .icon_-device-icon-65Me6u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 104px;
+}
+
+.overviewicon .service-feature-type-65Me6u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 26px;
+}
+
+.overviewicon .lnb-favorite-card-Xucq5b {
+  background-color: transparent;
+  height: 1168px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewicon .rectangle-xwf3kU {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewicon .background-xwf3kU {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewicon .stacked-group-xwf3kU {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewicon .web-index-title-common-4UZslR {
+  margin: 0;
+}
+
+.overviewicon .web-index-contents1dpeth_close-copy-2-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .web-index-contents1dpeth_close-copy-3-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .web-index-contents1dpeth_close-copy-4-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .web-index-contents1dpeth_close-copy-5-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .web-index-contents1dpeth_close-copy-6-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .web-index-contents1dpeth_close-copy-7-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .web-index-contents1dpeth_open_selected-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .group-copy-4UZslR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .empty-xPVJ9C {
+  top: 21px;
+}
+
+.overviewicon .empty-HKQyPq {
+  top: 0px;
+}
+
+.overviewicon .web-index-title-common-copy-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .group-4UZslR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .empty-1KnyP4 {
+  top: 21px;
+}
+
+.overviewicon .empty-K9pC2q {
+  top: 0px;
+}
+
+.overviewicon .web-index-title-common-1Ghxg8 {
+  margin: 0px 0 0 0;
+}
+
+.overviewicon .group-copy-2-4UZslR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .empty-boU5df {
+  top: 21px;
+}
+
+.overviewicon .empty-mJThZ3 {
+  top: 0px;
+}
+
+.overviewicon .web-index-title-common-copy-2-4UZslR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicon .line-xwf3kU {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewicon .home-net-gui-guidelin-xwf3kU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewicon .webgnb-Xucq5b {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewicon .rectangle-GBxq2L {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewicon .background-GBxq2L {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewicon .index-GBxq2L {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewicon .web-index-select-AhM6ue {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewicon .web-index-unselect-AhM6ue {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewicon .web-index-unelect_main-GBxq2L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.overviewicon .logo-cn26cH {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.overviewicon .group-37 {
+  background-color: transparent;
+  height: 80px;
+  left: 596px;
+  position: absolute;
+  width: 80px;
+}
+
+.overviewicon .group-38 {
+  background-color: transparent;
+  height: 80px;
+  position: absolute;
+  width: 80px;
+}
+
+.overviewicon .group-44 {
+  background-color: transparent;
+  height: 80px;
+  left: 1092px;
+  position: absolute;
+  width: 80px;
+}
+
+.overviewicon .home_ic_device_activ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .home_ic_device_windo {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1202px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .home_ic_status_admin {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .home_ic_status_visit {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.overviewicon .rectangle-copy-12 {
+  background-color: #deebf7;
+  height: 80px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.overviewicon .title-copy-3 {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicon .title-copy-9 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}

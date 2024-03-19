@@ -1,0 +1,592 @@
+/* screen - devicepluginintergratedswitchinteractionflow */
+
+.devicepluginintergratedswitchinteractionflow {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3514px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-8-gOWxy5 {
+  background-color: transparent;
+  height: 891px;
+  left: 420px;
+  position: absolute;
+  top: 1384px;
+  width: 1400px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-5-gOWxy5 {
+  background-color: transparent;
+  height: 890px;
+  left: 420px;
+  position: absolute;
+  top: 2424px;
+  width: 1400px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-7-gOWxy5 {
+  background-color: transparent;
+  height: 892px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-sub_-title-gOWxy5 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-title-area-gOWxy5 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-tab-device-plug-gOWxy5 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .x3rd-depth-joKSwj {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .tab-DQzjJE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginintergratedswitchinteractionflow .key-screen-5jwLCC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 66px;
+}
+
+.devicepluginintergratedswitchinteractionflow .interaction-flow-5jwLCC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.devicepluginintergratedswitchinteractionflow .lnb-device-plug-in-gOWxy5 {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .rectangle-qenf3B {
+  background-color: var(--concrete);
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .stacked-group-qenf3B {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-title-common-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-8xv0nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-QuuvvO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-9TcZwk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-XRxO7z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-mKkJFf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-AEFNP1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-dpuqYL {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .line-copy-dpuqYL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-O7GtLy {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-title-reference-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-B1pepL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-AdDubD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_open_selected-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-8xv0nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-QuuvvO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-9TcZwk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-XRxO7z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-mKkJFf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-B1pepL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-AdDubD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-hnsYZx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-o8LdgO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-prcybR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-rBHKCI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-copy-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents2dpeth-1l9OqW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-contents1dpeth_close-hnsYZx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-8xv0nw {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-Dx6JtX {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .line-copy-Dx6JtX {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-Eq7NVm {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-title-reference-8xv0nw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-copy-AEFNP1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-copy-x4JSOO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .line-copy-2-x4JSOO {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-copy-2-x4JSOO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-title-reference-copy-AEFNP1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.devicepluginintergratedswitchinteractionflow .line-qenf3B {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchinteractionflow .home-net-ui-guideline-qenf3B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginintergratedswitchinteractionflow .webgnb-gOWxy5 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchinteractionflow .rectangle-1se4L6 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchinteractionflow .background-1se4L6 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchinteractionflow .index-1se4L6 {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-select-b9P7ze {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-unselect-b9P7ze {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-unelect_main-1se4L6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginintergratedswitchinteractionflow .logo-xh4JHS {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}

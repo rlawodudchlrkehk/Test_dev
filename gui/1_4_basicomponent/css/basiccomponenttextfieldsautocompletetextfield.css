@@ -1,0 +1,1460 @@
+/* screen - basiccomponenttextfieldsautocompletetextfield */
+
+.basiccomponenttextfieldsautocompletetextfield {
+  background-color: var(--white);
+  height: 2279px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-7-s1Wubr {
+  background-color: transparent;
+  height: 771px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-s1Wubr {
+  background-color: transparent;
+  height: 115px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tableguidetext1line22 {
+  background-color: transparent;
+  height: 62.71%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line22 .background-yTHxpt {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line22 .rectangle-yTHxpt {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line22 .contents-yTHxpt {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line112 {
+  background-color: transparent;
+  height: 62.71%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line112 .background-Qj8ruJ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line112 .rectangle-Qj8ruJ {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line112 .contents-Qj8ruJ {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-xFsTLx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-xFsTLx {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-G4ynfX {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-sm235w {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-sm235w {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-HKRA9j {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-EWfyrw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-EWfyrw {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-TGu4eH {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-qvdvCx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-qvdvCx {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-3-copy-10-s1Wubr {
+  background-color: transparent;
+  height: 264px;
+  left: 1140px;
+  position: absolute;
+  top: 557px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .styletabletop-oGYxnq {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-21j3jM {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-r7MXeS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-r7MXeS {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-q7dxvF {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-YA1gdg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-YA1gdg {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-copy-21j3jM {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-Nxh1JM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-Nxh1JM {
+  width: 94px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-copy-2-21j3jM {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-vojhVx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-vojhVx {
+  width: 178px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-xyV2zH {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-cu06CM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-cu06CM {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-5-oGYxnq {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-KLA9Sj {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-TBn4lY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-TBn4lY {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-miQ3Ki {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-8xxovN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-8xxovN {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-mjk1y4 {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-Aj3ygA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-Aj3ygA {
+  width: 88px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-JutfPB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-JutfPB {
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-BYh0Ex {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-56pzvW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-56pzvW {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-5-copy-2-oGYxnq {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 130px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-vFqnsD {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-xi3bOy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-xi3bOy {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-OGZnWK {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-7zA10O {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-7zA10O {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-6cqaau {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-xxQVMx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-xxQVMx {
+  width: 88px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-1kxxw3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-1kxxw3 {
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-aYPdeB {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-nktylj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-nktylj {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-5-copy-3-oGYxnq {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 204px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-8rZIAW {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-xsxizD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-xsxizD {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-xjCWZA {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-RQqYAS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-RQqYAS {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-VmkVxt {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-hgG45k {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-hgG45k {
+  width: 88px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-ctmULR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-ctmULR {
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-iy9Txe {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-kJXn1C {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-kJXn1C {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-4-s1Wubr {
+  background-color: transparent;
+  height: 816px;
+  left: 401px;
+  position: absolute;
+  top: 1263px;
+  width: 689px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-3-s1Wubr {
+  background-color: transparent;
+  height: 182px;
+  left: 1140px;
+  position: absolute;
+  top: 1263px;
+  width: 680px;
+}
+
+.tableguidetext1line23 {
+  background-color: transparent;
+  height: 62.71%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line23 .background-oEMraE {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line23 .rectangle-oEMraE {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line23 .contents-oEMraE {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line113 {
+  background-color: transparent;
+  height: 62.71%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line113 .background-2KEjGa {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line113 .rectangle-2KEjGa {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line113 .contents-2KEjGa {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-K1FW3l {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-K1FW3l {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-2-copy-3-NEZq3C {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.tableguidetext1line24 {
+  background-color: transparent;
+  height: 64.91%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line24 .background-JfOriG {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line24 .rectangle-JfOriG {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line24 .contents-JfOriG {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line114 {
+  background-color: transparent;
+  height: 64.91%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line114 .background-inrrCJ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line114 .rectangle-inrrCJ {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line114 .contents-inrrCJ {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem12 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem12 .background-QJn4TE {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem12 .rectangle-QJn4TE {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem12 .contents-QJn4TE {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-6Tui7x {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-saGWxp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-saGWxp {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-TtGBcx {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-rnQQxM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-rnQQxM {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-UOZ3Fb {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-5Vro49 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-5Vro49 {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-sub_-title-s1Wubr {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 363px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .sub-title-FhzQKC {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-title-area-s1Wubr {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-tab-service-feature_-basic-layout-s1Wubr {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x3rd-depth-3Ki6b9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .tab-3Ki6b9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .basic-BnSuPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 31px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .auto_complete-text-f-BnSuPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 155px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .states-BnSuPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 37px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .lnb-favorite-card-s1Wubr {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-ebm9EB {
+  background-color: var(--concrete);
+  height: 1494px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .background-ebm9EB {
+  background-color: var(--concrete);
+  height: 952px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .stacked-group-ebm9EB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-oxU8fA {
+  margin: 0;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-2-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-14-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-10-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-6-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-11-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-7-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-4-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-8-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-9-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-5-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-3-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-12-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-13-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-15-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_open_selected-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-oxU8fA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-gLwkZB {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-Gi9Bhi {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-copy-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-oxU8fA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-O235ED {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-Ghix6O {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-3hz1O1 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-2-oxU8fA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-5itubA {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-6LilPQ {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-copy-2-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .line-ebm9EB {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .home-net-gui-guidelin-ebm9EB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .webgnb-s1Wubr {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-q1DcgU {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .background-q1DcgU {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .index-q1DcgU {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-select-V1JPov {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-unselect-V1JPov {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-unelect_main-q1DcgU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .logo-YXYc6T {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .content {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-12-copy {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-2-copy-2 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .styletable1line_-color-copy-2 {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .title {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}

@@ -1,0 +1,1322 @@
+/* screen - basiccomponentdropdownlistbasic */
+
+.basiccomponentdropdownlistbasic {
+  background-color: var(--white);
+  height: 1458px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentdropdownlistbasic .group-4-LJdeNO {
+  background-color: transparent;
+  height: 383px;
+  left: 356px;
+  position: absolute;
+  top: 342px;
+  width: 734px;
+}
+
+.basiccomponentdropdownlistbasic .web-sub_-title-LJdeNO {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentdropdownlistbasic .sub-title-ysMiHb {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentdropdownlistbasic .group-LJdeNO {
+  background-color: transparent;
+  height: 536px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlistbasic .group-2-copy-2-inqr34 {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line78 {
+  background-color: transparent;
+  height: 48.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line78 .background-LmnNnC {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line78 .rectangle-LmnNnC {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line78 .contents-LmnNnC {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line146 {
+  background-color: transparent;
+  height: 48.05%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line146 .background-xWuaxJ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line146 .rectangle-xWuaxJ {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line146 .contents-xWuaxJ {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem51 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem51 .background-QnES12 {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem51 .rectangle-QnES12 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem51 .contents-QnES12 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdropdownlistbasic .group-2-copy-5-inqr34 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 477px;
+  width: 680px;
+}
+
+.tableguidetext1line79 {
+  background-color: transparent;
+  height: 62.71%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line79 .background-uQHDLv {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line79 .rectangle-uQHDLv {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line79 .contents-uQHDLv {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line147 {
+  background-color: transparent;
+  height: 62.71%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line147 .background-kLNUWC {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line147 .rectangle-kLNUWC {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line147 .contents-kLNUWC {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-uiuevb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdropdownlistbasic .group-uiuevb {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdropdownlistbasic .content-oKltl4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.basiccomponentdropdownlistbasic .title-oKltl4 {
+  color: var(--persian-green);
+  font-weight: 600;
+}
+
+.basiccomponentdropdownlistbasic .group-2-copy-3-inqr34 {
+  background-color: transparent;
+  height: 324px;
+  left: 0px;
+  position: absolute;
+  top: 143px;
+  width: 680px;
+}
+
+.tableguidetext1line80 {
+  background-color: transparent;
+  height: 11.42%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line80 .background-27Oxky {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line80 .rectangle-27Oxky {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line80 .contents-27Oxky {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-oDsNn6 {
+  height: 313px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-SgBzdO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentdropdownlistbasic .contents-SgBzdO {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentdropdownlistbasic .contents-copy-SgBzdO {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 280px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  width: 258px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-ZwfQKJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdropdownlistbasic .group-ZwfQKJ {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdropdownlistbasic .content-9DXZkv {
+  color: var(--persian-green);
+  font-weight: 600;
+}
+
+.basiccomponentdropdownlistbasic .title-9DXZkv {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.basiccomponentdropdownlistbasic .group-3-inqr34 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-yitBbV {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-gUhY8v {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-gUhY8v {
+  width: 258px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-wi23d7 {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-QhxDRw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-QhxDRw {
+  width: 328px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-oKSHZ5 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-Pxxc4s {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-Pxxc4s {
+  width: 38px;
+}
+
+.basiccomponentdropdownlistbasic .group-3-copy-LJdeNO {
+  background-color: transparent;
+  height: 280px;
+  left: 1140px;
+  position: absolute;
+  top: 978px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlistbasic .styletabletop-5JkGrO {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-CCYkQz {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-3vxXrv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-3vxXrv {
+  width: 116px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-PAm6HV {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-8iTVVA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-8iTVVA {
+  width: 154px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-copy-CCYkQz {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-zpSFe3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-zpSFe3 {
+  width: 94px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-copy-2-CCYkQz {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-XXmPQU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-XXmPQU {
+  width: 178px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-title-KAzKA0 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-Htcp8y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .table-title-text-Htcp8y {
+  width: 38px;
+}
+
+.basiccomponentdropdownlistbasic .styletable1line_-color-5JkGrO {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-8CzSUU {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-d4IEqt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdropdownlistbasic .contents-d4IEqt {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-RIYFSK {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-bue1tx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdropdownlistbasic .contents-bue1tx {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-5IB8Bk {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-N1wfog {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdropdownlistbasic .contents-N1wfog {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text2line-8CzSUU {
+  height: 57px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-Hvv4JF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdropdownlistbasic .contents-Hvv4JF {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 184px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-PKWl4r {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-sezKcq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .contents-sezKcq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdropdownlistbasic .brand-color-5JkGrO {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 387px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 87px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentdropdownlistbasic .styletable1line_-color-copy-5JkGrO {
+  background-color: transparent;
+  height: 157px;
+  left: 0px;
+  position: absolute;
+  top: 123px;
+  width: 680px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-QAbKUJ {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-Lf9IYB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdropdownlistbasic .contents-Lf9IYB {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-2YCxUm {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-FkbB8n {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdropdownlistbasic .contents-FkbB8n {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-9tJ0WS {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-ivmTf3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdropdownlistbasic .contents-ivmTf3 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text2line-QAbKUJ {
+  height: 157px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-xNUONJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdropdownlistbasic .contents-xNUONJ {
+  color: var(--black);
+  font-weight: 400;
+  height: 140px;
+  width: 184px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line-LvbIJ5 {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-8JHqnV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdropdownlistbasic .contents-8JHqnV {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdropdownlistbasic .web-title-area-LJdeNO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentdropdownlistbasic .web-tab-service-feature_-basic-layout-LJdeNO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentdropdownlistbasic .x3rd-depth-DR8OFp {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentdropdownlistbasic .tab-DR8OFp {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentdropdownlistbasic .basic-F7bgih {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentdropdownlistbasic .lnb-favorite-card-LJdeNO {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-xQrh9n {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .background-xQrh9n {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .stacked-group-xQrh9n {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-title-common-m7oLNp {
+  margin: 0;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-2-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-14-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-10-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-6-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-11-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-7-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-4-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-8-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-9-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-5-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-3-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-12-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-13-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents2dpeth-copy-15-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-contents1dpeth_open_selected-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .group-copy-m7oLNp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .empty-LXRhRm {
+  top: 21px;
+}
+
+.basiccomponentdropdownlistbasic .empty-mSVMzv {
+  top: 0px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-title-common-copy-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .group-m7oLNp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .empty-9csVj0 {
+  top: 21px;
+}
+
+.basiccomponentdropdownlistbasic .empty-H70M2x {
+  top: 0px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-title-common-Ch23n1 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentdropdownlistbasic .group-copy-2-m7oLNp {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .empty-JXndTD {
+  top: 21px;
+}
+
+.basiccomponentdropdownlistbasic .empty-O2O3BF {
+  top: 0px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-title-common-copy-2-m7oLNp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdropdownlistbasic .line-xQrh9n {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentdropdownlistbasic .home-net-gui-guidelin-xQrh9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentdropdownlistbasic .webgnb-LJdeNO {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle-p5gaAY {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentdropdownlistbasic .background-p5gaAY {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentdropdownlistbasic .index-p5gaAY {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-select-X7nAll {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-unselect-X7nAll {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentdropdownlistbasic .web-index-unelect_main-p5gaAY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponentdropdownlistbasic .logo-fuUtGZ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponentdropdownlistbasic .content {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdropdownlistbasic .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.basiccomponentdropdownlistbasic .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text2line {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentdropdownlistbasic .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentdropdownlistbasic .title {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}

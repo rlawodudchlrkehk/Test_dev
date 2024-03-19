@@ -1,0 +1,824 @@
+/* screen - coreapplifetablifetab */
+
+.coreapplifetablifetab {
+  background-color: var(--white);
+  height: 2658px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .group-3-l3Ov9d {
+  background-color: transparent;
+  height: 956px;
+  left: 400px;
+  position: absolute;
+  top: 396px;
+  width: 690px;
+}
+
+.coreapplifetablifetab .group-2-l3Ov9d {
+  background-color: transparent;
+  height: 956px;
+  left: 400px;
+  position: absolute;
+  top: 1502px;
+  width: 690px;
+}
+
+.coreapplifetablifetab .group-5-l3Ov9d {
+  background-color: transparent;
+  height: 138px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.coreapplifetablifetab .group-4-p2UvJT {
+  height: 37px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-9UJTim {
+  left: 0px;
+  width: 50px;
+}
+
+.coreapplifetablifetab .rectangle-FPIbYP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreapplifetablifetab .contents-FPIbYP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint-9UJTim {
+  cursor: pointer;
+  height: 31px;
+}
+
+.coreapplifetablifetab .rectangle-gi0VRR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreapplifetablifetab .contents-gi0VRR {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-5MEcb9 {
+  left: 410px;
+  width: 270px;
+}
+
+.coreapplifetablifetab .rectangle-6KFC5h {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreapplifetablifetab .contents-6KFC5h {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreapplifetablifetab .group-4-copy-p2UvJT {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 101px;
+  width: 680px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-xyUIAY {
+  left: 0px;
+  width: 50px;
+}
+
+.coreapplifetablifetab .rectangle-rGjno8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreapplifetablifetab .contents-rGjno8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint-xyUIAY {
+  height: 31px;
+}
+
+.coreapplifetablifetab .rectangle-kWVuwe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreapplifetablifetab .title-kWVuwe {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-TNLaUG {
+  left: 410px;
+  width: 270px;
+}
+
+.coreapplifetablifetab .rectangle-vuewqi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreapplifetablifetab .contents-vuewqi {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreapplifetablifetab .group-5-copy-l3Ov9d {
+  background-color: transparent;
+  height: 113px;
+  left: 1140px;
+  position: absolute;
+  top: 1502px;
+  width: 680px;
+}
+
+.coreapplifetablifetab .group-4-GKyQy4 {
+  height: 57px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-R5qdkJ {
+  left: 0px;
+  width: 50px;
+}
+
+.coreapplifetablifetab .rectangle-ruNLpG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.coreapplifetablifetab .contents-ruNLpG {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint-R5qdkJ {
+  cursor: pointer;
+  height: 51px;
+}
+
+.coreapplifetablifetab .rectangle-jt7H14 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.coreapplifetablifetab .contents-jt7H14 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-xY0ex0 {
+  left: 410px;
+  width: 270px;
+}
+
+.coreapplifetablifetab .rectangle-eGa32A {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.coreapplifetablifetab .contents-eGa32A {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.coreapplifetablifetab .web-sub_-title-l3Ov9d {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 360px;
+}
+
+.coreapplifetablifetab .sub-title-S9UWsx {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreapplifetablifetab .web-title-area-l3Ov9d {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .web-tabc2-c_re_popup-l3Ov9d {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .rectangle-8Urixs {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .background-8Urixs {
+  background-color: var(--white);
+  height: 100px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .x3rd-depth-8Urixs {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .layout-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 42px;
+}
+
+.coreapplifetablifetab .life-tab-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetablifetab .service-card-health-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.coreapplifetablifetab .basic-_-title-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetablifetab .basic-_-page-indicat-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetablifetab .basic-_-bg-copy-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetablifetab .basic-_-primary-colo-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetablifetab .x3rd-depth-copy-8Urixs {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .basic-type-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetablifetab .quick-link-type-copy-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.coreapplifetablifetab .quick-link-type-_-se-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetablifetab .quick-link-type-_-ic-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetablifetab .banner-type-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetablifetab .broken-token-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetablifetab .lnbc2-c_coreapp-l3Ov9d {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetablifetab .rectangle-DhVxj0 {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreapplifetablifetab .background-DhVxj0 {
+  background-color: var(--concrete);
+  height: 753px;
+  width: 320px;
+}
+
+.coreapplifetablifetab .line-DhVxj0 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetablifetab .home-net-gui-guidelin-DhVxj0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup33 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup33 .web-index-title-reference-copy-2-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-5M1lf4 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.stackedgroup33 .empty-2FW25I {
+  bottom: 0px;
+}
+
+.stackedgroup33 .empty-z8RxxY {
+  top: 0px;
+}
+
+.stackedgroup33 .web-index-title-reference-copy-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-copy-5M1lf4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .empty-wWQmX5 {
+  bottom: 0px;
+}
+
+.stackedgroup33 .empty-kxxWxp {
+  top: 0px;
+}
+
+.stackedgroup33 .web-index-title-reference-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .web-index-contents1dpeth_close-copy-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-rDLsDH {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.stackedgroup33 .x1-depth-title-ZrcxO6 {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup33 .web-fold-rDLsDH {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup33 .background-TK85kk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup33 .button-TK85kk {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup33 .web-index-contents1dpeth_close-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-mPb7hn {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.stackedgroup33 .web-expanded-w1R4to {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup33 .button-CwQtSv {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup33 .x1-depth-title-w1R4to {
+  color: #3695dd;
+  width: 55px;
+}
+
+.stackedgroup33 .web-index-contents1dpeth_open_selected-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .group-copy-2-5M1lf4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup33 .empty-WSceXI {
+  bottom: 0px;
+}
+
+.stackedgroup33 .empty-6h9jxg {
+  top: 0px;
+}
+
+.stackedgroup33 .web-index-title-reference-copy-3-5M1lf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetablifetab .webgnb-l3Ov9d {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .rectangle-Lj0QuC {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .background-Lj0QuC {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .index-Lj0QuC {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreapplifetablifetab .web-index-select-8MjIT8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreapplifetablifetab .web-index-unselect-8MjIT8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreapplifetablifetab .web-index-unelect_main-Lj0QuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.coreapplifetablifetab .logo-h7Reb1 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.coreapplifetablifetab .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.coreapplifetablifetab .group-4 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.coreapplifetablifetab .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.coreapplifetablifetab .table-guide-title {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.stackedgroup33 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup33 .group {
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+}
+
+.stackedgroup33 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

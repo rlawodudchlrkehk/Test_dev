@@ -1,0 +1,866 @@
+/* screen - servicepluginhomenotificationsfeature */
+
+.servicepluginhomenotificationsfeature {
+  background-color: var(--white);
+  height: 1443px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomenotificationsfeature .group-5-WNL5Rp {
+  background-color: transparent;
+  height: 848px;
+  left: 380px;
+  position: absolute;
+  top: 395px;
+  width: 710px;
+}
+
+.servicepluginhomenotificationsfeature .group-3-WNL5Rp {
+  background-color: transparent;
+  height: 341px;
+  left: 1140px;
+  position: absolute;
+  top: 396px;
+  width: 680px;
+}
+
+.servicepluginhomenotificationsfeature .group-2-7Ao5qZ {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-SlxATs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .contents-SlxATs {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-7-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-5P1hSN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .contents-5P1hSN {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-3-y7eFxp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-fSV5X9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .contents-fSV5X9 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-8-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 47px;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-JogGSr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .contents-JogGSr {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-10-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 114px;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-oqDnNR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .contents-oqDnNR {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-11-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 181px;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-w9BrmL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .contents-w9BrmL {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-12-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 248px;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-JMlzSU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .contents-JMlzSU {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-2-y7eFxp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 114px;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-1vBZxm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .contents-1vBZxm {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-4-y7eFxp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 181px;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-xQLysZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .contents-xQLysZ {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-5-y7eFxp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 248px;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-xkZROO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .contents-xkZROO {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-WO0xPm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .contents-WO0xPm {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-6-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-U6kbsO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .contents-U6kbsO {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-text1line-copy-9-y7eFxp {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 114px;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-SLSaW7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .contents-SLSaW7 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginhomenotificationsfeature .descriptiontabletop-7Ao5qZ {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-title-zaUSNu {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-fDbrtn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginhomenotificationsfeature .table-title-text-fDbrtn {
+  width: 258px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-title-l4uQH4 {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-K5swUa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginhomenotificationsfeature .table-title-text-K5swUa {
+  width: 328px;
+}
+
+.servicepluginhomenotificationsfeature .table-guide-title-F3efHf {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-fszfZk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginhomenotificationsfeature .table-title-text-fszfZk {
+  width: 38px;
+}
+
+.servicepluginhomenotificationsfeature .web-sub_-title-WNL5Rp {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 429px;
+}
+
+.servicepluginhomenotificationsfeature .sub-title-HqLpUr {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginhomenotificationsfeature .web-title-area-WNL5Rp {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomenotificationsfeature .web-tab-service-plug-in_-home-screen-WNL5Rp {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomenotificationsfeature .x3rd-depth-jbifvm {
+  top: 0px;
+}
+
+.servicepluginhomenotificationsfeature .default-type-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 78px;
+}
+
+.servicepluginhomenotificationsfeature .shortcut-default-t-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 142px;
+}
+
+.servicepluginhomenotificationsfeature .brand-type-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomenotificationsfeature .shortcut-brand-typ-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhomenotificationsfeature .banner-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomenotificationsfeature .app-link-copy-2-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomenotificationsfeature .banner-_-Bx3jza {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 138px;
+}
+
+.servicepluginhomenotificationsfeature .x3rd-depth-MsMIG1 {
+  top: 53px;
+}
+
+.servicepluginhomenotificationsfeature .more-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.servicepluginhomenotificationsfeature .edit-_-feature-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.servicepluginhomenotificationsfeature .notifications-_-feat-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 145px;
+}
+
+.servicepluginhomenotificationsfeature .help-guide-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.servicepluginhomenotificationsfeature .help-guide-_-expanda-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomenotificationsfeature .help-guide-_-image-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 120px;
+}
+
+.servicepluginhomenotificationsfeature .service-feature-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhomenotificationsfeature .service-feature-_-no-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhomenotificationsfeature .touch-area-FaxQSF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomenotificationsfeature .lnb-service-plug-in-WNL5Rp {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-gSvTvt {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .lnb-gSvTvt {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .stacked-group-6QHmo9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-title-common-copy-o2A7q2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .group-copy-o2A7q2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .empty-copy-BwvF4F {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .line-copy-2-BwvF4F {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomenotificationsfeature .empty-copy-2-BwvF4F {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-contents1dpeth_open_selected-o2A7q2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-contents2dpeth-copy-2-o2A7q2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-contents2dpeth-copy-o2A7q2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-contents2dpeth-copy-3-o2A7q2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .group-o2A7q2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .empty-BoVxRH {
+  top: 21px;
+}
+
+.servicepluginhomenotificationsfeature .empty-TKxBV2 {
+  top: 0px;
+}
+
+.servicepluginhomenotificationsfeature .group-copy-2-o2A7q2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .empty-59qf0x {
+  top: 21px;
+}
+
+.servicepluginhomenotificationsfeature .empty-QMUW6S {
+  top: 0px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-title-common-copy-2-o2A7q2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomenotificationsfeature .line-6QHmo9 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomenotificationsfeature .home-net-gui-guidelin-6QHmo9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhomenotificationsfeature .webgnb-WNL5Rp {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomenotificationsfeature .rectangle-crc9UY {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomenotificationsfeature .background-crc9UY {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomenotificationsfeature .index-crc9UY {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-select-wtkQ2S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-unselect-wtkQ2S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomenotificationsfeature .web-index-unelect_main-crc9UY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginhomenotificationsfeature .logo-6xw4if {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginhomenotificationsfeature .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}

@@ -1,0 +1,724 @@
+/* screen - serviceplugintutorialbottombuttons */
+
+.serviceplugintutorialbottombuttons {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugintutorialbottombuttons .group-2-Dy01Vs {
+  background-color: transparent;
+  height: 472px;
+  left: 352px;
+  position: absolute;
+  top: 342px;
+  width: 738px;
+}
+
+.serviceplugintutorialbottombuttons .group-6-Dy01Vs {
+  background-color: transparent;
+  height: 203px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugintutorialbottombuttons .descriptiontabletop-cU9Asf {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-title-pzxnvx {
+  left: 552px;
+  width: 128px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-jxdmxF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.serviceplugintutorialbottombuttons .table-title-text-jxdmxF {
+  width: 116px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-title-xB24Aa {
+  left: 60px;
+  width: 166px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-GdB0cg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.serviceplugintutorialbottombuttons .table-title-text-GdB0cg {
+  width: 154px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-title-copy-pzxnvx {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-cprpP5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.serviceplugintutorialbottombuttons .table-title-text-cprpP5 {
+  width: 94px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-title-copy-2-pzxnvx {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-fq29A7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.serviceplugintutorialbottombuttons .table-title-text-fq29A7 {
+  width: 178px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-title-0L4qlU {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-4T0oya {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.serviceplugintutorialbottombuttons .table-title-text-4T0oya {
+  width: 38px;
+}
+
+.serviceplugintutorialbottombuttons .descriptiontable2line-cU9Asf {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.serviceplugintutorialbottombuttons .group-r9zZCQ {
+  height: 73px;
+  left: 0px;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text1line-acAOhH {
+  left: 552px;
+  width: 128px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-6TrYKY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.serviceplugintutorialbottombuttons .contents-6TrYKY {
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-wRlFaW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.serviceplugintutorialbottombuttons .contents-wRlFaW {
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-xtGnGK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.serviceplugintutorialbottombuttons .contents-xtGnGK {
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text2line-copy-2-acAOhH {
+  height: 73px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-wkdDTp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.serviceplugintutorialbottombuttons .contents-wkdDTp {
+  height: 40px;
+  width: 184px;
+}
+
+.serviceplugintutorialbottombuttons .contents-copy-wkdDTp {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text1line-hxsgCj {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-tF8mJW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialbottombuttons .contents-tF8mJW {
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugintutorialbottombuttons .descriptiontable2line-copy-cU9Asf {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 146px;
+  width: 680px;
+}
+
+.serviceplugintutorialbottombuttons .group-FltVyn {
+  height: 51px;
+  left: 0px;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text1line-Hmfvb7 {
+  left: 552px;
+  width: 128px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-ZJNPvQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.serviceplugintutorialbottombuttons .contents-ZJNPvQ {
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-JdRgBP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.serviceplugintutorialbottombuttons .contents-JdRgBP {
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-w17Uyn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.serviceplugintutorialbottombuttons .contents-w17Uyn {
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text2line-copy-2-Hmfvb7 {
+  height: 51px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-4qpEYB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.serviceplugintutorialbottombuttons .contents-4qpEYB {
+  height: 40px;
+  width: 184px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text1line-jfOhwS {
+  left: 0px;
+  width: 50px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-vVDcGx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.serviceplugintutorialbottombuttons .contents-vVDcGx {
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.serviceplugintutorialbottombuttons .web-sub_-title-Dy01Vs {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.serviceplugintutorialbottombuttons .sub-title-lqcYvT {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serviceplugintutorialbottombuttons .web-title-area-Dy01Vs {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.serviceplugintutorialbottombuttons .web-tab-service-plug-in_-home-screen-Dy01Vs {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.serviceplugintutorialbottombuttons .x3rd-depth-91QxHo {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugintutorialbottombuttons .tab-FeiTdR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugintutorialbottombuttons .key-screen-BdU5pI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 66px;
+}
+
+.serviceplugintutorialbottombuttons .header_-app-bar-BdU5pI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 107px;
+}
+
+.serviceplugintutorialbottombuttons .card-copy-BdU5pI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugintutorialbottombuttons .service-title-copy-BdU5pI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.serviceplugintutorialbottombuttons .bottom-buttons-BdU5pI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.serviceplugintutorialbottombuttons .lnb-service-plug-in-Dy01Vs {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-BAYmCc {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .lnb-BAYmCc {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .stacked-group-SDxfjf {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-title-common-copy-T8KSq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .group-copy-T8KSq2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .empty-copy-duEBYi {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .line-copy-2-duEBYi {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.serviceplugintutorialbottombuttons .empty-copy-2-duEBYi {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-contents1dpeth_open_selected-T8KSq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-contents2dpeth-copy-2-T8KSq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-contents2dpeth-copy-T8KSq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-contents2dpeth-copy-3-T8KSq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .group-T8KSq2 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .empty-7vMOy0 {
+  top: 21px;
+}
+
+.serviceplugintutorialbottombuttons .empty-xkdgCI {
+  top: 0px;
+}
+
+.serviceplugintutorialbottombuttons .group-copy-2-T8KSq2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .empty-ZZoPvK {
+  top: 21px;
+}
+
+.serviceplugintutorialbottombuttons .empty-aLXJaf {
+  top: 0px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-title-common-copy-2-T8KSq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugintutorialbottombuttons .line-SDxfjf {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugintutorialbottombuttons .home-net-gui-guidelin-SDxfjf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.serviceplugintutorialbottombuttons .webgnb-Dy01Vs {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugintutorialbottombuttons .rectangle-9LuUuJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugintutorialbottombuttons .background-9LuUuJ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugintutorialbottombuttons .index-9LuUuJ {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-select-gDPg7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-unselect-gDPg7E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugintutorialbottombuttons .web-index-unelect_main-9LuUuJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.serviceplugintutorialbottombuttons .logo-pFqDWk {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.serviceplugintutorialbottombuttons .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.serviceplugintutorialbottombuttons .table-guide-text2line-copy-2 {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}

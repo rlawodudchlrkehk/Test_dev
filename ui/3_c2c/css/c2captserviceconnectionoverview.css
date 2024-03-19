@@ -1,0 +1,318 @@
+/* screen - c2captserviceconnectionoverview */
+
+.c2captserviceconnectionoverview {
+  background-color: var(--white);
+  height: 1236px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectionoverview .group-6-ASki7j {
+  background-color: transparent;
+  height: 694px;
+  left: 419px;
+  position: absolute;
+  top: 341px;
+  width: 1402px;
+}
+
+.c2captserviceconnectionoverview .web-sub_-title-ASki7j {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2captserviceconnectionoverview .web-title-area-ASki7j {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2captserviceconnectionoverview .lnbc2-c-connector_1-ASki7j {
+  background-color: transparent;
+  height: 803px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .rectangle-TLipdL {
+  background-color: var(--concrete);
+  height: 803px;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .stacked-group-TLipdL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .web-index-title-common-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .empty-d2UYZ8 {
+  top: 21px;
+}
+
+.c2captserviceconnectionoverview .empty-wgfnzP {
+  top: 0px;
+}
+
+.c2captserviceconnectionoverview .empty-nFSGCY {
+  top: 21px;
+}
+
+.c2captserviceconnectionoverview .empty-YJI1Km {
+  top: 0px;
+}
+
+.c2captserviceconnectionoverview .web-index-contents1dpeth_open_selected-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .web-index-contents1dpeth_close-copy-5-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .web-index-contents1dpeth_close-copy-3-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .web-index-contents1dpeth_close-copy-6-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .web-index-contents1dpeth_close-copy-2-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .group-copy-ZCtoYP {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectionoverview .empty-wmhv6w {
+  top: 21px;
+}
+
+.c2captserviceconnectionoverview .empty-Rxdf2v {
+  top: 0px;
+}
+
+.c2captserviceconnectionoverview .web-index-title-reference-copy-ZCtoYP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2captserviceconnectionoverview .line-TLipdL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2captserviceconnectionoverview .home-net-ui-guideline-TLipdL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2captserviceconnectionoverview .webgnb-ASki7j {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectionoverview .rectangle-vCUu30 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2captserviceconnectionoverview .background-vCUu30 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectionoverview .index-vCUu30 {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.c2captserviceconnectionoverview .web-index-select-6iSpOP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2captserviceconnectionoverview .web-index-unselect-6iSpOP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.c2captserviceconnectionoverview .web-index-unelect_main-vCUu30 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2captserviceconnectionoverview .web-tabc2-c-connector_-ASki7j {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2captserviceconnectionoverview .x3rd-depth-TQNtGl {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2captserviceconnectionoverview .tab-S3i7Cz {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2captserviceconnectionoverview .overview-GHD4Nb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 59px;
+}
+
+.c2captserviceconnectionoverview .onboarding-start-p-GHD4Nb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2captserviceconnectionoverview .onboarding-GHD4Nb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 191px;
+}
+
+.c2captserviceconnectionoverview .onboarding-welcome-GHD4Nb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 169px;
+}
+
+.c2captserviceconnectionoverview .interaction-flow-GHD4Nb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}

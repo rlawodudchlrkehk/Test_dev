@@ -1,0 +1,914 @@
+/* screen - overviewicondeviceicon */
+
+.overviewicondeviceicon {
+  background-color: var(--white);
+  height: 1437px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewicondeviceicon .group-3-A3k2lu {
+  background-color: transparent;
+  height: 895px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1384px;
+}
+
+.overviewicondeviceicon .group-8-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 90px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-7-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-6-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_elevator_unactiva-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-4-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-3-aQnlMi {
+  left: 110px;
+  top: 30px;
+}
+
+.overviewicondeviceicon .ic_light_bulb_unacti-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-9-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-10-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 90px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-9-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_gas_valve_unactiv-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-11-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 270px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-12-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 360px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-4-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 300px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_switch_unactivate-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-14-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 360px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-15-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 270px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-7-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 300px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_vent_unactivated_-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-21-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 270px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-13-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 360px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-10-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 300px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_system_ac_unactiv-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-16-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 540px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-17-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 630px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-5-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 570px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_thermostat_discon-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 660px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .group-18-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 540px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-18-copy-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 540px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-19-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 630px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-19-copy-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 630px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-20-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 496px;
+  position: absolute;
+  top: 720px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .group-20-copy-aQnlMi {
+  background-color: transparent;
+  height: 80px;
+  left: 992px;
+  position: absolute;
+  top: 720px;
+  width: 80px;
+}
+
+.overviewicondeviceicon .title-copy-8-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 570px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .title-copy-11-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 570px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_shade_disconnecte-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 660px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_lock_unactivated-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 660px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_shade_ununactivat-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 750px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .ic_lock_unactivated_-aQnlMi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 750px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .title-copy-3-79kENB {
+  left: 0px;
+  top: 830px;
+}
+
+.overviewicondeviceicon .one-ui5x-smart-thin-aQnlMi {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 875px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .web-sub_-title-A3k2lu {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.overviewicondeviceicon .sub-title-zYxr8w {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewicondeviceicon .web-title-area-A3k2lu {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewicondeviceicon .web-tab-overview_touch-area-A3k2lu {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewicondeviceicon .x3rd-depth-HrHCiH {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewicondeviceicon .tab-HrHCiH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewicondeviceicon .icon_-device-icon-ZxxLf9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 105px;
+}
+
+.overviewicondeviceicon .service-feature-type-ZxxLf9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 26px;
+}
+
+.overviewicondeviceicon .lnb-favorite-card-A3k2lu {
+  background-color: transparent;
+  height: 1168px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewicondeviceicon .rectangle-AfsNg7 {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewicondeviceicon .background-AfsNg7 {
+  background-color: var(--concrete);
+  height: 1168px;
+  width: 320px;
+}
+
+.overviewicondeviceicon .stacked-group-AfsNg7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-title-common-aO8x4d {
+  margin: 0;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_close-copy-2-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_close-copy-3-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_close-copy-4-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_close-copy-5-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_close-copy-6-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_close-copy-7-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .web-index-contents1dpeth_open_selected-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .group-copy-aO8x4d {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .empty-IaX7Ak {
+  top: 21px;
+}
+
+.overviewicondeviceicon .empty-5oQYQZ {
+  top: 0px;
+}
+
+.overviewicondeviceicon .web-index-title-common-copy-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .group-aO8x4d {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .empty-fixI5s {
+  top: 21px;
+}
+
+.overviewicondeviceicon .empty-th9QXm {
+  top: 0px;
+}
+
+.overviewicondeviceicon .web-index-title-common-haHGfx {
+  margin: 0px 0 0 0;
+}
+
+.overviewicondeviceicon .group-copy-2-aO8x4d {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .empty-6w4Kzz {
+  top: 21px;
+}
+
+.overviewicondeviceicon .empty-t0fSU5 {
+  top: 0px;
+}
+
+.overviewicondeviceicon .web-index-title-common-copy-2-aO8x4d {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewicondeviceicon .line-AfsNg7 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewicondeviceicon .home-net-gui-guidelin-AfsNg7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewicondeviceicon .webgnb-A3k2lu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewicondeviceicon .rectangle-pnE3Qa {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewicondeviceicon .background-pnE3Qa {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewicondeviceicon .index-pnE3Qa {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewicondeviceicon .web-index-select-XD8SZ4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewicondeviceicon .web-index-unselect-XD8SZ4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewicondeviceicon .web-index-unelect_main-pnE3Qa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.overviewicondeviceicon .logo-iRZ2h0 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.overviewicondeviceicon .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.overviewicondeviceicon .title-copy-3 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}

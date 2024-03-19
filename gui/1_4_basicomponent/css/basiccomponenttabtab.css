@@ -1,0 +1,1513 @@
+/* screen - basiccomponenttabtab */
+
+.basiccomponenttabtab {
+  background-color: var(--white);
+  height: 1404px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttabtab .group-6-eZ853p {
+  background-color: transparent;
+  height: 194px;
+  left: 420px;
+  position: absolute;
+  top: 691px;
+  width: 600px;
+}
+
+.basiccomponenttabtab .group-10-eZ853p {
+  background-color: transparent;
+  height: 199px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.basiccomponenttabtab .group-2-eZ853p {
+  background-color: transparent;
+  height: 166px;
+  left: 419px;
+  position: absolute;
+  top: 1039px;
+  width: 600px;
+}
+
+.basiccomponenttabtab .group-eZ853p {
+  background-color: transparent;
+  height: 371px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponenttabtab .group-2-copy-2-dTIo6m {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line86 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line86 .background-ACn2Cg {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line86 .rectangle-ACn2Cg {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line86 .contents-ACn2Cg {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line150 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line150 .background-6anSx0 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line150 .rectangle-6anSx0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line150 .contents-6anSx0 {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem53 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem53 .background-uOlABa {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem53 .rectangle-uOlABa {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem53 .contents-uOlABa {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttabtab .group-2-copy-3-dTIo6m {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.tableguidetext1line87 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line87 .background-Ddbnzq {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line87 .rectangle-Ddbnzq {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line87 .contents-Ddbnzq {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line151 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line151 .background-uaU71k {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line151 .rectangle-uaU71k {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line151 .contents-uaU71k {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem54 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem54 .background-luHh37 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem54 .rectangle-luHh37 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem54 .contents-luHh37 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttabtab .group-2-copy-5-dTIo6m {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.tableguidetext1line88 {
+  background-color: transparent;
+  height: 48.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line88 .background-qCMxCW {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line88 .rectangle-qCMxCW {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line88 .contents-qCMxCW {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line152 {
+  background-color: transparent;
+  height: 48.05%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line152 .background-62Yxrz {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line152 .rectangle-62Yxrz {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line152 .contents-62Yxrz {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem55 {
+  background-color: transparent;
+  height: 100%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem55 .background-xjnKVp {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem55 .rectangle-xjnKVp {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem55 .contents-xjnKVp {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttabtab .group-2-copy-4-dTIo6m {
+  background-color: transparent;
+  height: 134px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.tableguidetext1line89 {
+  background-color: transparent;
+  height: 27.61%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line89 .background-Lm7Tx5 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line89 .rectangle-Lm7Tx5 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line89 .contents-Lm7Tx5 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-F2PO8D {
+  height: 113px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttabtab .rectangle-bFsxtp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponenttabtab .contents-bFsxtp {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttabtab .contents-copy-bFsxtp {
+  color: var(--black);
+  height: 80px;
+  top: 33px;
+  width: 258px;
+}
+
+.basiccomponenttabtab .brand-color-F2PO8D {
+  left: 414px;
+  top: 114px;
+}
+
+.tableguidetext2linem56 {
+  background-color: transparent;
+  height: 27.61%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem56 .background-ovhL1t {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem56 .rectangle-ovhL1t {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem56 .contents-ovhL1t {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttabtab .group-3-dTIo6m {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttabtab .table-guide-title-RPKyDc {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttabtab .rectangle-gHkxfs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttabtab .table-title-text-gHkxfs {
+  width: 258px;
+}
+
+.basiccomponenttabtab .table-guide-title-prguDx {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttabtab .rectangle-5d24ls {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttabtab .table-title-text-5d24ls {
+  width: 328px;
+}
+
+.basiccomponenttabtab .table-guide-title-eKXg47 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttabtab .rectangle-xSQgHt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttabtab .table-title-text-xSQgHt {
+  width: 38px;
+}
+
+.basiccomponenttabtab .group-3-copy-eZ853p {
+  background-color: transparent;
+  height: 244px;
+  left: 1140px;
+  position: absolute;
+  top: 823px;
+  width: 680px;
+}
+
+.basiccomponenttabtab .styletabletop-uUxH4F {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttabtab .table-guide-title-xYIy8y {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttabtab .rectangle-G4jLuU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttabtab .table-title-text-G4jLuU {
+  width: 116px;
+}
+
+.basiccomponenttabtab .table-guide-title-xmPNtV {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttabtab .rectangle-bdt8Uv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttabtab .table-title-text-bdt8Uv {
+  width: 154px;
+}
+
+.basiccomponenttabtab .table-guide-title-copy-xYIy8y {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponenttabtab .rectangle-47DoMR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttabtab .table-title-text-47DoMR {
+  width: 94px;
+}
+
+.basiccomponenttabtab .table-guide-title-copy-2-xYIy8y {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponenttabtab .rectangle-n3iILC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttabtab .table-title-text-n3iILC {
+  width: 178px;
+}
+
+.basiccomponenttabtab .table-guide-title-rjjKpr {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttabtab .rectangle-v0W2Op {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttabtab .table-title-text-v0W2Op {
+  width: 38px;
+}
+
+.basiccomponenttabtab .styletable1line_-color-uUxH4F {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-J0Vhxx {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttabtab .rectangle-ezoGSq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttabtab .contents-ezoGSq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-GkXUoz {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttabtab .rectangle-ymKr0e {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttabtab .contents-ymKr0e {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-jXxq0J {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttabtab .rectangle-xrhdtw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttabtab .contents-xrhdtw {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttabtab .rectangle-lydWai {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttabtab .contents-lydWai {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 184px;
+}
+
+.basiccomponenttabtab .contents-copy-lydWai {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-R8oNxM {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttabtab .rectangle-HSUyr0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttabtab .contents-HSUyr0 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttabtab .styletable1line_-color-copy-uUxH4F {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-pI8DtR {
+  height: 60px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttabtab .rectangle-V0E2l6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttabtab .contents-V0E2l6 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-hdbp4t {
+  height: 60px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttabtab .rectangle-LA4MDP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttabtab .contents-LA4MDP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-Co3GNY {
+  height: 60px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttabtab .rectangle-QSUgEN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttabtab .contents-QSUgEN {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponenttabtab .rectangle-umJA18 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttabtab .contents-umJA18 {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 184px;
+}
+
+.basiccomponenttabtab .contents-copy-umJA18 {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttabtab .table-guide-text1line-TpcIrc {
+  height: 35px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttabtab .rectangle-ompzdN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttabtab .contents-ompzdN {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponenttabtab .brand-color-uUxH4F {
+  left: 352px;
+  top: 224px;
+}
+
+.basiccomponenttabtab .web-sub_-title-eZ853p {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponenttabtab .sub-title-MdhjiA {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttabtab .web-title-area-eZ853p {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttabtab .web-tab-service-feature_-basic-layout-eZ853p {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponenttabtab .x3rd-depth-J4BKmA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponenttabtab .tab-J4BKmA {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttabtab .tab-26uM28 {
+  cursor: pointer;
+  margin: 0;
+  position: relative;
+  width: 22px;
+}
+
+.basiccomponenttabtab .service-feature-type-26uM28 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 70px;
+}
+
+.basiccomponenttabtab .lnb-favorite-card-eZ853p {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttabtab .rectangle-2xLvlz {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponenttabtab .background-2xLvlz {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponenttabtab .stacked-group-2xLvlz {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-title-common-CDxYT6 {
+  margin: 0;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-2-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-14-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-10-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-6-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-11-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-7-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-4-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-8-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-9-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-5-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-3-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-12-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-13-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents2dpeth-copy-15-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .web-index-contents1dpeth_open_selected-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .group-copy-CDxYT6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .empty-OxF8HB {
+  top: 21px;
+}
+
+.basiccomponenttabtab .empty-2x5QCn {
+  top: 0px;
+}
+
+.basiccomponenttabtab .web-index-title-common-copy-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .group-CDxYT6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .empty-x9YQep {
+  top: 21px;
+}
+
+.basiccomponenttabtab .empty-IMjXj5 {
+  top: 0px;
+}
+
+.basiccomponenttabtab .web-index-title-common-1ZHeTa {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponenttabtab .group-copy-2-CDxYT6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .empty-6Bg4YC {
+  top: 21px;
+}
+
+.basiccomponenttabtab .empty-QvtApJ {
+  top: 0px;
+}
+
+.basiccomponenttabtab .web-index-title-common-copy-2-CDxYT6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttabtab .line-2xLvlz {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttabtab .home-net-gui-guidelin-2xLvlz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponenttabtab .webgnb-eZ853p {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttabtab .rectangle-04orHr {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttabtab .background-04orHr {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttabtab .index-04orHr {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponenttabtab .web-index-select-NQxrxu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponenttabtab .web-index-unselect-NQxrxu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponenttabtab .web-index-unelect_main-04orHr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.basiccomponenttabtab .logo-vis8Yc {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.basiccomponenttabtab .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.basiccomponenttabtab .contents-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponenttabtab .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttabtab .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttabtab .table-guide-text2line {
+  background-color: transparent;
+  height: 73px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}

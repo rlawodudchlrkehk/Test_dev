@@ -1,0 +1,18 @@
+/* screen - overview */
+
+.overview {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overview .group-4 {
+  background-color: transparent;
+  height: 150px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 336px;
+}

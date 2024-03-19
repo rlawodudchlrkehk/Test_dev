@@ -1,0 +1,426 @@
+/* screen - servicepluginhomescreenbannerapplink */
+
+.servicepluginhomescreenbannerapplink {
+  background-color: var(--white);
+  height: 1560px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbannerapplink .group-10-jzYorc {
+  background-color: transparent;
+  height: 1029px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbannerapplink .web-title-area-jzYorc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbannerapplink .web-tab-service-plug-in_-home-screen-jzYorc {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbannerapplink .rectangle-M39NL0 {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbannerapplink .x3rd-depth-M39NL0 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbannerapplink .service-feature-Gnonz0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginhomescreenbannerapplink .basic-Gnonz0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.servicepluginhomescreenbannerapplink .banner-app-link-Gnonz0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 111px;
+}
+
+.servicepluginhomescreenbannerapplink .feature-Gnonz0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomescreenbannerapplink .interaction-flow-copy-4-Gnonz0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginhomescreenbannerapplink .notifications-_-feat-Gnonz0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.servicepluginhomescreenbannerapplink .group-Gnonz0 {
+  height: 17px;
+  margin: 0 0 0 50px;
+  width: 194px;
+}
+
+.servicepluginhomescreenbannerapplink .notifications-_-inte-uRZeVi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.servicepluginhomescreenbannerapplink .x3rd-depth-copy-M39NL0 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenbannerapplink .group-T6E7J5 {
+  height: 17px;
+  margin: 0;
+  width: 619px;
+}
+
+.servicepluginhomescreenbannerapplink .help-_-interaction-f-jQMGpW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 478px;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.servicepluginhomescreenbannerapplink .help-guide-_-using-b-jQMGpW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.servicepluginhomescreenbannerapplink .help-guide-copy-jQMGpW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.servicepluginhomescreenbannerapplink .help-_-guide-text-jQMGpW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.servicepluginhomescreenbannerapplink .lnb-service-plug-in-jzYorc {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .rectangle-aj0NQB {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .lnb-aj0NQB {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .stacked-group-8oQ4nl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-title-common-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .group-WUjcL3 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .empty-nEGmzh {
+  top: 21px;
+}
+
+.servicepluginhomescreenbannerapplink .empty-xLuzBL {
+  top: 0px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-contents1d-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-contents1dpeth_open_selected-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-contents2dpeth-copy-3-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-contents2dpeth-copy-2-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-contents2dpeth-copy-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-contents2dpeth-copy-4-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .group-CfUInM {
+  height: 41px;
+  margin: 0px 0 0 0;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .empty-ylwxEL {
+  top: 21px;
+}
+
+.servicepluginhomescreenbannerapplink .empty-ojyQBv {
+  top: 0px;
+}
+
+.servicepluginhomescreenbannerapplink .group-copy-WUjcL3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .empty-YSYShy {
+  top: 21px;
+}
+
+.servicepluginhomescreenbannerapplink .empty-TvEIoK {
+  top: 0px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-title-reference-copy-WUjcL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenbannerapplink .line-8oQ4nl {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomescreenbannerapplink .home-net-ui-guideline-8oQ4nl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginhomescreenbannerapplink .webgnb-jzYorc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbannerapplink .rectangle-oxxW9p {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbannerapplink .background-oxxW9p {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreenbannerapplink .index-oxxW9p {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-select-K5utFj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-unselect-K5utFj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomescreenbannerapplink .web-index-unelect_main-oxxW9p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginhomescreenbannerapplink .logo-JGJpr3 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginhomescreenbannerapplink .group {
+  background-color: transparent;
+  position: relative;
+}

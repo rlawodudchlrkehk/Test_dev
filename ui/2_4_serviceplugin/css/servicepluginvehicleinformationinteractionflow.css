@@ -1,0 +1,362 @@
+/* screen - servicepluginvehicleinformationinteractionflow */
+
+.servicepluginvehicleinformationinteractionflow {
+  background-color: var(--white);
+  height: 2206px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationinteractionflow .group-6-IwixoO {
+  background-color: transparent;
+  height: 778px;
+  left: 420px;
+  position: absolute;
+  top: 1228px;
+  width: 1400px;
+}
+
+.servicepluginvehicleinformationinteractionflow .group-7-IwixoO {
+  background-color: transparent;
+  height: 794px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-title-area-IwixoO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-tab-service-plug-IwixoO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationinteractionflow .x3rd-depth-EIKzxE {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationinteractionflow .tab-jeRqhh {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginvehicleinformationinteractionflow .card-WWDPuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginvehicleinformationinteractionflow .feature-WWDPuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginvehicleinformationinteractionflow .no-information-WWDPuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.servicepluginvehicleinformationinteractionflow .interaction-flow-WWDPuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.servicepluginvehicleinformationinteractionflow .service-title-WWDPuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 74px;
+}
+
+.servicepluginvehicleinformationinteractionflow .case-WWDPuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.servicepluginvehicleinformationinteractionflow .lnb-service-plug-in-IwixoO {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .rectangle-B5oQYz {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .lnb-B5oQYz {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .stacked-group-xCxN1Y {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-title-common-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .empty-2LnL2z {
+  top: 21px;
+}
+
+.servicepluginvehicleinformationinteractionflow .empty-8MBxmP {
+  top: 0px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-contents1d-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-contents1dpeth_open_selected-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-contents2dpeth-copy-3-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-contents2dpeth-copy-2-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-contents2dpeth-copy-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-contents2dpeth-copy-4-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .empty-wvTG4K {
+  top: 21px;
+}
+
+.servicepluginvehicleinformationinteractionflow .empty-mkvfNx {
+  top: 0px;
+}
+
+.servicepluginvehicleinformationinteractionflow .group-copy-fzFF5O {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .empty-5CH16y {
+  top: 21px;
+}
+
+.servicepluginvehicleinformationinteractionflow .empty-j6x9M7 {
+  top: 0px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-title-reference-copy-fzFF5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationinteractionflow .line-xCxN1Y {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginvehicleinformationinteractionflow .home-net-ui-guideline-xCxN1Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginvehicleinformationinteractionflow .webgnb-IwixoO {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationinteractionflow .rectangle-hBCphM {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationinteractionflow .background-hBCphM {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationinteractionflow .index-hBCphM {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-select-hqDqwy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-unselect-hqDqwy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginvehicleinformationinteractionflow .web-index-unelect_main-hBCphM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.servicepluginvehicleinformationinteractionflow .logo-ZfOEXN {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.servicepluginvehicleinformationinteractionflow .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

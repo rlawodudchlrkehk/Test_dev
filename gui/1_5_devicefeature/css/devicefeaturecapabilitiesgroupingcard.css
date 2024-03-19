@@ -1,0 +1,1945 @@
+/* screen - devicefeaturecapabilitiesgroupingcard */
+
+.devicefeaturecapabilitiesgroupingcard {
+  background-color: var(--white);
+  height: 3080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-5-riLDXl {
+  background-color: transparent;
+  height: 661px;
+  left: 370px;
+  position: absolute;
+  top: 2153px;
+  width: 720px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-8-riLDXl {
+  background-color: transparent;
+  height: 305px;
+  left: 364px;
+  position: absolute;
+  top: 1094px;
+  width: 726px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-13-riLDXl {
+  background-color: transparent;
+  height: 525px;
+  left: 380px;
+  position: absolute;
+  top: 1611px;
+  width: 710px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-3-riLDXl {
+  background-color: transparent;
+  height: 604px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-3-copy-2-riLDXl {
+  background-color: transparent;
+  height: 287px;
+  left: 1140px;
+  position: absolute;
+  top: 2593px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-k5XniG {
+  left: 552px;
+  width: 128px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-2mSLJe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-2mSLJe {
+  width: 116px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-6MgbJq {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-CLaXrp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-CLaXrp {
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-7pR42G {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-vDXidh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-vDXidh {
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-zq2XfS {
+  left: 346px;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-xv6OAw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-xv6OAw {
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-oxxxSA {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-Qm9QBu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-Qm9QBu {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-yP0odf {
+  height: 31px;
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-1mIBbQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-1mIBbQ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-pl2BUg {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-CpPOfH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-CpPOfH {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-5zj36P {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-mjOrZy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-mjOrZy {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-fSOBWh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-fSOBWh {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-SiFoZ7 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-uhxxKn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-uhxxKn {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-MgaxpL {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 354px;
+  top: 157px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-copy-MgaxpL {
+  color: var(--fuscous-gray);
+  height: 20px;
+  left: 354px;
+  top: 197px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-hKuCrA {
+  color: var(--black);
+  font-weight: 600;
+  height: 20px;
+  left: 354px;
+  top: 67px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-D3rqSG {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 354px;
+  top: 87px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-Hie3QO {
+  color: var(--fuscous-gray);
+  font-weight: 400;
+  height: 20px;
+  left: 354px;
+  top: 127px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-HM69CG {
+  color: var(--black);
+  font-weight: 600;
+  height: 20px;
+  left: 354px;
+  top: 227px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-qPg42N {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 354px;
+  top: 247px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-6DIyxz {
+  color: var(--fuscous-gray);
+  font-weight: 400;
+  height: 20px;
+  left: 354px;
+  top: 267px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-copy-3-riLDXl {
+  background-color: transparent;
+  height: 340px;
+  left: 1140px;
+  position: absolute;
+  top: 2153px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-2-copy-3-6MelhP {
+  height: 284px;
+  top: 56px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-e6hop1 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-EbxYZ5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-EbxYZ5 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-v1NspF {
+  height: 73px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-WJ1H1O {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-WJ1H1O {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-copy-WJ1H1O {
+  color: var(--black);
+  height: 40px;
+  left: 6px;
+  top: 33px;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-2-e6hop1 {
+  background-color: transparent;
+  height: 60px;
+  left: 415px;
+  position: absolute;
+  top: 154px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-Za0xOe {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-copy-Za0xOe {
+  color: var(--fuscous-gray);
+  height: 20px;
+  left: 0px;
+  top: 40px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-6-e6hop1 {
+  background-color: transparent;
+  height: 20px;
+  left: 415px;
+  position: absolute;
+  top: 84px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-xpPokY {
+  color: var(--black);
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-7-e6hop1 {
+  background-color: transparent;
+  height: 20px;
+  left: 415px;
+  position: absolute;
+  top: 104px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-C1HfXZ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-8-e6hop1 {
+  background-color: transparent;
+  height: 20px;
+  left: 415px;
+  position: absolute;
+  top: 124px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-XmEEh2 {
+  color: var(--fuscous-gray);
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-3-e6hop1 {
+  background-color: transparent;
+  height: 20px;
+  left: 415px;
+  position: absolute;
+  top: 224px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-vsKPpt {
+  color: var(--black);
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-5-e6hop1 {
+  background-color: transparent;
+  height: 20px;
+  left: 415px;
+  position: absolute;
+  top: 244px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-RVk0TI {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_b-copy-4-e6hop1 {
+  background-color: transparent;
+  height: 20px;
+  left: 415px;
+  position: absolute;
+  top: 264px;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-qDtRwa {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-e6hop1 {
+  height: 53px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-haxkdC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-haxkdC {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .content-07rLMD {
+  color: var(--black);
+  top: 22px;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .title-07rLMD {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-R3VOTr {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-EijwhB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-EijwhB {
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-V64dBP {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-G8lCfI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-G8lCfI {
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-CwP461 {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-q8Vtle {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-q8Vtle {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-copy-2-riLDXl {
+  background-color: transparent;
+  height: 216px;
+  left: 1140px;
+  position: absolute;
+  top: 1611px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .default-copy-2-z1qG1J {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 199px;
+  white-space: nowrap;
+  width: 549px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-2-copy-3-z1qG1J {
+  height: 86px;
+  top: 103px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-CdLeSQ {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-R4LvNK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-R4LvNK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-LUlHpE {
+  height: 75px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-4qPZu8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-4qPZu8 {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .content-8Gx2I6 {
+  color: var(--black);
+  top: 22px;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .content-PCRHE6 {
+  color: var(--fuscous-gray);
+  top: 44px;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .title-8Gx2I6 {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-CdLeSQ {
+  height: 53px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-GrsyKc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-GrsyKc {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .content-8N3Zj1 {
+  color: var(--black);
+  top: 22px;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .title-8N3Zj1 {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-bpOOxm {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-5nQDTe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-5nQDTe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-Kb26Dx {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-hO6cwC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-hO6cwC {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-bpOOxm {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-hcUx59 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-hcUx59 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-r8ziNK {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-i8FS2d {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-i8FS2d {
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-R1gMOL {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-19ER0d {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-19ER0d {
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-0dcZUb {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-SbClQW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-SbClQW {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-3-copy-riLDXl {
+  background-color: transparent;
+  height: 100px;
+  left: 1140px;
+  position: absolute;
+  top: 1361px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-KpYzvl {
+  left: 552px;
+  width: 128px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-eWlAql {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-eWlAql {
+  width: 116px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-4jWs3a {
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-yS5krE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-yS5krE {
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-AuxFQi {
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-Prrxvr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-Prrxvr {
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-kWY9JF {
+  left: 346px;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-ibk5xF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-ibk5xF {
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-90MGks {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-j6axAv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-j6axAv {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-ZZ90Ic {
+  height: 31px;
+  left: 552px;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-9M3xPS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 129px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-9M3xPS {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-IWxFcX {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-uwOHbv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-uwOHbv {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-Dm1dtB {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-eebNB8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-eebNB8 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-FRvPif {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-FRvPif {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-610c8h {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-7xTt7J {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-7xTt7J {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .text_label-MfBtxI {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 352px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-copy-riLDXl {
+  background-color: transparent;
+  height: 167px;
+  left: 1140px;
+  position: absolute;
+  top: 1094px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .default-copy-oxTFSs {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  white-space: nowrap;
+  width: 549px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-U4ExbI {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-d8NI25 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-d8NI25 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-TKnVEx {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-PO1Im6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-PO1Im6 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-U4ExbI {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-20886Q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-20886Q {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-2-copy-3-oxTFSs {
+  height: 37px;
+  top: 103px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-cvMEUf {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-yNLVld {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-yNLVld {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-1MpS8l {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-7CAz8l {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-7CAz8l {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-cvMEUf {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-JZvAt0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-JZvAt0 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-312J3H {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-DIVhWP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-DIVhWP {
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-8oxBy7 {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-7mGMIf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-7mGMIf {
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-E8WgnX {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-8heuS6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-8heuS6 {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-riLDXl {
+  background-color: transparent;
+  height: 167px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .default-Lhq9Ep {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  white-space: nowrap;
+  width: 549px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-Uq3x8D {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-lMDhWl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-lMDhWl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-bHFIBg {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-RvGwCP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-RvGwCP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-Uq3x8D {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-UTptzB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-UTptzB {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-2-copy-3-Lhq9Ep {
+  height: 37px;
+  top: 103px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-xdE56w {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-7Z5yVu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-7Z5yVu {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line-grgfAt {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-kZkCEK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-kZkCEK {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m-xdE56w {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-syxEhF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-syxEhF {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-Up7frb {
+  left: 410px;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-Bgdsz4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-Bgdsz4 {
+  width: 258px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-FAFcUh {
+  left: 60px;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-zEhJDW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-zEhJDW {
+  width: 328px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-title-gPUe9G {
+  left: 0px;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-cN8dTC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-title-text-cN8dTC {
+  width: 38px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-sub_-title_w-description-riLDXl {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .sub-title-QwLl8L {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-title-area-riLDXl {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-tab-device-feature_-capabilities-riLDXl {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .x3rd-depth-rtWOI5 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .tab-rtWOI5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeaturecapabilitiesgroupingcard .types-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .service-feature-type-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 106px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .value-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 35px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .value-slider-_-lin-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .value-slider-_-ste-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 167px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .value-switch-sli-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .grouping-card-xkbL68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 88px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .lnb-favorite-card-riLDXl {
+  background-color: transparent;
+  height: 983px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-ZV0MG1 {
+  background-color: var(--concrete);
+  height: 983px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .background-ZV0MG1 {
+  background-color: var(--concrete);
+  height: 814px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .stacked-group-ZV0MG1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-title-common-16eugD {
+  margin: 0;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-contents2dpeth-copy-2-16eugD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-contents2dpeth-copy-3-16eugD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-contents1dpeth_open_selected-16eugD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-copy-16eugD {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .empty-77od4H {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .empty-Sw3xgU {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-title-common-copy-16eugD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-16eugD {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .empty-gYStRI {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .empty-cNRExx {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-title-common-pp6NN4 {
+  margin: 0px 0 0 0;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-copy-2-16eugD {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .empty-RsTjjo {
+  top: 21px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .empty-pEg2VJ {
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-title-common-copy-2-16eugD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .line-ZV0MG1 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .home-net-gui-guidelin-ZV0MG1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .webgnb-riLDXl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .rectangle-UTEIqf {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .background-UTEIqf {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .index-UTEIqf {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-select-dukvHa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-unselect-dukvHa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .web-index-unelect_main-UTEIqf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .logo-gV3tY7 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.devicefeaturecapabilitiesgroupingcard .contents-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-2-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .group-2-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .styletable1line_-color {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 681px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicefeaturecapabilitiesgroupingcard .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

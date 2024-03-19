@@ -1,0 +1,1242 @@
+/* screen - devicepluginthermostat */
+
+.devicepluginthermostat {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2247px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginthermostat .group-4-ZpFx8X {
+  background-color: transparent;
+  height: 925px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.devicepluginthermostat .group-2-ZpFx8X {
+  height: 240px;
+  left: 420px;
+  top: 1807px;
+  width: 336px;
+}
+
+.devicepluginthermostat .group-5-ZpFx8X {
+  background-color: transparent;
+  height: 240px;
+  left: 400px;
+  position: absolute;
+  top: 1417px;
+  width: 690px;
+}
+
+.devicepluginthermostat .group-copy-2-ZpFx8X {
+  background-color: transparent;
+  height: 345px;
+  left: 1140px;
+  position: absolute;
+  top: 1417px;
+  width: 680px;
+}
+
+.devicepluginthermostat .group-2-3PVtTv {
+  height: 37px;
+  left: 0px;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginthermostat .table-guide-text1line-xNIzI1 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-EoWAOF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-EoWAOF {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-xXJzj3 {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-GKt8US {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-GKt8US {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-xNIzI1 {
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-Hx2ZRx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-Hx2ZRx {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .table-guide-title-1Ca7B3 {
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-w7AARW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicepluginthermostat .table-title-text-w7AARW {
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-title-GB5qHb {
+  left: 60px;
+  width: 340px;
+}
+
+.devicepluginthermostat .rectangle-fxTZDQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicepluginthermostat .table-title-text-fxTZDQ {
+  width: 328px;
+}
+
+.devicepluginthermostat .table-guide-title-wrxaMb {
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-YJ76Iz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicepluginthermostat .table-title-text-YJ76Iz {
+  width: 38px;
+}
+
+.devicepluginthermostat .group-2-copy-3PVtTv {
+  height: 106px;
+}
+
+.devicepluginthermostat .table-guide-text1line-CX6CxC {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-gKME9B {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-gKME9B {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-282h2P {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-iPxxqj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-iPxxqj {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-CX6CxC {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-uxjshh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-uxjshh {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-copy-CX6CxC {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.devicepluginthermostat .rectangle-AQvrnd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .group-AQvrnd {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.devicepluginthermostat .content-ERiPgm {
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .title-ERiPgm {
+  color: var(--persian-green);
+  width: 328px;
+}
+
+.devicepluginthermostat .group-2-copy-4-3PVtTv {
+  top: 219px;
+}
+
+.devicepluginthermostat .table-guide-text1line-qqLEIT {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-AF2aeV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-AF2aeV {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-gZqZ2g {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-mw4FPc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-mw4FPc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-qqLEIT {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-pnsdJv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-pnsdJv {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .group-2-copy-5-3PVtTv {
+  height: 79px;
+  top: 266px;
+}
+
+.devicepluginthermostat .table-guide-text1line-D9xYTW {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-k8rSiP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-k8rSiP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-KTz8Fz {
+  height: 73px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-fApRxa {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .group-fApRxa {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.devicepluginthermostat .content-aJrZGc {
+  height: 40px;
+  width: 258px;
+}
+
+.devicepluginthermostat .title-aJrZGc {
+  color: var(--science-blue);
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-D9xYTW {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-KFSzTr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-KFSzTr {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .group-copy-ZpFx8X {
+  background-color: transparent;
+  height: 368px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginthermostat .group-2-TWMyiQ {
+  height: 37px;
+  left: 0px;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginthermostat .table-guide-text1line-zw20Zn {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-QqdPue {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-QqdPue {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-iBjhi1 {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-UHN4ia {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-UHN4ia {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-zw20Zn {
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-jYotwS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-jYotwS {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .table-guide-title-jw09si {
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-kZAXff {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.devicepluginthermostat .table-title-text-kZAXff {
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-title-K95WGn {
+  left: 60px;
+  width: 340px;
+}
+
+.devicepluginthermostat .rectangle-VPEdtL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.devicepluginthermostat .table-title-text-VPEdtL {
+  width: 328px;
+}
+
+.devicepluginthermostat .table-guide-title-DtWgNv {
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-9fETUN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.devicepluginthermostat .table-title-text-9fETUN {
+  width: 38px;
+}
+
+.devicepluginthermostat .group-2-copy-TWMyiQ {
+  height: 37px;
+}
+
+.devicepluginthermostat .table-guide-text1line-xWnM9Z {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-I3fKeU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-I3fKeU {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-lFU3Xx {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-yc98PL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-yc98PL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-xWnM9Z {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-87uOrB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-87uOrB {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .group-2-copy-3-TWMyiQ {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.devicepluginthermostat .table-guide-text1line-tDROxX {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-ATbHk9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-ATbHk9 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-CCZ5DU {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-cmi2xH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-cmi2xH {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-tDROxX {
+  cursor: pointer;
+  height: 51px;
+}
+
+.devicepluginthermostat .rectangle-vAZScj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-vAZScj {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicepluginthermostat .group-2-copy-4-TWMyiQ {
+  top: 217px;
+}
+
+.devicepluginthermostat .table-guide-text1line-7H1nkN {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-QiRKJA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-QiRKJA {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-VdY0vZ {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-EuiZdK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-EuiZdK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-7H1nkN {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-agWxOJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-agWxOJ {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .group-2-copy-5-TWMyiQ {
+  height: 37px;
+  top: 264px;
+}
+
+.devicepluginthermostat .table-guide-text1line-iBO9nk {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-npNn2i {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-npNn2i {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-qrFVug {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-BrTy2R {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-BrTy2R {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-iBO9nk {
+  cursor: pointer;
+  height: 31px;
+}
+
+.devicepluginthermostat .rectangle-gR2ke4 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-gR2ke4 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.devicepluginthermostat .group-2-copy-6-TWMyiQ {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 311px;
+  width: 680px;
+}
+
+.devicepluginthermostat .table-guide-text1line-P9j00X {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.devicepluginthermostat .rectangle-jZJTVe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.devicepluginthermostat .contents-jZJTVe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.devicepluginthermostat .table-guide-text1line-5DzgVo {
+  height: 31px;
+  left: 410px;
+  width: 270px;
+}
+
+.devicepluginthermostat .rectangle-8crWaX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.devicepluginthermostat .contents-8crWaX {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m-P9j00X {
+  cursor: pointer;
+  height: 51px;
+}
+
+.devicepluginthermostat .rectangle-gtNWl8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.devicepluginthermostat .contents-gtNWl8 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.devicepluginthermostat .web-sub_-title-ZpFx8X {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.devicepluginthermostat .sub-title-xFLh1o {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.devicepluginthermostat .web-title-area-ZpFx8X {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginthermostat .web-tab-device-plug-ZpFx8X {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginthermostat .x3rd-depth-z8o5Z2 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginthermostat .tab-ehs8SA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginthermostat .thermostat-ULJNSy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 73px;
+}
+
+.devicepluginthermostat .lnb-device-plug-in-ZpFx8X {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginthermostat .rectangle-EMxmaw {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginthermostat .background-EMxmaw {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginthermostat .stacked-group-EMxmaw {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginthermostat .web-index-title-common-x9l2R0 {
+  margin: 0;
+}
+
+.devicepluginthermostat .group-copy-x9l2R0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostat .empty-0xPxSi {
+  top: 21px;
+}
+
+.devicepluginthermostat .empty-xaT3q5 {
+  top: 0px;
+}
+
+.devicepluginthermostat .web-index-title-common-copy-x9l2R0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostat .web-index-contents1dpeth_open_selected-x9l2R0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostat .group-x9l2R0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostat .empty-cTyhIF {
+  top: 21px;
+}
+
+.devicepluginthermostat .empty-i28hrE {
+  top: 0px;
+}
+
+.devicepluginthermostat .web-index-title-common-PGLg8s {
+  margin: 0px 0 0 0;
+}
+
+.devicepluginthermostat .group-copy-2-x9l2R0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostat .empty-WkHSqG {
+  top: 21px;
+}
+
+.devicepluginthermostat .empty-w33QEF {
+  top: 0px;
+}
+
+.devicepluginthermostat .web-index-title-common-copy-2-x9l2R0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostat .line-EMxmaw {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginthermostat .home-net-gui-guidelin-EMxmaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginthermostat .webgnb-ZpFx8X {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginthermostat .rectangle-qBK78v {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginthermostat .background-qBK78v {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginthermostat .index-qBK78v {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginthermostat .web-index-select-nqQM5j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginthermostat .web-index-unselect-nqQM5j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginthermostat .web-index-unelect_main-qBK78v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.devicepluginthermostat .logo-4Trdka {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.devicepluginthermostat .content {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+}
+
+.devicepluginthermostat .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.devicepluginthermostat .group-2 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.devicepluginthermostat .group-2-copy {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicepluginthermostat .group-2-copy-4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.devicepluginthermostat .group-2-copy-5 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.devicepluginthermostat .rectangle {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginthermostat .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginthermostat .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginthermostat .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}

@@ -1,0 +1,61 @@
+/* screen - tabletoverviewcontentsmessagearea */
+
+.tabletoverviewcontentsmessagearea {
+  background-color: var(--white);
+  height: 3344px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletoverviewcontentsmessagearea .group-7 {
+  background-color: transparent;
+  height: 867px;
+  left: 420px;
+  position: absolute;
+  top: 375px;
+  width: 1400px;
+}
+
+.tabletoverviewcontentsmessagearea .group-8 {
+  background-color: transparent;
+  height: 962px;
+  left: 420px;
+  position: absolute;
+  top: 1391px;
+  width: 1400px;
+}
+
+.tabletoverviewcontentsmessagearea .group-9 {
+  background-color: transparent;
+  height: 641px;
+  left: 420px;
+  position: absolute;
+  top: 2503px;
+  width: 1400px;
+}
+
+.tabletoverviewcontentsmessagearea .web-sub_-title_w-description {
+  background-color: transparent;
+  height: 91px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletoverviewcontentsmessagearea .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletoverviewcontentsmessagearea .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

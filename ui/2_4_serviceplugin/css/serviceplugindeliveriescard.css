@@ -1,0 +1,518 @@
+/* screen - serviceplugindeliveriescard */
+
+.serviceplugindeliveriescard {
+  background-color: var(--white);
+  height: 1311px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .group-16-H92jLO {
+  background-color: transparent;
+  height: 371px;
+  left: 410px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .group-15-H92jLO {
+  background-color: transparent;
+  height: 769px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .group-14-o5hhmz {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-title-copy-Gn9I5N {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.serviceplugindeliveriescard .table-guide-title-copy-2-Gn9I5N {
+  background-color: transparent;
+  height: 56px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.serviceplugindeliveriescard .table-guide-title-copy-3-Gn9I5N {
+  background-color: transparent;
+  height: 56px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.serviceplugindeliveriescard .group-o5hhmz {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-iHRMaJ {
+  height: 119px;
+}
+
+.serviceplugindeliveriescard .group-3-o5hhmz {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-6AeSXQ {
+  height: 99px;
+}
+
+.serviceplugindeliveriescard .group-5-o5hhmz {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 294px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-9GMUea {
+  height: 79px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-copy-2-9GMUea {
+  cursor: pointer;
+}
+
+.serviceplugindeliveriescard .group-10-o5hhmz {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 383px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-AqIHCp {
+  height: 99px;
+}
+
+.serviceplugindeliveriescard .group-12-o5hhmz {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 561px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-eYItGq {
+  height: 119px;
+}
+
+.serviceplugindeliveriescard .group-11-o5hhmz {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 492px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-vRdh8a {
+  height: 59px;
+}
+
+.serviceplugindeliveriescard .group-13-o5hhmz {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 690px;
+  width: 680px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-xzgWlZ {
+  height: 79px;
+}
+
+.serviceplugindeliveriescard .web-sub_-title-H92jLO {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 285px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .web-title-area-H92jLO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 65px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .web-tab-service-plug-in_-deliveries-H92jLO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .x3rd-depth-t9GvvO {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.serviceplugindeliveriescard .tab-z1bOw6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.serviceplugindeliveriescard .card-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.serviceplugindeliveriescard .feature-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.serviceplugindeliveriescard .feature-_-no-informa-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 156px;
+}
+
+.serviceplugindeliveriescard .interaction-flow-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.serviceplugindeliveriescard .case-tNPNKa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.serviceplugindeliveriescard .lnb-service-plug-in-H92jLO {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .rectangle-wO5mgG {
+  background-color: var(--concrete);
+  height: 1627px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .lnb-wO5mgG {
+  background-color: transparent;
+  height: 1627px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .stacked-group-SEJ6TP {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-title-common-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .group-d0wrcL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .empty-WSScp8 {
+  top: 21px;
+}
+
+.serviceplugindeliveriescard .empty-Atxf3k {
+  top: 0px;
+}
+
+.serviceplugindeliveriescard .web-index-contents1d-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents1dpeth_open_selected-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-3-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-2-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .web-index-contents2dpeth-copy-4-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .group-i6xvgE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .empty-hbeJFY {
+  top: 21px;
+}
+
+.serviceplugindeliveriescard .empty-dZPJCn {
+  top: 0px;
+}
+
+.serviceplugindeliveriescard .group-copy-d0wrcL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .empty-gHNmgZ {
+  top: 21px;
+}
+
+.serviceplugindeliveriescard .empty-5cKu6r {
+  top: 0px;
+}
+
+.serviceplugindeliveriescard .web-index-title-reference-copy-d0wrcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.serviceplugindeliveriescard .line-SEJ6TP {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.serviceplugindeliveriescard .home-net-ui-guideline-SEJ6TP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.serviceplugindeliveriescard .webgnb-H92jLO {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .rectangle-Y0Bnd6 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .background-Y0Bnd6 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.serviceplugindeliveriescard .index-Y0Bnd6 {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.serviceplugindeliveriescard .web-index-select-swrSKs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.serviceplugindeliveriescard .web-index-unselect-swrSKs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.serviceplugindeliveriescard .web-index-unelect_main-Y0Bnd6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.serviceplugindeliveriescard .logo-MktBQQ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.serviceplugindeliveriescard .table-guide-text2line_mint-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

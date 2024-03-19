@@ -1,0 +1,1903 @@
+/* screen - servicepluginvehicleinformationparkinglocationcard */
+
+.servicepluginvehicleinformationparkinglocationcard {
+  background-color: var(--white);
+  height: 2049px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-18-Qc1qE2 {
+  background-color: transparent;
+  height: 321px;
+  left: 380px;
+  position: absolute;
+  top: 1331px;
+  width: 710px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-14-Qc1qE2 {
+  background-color: transparent;
+  height: 839px;
+  left: 361px;
+  position: absolute;
+  top: 342px;
+  width: 729px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-3-copy-Qc1qE2 {
+  background-color: transparent;
+  height: 211px;
+  left: 1140px;
+  position: absolute;
+  top: 1638px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-ELGPy7 {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-AvwWyd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-AvwWyd {
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-ZlVzIf {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-aeGFHf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-aeGFHf {
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-KHK8Y6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-KHK8Y6 {
+  width: 94px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-zc16np {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-zc16np {
+  width: 178px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-CH1EIV {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-lju6O0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-lju6O0 {
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-copy-Z3F3RB {
+  top: 56px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-dydoXH {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-wiTkYO {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-IGwuvs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-IGwuvs {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-xd0iAz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-xd0iAz {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-8IUUUI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-8IUUUI {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy-2-wiTkYO {
+  height: 75px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-08CeFR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-08CeFR {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-xTHQRW {
+  color: var(--fuscous-gray);
+  top: 22px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-CfpVq3 {
+  color: var(--rose);
+  top: 44px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-2EhM4T {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-aVSx7X {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-aVSx7X {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-copy-2-Z3F3RB {
+  top: 152px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-3lmTAJ {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-oVzdBa {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-DaGH8L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-DaGH8L {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-7dSox5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-7dSox5 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-hPLnui {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-hPLnui {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy-2-oVzdBa {
+  height: 53px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-mSJcpk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-mSJcpk {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-C4nKSW {
+  color: var(--fuscous-gray);
+  top: 22px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-YvLNpl {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-9ZfXqe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-9ZfXqe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-3-Qc1qE2 {
+  background-color: transparent;
+  height: 280px;
+  left: 1140px;
+  position: absolute;
+  top: 736px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-IRAxnc {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-VS6KPY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-VS6KPY {
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-2nt6X1 {
+  left: 60px;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-iBZaYU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-iBZaYU {
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-YGmah6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-YGmah6 {
+  width: 94px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-od2L29 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-od2L29 {
+  width: 178px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-YhsSFf {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-1ptZZW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-1ptZZW {
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-SgZNSV {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-mfuhHm {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-uBBNIY {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-EDAipk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-EDAipk {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-FpoqWP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-FpoqWP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-9amIVc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-9amIVc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy-2-uBBNIY {
+  height: 53px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-bo5GCL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-bo5GCL {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-lcRt2V {
+  color: var(--fuscous-gray);
+  top: 22px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-xgFX52 {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-JhN0ZZ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-JhN0ZZ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-copy-SgZNSV {
+  top: 125px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-K9YZUo {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-x9OoDP {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-nDpaiK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-nDpaiK {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-pGe0fy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-pGe0fy {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-DaOCkC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-DaOCkC {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy-2-x9OoDP {
+  height: 75px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-oV8IXg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-oV8IXg {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-0Ggkts {
+  color: var(--fuscous-gray);
+  top: 22px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-xVXYOx {
+  color: var(--rose);
+  top: 44px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-uDDxTz {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-HPbgUE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-HPbgUE {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-copy-2-SgZNSV {
+  top: 221px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-qyYE3q {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-xGrPrQ {
+  left: 552px;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-5astEj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-5astEj {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-yk9xpu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-yk9xpu {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-ConN9m {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-ConN9m {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy-2-xGrPrQ {
+  height: 53px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-CxaxC7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-CxaxC7 {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content-bm2rK1 {
+  color: var(--fuscous-gray);
+  top: 22px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-tKKwbQ {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-3D85Qe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-3D85Qe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-35-copy-Qc1qE2 {
+  background-color: transparent;
+  height: 69px;
+  left: 1580px;
+  position: absolute;
+  top: -68px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-K5Fn8E {
+  background-color: #6236ff;
+  border: 1px solid;
+  border-color: #969696;
+  height: 69px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .text_label-K5Fn8E {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-applesdgothicneo-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-8-Qc1qE2 {
+  background-color: transparent;
+  height: 294px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-5-jMK2nM {
+  height: 57px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-3-vnkUTS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-xHLO4K {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-xHLO4K {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-8-vnkUTS {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-MuqZ4v {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-MuqZ4v {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-6-vnkUTS {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-X8okEI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-X8okEI {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-KDijEJ {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-zhzjmI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-zhzjmI {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-7-KDijEJ {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-kcsOZu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-kcsOZu {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-KDijEJ {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-c5bnKs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-c5bnKs {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-jMK2nM {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-11-0iFOfE {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-H1Ptx8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-H1Ptx8 {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-rydJjp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-rydJjp {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-13-0iFOfE {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-KfOxCl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-KfOxCl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-2-jMK2nM {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-12-f4OQtQ {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-2DbhEH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-2DbhEH {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-14-f4OQtQ {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-xiwG38 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-xiwG38 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-xpwtMp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-xpwtMp {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-acxjzU {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-HsOSuL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-HsOSuL {
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-rcClmR {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-jxBdRD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-jxBdRD {
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-xsN20f {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-RoDjRx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-RoDjRx {
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-15-Qc1qE2 {
+  background-color: transparent;
+  height: 207px;
+  left: 1140px;
+  position: absolute;
+  top: 1331px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-5-WgigBc {
+  height: 37px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-5-Nx0XLM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-jdenPL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-jdenPL {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-9-Nx0XLM {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-5fTEzl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-5fTEzl {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-10-Nx0XLM {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-1I7Cx9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-1I7Cx9 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-2-addXTY {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-bZ7jMC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-bZ7jMC {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-15-addXTY {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-ynyOE8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-ynyOE8 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-16-addXTY {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-HUIscY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-HUIscY {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-WgigBc {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-17-4e8iqx {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-CUynoJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-CUynoJ {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-18-4e8iqx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-xPhXgM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-xPhXgM {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  text-decoration: underline;
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line-copy-19-4e8iqx {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-X98iyL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents-X98iyL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontabletop-copy-WgigBc {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-ZqqLxO {
+  left: 410px;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-14f5Ly {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-14f5Ly {
+  width: 258px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-sLAxF1 {
+  left: 60px;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-UN1Uy1 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-UN1Uy1 {
+  width: 328px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title-xy7y3Y {
+  left: 0px;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-yLeE59 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-title-text-yLeE59 {
+  width: 38px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-sub_-title-Qc1qE2 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .sub-title-tnaTEk {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-title-area-Qc1qE2 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-tab-service-plug-Qc1qE2 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .x3rd-depth-UskBIM {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .tab-0xBNLB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .icon-KxPQjk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 26px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .vehicle-entry-and-ex-KxPQjk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 173px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .parking-location-_-c-KxPQjk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .feature-KxPQjk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .no-information-KxPQjk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .lnb-service-plug-in-Qc1qE2 {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-Uwfg3c {
+  background-color: var(--concrete);
+  height: 1397px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .lnb-Uwfg3c {
+  background-color: transparent;
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .stacked-group-JLExmJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-title-common-copy-8sNv9K {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-copy-8sNv9K {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .empty-copy-renujO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .line-copy-2-renujO {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .empty-copy-2-renujO {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-contents1dpeth_open_selected-8sNv9K {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-contents2dpeth-copy-2-8sNv9K {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-contents2dpeth-copy-8sNv9K {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-contents2dpeth-copy-3-8sNv9K {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-8sNv9K {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .empty-wjdGQq {
+  top: 21px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .empty-1QZmdl {
+  top: 0px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-copy-2-8sNv9K {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .empty-6OatNw {
+  top: 21px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .empty-h6z0rm {
+  top: 0px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-title-common-copy-2-8sNv9K {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .line-JLExmJ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .home-net-gui-guidelin-JLExmJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .webgnb-Qc1qE2 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .rectangle-CAijxk {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .background-CAijxk {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .index-CAijxk {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-select-wkb55I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-unselect-wkb55I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .web-index-unelect_main-CAijxk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 296px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .logo-53RfcZ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-copy {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontable2line-copy-2 {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .descriptiontabletop {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-5 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .group-7 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy {
+  background-color: transparent;
+  height: 31px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-text2line-copy-2 {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .table-guide-title {
+  background-color: transparent;
+  height: 38px;
+  position: absolute;
+  top: 0px;
+}
+
+.servicepluginvehicleinformationparkinglocationcard .title {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 184px;
+}

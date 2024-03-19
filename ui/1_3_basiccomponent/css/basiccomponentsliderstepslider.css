@@ -1,0 +1,80 @@
+/* screen - basiccomponentsliderstepslider */
+
+.basiccomponentsliderstepslider {
+  background-color: var(--white);
+  height: 2363px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepslider .group-6 {
+  height: 491px;
+  left: 1140px;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentsliderstepslider .group-10 {
+  height: 580px;
+  left: 419px;
+  top: 983px;
+  width: 1401px;
+}
+
+.basiccomponentsliderstepslider .group-7 {
+  height: 500px;
+  left: 419px;
+  top: 1663px;
+  width: 1401px;
+}
+
+.basiccomponentsliderstepslider .group-9 {
+  height: 190px;
+  left: 420px;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentsliderstepslider .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepslider .tab {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentsliderstepslider .group-1 {
+  height: 41px;
+  left: 0px;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .group-copy {
+  height: 41px;
+  left: 0px;
+  top: 1524px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .group-2 {
+  height: 41px;
+  left: 0px;
+  top: 1166px;
+  width: 320px;
+}

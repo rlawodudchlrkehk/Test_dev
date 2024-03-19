@@ -1,0 +1,18 @@
+/* screen - a00commonmain */
+
+.a00commonmain {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.a00commonmain .bodytest {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 768px;
+}
